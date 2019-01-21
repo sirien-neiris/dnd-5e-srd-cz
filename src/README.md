@@ -2,7 +2,7 @@
 home: false
 ---
 
-# Český překlad Fate SRD
+# Český překlad DnD 5e SRD
 
 Vítejte ve DnD 5e SRD [Kostky](http://www.d20.cz). O co jde?
 
