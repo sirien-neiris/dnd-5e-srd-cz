@@ -6,7 +6,7 @@ Je potřeba vytvořit záznam v dané skupině pro všechny stránky v pořadím
 const menu = {
     '/': [
         {
-            title: 'DnD Boxset',
+            title: 'Příručka hráče',
             collapsable: true,
             children: [
                 '/prirucka-hrace/predmluva',
