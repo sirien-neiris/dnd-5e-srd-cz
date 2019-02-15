@@ -31,11 +31,11 @@ module.exports = {
         sidebarDepth: 2,
 
         // odkaz na repo
-        repo: 'd20cz/fate-srd-cz',
+        repo: 'd20cz/dnd-5e-srd-cz',
         repoLabel: 'GitHub',
 
         // odkazy na editaci
-        docsRepo: 'd20cz/fate-srd-cz',
+        docsRepo: 'd20cz/dnd-5e-srd-cz',
         docsDir: 'src',
         docsBranch: 'master',
         editLinks: true,
