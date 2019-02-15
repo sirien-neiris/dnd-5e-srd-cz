@@ -4633,9 +4633,8 @@ Nebo pokud znáš řadu run nějakého teleportačního kruhu v jiné sféře ex
 
 Toto kouzlo můžeš použít na vyhoštění tvora do jiné sféry, i když s tím nesouhlasí. Zvol tvora ve tvém dosahu a hod si na útok na blízko kouzlem proti němu. Při zásahu si tvor musí hodit záchranný hod na Charisma. Když v této záchraně neuspěje, je přenesen na náhodné místo ve sféře existence, kterou určíš. Takto přenesený tvor si musí najít svou vlastní cestu, jak se dostat zpět do tvé současné sféry existence.
 
-###
+### PŘÍZEŇ BOHŮ
 ***Příručka hráče***
- PŘÍZEŇ BOHŮ
 
 *Zaklínání 1. úrovně*
 
