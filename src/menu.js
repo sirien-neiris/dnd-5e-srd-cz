@@ -28,6 +28,13 @@ const menu = {
                 '/prirucka-hrace/dodatek-d',
                 '/prirucka-hrace/dodatek-e',
             ]
+        },{
+            title: 'Grimoar',
+            collapsable: true,
+            children: [
+                '/grimoar/grimoar-jmen',
+                '/grimoar/grimoar-moci',
+            ]
         },
     ]
 };
