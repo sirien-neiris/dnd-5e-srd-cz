@@ -20,7 +20,7 @@ WORKDIR /var/www/html
 # CMD LOCAL_IP=`hostname -i` vuepress dev
 
 CMD if [ "$DEV" = "1" ]; then \
-        LOCAL_IP=`hostname -i` vuepress dev src; \
+        vuepress dev src --host 0.0.0.0; \
     else \
         vuepress build src; \
     fi;

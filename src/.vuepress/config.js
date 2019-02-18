@@ -45,18 +45,6 @@ module.exports = {
         lastUpdated: 'Poslední změna',
     },
 
-    configureWebpack: {
-        serve: {
-            host: '0.0.0.0',
-            hot: {
-                host: {
-                    server: '0.0.0.0',
-                    client: 'localhost'
-                }
-            }
-        },
-    },
-
     locales: {
         '/': {
             lang: 'cs',
