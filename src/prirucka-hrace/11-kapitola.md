@@ -234,7 +234,7 @@ Tato kapitola popisuje nejběžnější kouzla ve světech Dungeons & Dragons. K
 
 Kouzla jsou uvedena v abecedním pořadí.
 
-#### ANTIMAGICKÉ POLE
+### ANTIMAGICKÉ POLE
 
 *Vymítání 8. úrovně*
 
@@ -264,7 +264,7 @@ Obklopí tě neviditelná koule antimagie o poloměru 2 sáhy. Tato oblast se od
 
 ***Rozptyl magii.*** Kouzla a magické účinky jako *rozptyl magii* nemají na kouli žádný účinek. Podobně tvoje koule a koule vytvořená jiným *antimagickým polem* se navzájem neruší.
 
-#### ANTIPATIE NEBO SYMPATIE
+### ANTIPATIE NEBO SYMPATIE
 
 *Očarování 8. úrovně*
 
@@ -284,7 +284,7 @@ Toto kouzlo přitahuje, nebo odpuzuje tvory dle tvé volby. Zacílíš něco v d
 
 ***Sympatie.*** Očarování způsobuje, že tvorové tebou určeného druhu cítí intenzivní potřebu přiblížit se k cíli, když jsou do 12 sáhů od cíle nebo když ho vidí. Když takový tvor vidí cíl, nebo se přiblíží do 12 sáhů od cíle, musí uspět v záchranném hodu na Moudrost, jinak v každém svém tahu musí použít svůj pohyb, aby vstoupil do oblasti, nebo se pohnul do dosahu cíle. Když to tvor udělá, nemůže se dobrovolně vzdálit od cíle. Pokud cíl zraní nebo jinak poškodí ovlivněného tvora, tak ovlivněný tvor si může hodit záchranný hod na Moudrost k ukončení účinku, jak je popsáno níže. Ukončení účinku. Pokud ovlivněný tvor skončí svůj tah dál než 12 sáhů od cíle, nebo cíl nevidí, hodí si záchranný hod na Moudrost. Když v záchranném hodu uspěje, přestane být ovlivněný cílem a uvědomí si, že jeho pocity zášti či přitažlivosti jsou magického původu. Mimo to, tvor ovlivněný kouzlem si může hodit další záchranný hod na Moudrost každých 24 hodin po dobu trvání kouzla. Tvor, který uspěje v záchraně proti tomuto účinku, je vůči němu imunní 1 minutu a poté může být znovu Ovlivněn.
 
-#### ASTRÁLNÍ PROJEKCE
+### ASTRÁLNÍ PROJEKCE
 
 *Nekromancie 9. úrovně*
 
@@ -310,7 +310,7 @@ Kouzlo může pro tebe či některého tvého společníka skončit i dříve. �
 
 Jsi-li navrácen do svého těla předčasně, tví společníci zůstanou ve svých astrálních podobách a musí si najít svou vlastní cestu zpět do svých těl, obvykle snížením životů na 0.
 
-#### AURA ČISTOTY
+### AURA ČISTOTY
 
 *Vymítání 4. úrovně*
 
@@ -326,7 +326,7 @@ Jsi-li navrácen do svého těla předčasně, tví společníci zůstanou ve sv
 
 Vyzařuje z tebe očistná energie v auře o poloměru 6 sáhů. Dokud kouzlo neskončí, aura se pohybuje s tebou se středem v tobě. Každý tvor v auře (včetně tebe), který není vůči tobě nepřátelský, nemůže onemocnět, je odolný vůči jedovému zranění a má výhodu k záchranným hodům proti účinkům způsobujícím následující stavy: hluchý, ochromený, otrávený, paralyzovaný, slepý, vystrašený a zmámený.
 
-#### AURA VITALITY
+### AURA VITALITY
 
 *Zaklínání 3. úrovně*
 
@@ -342,7 +342,7 @@ Vyzařuje z tebe očistná energie v auře o poloměru 6 sáhů. Dokud kouzlo ne
 
 Vyzařuje z tebe léčivá energie v auře o poloměru 6 sáhů. Dokud kouzlo neskončí, aura se pohybuje spolu s tebou se středem v tobě. Můžeš použít bonusovou akci a jednomu tvorovi v auře (včetně sebe) pomocí ní obnovit 2k6 životů.
 
-#### AURA ŽIVOTA
+### AURA ŽIVOTA
 
 *Vymítání 4. úrovně*
 
@@ -358,7 +358,7 @@ Vyzařuje z tebe léčivá energie v auře o poloměru 6 sáhů. Dokud kouzlo ne
 
 Vyzařuje z tebe životodárná energie v auře o poloměru 6 sáhů. Dokud kouzlo neskončí, aura se pohybuje spolu s tebou se středem v tobě. Každý tvor v auře (včetně tebe), který není vůči tobě nepřátelský, získá odolání vůči nekrotickému zranění a jeho maximum životů se nedá snížit. Navíc každý živý tvor, který není vůči tobě nepřátelský, si obnoví 1 život, když začne svůj tah v auře s 0 životy.
 
-#### AZYL
+### AZYL
 
 *Vymítání 1. úrovně*
 
@@ -374,7 +374,7 @@ Vyzařuje z tebe životodárná energie v auře o poloměru 6 sáhů. Dokud kouz
 
 Strážíš před útokem tvora v dosahu. Dokud kouzlo neskončí, tak každý, kdo zacílí stráženého tvora útokem nebo zraňujícím kouzlem, si musí nejprve hodit záchranný hod na Moudrost. Když neuspěje, musí vybrat nový cíl, jinak přijde o svůj útok nebo kouzlo. Toto kouzlo nechrání stráženého tvora před plošnými účinky, například výbuchem ohnivé koule. Pokud strážený tvor zaútočí nebo sešle kouzlo, které působí na nepřátelského tvora, toto kouzlo skončí.
 
-#### BAREVNÁ KOULE
+### BAREVNÁ KOULE
 
 *Zaklínání 1. úrovně*
 
@@ -392,7 +392,7 @@ Vrhneš energetickou kouli o průměru 4 couly na tvora, kterého vidíš v dosa
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k8.
 
-#### BAREVNÁ SPRŠKA
+### BAREVNÁ SPRŠKA
 
 *Iluze 1. úrovně*
 
@@ -410,7 +410,7 @@ Z tvé ruky vytryskne oslnivá škála záblesků barev. Hod 6k10; výsledek je 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. hod o 2k10 více.
 
-#### BARIÉRA ČEPELÍ
+### BARIÉRA ČEPELÍ
 
 *Zaklínání 6. úrovně*
 
@@ -426,7 +426,7 @@ Z tvé ruky vytryskne oslnivá škála záblesků barev. Hod 6k10; výsledek je 
 
 Vytvoříš svislou zeď vířících čepelí z magické energie, ostrých jako břitva. Zeď se objeví v rámci dosahu a vy drží po dobu trvání. Můžeš udělat buď rovnou zeď až 20 sáhů dlouhou, až 4 sáhy vysokou a až 1 sáh tlustou, nebo kruhovou zeď s průměrem až 12 sáhů, až 4 sáhy vysokou a až 1 sáh tlustou. Tvorům za zdí poskytuje tříčtvrteční kryt a její oblast je těžký terén. Když tvor vstoupí do oblasti zdi v tahu poprvé, nebo v ní začne svůj tah, musí si hodit záchranný hod na Obratnost. Když tvor neuspěje, utrpísečné zranění 6k10. V případě úspěchu utrpí poloviční zranění.
 
-#### BIGBYHO RUKA
+### BIGBYHO RUKA
 
 *Zaklínání 5. úrovně*
 
@@ -456,7 +456,7 @@ Když sešleš toto kouzlo a také jako bonusovou akci ve svých pozdějších t
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvýší zranění ze zaťaté pěsti o 2k8 a z uchvacující ruky o 2k6.
 
-#### BLESK
+### BLESK
 
 *Zaklínání 3. úrovně*
 
@@ -476,7 +476,7 @@ Blesk zapaluje v oblasti hořlavé předměty, které nikdo nedrží ani nenese.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší zranění o 1k6.
 
-#### BLESKOVÝ ŠÍP
+### BLESKOVÝ ŠÍP
 
 *Transmutace 3. úrovně*
 
@@ -498,7 +498,7 @@ Střela nebo zbraň se pak navrátí do své původní podoby.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší zranění obou účinků kouzla o 1k8.
 
-#### BLUDIŠTĚ
+### BLUDIŠTĚ
 
 *Vyvolávání 8. úrovně*
 
@@ -518,7 +518,7 @@ Cíl tam zůstane po dobu trvání, nebo dokud z bludiště neunikne. Cíl můž
 
 Když kouzlo skončí, cíl se znovu objeví na místě, které opustil, nebo, pokud je místo obsazené, na nejbližší volném místě.
 
-#### BOUŘE ODPLATY
+### BOUŘE ODPLATY
 
 *Vyvolávání 9. úrovně*
 
@@ -544,7 +544,7 @@ Každé kolo, kdy se soustředíš na toto kouzlo, vytvoří bouře ve tvém tah
 
 ***5. až 10. kolo.*** Na oblast pod mrakem zaútočí mrznoucí déšť a poryvy větru. Oblast se stane těžkým terénem a hustě zahalená. Každý tvor v ní utrpí chladné zranění 1k6. Útoky na dálku zbraní jsou v oblasti nemožné. Vítr a déšť se pokládá za vážné vyrušení pro účely soustředění se na kouzla. Navíc silné poryvy větru (o rychlosti 20 až 50 mil za hodinu) v oblasti automaticky rozptýlí mlhy, opary a podobné jevy, ať už obyčejné či magické.
 
-#### BOŽÍ DOHLED
+### BOŽÍ DOHLED
 
 *Věštecký trik*
 
@@ -560,7 +560,7 @@ Každé kolo, kdy se soustředíš na toto kouzlo, vytvoří bouře ve tvém tah
 
 Dotkneš se jednoho tvora, který s tím souhlasí. Než kouzlo skončí, cíl si může jednou hodit k4 a přičíst si hozené číslo k jednomu ověření vlastnosti dle své volby. Touto kostkou si může hodit před hodem na ověření vlastnosti, nebo až po něm. Kouzlo poté skončí.
 
-#### BOŽSKÉ SLOVO
+### BOŽSKÉ SLOVO
 
 *Zaklínání 7. úrovně*
 
@@ -583,7 +583,7 @@ Proneseš božské slovo, naplněné mocí, která utvářela svět při úsvitu
 
 Bez ohledu na jeho současné životy, běs, elementál, nebešťan nebo víla, jež neuspějí ve svém záchranném hodu, jsou vypuzeni zpět do své původní sféry (pokud v ní již nejsou) a 24 hodin se žádnými prostředky, kromě kouzla *přání*, nemohou vrátit do tvé současné sféry.
 
-#### BRÁNA
+### BRÁNA
 
 *Vyvolávání 9. úrovně*
 
@@ -605,7 +605,7 @@ Božstva a ostatní vládci sfér mohou zabránit otevření portálů tohoto ko
 
 Když sesíláš toto kouzlo, můžeš vyslovit jméno konkrétního tvora (pseudonym, titul ani přezdívka nefunguje). Je-li daný tvor v jiné sféře než ty, portál se otevře v jeho bezprostřední blízkosti a vtáhne ho do sebe na nejbližší volné místo na tvé straně portálu. Nezískáš nad ním žádnou zvláštní moc a může volně jednat, jak Pán jeskyně uzná za vhodné. Může odejít, zaútočit na tebe, nebo ti pomoci.
 
-#### CEJCHOVACÍ ÚDER
+### CEJCHOVACÍ ÚDER
 
 *Zaklínání 2. úrovně*
 
@@ -623,7 +623,7 @@ Až příště zasáhneš tvora útokem zbraní v průběhu trvání tohoto kouz
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší dodatečné zranění o 1k6.
 
-#### ČARODĚJNICKÝ BLESK
+### ČARODĚJNICKÝ BLESK
 
 *Zaklínání 1. úrovně*
 
@@ -641,7 +641,7 @@ K tvorovi v dosahu vyšlehne paprsek jiskřící modré energie, který mezi teb
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší počáteční zranění o 1k12.
 
-#### ČASOVANÁ OHNIVÁ KOULE
+### ČASOVANÁ OHNIVÁ KOULE
 
 *Zaklínání 7. úrovně*
 
@@ -663,7 +663,7 @@ Oheň zapaluje v oblasti hořlavé předměty, které nikdo nedrží ani nenese.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 8. či vyšší úrovně, za každou další úroveň pozice nad 7. se zvýší základní zranění o 1k6.
 
-#### DENNÍ SVĚTLO
+### DENNÍ SVĚTLO
 
 *Zaklínání 3. úrovně*
 
@@ -683,7 +683,7 @@ Pokud zvolíš bod na předmětu, který držíš, nebo takový, který nikdo ne
 
 Překrývá-li se oblast tohoto kouzla s oblastí tmy vytvořenou kouzlem 3. či nižší úrovně, tak kouzlo, které vytvořilo tmu, se rozptylí.
 
-#### DIMENZIONÁLNÍ DVEŘE
+### DIMENZIONÁLNÍ DVEŘE
 
 *Vyvolávání 4. úrovně*
 
@@ -703,7 +703,7 @@ Můžeš s sebou vzít předměty, pokud nejsou těžší, než můžeš unést.
 
 Pokud by ses měl přenést na místo, které je obsazené, například nějakým předmětem nebo tvorem, pak ty a tvůj spolucestující tvor utrpíte každý silové zranění 4k6 a kouzlo vás neteleportuje.
 
-#### DIVOTVORSTVÍ
+### DIVOTVORSTVÍ
 
 *Transmutační trik*
 
@@ -733,7 +733,7 @@ V rámci dosahu předvedeš drobný zázrak, znamení nadpřirozené moci. Vytvo
 
 Sešleš-li toto kouzlo několikrát, můžeš mít aktivní až tři minutové účinky najednou a takový účinek můžeš zrušit jako akci.
 
-#### DLOUHOKROK
+### DLOUHOKROK
 
 *Transmutace 1. úrovně*
 
@@ -752,7 +752,7 @@ Dotkneš se tvora. Rychlost tvora se zvýší o 2 sáhy, dokud kouzlo neskončí
 ***Na vyšších úrovních***. Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. můžeš zacílit jednoho tvora navíc.
 
 
-#### DOBRŮVKA
+### DOBRŮVKA
 
 *Transmutace 1. úrovně*
 
@@ -770,7 +770,7 @@ Ve tvé ruce se objeví až deset bobulí prodchnutých magií po dobu trvání.
 
 Pokud se bobule nesní do 24 hodin od seslání toho to kouzla, ztratí svou účinnost.
 
-#### DRAWMIJOVO OKAMŽITÉ PŘIVOLANÍ
+### DRAWMIJOVO OKAMŽITÉ PŘIVOLANÍ
 
 *Vyvolávání 6. úrovně* (rituál)
 
@@ -792,7 +792,7 @@ Pokud předmět někdo drží nebo ho nese, rozdrcení safíru předmět nepřen
 
 *Rozptyl magii* nebo podobný účinek, který se úspěšně použije na safír, ukončí účinek tohoto kouzla.
 
-#### DROBNÁ ILUZE
+### DROBNÁ ILUZE
 
 *Iluzorní trik*
 
@@ -816,7 +816,7 @@ Použije-li tvor svoji akci k pozornému prohlédnutí si obrazu, úspěšným o
 
 Pokud tvor odhalí, že jde o iluzi, tak iluze se stane pro tvora mdlá.
 
-#### DRUIDOVSTVÍ
+### DRUIDOVSTVÍ
 
 *Transmutační trik*
 
@@ -840,7 +840,7 @@ Zašeptáním k duchům přírody vytvoříš v dosahu jeden z následujících 
 
  * V mžiku zapálíš nebo zhasíš svíčku, pochodeň nebo malý táborový oheň.
 
-#### DUCHOVNÍ ZBRAŇ
+### DUCHOVNÍ ZBRAŇ
 
 *Zaklínání 2. úrovně*
 
@@ -862,7 +862,7 @@ Zbraň může mít libovolnou podobu dle tvé volby, nicméně klerici božstev,
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každé dvě další úrovně pozice nad 2. se zvýší zranění o 1k8.
 
-#### DŮSTOJNÝ ODPOČINEK
+### DŮSTOJNÝ ODPOČINEK
 
 *Nekromancie 2. úrovně (rituál)*
 
@@ -880,7 +880,7 @@ Dotkneš se mrtvoly nebo jiných ostatků. Po dobu trvání je cíl chráněný 
 
 Kouzlo také prakticky prodlužuje časový limit pro vzkříšení cíle, neboť dny, po které působí toto kouzlo, se nepočítají do časového limitu kouzel typu *vzkříšení*.
 
-#### DVOJNÍK
+### DVOJNÍK
 
 *Iluze 5. úrovně*
 
@@ -900,7 +900,7 @@ Pomocí své akce můžeš se svým iluzorním dvojníkem pohybovat až svou dvo
 
 Vidíš jeho očima a slyšíš jeho ušima, jako bys byl na jeho místě. V každém svém tahu můžeš jako bonusovou akci přepnout z jeho smyslů na svoje, nebo naopak. Zatímco vnímáš skrz jeho smysly, jsi slepý a hluchý vůči svému vlastnímu okolí.
 
-#### ÉTERIČNOST
+### ÉTERIČNOST
 
 *Transmutace 7. úrovně*
 
@@ -926,7 +926,7 @@ Toto kouzlo nemá žádný účinek, když ho sešleš, zatímco jsi v Éterick�
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 8. či vyšší úrovně, za každou další úroveň pozice nad 7. můžeš zacílit až o tři tvory více (včetně sebe), kteří s tím souhlasí. Tvorové musí být do 2 sáhů od tebe, když kouzlo sesíláš.
 
-#### EVARDOVA ČERNÁ CHAPADLA
+### EVARDOVA ČERNÁ CHAPADLA
 
 *Vyvolávání 4. úrovně*
 
@@ -964,7 +964,7 @@ Posílíš se nekromantickou napodobeninou života. Po dobu trvání získáš 1
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. získáš dalších 5 dočasných životů.
 
-#### FANTÓM
+### FANTÓM
 
 *Iluze 4. úrovně*
 
@@ -982,7 +982,7 @@ Na základě nočních můr tvora, kterého vidíš v dosahu, vytvoříš iluzor
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, za každou další úroveň pozice nad 4. se zvýší zranění o 1k10.
 
-#### FASCINUJ
+### FASCINUJ
 
 *Očarování 2. úrovně*
 
@@ -998,7 +998,7 @@ Na základě nočních můr tvora, kterého vidíš v dosahu, vytvoříš iluzor
 
 Předneseš rozptylující záplavu slov, kvůli níž si tvorové dle tvé volby, které vidíš v dosahu a kteří tě slyší, musí hodit záchranný hod na Moudrost. Tvor, kterého nelze zmámit, automaticky uspěje v tomto záchranném hodu, a pokud ty nebo tvoji společníci s tvorem bojujete, má výhodu k záchrannému hodu. Když cíl neuspěje v záchranném hodu, má nevýhodu k ověřením Moudrosti (Vnímání) na postřehnutí jiného tvora než tebe. Kouzlo na něj působí, dokud neskončí, nebo dokud tě cíl slyší. Kouzlo skončí, pokud se staneš neschopný, nebo pokud nemůžeš nadále mluvit.
 
-#### FATA MORGÁNA
+### FATA MORGÁNA
 
 *Iluze 7. úrovně*
 
@@ -1020,7 +1020,7 @@ Iluze obsahuje sluchové, zrakové, hmatové a čichové prvky, takže může p�
 
 Tvorové s pravdivým viděním vidí skrz iluzi skutečnou podobu terénu; ale všechny ostatní prvky iluze zůstávají, takže i když si je tvor vědom přítomnosti iluze, stále může s iluzí fyzicky interagovat.
 
-#### HADAROVA TOUHA
+### HADAROVA TOUHA
 
 *Vyvolávání 3. úrovně*
 
@@ -1056,7 +1056,7 @@ Vyvoláš moc Hadara, Temného chlípníka. Vyrazí z tebe úponky temné energi
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k6.
 
-#### HLÍDEJ A STŘEŽ
+### HLÍDEJ A STŘEŽ
 
 *Vymítání 5. úrovně*
 
@@ -1092,7 +1092,7 @@ Celá střežená oblast vyzařuje magii. Seslání *rozptyl magii* na určitý 
 
 Můžeš vytvořit trvale hlídanou a střeženou budovu, pokud v ní budeš sesílat toto kouzlo každý den po dobu jednoho roku.
 
-#### HMYZÍ ZHOUBA
+### HMYZÍ ZHOUBA
 
 *Vyvolávání 5. úrovně*
 
@@ -1112,7 +1112,7 @@ Když se oblast objeví, každý tvor v ní si musí hodit záchranný hod na Od
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvýší zranění o 1k10.
 
-#### HNILOBA
+### HNILOBA
 
 *Nekromancie 4. úrovně*
 
@@ -1134,7 +1134,7 @@ Zacílíš-li nemagickou rostlinu, která není tvor, například obyčejný str
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, za každou další úroveň pozice nad 4. se zvýší zranění o 1k8.
 
-#### HOŘÍCÍ OBLAK
+### HOŘÍCÍ OBLAK
 
 *Vyvolávání 8. úrovně*
 
@@ -1154,7 +1154,7 @@ Když se oblak objeví, každý tvor v něm si musí hodit záchranný hod na Ob
 
 Oblak se pohybuje rychlostí 2 sáhy přímo od tebe směrem, který určíš na začátku každého svého tahu.
 
-#### HOŘÍCÍ RUCE
+### HOŘÍCÍ RUCE
 
 *Zaklínání 1. úrovně*
 
@@ -1174,7 +1174,7 @@ Oheň zapaluje v oblasti hořlavé předměty, které nikdo nedrží ani nenese.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k6.
 
-#### HRDINSTVÍ
+### HRDINSTVÍ
 
 *Očarování 1. úrovně*
 
@@ -1192,7 +1192,7 @@ Tvor, kterého se dotkneš a který s tím souhlasí, je naplněn statečností.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. můžeš zacílit jednoho tvora navíc.
 
-#### HROMADNÁ SUGESCE
+### HROMADNÁ SUGESCE
 
 *Očarování 6. úrovně*
 
@@ -1214,7 +1214,7 @@ Můžeš také vymezit podmínky, které spustí určitou činnost v průběhu d
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. úrovně, trvání je 10 dní. Když použiješ pozici kouzla 8. úrovně, trvání je 30 dní. Když použiješ pozici kouzla 9. úrovně, trvání je rok a den.
 
-#### HROMADNÉ LÉČIVÉ SLOVO
+### HROMADNÉ LÉČIVÉ SLOVO
 
 *Zaklínání 3. úrovně*
 
@@ -1232,7 +1232,7 @@ Proneseš slova obnovy a každý z až šest tvorů dle tvé volby, které vidí
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší léčení o 1k4.
 
-#### HROMADNÉ PŘESTROJENÍ
+### HROMADNÉ PŘESTROJENÍ
 
 *Iluze 5. úrovně*
 
@@ -1254,7 +1254,7 @@ Změny vytvořené tímto kouzlem neuspějí při fyzické kontrole. Přidáš-l
 
 Tvor může pomocí své akce prozkoumat cíl a hodit si na ověření Inteligence (Pátrání) proti tvému SO záchrany kouzla. Uspěje-li, tak si uvědomí, že cíl je přestrojený.
 
-#### HROMADNÉ UZDRAVENÍ
+### HROMADNÉ UZDRAVENÍ
 
 *Zaklínání 9. úrovně*
 
@@ -1270,7 +1270,7 @@ Tvor může pomocí své akce prozkoumat cíl a hodit si na ověření Inteligen
 
 Záplava léčivé energie proudí od tebe ke zraněným tvorům kolem tebe. Obnovíš až 700 životů, rozdělených dle tvé volby mezi tvory, které vidíš v dosahu. Tvorové léčení tímto kouzlem si také uzdraví všechny nemoci a jakýkoliv účinek, který jim způsobuje hluchotu či slepotu. Toto kouzlo nijak nepůsobí na nemrtvé a výtvory.
 
-#### HROMADNÉ ZHOJENÍ ZRANĚNÍ
+### HROMADNÉ ZHOJENÍ ZRANĚNÍ
 
 *Zaklínání 5. úrovně*
 
@@ -1288,7 +1288,7 @@ Z bodu, který zvolíš v dosahu, se vyvalí vlna léčivé energie. Zvol až š
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvýší léčení o 1k8.
 
-#### HROMOVÁ VLNA
+### HROMOVÁ VLNA
 
 *Zaklínání 1. úrovně*
 
@@ -1308,7 +1308,7 @@ Mimo to, nezajištěné předměty, které jsou celé v oblasti účinku, jsou �
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k8.
 
-#### HROMOVÝ ÚDER
+### HROMOVÝ ÚDER
 
 *Zaklínání 1. úrovně*
 
@@ -1324,7 +1324,7 @@ Mimo to, nezajištěné předměty, které jsou celé v oblasti účinku, jsou �
 
 Až příště zasáhneš útokem na blízko zbraní v průběhu trvání tohoto kouzla, zbraň při úderu zařinčí hromem, který jde slyšet až 60 sáhů od tebe, a útok způsobí cíli dodatečné hromové zranění 2k6. Pokud je navíc cílem tvor, musí uspět v záchranném hodu na Sílu, jinak bude odtlačen 2 sáhy od tebe a sražen k zemi.
 
-#### HYPNOTICKÝ VZOR
+### HYPNOTICKÝ VZOR
 
 *Iluze 3. úrovně*
 
@@ -1343,7 +1343,7 @@ Vytvoříš zakroucený vzor barev, který se vlní vzduchem v krychli 6 sáhů 
 Kouzlo skončí pro daného tvora, pokud utrpí zranění, nebo když někdo jiný použije akci, aby s ním zatřásl a dostal ho ze strnulosti.
 
 
-#### CHŮZE PO VODĚ
+### CHŮZE PO VODĚ
 
 *Transmutace 3. úrovně (rituál)*
 
@@ -1361,7 +1361,7 @@ Toto kouzlo dává schopnost pohybovat se po hladině kapaliny (například vody
 
 Zacílíš-li tvora, který je ponořen do kapaliny, kouzlo ho bude vynášet k hladině rychlostí 12 sáhů za kolo.
 
-#### CHŮZE STROMY
+### CHŮZE STROMY
 
 *Vyvolávání 5. úrovně*
 
@@ -1379,7 +1379,7 @@ Získáš schopnost vstoupit do stromu a z jeho vnitřku se přesunout do vnitř
 
 Tuto teleportační schopnost můžeš použít jen jednou za kolo v průběhu doby trvání. Každý tah musíš skončit mimo strom.
 
-#### ILUZORNÍ TEXT
+### ILUZORNÍ TEXT
 
 *Iluze 1. úrovně (rituál)*
 
@@ -1401,7 +1401,7 @@ Je-li kouzlo rozptýleno, zmizí původní text i iluze.
 
 Tvor s pravdivým viděním dokáže přečíst skrytý text.
 
-#### JASNOZŘIVOST
+### JASNOZŘIVOST
 
 *Věštění 3. úrovně*
 
@@ -1419,7 +1419,7 @@ Když sesíláš toto kouzlo, zvolíš buď zrak, nebo sluch. Zvolený smysl mů
 
 Tvor, který vidí senzor (například tvor, na něhož působí *spatři neviditelné*, nebo má pravdivé vidění), vidí světélkující, nehmotnou kouli zhruba velikosti tvé pěsti.
 
-#### JAZYKY
+### JAZYKY
 
 *Věštění 3. úrovně*
 
@@ -1435,7 +1435,7 @@ Tvor, který vidí senzor (například tvor, na něhož působí *spatři nevidi
 
 Toto kouzlo propůjčí tvorovi, kterého se dotkneš, schopnost rozumět jakémukoli mluvenému jazyku, který slyší. Mimo to, když cíl mluví, každý tvor, který zná aspoň jeden jazyk a slyší cíl, rozumí, co říká.
 
-#### JEDOVATÁ SPRŠKA
+### JEDOVATÁ SPRŠKA
 
 *Vyvolávací trik*
 
@@ -1453,7 +1453,7 @@ Natáhneš svou ruku směrem k tvorovi, kterého vidíš v dosahu, a vypustíš 
 
 Zranění tohoto kouzla se zvýší o 1k12, když dosáhneš 5. úrovně (2k12), 11. úrovně (3k12) a 17. úrovně (4k12).
 
-#### KAMENNÁ KŮŽE
+### KAMENNÁ KŮŽE
 
 *Vymítání 4. úrovně*
 
@@ -1469,7 +1469,7 @@ Zranění tohoto kouzla se zvýší o 1k12, když dosáhneš 5. úrovně (2k12),
 
 Toto kouzlo promění tělo tvora, kterého se dotkneš a který s tím souhlasí, že ztvrdne jako kámen. Dokud kouzlo neskončí, je cíl odolný vůči nemagickému bodnému, drtivému a sečnému zranění.
 
-#### KAMENNÁ ZEĎ
+### KAMENNÁ ZEĎ
 
 *Zaklínání 5. úrovně*
 
@@ -1495,7 +1495,7 @@ Zeď je předmět vyrobený z kamene a dá se poškodit, či dokonce prolomit. K
 
 Soustředíš-li se na toto kouzlo po celou dobu jeho trvání, zeď se stane trvalá a nebude jí možné rozptýlit. V opačném případě zeď zmizí, když kouzlo skončí.
 
-#### KEJKLE
+### KEJKLE
 
 *Transmutační trik*
 
@@ -1525,7 +1525,7 @@ Toto kouzlo je drobný magický trik, který používají k procvičování adep
 
 Sešleš-li toto kouzlo několikrát, můžeš mít až tři jeho neokamžité účinky současně, a takový účinek můžeš zrušit jako akci.
 
-#### KLAMNÝ PROSTOR
+### KLAMNÝ PROSTOR
 
 *Iluze 4. úrovně*
 
@@ -1543,7 +1543,7 @@ Vytvoříš přírodní terén v krychli 30 sáhů v dosahu, který vypadá, zn�
 
 Hmatové vlastnosti terénu se nezmění, takže tvorové, kteří vstoupí do oblasti, nejspíš prohlédnou iluzi. Není-li rozdíl patrný z doteku, tak tvor, který pečlivě prozkoumá iluzi, si může hodit na ověření Inteligence (Párání) proti tvému SO záchrany kouzla a pokud uspěje, iluzi prohlédne. Pokud tvor odhalí, že jde o iluzi, tak ji vidí jako nejasný obraz navrstvený na terénu.
 
-#### KLETBA
+### KLETBA
 
 *Očarování 1. úrovně*
 
@@ -1565,7 +1565,7 @@ Sejmi kletbu seslané na cíl ukončí toto kouzlo předčasně.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či 4. úrovně, můžeš se na něj soustředit až 8 hodin. Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, můžeš se na něj soustředit až 24 hodin.
 
-#### KLON
+### KLON
 
 *Nekromancie 6. úrovně*
 
@@ -1581,7 +1581,7 @@ Sejmi kletbu seslané na cíl ukončí toto kouzlo předčasně.
 
 Toto kouzlo vypěstuje bezvládnou kopii živého tvora jako pojistku proti smrti. Tento klon se zformuje uvnitř utěsněné nádoby a vyroste do plné velikosti a dospělosti po 120 dnech; můžeš také zvolit, aby klon byl mladší verzí stejného tvora. Zůstává bezvládný a vydrží navěky, pokud se nádoba neporuší. Kdykoliv poté, co klon vyroste, tak když původní tvor zemře, duše tvora se přesune do klonu, je-li duše volná a ochotná se vrátit. Klon je fyzicky totožný s originálem a má stejnou osobnost, vzpomínky a vlastnosti, ale nic z původního vybavení. Pokud stále existují tvorovy původní fyzické ostatky, stanou se bezvládné a nedají se vzkřísit, protože tvorova duše je jinde.
 
-#### KORDON ŠÍPŮ
+### KORDON ŠÍPŮ
 
 *Transmutace 2. úrovně*
 
@@ -1601,7 +1601,7 @@ Když sesíláš toto kouzlo, můžeš určit jakékoliv tvory, které bude kouz
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší počet střel, na které můžeš seslat toto kouzlo, o dvě.
 
-#### KORUNA ŠÍLENSTVÍ
+### KORUNA ŠÍLENSTVÍ
 
 *Očarování 2. úrovně*
 
@@ -1621,7 +1621,7 @@ Zmámený cíl musí v každém svém tahu před pohybem použít svou akci k ú
 
 V následujících tazích musíš použít svou akci k udržení kontroly nad cílem, jinak kouzlo skončí. Cíl si také může na konci každého svého tahu hodit záchranný hod na Moudrost. Když uspěje, kouzlo skončí.
 
-#### KOULE NEZRANITELNOSTI
+### KOULE NEZRANITELNOSTI
 
 *Vymítání 5. úrovně*
 
@@ -1641,7 +1641,7 @@ V okruhu 2 sáhy kolem tebe se vynoří nehybná, slabě třpytivá bariéra a v
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. blokuje bariéra kouzla s o jedna vyšší úrovní.
 
-#### KRUH MOCI
+### KRUH MOCI
 
 *Vymítání 5. úrovně*
 
@@ -1657,7 +1657,7 @@ V okruhu 2 sáhy kolem tebe se vynoří nehybná, slabě třpytivá bariéra a v
 
 Vyzařuje z tebe božská energie, která narušuje a zapuzuje magickou energii do 6 sáhů od tebe. Dokud kouzlo neskončí, koule se pohybuje s tebou ve svém středu. Po dobu trvání má každý přátelský tvor v oblasti (včetně tebe) výhodu k záchranným hodům proti kouzlům i jiným magickým účinkům. Navíc, když ovlivněný tvor uspěje v záchranném hodu proti kouzlu či magickému účinku, který mu umožňuje hodit si záchranný hod pro utrpění pouze polovičního zranění, pak místo toho neutrpí žádné zranění, pokud v záchranném hodu uspěje.
 
-#### KRUH SMRTI
+### KRUH SMRTI
 
 *Nekromancie 6. úrovně*
 
@@ -1675,7 +1675,7 @@ Z bodu v dosahu se vyvalí koule negativní energie o poloměru 12 sáhů. Každ
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. se zvýší zranění o 2k6.
 
-#### KRUPOBITÍ TRNŮ
+### KRUPOBITÍ TRNŮ
 
 *Vyvolávání 1. úrovně*
 
@@ -1693,7 +1693,7 @@ Až příště zasáhneš tvora útokem na dálku zbraní v průběhu trvání t
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k10 (ale maximálně na 6k10).
 
-#### KŘIŽÁKOVA PELERÍNA
+### KŘIŽÁKOVA PELERÍNA
 
 *Zaklínání 3. úrovně*
 
@@ -1709,7 +1709,7 @@ Až příště zasáhneš tvora útokem na dálku zbraní v průběhu trvání t
 
 Vyzařuje z tebe svatá síla v auře o poloměru 6 sáhů, která ve tvých přátelích vzbuzuje odvahu. Dokud kouzlo neskončí, aura se pohybuje s tebou ve svém středu. Každý tvor v auře (včetně tebe), který není vůči tobě nepřátelský způsobí svými útoky zbraní, které zasáhnou, dodatečné zářivé zranění 1k4.
 
-#### KŮROKŮŽE
+### KŮROKŮŽE
 
 *Transmutace 2. úrovně*
 
@@ -1725,7 +1725,7 @@ Vyzařuje z tebe svatá síla v auře o poloměru 6 sáhů, která ve tvých př
 
 Dotkneš se tvora, který s tím souhlasí. Dokud kouzlo neskončí, jeho kůže získá hrubý, kůrovitý vzhled a OČ cíle nemůže být nižší než 16, bez ohledu na zbroj, jež má na sobě.
 
-#### KUŽEL MRAZU
+### KUŽEL MRAZU
 
 *Zaklínání 5. úrovně*
 
@@ -1745,7 +1745,7 @@ Z tvora zabitého tímto kouzlem se stane zmrzlá socha, dokud neroztaje.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvýší zranění o 1k8.
 
-#### KYSELINOVÁ KOULE
+### KYSELINOVÁ KOULE
 
 *Vyvolávací trik*
 
@@ -1763,7 +1763,7 @@ Mrštíš bublinou kyseliny. Zvol buď jednoho tvora v dosahu, nebo dva tvory v 
 
 Zranění tohoto kouzla se zvýší o 1k6, když dosáhneš 5. úrovně (2k6), 11. úrovně (3k6) a 17. úrovně (4k6).
 
-#### LÉČIVÁ MODLITBA
+### LÉČIVÁ MODLITBA
 
 *Zaklínání 2. úrovně*
 
@@ -1781,7 +1781,7 @@ Každý z až šesti tvorů dle tvé volby, které vidíš v dosahu, si obnoví 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší léčení o 1k8.
 
-#### LÉČIVÉ SLOVO
+### LÉČIVÉ SLOVO
 
 *Zaklínání 1. úrovně*
 
@@ -1799,7 +1799,7 @@ Tvor dle tvé volby, kterého vidíš v dosahu, si obnoví životy rovné 1k4 + 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší léčení o 1k4.
 
-#### LEDOVÁ BOUŘE
+### LEDOVÁ BOUŘE
 
 *Zaklínání 4. úrovně*
 
@@ -1819,7 +1819,7 @@ Kroupy promění oblast účinku bouře v těžký terén do konce tvého pří�
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, za každou další úroveň pozice nad 4. se zvýší drtivé zranění o 1k8.
 
-#### LEDOVÁ ZEĎ
+### LEDOVÁ ZEĎ
 
 *Zaklínání 6. úrovně*
 
@@ -1841,7 +1841,7 @@ Zeď je předmět, který se dá poškodit, a tak prolomit. Má OČ 12 a 30 živ
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. se zvýší zranění ze zdi, která se objeví, o 2k6, a zranění z projití skrz pásledového vzduchu se zvýší o 1k6.
 
-#### LEOMUNIDOVA CHATKA
+### LEOMUNIDOVA CHATKA
 
 *Zaklínání 3. úrovně (rituál)*
 
@@ -1861,7 +1861,7 @@ Společně s tebou se do kopule vejde devět středních či menších tvorů. K
 
 Dokud kouzlo neskončí, můžeš přikázat vnitřku, aby v něm bylo šero nebo tma. Kopule je zvnějšku neprůsvitná a má barvu, kterou zvolíš, ale zvnitřku je průhledná.
 
-#### LEOMUNIDOVA TAJNÁ TRUHLA
+### LEOMUNIDOVA TAJNÁ TRUHLA
 
 *Vyvolávání 4. úrovně*
 
@@ -1882,7 +1882,7 @@ Zatímco je truhla v Éterické sféře, můžeš se pomocí své akce dotknout 
 Po 60 dnech je kumulativní 5% šance za den, že účinek kouzla skončí. Tento účinek skončí, pokud sešleš kouzlo znovu, pokud se replika truhly zničí, nebo pokud se rozhodneš kouzlo ukončit jako akci. Pokud kouzlo skončí a truhla je v Éterické sféře, je nenávratně ztracena.
 
 
-#### LEŤ
+### LEŤ
 
 *Transmutace 3. úrovně*
 
@@ -1900,7 +1900,7 @@ Dotkneš se tvora, který s tím souhlasí. Cíl získá rychlost létání 12 s
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. můžeš zacílit jednoho tvora navíc.
 
-#### LEVITACE
+### LEVITACE
 
 *Transmutace 2. úrovně*
 
@@ -1920,7 +1920,7 @@ Cíl se může pohybovat pouze přitahováním nebo odstrkováním od pevného p
 
 Když kouzlo skončí a cíl je stále ve vzduchu, pozvolna sestoupá na Zem.
 
-#### LOVCOVA KOŘIST
+### LOVCOVA KOŘIST
 
 *Věštění 1. úrovně*
 
@@ -1938,7 +1938,7 @@ Zvolíš tvora, kterého vidíš v dosahu, a mysticky ho označíš jako svou ko
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či 4. úrovně, můžeš se na něj soustředit až 8 hodin. Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, můžeš se na něj soustředit až 24 hodin.
 
-#### MAGICKÁ STŘELA
+### MAGICKÁ STŘELA
 
 *Zaklínání 1. úrovně*
 
@@ -1956,7 +1956,7 @@ Vytvoříš tři světélkující šipky tvořené magickou silou. Každá šipk
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. vytvoří kouzlo o jednu šipku víc.
 
-#### MAGICKÁ ÚSTA
+### MAGICKÁ ÚSTA
 
 *Iluze 2. úrovně (rituál)*
 
@@ -1977,7 +1977,7 @@ Když okolnost nastane, objeví se na předmětu magická ústa a pronesou zprá
 Spouštěcí okolnost může být libovolně obecná či podrobná, ale musí být založena na vizuálních nebo zvukových podmínkách, které se vyskytnou do 6 sáhů od předmětu. Například, můžeš ústům nařídit, aby promluvila, když se přiblíží tvor do 6 sáhů od předmětu, nebo když zazní stříbrný zvon do 6 sáhů od předmětu.
 
 
-#### MAGICKÁ ZBRAŇ
+### MAGICKÁ ZBRAŇ
 
 *Transmutace 2. úrovně*
 
@@ -1995,7 +1995,7 @@ Dotkneš se nemagické zbraně. Tato zbraň se stane magickou zbraní s bonusem 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, bonus se zvýší na +2. Když použiješ pozici kouzla 6. či vyšší úrovně, bonus se zvySína +3.
 
-#### MAGICKÝ KRUH
+### MAGICKÝ KRUH
 
 *Vymítání 3. úrovně*
 
@@ -2019,7 +2019,7 @@ Zvol jeden či více z následujících typů tvorů: běsi, elementálové, neb
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší trvání o 1 hodinu.
 
-#### MÁGOVA RUKA
+### MÁGOVA RUKA
 
 *Vyvolávací trik*
 
@@ -2039,7 +2039,7 @@ Ruku můžeš ovládat použitím své akce. Můžeš ji použít k manipulaci s
 
 Ruka nemůže útočit ani aktivovat kouzelné předměty a neunese víc než 10 liber
 
-#### MÁGOVA ZBROJ
+### MÁGOVA ZBROJ
 
 *Vymítání 1. úrovně*
 
@@ -2055,7 +2055,7 @@ Ruka nemůže útočit ani aktivovat kouzelné předměty a neunese víc než 10
 
 Dotkneš se tvora, který s tím souhlasí a který na sobě nemá žádnou zbroj, a obklopí ho ochranná magie, dokud kouzlo neskončí. Základní OČ cíle se změní na 13 + jeho oprava Obratnosti. Kouzlo skončí předčasně, pokud si cíl navlékne zbroj, nebo pokud kouzlo zrušíš jako akci.
 
-#### MAJÁK NADĚJE
+### MAJÁK NADĚJE
 
 *Vymítání 3. úrovně*
 
@@ -2071,7 +2071,7 @@ Dotkneš se tvora, který s tím souhlasí a který na sobě nemá žádnou zbro
 
 Toto kouzlo přináší naději a vitalitu. Zvol libovolný počet tvorů v dosahu. Po dobu trvání má každý cíl výhodu k záchranným hodům na Moudrost a smrtícím hodům, a z každého léčení si obnoví nejvyšší možný počet životů, jaký by mohl tímto léčením dostat.
 
-#### MASO NA KÁMEN
+### MASO NA KÁMEN
 
 *Transmutace 6. úrovně*
 
@@ -2093,7 +2093,7 @@ Pokud se tvor během zkamenění fyzicky poškodí, utrpí podobné deformace p�
 
 Budeš-li se soustředit na toto kouzlo po celou dobu trvání, tvor bude zkamenělý, dokud se účinek neodstraní.
 
-#### MELFŮV KYSELINOVÝ ŠÍP
+### MELFŮV KYSELINOVÝ ŠÍP
 
 *Zaklínání 2. úrovně*
 
@@ -2112,7 +2112,7 @@ K cíli v dosahu vyletí třpytivý zelený šíp a vybuchne ve spršce kyseliny
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší zranění (počáteční i pozdější) o 1k4.
 
 
-#### MĚSÍČNÍ PAPRSEK
+### MĚSÍČNÍ PAPRSEK
 
 *Zaklínání 2. úrovně*
 
@@ -2136,7 +2136,7 @@ Každý svůj tah poté, co sešleš toto kouzlo, můžeš použít svou akci k 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší zranění o 1k10.
 
-#### MIHOTÁNÍ
+### MIHOTÁNÍ
 
 *Transmutace 3. úrovně*
 
@@ -2154,7 +2154,7 @@ Hoď si k20 na konci každého svého tahu po dobu trvání kouzla. Když ti pad
 
 Zatímco jsi v Éterické sféře, vidíš a slyšíš svou původní sféru, která je zahalená v odstínech šedi, a vidíš jen 12 sáhů daleko. Můžeš ovlivnit a být ovlivněn pouze ostatními tvory v Éterické sféře. Tvorové, kteří v ní nejsou, tě nedokážou vnímat ani s tebou interagovat, pokud pro to nemají schopnost.
 
-#### MLUV S MRTVÝMI
+### MLUV S MRTVÝMI
 
 *Nekromancie 3. tí rovně*
 
@@ -2172,7 +2172,7 @@ Mrtvole, kterou zvolíš v dosahu, udělíš napodobeninu života a inteligence 
 
 Dokud kouzlo neskončí, můžeš se mrtvoly zeptat až na pět otázek. Mrtvola zná pouze to, co věděla za svého života, a to včetně svého jazyka. Odpovědi jsou obvykle krátké, se skrytým významem, nebo se opakují a mrtvola není nucena poskytnout pravdivou odpověď, jsi-li vůči ní nepřátelský, nebo pokládá-li tě za svého nepřítele. Toto kouzlo nevrací do těla tvorovu duši, pouze oživuje ducha. Takže se mrtvola nemůže dozvědět žádné nové informace, nedokáže pochopit nic, co se stalo od její smrti a nemůže ani spekulovat o budoucích událostech.
 
-#### MLUV S ROSTLINAMI
+### MLUV S ROSTLINAMI
 
 *Transmutace 3. úrovně*
 
@@ -2196,7 +2196,7 @@ Je-li v oblasti rostlinný tvor, můžeš s ním komunikovat, jako byste měli s
 
 Toto kouzlo může způsobit, že rostliny stvořené pomocí kouzla zapletení uvolní zadržený cíl.
 
-#### MLUV SE ZVÍŘATY
+### MLUV SE ZVÍŘATY
 
 *Věštění 1. úrovně (rituál)*
 
@@ -2212,7 +2212,7 @@ Toto kouzlo může způsobit, že rostliny stvořené pomocí kouzla zapletení 
 
 Po dobu trvání získáš schopnost rozumět a verbálně komunikovat se zvířaty. Rozum a povědomí mnoha zvířat jsou omezené jejich inteligencí, ale minimálně ti mohou dát informace o blízkých místech a nestvůrách, včetně čehokoliv, co dokáží vnímat, nebo co vnímala za poslední den. Může se ti podařit přesvědčit zvíře, aby pro tebe vykonalo malou laskavost, dle úvahy PJ.
 
-#### MLUVA SFÉR
+### MLUVA SFÉR
 
 *Věštění 5. úrovně* (*(rituál)*)
 
@@ -2230,7 +2230,7 @@ Mentálně navážeš spojení s polobohem, duší dávno mrtvého mudrce nebo n
 
 Uspěješ-li v záchranném hodu, můžeš se zeptat bytosti až na pět otázek. Své dotazy musíš položit, než kouzlo skončí. PJ odpoví na každou otázku jedním slovem, například „ano", „ne", „možná", „nikdy", „irelevantní" nebo „nejasné" (nezná-li bytost odpověď na danou otázku). Pokud by jednoslovná odpověď byla zavádějící, může PJ odpovědět krátkou větou.
 
-#### MLŽNÁ PODOBA
+### MLŽNÁ PODOBA
 
 *Transmutace 3. úrovně*
 
@@ -2250,7 +2250,7 @@ Zatímco je cíl v této podobě, jeho jediná metoda pohybuje létání rychlos
 
 Zatímco má cíl podobu mlžného oblaku, nemůže mluvit ani manipulovat předměty a předměty, které držel nebo nesl, nemůže odložit, použít ani nijak jinak s nimi interagovat. Nemůže útočit ani sesílat kouzla.
 
-#### MLŽNÝ KROK
+### MLŽNÝ KROK
 
 *Vyvolávání 2. úrovně*
 
@@ -2266,7 +2266,7 @@ Zatímco má cíl podobu mlžného oblaku, nemůže mluvit ani manipulovat před
 
 Na chvilku tě obalí stříbrný závoj mlhy a ty se teleportuješ až 6 sáhů na volné místo, které vidíš.
 
-#### MOCNÁ NEVIDITELNOST
+### MOCNÁ NEVIDITELNOST
 
 *Iluze 4. úrovně*
 
@@ -2282,7 +2282,7 @@ Na chvilku tě obalí stříbrný závoj mlhy a ty se teleportuješ až 6 sáhů
 
 Buď ty, nebo tvor, kterého se dotkneš, se stane neviditelný, dokud kouzlo neskončí. Vše, co cíl nese, je neviditelné, dokud to neodloží.
 
-#### MOCNÉ NAVRÁCENÍ
+### MOCNÉ NAVRÁCENÍ
 
 *Vymítání 5. úrovně*
 
@@ -2302,7 +2302,7 @@ Tvora, jehož se dotkneš, naplníš pozitivní energií a zrušíš vysilujíc�
  * Jedna kletba, včetně sladění cíle s prokletým kouzelným předmětem 
  * Snížení jedné z hodnot vlastností cíleJeden účinek snižující maximum životů cíle 	
 
-#### MORDENKAINENOVA SOUKROMÁ SVATYNĚ
+### MORDENKAINENOVA SOUKROMÁ SVATYNĚ
 
 *Vymítání 4. úrovně*
 
@@ -2329,7 +2329,7 @@ Sesílání tohoto  kouzla na stejné místo každý den po dobu jednoho roku ud
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, za každou další úroveň pozice nad 4. můžeš zvětšit velikost strany krychle o 20 sáhů. Například použitím pozice kouzla 5. úrovně můžeš ochránit krychli o straně až 40 sáhů.
 
-#### MORDENKAINENŮV MEČ
+### MORDENKAINENŮV MEČ
 
 *Zaklínání 7. úrovně*
 
@@ -2347,7 +2347,7 @@ Vytvoříš silový plát ve tvaru meče, který se vznáší v do sahu. Vydrž�
 
 Když se meč objeví, hod si na útok na blízko kouzlem proti cíli dle tvé volby do 1 sáhu od meče. Při zásahu utrpí cíl silové zranění 3k10. Dokud kouzlo ne skončí, můžeš v každém svém tahu použít bonusovou akci k pohnutí mečem až o 4 sáhy na místo, které vidíš, a zopakovat tento útok proti stejnému, nebo jinému cíli.
 
-#### MORDENKAINENŮV VELKOLEPÝ DŮM
+### MORDENKAINENŮV VELKOLEPÝ DŮM
 
 *Vyvolávání 7. úrovně*
 
@@ -2367,7 +2367,7 @@ Za portálem je nádherná předsíň s množstvím vstupů do komnat. Atmosfér
 
 Můžeš vytvořit libovolný půdorys, ale celkový prostor nesmí přesáhnout 50 krychlí, přičemž jedna krychle je o straně 2 sáhy. Místo je zařízeno a ozdobeno, jak si zvolíš. Obsahuje dostatek jídla pro devítichodovou hostinu až pro 100 osob. Personál 100 téměř průsvitných služebníků se ujme každého, kdo vstoupí. Zvolíš vizuální vzhled těchto služebníků a jejich oděv. Naprosto oddaně poslouchají tvé rozkazy. Každý služebník může vykonávat jakoukoli činnost, kterou by mohl vykonávat normální lidský služebník, ale nemohou útočit ani provést jakoukoli akci, která by přímo zranila jiného tvora. Služebníci mohou donášet věci, čistit, spravovat, skládat oblečení, zapalovat ohně, podávat jídlo, nalévat víno a tak dále. Služebníci mohou jít kamkoliv v domě, ale nemohou ho opustit. Domovní vybavení a jiné předměty vytvořené tímto kouzlem zmizí v obláček kouře, pokud se vynesou z domu. Když kouzlo skončí, tvorové uvnitř mimodimenzionálního obydlí jsou vyvrženi na volná místa co nejblíž vchodu.
 
-#### MORDENKAINENŮV VĚRNÝ PES
+### MORDENKAINENŮV VĚRNÝ PES
 
 *Vyvolávání 4. úrovně*
 
@@ -2387,7 +2387,7 @@ Pes je neviditelný pro všechny tvory mimo tebe a nelze ho zranit. Když se Mal
 
 Na začátku každého tvého tahu se pes pokusí kousnout jednoho tvora do 1 sáhu od něj, který je vůči tobě nepřátelský. Psův útočný bonus je roven tvé opravě sesílací vlastnosti + tvému zdatnostnímu bonusu. Při zásahu způsobí bodné zranění 4k8.
 
-#### MRAZIVÝ DOTYK
+### MRAZIVÝ DOTYK
 
 *Nekromantický trik*
 
@@ -2407,7 +2407,7 @@ Pokud zasáhneš nemrtvý cíl, má navíc proti tobě nevýhodu k hodům na út
 
 Zranění tohoto kouzla se zvýší o 1k8, když dosáhneš 5. úrovně (2k8), 11. úrovně (3k8) a 17. úrovně (4k8).
 
-#### MRAZIVÝ PAPRSEK
+### MRAZIVÝ PAPRSEK
 
 *Zaklínací trik*
 
@@ -2425,7 +2425,7 @@ Směrem k tvorovi v dosahu vyšlehne chladný paprsek modrobílého světla. Ho�
 
 Zranění tohoto kouzla se zvýší o 1k8, když dosáhneš 5. úrovně (2k8), 11. úrovně (3k8) a 17. úrovně (4k8).
 
-#### MYSTICKÁ BRÁNA
+### MYSTICKÁ BRÁNA
 
 *Vyvolávání 6. úrovně*
 
@@ -2445,7 +2445,7 @@ Portály jsou dvourozměrné svítící prstence vyplněné mlhou, které se vzn
 
 Tvor či předmět, který vejde do jednoho portálu, vyjde druhým portálem, jako by jeden k druhému přiléhaly; projití portálem z neteleportové strany nemá žádný účinek. Mlha, která vyplňuje každý z portálů, je neprůhledná a zabraňuje vidění skrz portál. Ve svém tahu můžeš otáčet prstenci jako bonusovou akci, takže aktivní strana bude směřovat jinam.
 
-#### MYSTICKÉ OKO
+### MYSTICKÉ OKO
 
 *Věštění 4. úrovně*
 
@@ -2465,7 +2465,7 @@ Z tohoto oka, které má normální vidění a vidění ve tmě na vzdálenost 6
 
 Pomocí akce můžeš pohnout okem libovolným směrem až o 6 sáhů. Není žádné omezení, jak daleko se oko může od tebe vzdálit, ale nesmí vstoupit do jiné sféry existence. Pevná bariéra blokuje jeho pohyb, ale oko se dokáže protáhnout i malým otvorem s průmě rem aspoň 1 coul.
 
-#### MYSTICKÝ ZÁMEK
+### MYSTICKÝ ZÁMEK
 
 *Vymítání 2. úrovně*
 
@@ -2483,7 +2483,7 @@ Dotkneš se zavřených dveří, okna, brány, truhly nebo jiného vstupu a zvol
 
 Během působení tohoto kouzla je předmět těžší zničit či násilně otevřít; SO pro jeho zničení (vyražení) nebo otevření jakýchkoli na něm umístěných zámků šperhákem se zvyšuje o 10.
 
-#### NAJDI CESTU
+### NAJDI CESTU
 
 *Věštění 6. úrovně*
 
@@ -2501,7 +2501,7 @@ Toto kouzlo ti umožní najít nejkratší, nejpřímější fyzickou trasu ke k
 
 Po dobu trvání víš, jak daleko a jakým směrem leží cílové místo, pokud je ve stejné sféře existence jako ty. Kdykoliv máš během cestování k cíli na výběr, kterou cestou jít dál, automaticky určíš, která cesta je k cíli nejkratší a nejpřímější (ale ne nutně nejbezpečnější).
 
-#### NAJDI JED A NEMOC
+### NAJDI JED A NEMOC
 
 *Věštění 1. úrovně (rituál)*
 
@@ -2519,7 +2519,7 @@ Po dobu trvání dokážeš vnímat přítomnost a polohu jedů, jedovatých tvo
 
 Kouzlo pronikne skrz většinu překážek, ale neprojde 1 stopou kamene, 1 coulem běžného kovu, tenkou vrstvou olova nebo 3 stopami dřeva či hlíny.
 
-#### NAJDI MAGII
+### NAJDI MAGII
 
 *Věštění 1. úrovně (rituál)*
 
@@ -2537,7 +2537,7 @@ Po dobu trvání vnímáš přítomnost magie do 6 sáhů od sebe. Pokud vycít�
 
 Kouzlo pronikne skrz většinu překážek, ale neprojde 1 stopou kamene, 1 coulem běžného kovu, tenkou vrstvou olova nebo 3 stopami dřeva či hlíny.
 
-#### NAJDI OŘE
+### NAJDI OŘE
 
 *Vyvolávání 2. úrovně*
 
@@ -2561,7 +2561,7 @@ Když je oř do 1 míle od tebe, můžeš s ním komunikovat telepaticky.
 
 Najednou můžeš mít jen jednoho oře připoutaného tímto kouzlem. Jako akci můžeš oře kdykoliv propustit z jeho pouta, načež zmizí.
 
-#### NAJDI PASTI
+### NAJDI PASTI
 
 *Věštění 2. úrovně*
 
@@ -2579,7 +2579,7 @@ Vnímáš přítomnost jakékoli pasti v dosahu, kterou máš ve výhledu. Past,
 
 Toto kouzlo pouze odhaluje, že je přítomná past. Neznáš polohu každé pasti, ale víš obecnou povahu nebezpečí, které představuje past, jíž vnímáš.
 
-#### NAJDI PŘEDMĚT
+### NAJDI PŘEDMĚT
 
 *Věštění 2. úrovně*
 
@@ -2599,7 +2599,7 @@ Kouzlo dokáže najít konkrétní předmět, který znáš, pokud jsi ho viděl
 
 Toto kouzlo nedokáže najít předmět, pokud přímou cestu mezi ním a tebou blokuje jakákoliv vrstva olova, dokonce třeba i jen tenký plech.
 
-#### NAJDI PŘÍTELÍČKA
+### NAJDI PŘÍTELÍČKA
 
 *Vyvolávání 1. úrovně (rituál)*
 
@@ -2627,7 +2627,7 @@ V jednu chvíli můžeš mít jen jednoho přítelíčka. Sešleš-li toto kouzl
 
 Když sesíláš kouzlo s dosahem dotyk, může ho uštědřit tvůj přítelíček, jako by ho sesílal on. Přítelíček musí být do 20 sáhů od tebe a pro uštědření kouzla musí použít svou reakci, když ho sesíláš. Vyžaduje-li kouzlo hod na útok, použiješ k hodu svou útočnou Opravu.
 
-#### NAJDI TVORA
+### NAJDI TVORA
 
 *Věštění 4. úrovně*
 
@@ -2647,7 +2647,7 @@ Kouzlo dokáže najít konkrétního tvora, kterého znáš, nebo nejbližšího
 
 Toto kouzlo nedokáže najít tvora, pokud přímou cestu mezi ním a tebou blokuje tekoucí voda aspoň 2 sáhy široká.
 
-#### NAJDI ZLO A DOBRO
+### NAJDI ZLO A DOBRO
 
 *Věštění 1. úrovně*
 
@@ -2665,7 +2665,7 @@ Po dobu trvání víš, jestli je do 6 sáhů od tebe běs, elementál, nebešť
 
 Kouzlo pronikne skrz většinu překážek, ale neprojde 1 stopou kamene, 1 coulem běžného kovu, tenkou vrstvou olova nebo 3 stopami dřeva či hlíny.
 
-#### NAJDI ZVÍŘATA A ROSTLINY
+### NAJDI ZVÍŘATA A ROSTLINY
 
 *Věštění 2. úrovně (rituál)*
 
@@ -2681,7 +2681,7 @@ Kouzlo pronikne skrz většinu překážek, ale neprojde 1 stopou kamene, 1 coul
 
 Popiš nebo jmenuj konkrétní druh zvířete nebo rostliny. Soustředěním se na zvuk přírody ve svém okolí se dozvíš směr a vzdálenost k nejbližšímu zvířeti či rostlině daného druhu, pokud se nějaký vyskytuje do 5 mil od tebe.
 
-#### NÁKAZA
+### NÁKAZA
 
 *Nekromancie 5. úrovně*
 
@@ -2711,7 +2711,7 @@ Protože toto kouzlo způsobuje svému cíli přírodní nemoc, působí na ni k
 
 ***Žlutá zimnice.*** Tělem tvora zmítá prudká horečka. Tvor má nevýhodu k ověřením Síly, záchranným hodům na Sílu a hodům na útok, které používají Sílu.
 
-#### NAPLÁNOVANÁ ILUZE
+### NAPLÁNOVANÁ ILUZE
 
 *Iluze 6. úrovně*
 
@@ -2733,7 +2733,7 @@ Spouštěcí okolnost může být natolik obecná či podrobná, jak chceš, ale
 
 Fyzická interakce s obrazem prozradí, že jde o iluzi, neboť jím prochází věci. Použije-li tvor svoji akci k pozornému prohlédnutí si obrazu, úspěšným ověřením Inteligence (Pátrání) proti tvému SO záchrany kouzla dokáže určit, že jde o iluzi. Pokud tvor odhalí, že jde o iluzi, může vidět skrz obraz a jakékoli zvuky, které iluze vydavá, se stanou pro tvora mdlé.
 
-#### NAPODOBENINA
+### NAPODOBENINA
 
 *Iluze 7. úrovně*
 
@@ -2757,7 +2757,7 @@ Je-li napodobenina zraněná, můžeš ji opravit v alchymistické laboratoři p
 
 Sešleš-li toto kouzlo znovu, jakýkoli právě aktivní duplikát, který jsi stvořil tímto kouzlem, se okamžitě zničí.
 
-#### NAVÁDĚCÍ BLESK
+### NAVÁDĚCÍ BLESK
 
 *Zaklínání 1. úrovně*
 
@@ -2776,7 +2776,7 @@ Na tvora dle tvé volby v dosahu vystřelí záblesk světla. Hoď si na útok n
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k6.
 
 
-#### NELIBOZVUČNY ŠEPOT
+### NELIBOZVUČNY ŠEPOT
 
 *Očarování 1. úrovně*
 
@@ -2794,7 +2794,7 @@ Zašeptáš nelibozvučnou melodii, kterou uslyší jen jeden tvor dle tvé volb
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k6.
 
-#### NEMESIS
+### NEMESIS
 
 *Iluze 9. úrovně*
 
@@ -2810,7 +2810,7 @@ Zašeptáš nelibozvučnou melodii, kterou uslyší jen jeden tvor dle tvé volb
 
 Na základě nejhorších obav skupiny tvorů vytvoříš iluzorní bytosti v jejich myslích, které vidí jen oni. Každý tvor v kouli o poloměru 6 sáhů se středem v bodě dle tvé volby v dosahu si musí hodit záchranný hod na Moudrost. Když cíl neuspěje, stane se vystrašený po dobu trvání. Iluze čerpá z tvorových nejhorších obav a zjevuje jeho nejstrašnější noční můry jako neúprosnou hrozbu. Na konci každého tahu vystrašeného tvora, než kouzlo skončí, musí tvor uspět v záchranném hodu na Moudrost, jinak utrpí psychické zranění 4k10. Když uspěje v záchranném hodu, kouzlo pro něj skončí.
 
-#### NEVIDITELNOST
+### NEVIDITELNOST
 
 *Iluze 2. úrovně*
 
@@ -2828,7 +2828,7 @@ Tvor, kterého se dotkneš, se zneviditelní, dokud kouzlo neskončí. Cokoliv c
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. můžeš zacílit jednoho tvora navíc.
 
-#### NEVIDITELNÝ SLUŽEBNÍK
+### NEVIDITELNÝ SLUŽEBNÍK
 
 *Vyvolávání 1. úrovně (rituál)*
 
@@ -2848,7 +2848,7 @@ Jedenkrát v každém svém tahu jako bonusovou akci můžeš mentálně služeb
 
 Přikážeš-li služebníkovi, aby vykonal činnost, která ho vzdálí více než 12 sáhů od tebe, kouzlo skončí.
 
-#### NEZJISTITELNOST
+### NEZJISTITELNOST
 
 *Vymítání 3. úrovně*
 
@@ -2864,7 +2864,7 @@ Přikážeš-li služebníkovi, aby vykonal činnost, která ho vzdálí více n
 
 Na dobu trvání skryješ cíl, kterého se dotkneš, před věšteckou magií. Cílem může být tvor, který s tím souhlasí, nebo předmět, jehož žádný rozměr není větší než 2 sáhy. Cíl se nedá zacílit věšteckou magií ani vnímat pomocí magických sledovacích senzorů.
 
-#### NIČIVÁ VLNA
+### NIČIVÁ VLNA
 
 *Zaklínání 5. úrovně*
 
@@ -2880,7 +2880,7 @@ Na dobu trvání skryješ cíl, kterého se dotkneš, před věšteckou magií. 
 
 Udeříš do země a vytvoříš výbuch božské energie, která z tebe vytryskne. Každý tvor, kterého zvolíš do 6 sáhů od tebe, musí uspět v záchranném hodu na Odolnost, jinak utrpí hromové zranění 5k6 a také buď zářivé, nebo nekrotické zranění (dle tvé volby) 5k6 a je sražen k zemi. Tvor, který uspěje v záchranném hodu, utrpí poloviční zranění a není sražen k zemi.
 
-#### NIŽŠÍ NAVRÁCENÍ
+### NIŽŠÍ NAVRÁCENÍ
 
 *Vymítání 2. úrovně*
 
@@ -2896,7 +2896,7 @@ Udeříš do země a vytvoříš výbuch božské energie, která z tebe vytrysk
 
 Dotkneš se tvora a můžeš ukončit buď jednu nemoc, nebo jeden stav, který na něj působí. Stav může být hluchý, otrávený, paralyzovaný nebo slepý.
 
-#### NUTKÁNÍ
+### NUTKÁNÍ
 
 *Očarování 4. úrovně*
 
@@ -2914,7 +2914,7 @@ Tvorové dle tvé volby, které vidíš v dosahu a kteří tě slyší, si musí
 
 Cíl není nucen se pohnout do očividně smrtící nástrahy, například do ohně či jámy, ale bude vyvolávat příležitostné útoky při pohybu určeným směrem.
 
-#### NYSTULOVA MAGICKÁ AURA
+### NYSTULOVA MAGICKÁ AURA
 
 *Iluze 2. úrovně*
 
@@ -2936,7 +2936,7 @@ Když sesíláš toto kouzlo, zvol jeden či oba z následujících účinků. �
 
 ***Maska.*** Změníš způsob, jakým se cíl jeví kouzlům a magickým účinkům, které odhalují typy tvorů, jako je například paladinův Božský smysl nebo spouštěč kouzla Symbol. Zvolíš typ tvora a ostatní kouzla a magické účinky budou považovat cíl za tvora tohoto typu či tohoto přesvědčení.
 
-#### OBLAK DÝK
+### OBLAK DÝK
 
 *Vyvolávání 2. úrovně*
 
@@ -2954,7 +2954,7 @@ Naplníš vzduch rotujícími dýkami v krychli o straně 1 sáh se středem v b
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší zranění o 2k4.
 
-#### OBLAK MLHY
+### OBLAK MLHY
 
 *Vyvolávání 1. úrovně*
 
@@ -2970,7 +2970,7 @@ Vytvoříš kouli mlhy o poloměru 4 sáhy se středem v bodě v dosahu. Mlha se
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvětší poloměr mlhy o 4 sáhy.
 
-#### OBLAK SMRTI
+### OBLAK SMRTI
 
 *Vyvolávání 5. úrovně*
 
@@ -2992,7 +2992,7 @@ Na začátku každého tvého tahu se mlha pohne 2 sáhy od tebe, převaluje se 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvýší zranění o 1k8.
 
-#### OBROZENÍ
+### OBROZENÍ
 
 *Nekromancie 3. úrovně*
 
@@ -3008,7 +3008,7 @@ Na začátku každého tvého tahu se mlha pohne 2 sáhy od tebe, převaluje se 
 
 Dotkneš se tvora, který zemřel v průběhu poslední minuty. Tento tvor obživne s 1 životem. Toto kouzlo nedokáže vrátit k životu tvora, který zemřel stářím, ani nedokáže obnovit chybějící části těla.
 
-#### OBŘÍ HMYZ
+### OBŘÍ HMYZ
 
 *Transmutace 4. úrovně*
 
@@ -3030,7 +3030,7 @@ Tvor vydrží v obří velikosti po dobu trvání, nebo dokud mu neklesnou živo
 
 PJ ti může umožnit zvolit jiné cíle. Například, pokud proměníš včelu, její obří verze může mít stejné statistiky jako obří vosa.
 
-#### OČISTI JÍDLO A PITÍ
+### OČISTI JÍDLO A PITÍ
 
 *Transmutace 1. úrovně (rituál)*
 
@@ -3046,7 +3046,7 @@ PJ ti může umožnit zvolit jiné cíle. Například, pokud proměníš včelu,
 
 Všechno nemagické jídlo a pití v kouli o poloměru 1 sáh se středem v bodě dle tvé volby v dosahu se očistí a zbaví se jedů a nemocí.
 
-#### ODHAL MYŠLENKY
+### ODHAL MYŠLENKY
 
 *Věštění 2. úrovně*
 
@@ -3070,7 +3070,7 @@ Toto kouzlo můžeš použít také k odhalení přítomnosti myslících tvorů
 
 Jakmile odhalíš přítomnost tvora tímto způsobem, můžeš číst jeho myšlenky po zbytek doby trvání, jak je popsáno výše, i když ho nevidíš, ale stále musí být v dosahu.
 
-#### ODOLÁNÍ
+### ODOLÁNÍ
 
 *Vymítací trik*
 
@@ -3086,7 +3086,7 @@ Jakmile odhalíš přítomnost tvora tímto způsobem, můžeš číst jeho myš
 
 Dotkneš se jednoho tvora, který s tím souhlasí. Než kouzlo skončí, cíl si může hoditk4 a přičíst si hozené číslo k jednomu záchrannému hodu dle své volby. Touto kostkou si může hodit před záchranným hodem, nebo až po něm. Kouzlo poté skončí.
 
-#### OHNIVÁ BOUŘE
+### OHNIVÁ BOUŘE
 
 *Zaklínání 7. úrovně*
 
@@ -3104,7 +3104,7 @@ Na místě, které zvolíš v dosahu, se objeví bouře z pásů burácejících
 
 Oheň zapaluje v oblasti hořlavé předměty, které nikdo nedrží ani nenese. Můžeš zvolit, že toto kouzlo nebude působit na živé rostliny v oblasti.
 
-#### OHNIVÁ ČEPEL
+### OHNIVÁ ČEPEL
 
 *Zaklínání 2. úrovně*
 
@@ -3126,7 +3126,7 @@ Ohnivá čepel osvítí jasným světlem okruh o poloměru 2 sáhy a další 2 s
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každé další dvě úrovně pozice nad 2. se zvýší zranění o 1k6.
 
-#### OHNIVÁ KOULE
+### OHNIVÁ KOULE
 
 *Zaklínání 3. úrovně*
 
@@ -3146,7 +3146,7 @@ Oheň se rozšiřuje kolem rohů. Oheň zapaluje v oblasti hořlavé předměty,
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší zranění o 1k6.
 
-#### OHNIVÁ STŘELA
+### OHNIVÁ STŘELA
 
 *Zaklínací trik*
 
@@ -3164,7 +3164,7 @@ Na tvora či předmět v dosahu vrhneš smítko ohně. Hoď si na útok na dálk
 
 Zranění tohoto kouzla se zvýší o 1k 10, když dosáhneš 5. úrovně (2k10), 11. úrovně (3k10) a 17. úrovně (4k10).
 
-#### OHNIVÁ ZEĎ
+### OHNIVÁ ZEĎ
 
 *Zaklínání 4. úrovně*
 
@@ -3186,7 +3186,7 @@ Jedna strana zdi, jíž vybereš při sesílání tohoto kouzla, způsobí ohniv
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, za každou další úroveň pozice nad 4. se zvýší zranění o 1k8.
 
-#### OHNIVÝ ŠTÍT
+### OHNIVÝ ŠTÍT
 
 *Zaklínání 4. úrovně*
 
@@ -3206,7 +3206,7 @@ Plameny ti poskytnou buď horký, nebo mrazivý štít, dle tvé volby. Horký �
 
 Navíc kdykoliv tě tvor do 1 sáhu od tebe zasáhne útokem na blízko, že štítu vyšlehne plamen. Útočník utrpí ohnivé zranění 2k8 z horkého štítu, nebo chladné zranění 2k8 z mrazivého štítu.
 
-#### OCHRANA PŘED ENERGIÍ
+### OCHRANA PŘED ENERGIÍ
 
 *Vymítání 3. úrovně*
 
@@ -3222,7 +3222,7 @@ Navíc kdykoliv tě tvor do 1 sáhu od tebe zasáhne útokem na blízko, že št
 
 Tvor, kterého se dotkneš a který s tím souhlasí, je po dobu trvání odolný vůči jednomu typu zranění dle tvé volby: bleskové, hromové, chladné, kyselinové, nebo ohnivé.
 
-#### OCHRANA PŘED JEDEM
+### OCHRANA PŘED JEDEM
 
 *Vymítání 2. úrovně*
 
@@ -3240,7 +3240,7 @@ Dotkneš se tvora. Je-li otráveny, zneutralizuješ mu jed. Působí-li na cíl 
 
 Po dobu trvání má cíl výhodu k záchranným hodům proti otrávení a je odolný vůči jedovému zranění.
 
-#### OCHRANA PŘED ZLEM A DOBREM
+### OCHRANA PŘED ZLEM A DOBREM
 
 *Vymítání 1. úrovně*
 
@@ -3258,7 +3258,7 @@ Dokud kouzlo neskončí, jeden tvor, kterého se dotkneš a který s tím souhla
 
 Ochrana poskytuje několik výhod: Tvorové těchto typů mají nevýhodu k hodům na útok proti tomuto cíli. Tito tvorové také nemohou cíl posednout, vystrašit ani zmámit. Pokud již je cíl zmámený, ovládnutý nebo vystrašený takovým tvorem, má výhodu k jakémukoli novému záchrannému hodu proti příslušnému účinku.
 
-#### OPRAVA
+### OPRAVA
 
 *Transmutační trik*
 
@@ -3276,7 +3276,7 @@ Toto kouzlo opraví jeden rozbitý, zlomený či roztržený předmět, kterého
 
 Toto kouzlo dokáže fyzicky opravit kouzelný předmět nebo výtvor, ale magii mu obnovit nedokáže.
 
-#### OSLEPUJÍCÍ ÚDER
+### OSLEPUJÍCÍ ÚDER
 
 *Zaklínání 3. úrovně*
 
@@ -3294,7 +3294,7 @@ Až příště zasáhneš tvora útokem na blízko zbraní v průběhu trvání 
 
 Tvor, který je slepý kvůli tomuto kouzlu, si hodí další záchranný hod na Odolnost na konci každého svého tahu. Když uspěje, přestane být slepý.
 
-#### OTILUKOVA MRAZIVÁ KOULE
+### OTILUKOVA MRAZIVÁ KOULE
 
 *Zaklínání 6. úrovně*
 
@@ -3316,7 +3316,7 @@ Pokud chceš, nemusíš kouli po vyvolání vystřelit. Místo toho se může ve
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. se zvýší zranění o 1k6.
 
-#### OTILUKOVA NEPODDAJNÁ KOULE
+### OTILUKOVA NEPODDAJNÁ KOULE
 
 *Zaklínání 4. úrovně*
 
@@ -3338,7 +3338,7 @@ Koule je beztížná a tak akorát velká, aby pojala tvora či předmět uvnit�
 
 Kouzlo *rozklad* zacílené na kouli ji zničí, aniž by zranilo či poškodilo někoho či něco uvnitř
 
-#### OTOČ GRAVITACI
+### OTOČ GRAVITACI
 
 *Transmutace 7. úrovně*
 
@@ -3358,7 +3358,7 @@ Pokud se na trase pádu nachází nějaký pevný objekt (například strop), pa
 
 Na konci doby trvání ovlivněné předměty a tvorové spadnou zpět dolů.
 
-#### OTŮV NEODOLATELNÝ TANEC
+### OTŮV NEODOLATELNÝ TANEC
 
 *Očarování 6. úrovně*
 
@@ -3376,7 +3376,7 @@ Zvol jednoho tvora, kterého vidíš v dosahu. Cíl začne komicky tancovat: šo
 
 Tancující tvor musí použít všechen svůj pohyb k tanci, aniž by opustil své místo, a má nevýhodu k záchranným hodům na Obratnost a hodům na útok. Zatímco na cíl působí toto kouzlo, ostatní tvorové mají výhodu k hodům na útok proti němu. Jako akci si musí tancující tvor hodit záchranný hod na Moudrost, aby nad sebou znovu získal kontrolu. Když v záchranném hodu uspěje, kouzlo skončí.
 
-#### OVLÁDNI POČASÍ
+### OVLÁDNI POČASÍ
 
 *Transmutace 6. úrovně*
 
@@ -3423,7 +3423,7 @@ Po dobu trvání ovládneš počasí do 5 mil od tebe. Pro seslání tohoto kouz
 | 4 | Vichr |
 | 5 | Orkán |
 
-#### OVLÁDNI VODU
+### OVLÁDNI VODU
 
 *Transmutace 4. úrovně*
 
@@ -3453,7 +3453,7 @@ Když se předmět dostane do víru poprvé v tahu, utrpí drtivé poškození 2
 
 Vodní hladina zůstane zvýšená, dokud kouzlo neskončí, nebo dokud nezvolíš jiný účinek. Pokud tento účinek vytvořil vlnu, vlna se zopakuje na začátku tvého příštího tahu, pokud záplavový účinek vydrží.
 
-#### OŽIV MRTVÉHO
+### OŽIV MRTVÉHO
 
 *Nekromancie 3. úrovně*
 
@@ -3475,7 +3475,7 @@ Tvor je pod tvou kontrolou 24 hodin a poté přestane plnit tebou vydané rozkaz
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. oživíš nebo opětovně uplatníš svou kontrolu nad dvěma dalšími nemrtvými tvory. Každý tvor musí vzejít z jiné mrtvoly nebo hromádky kostí.
 
-#### OŽIVLÉ PŘEDMĚTY
+### OŽIVLÉ PŘEDMĚTY
 
 *Transmutace 5. úrovně*
 
@@ -3509,7 +3509,7 @@ Nařídíš-li předmětu zaútočit, může provést jeden útok na blízko pro
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. oživíš dva další předměty.
 
-#### PÁCHNOUCÍ OBLAK
+### PÁCHNOUCÍ OBLAK
 
 *Vyvolávání 3. úrovně*
 
@@ -3525,7 +3525,7 @@ Nařídíš-li předmětu zaútočit, může provést jeden útok na blízko pro
 
 Vytvoříš oblačnou kouli žlutých, odporných výparů o poloměru 4 sáhy se středem v bodě v dosahu. Oblak se rozšiřuje kolem rohů a jeho oblast je hustě zahalená. Oblak setrvává ve vzduchu po dobu trvání. Každý tvor, který je zcela v oblaku na začátku svého tahu, si musí hodit záchranný hod na Odolnost proti jedu. Když tvor neuspěje, stráví svou akci daného tahu zvracením a potácením se. Tvorové, kteří nemusí dýchat nebo jsou imunní vůči jedu, automaticky uspějí v tomto záchranném hodu. Mírný vítr (o rychlosti aspoň 10 mil za hodinu) rozfouká oblak za 4 kola. Silný vítr (o rychlosti aspoň 20 mil za hodinu) ho rozfouká za 1 kolo.
 
-#### PAPRSEK OTRÁVENÍ
+### PAPRSEK OTRÁVENÍ
 
 *Nekromancie 1. úrovně*
 
@@ -3543,7 +3543,7 @@ Na tvora v dosahu vyšlehne paprsek odporné nazelenalé energie. Hoď si na út
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k8.
 
-#### PAPRSEK SLABOSTI
+### PAPRSEK SLABOSTI
 
 *Nekromancie 2. úrovně*
 
@@ -3559,7 +3559,7 @@ Na tvora v dosahu vyšlehne paprsek odporné nazelenalé energie. Hoď si na út
 
 Z tvého prstu vytryskne na tvora v dosahu černý paprsek vyčerpávající energie. Hodľ si na útok na dálku kouzlem proti cíli. Při zásahu bude cíl způsobovat svými útoky zbraní založenými na Síle pouze poloviční zranění, dokud kouzlo neskončí. Na konci každého svého tahu si cíl může hodit záchranný hod na Odolnost proti kouzlu. Když uspěje, kouzlo skončí.
 
-#### PAVOUČÍ ŠPLH
+### PAVOUČÍ ŠPLH
 
 *Transmutace 2. úrovně*
 
@@ -3575,7 +3575,7 @@ Z tvého prstu vytryskne na tvora v dosahu černý paprsek vyčerpávající ene
 
 Dokud kouzlo neskončí, jeden tvor, kterého se dotkneš a který s tím souhlasí, získá schopnost pohybovat se nahoru, dolů i do stran na svislých površích, a dokonce i po stropech hlavou dolů s volnýma rukama. Cíl také získá rychlost šplhání rovnou své rychlosti chůze.
 
-#### PAVUČINA
+### PAVUČINA
 
 *Vyvolávání 2. úrovně*
 
@@ -3599,7 +3599,7 @@ Tvor zadržený v pavučinách může použít svou akci k hodu na ověření S�
 
 Pavučiny jsou hořlavé. Každá krychle pavučin o straně 1 sáh vystavená ohni vzplane a shoří během 1 kola a každý tvor, který v ohni začne svůj tah, utrpí ohnivé zranění 2k4.
 
-#### PEKELNÉ POKÁRÁNÍ
+### PEKELNÉ POKÁRÁNÍ
 
 *Zaklínání 1. úrovně*
 
@@ -3617,7 +3617,7 @@ Uděláš prstem „Ty, ty, ty!" a tvora, který tě zranil, okamžitě obklopí
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k10.
 
-#### PLAMENNÝ ÚDER
+### PLAMENNÝ ÚDER
 
 *Zaklínání 5. úrovně*
 
@@ -3635,7 +3635,7 @@ Svislý sloupec božského ohně se se zaburácením snese z nebe na místo, kte
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvýší buď ohnivé, nebo zářivé zranění (dle tvé volby) o 1k6.
 
-#### PLANOUCÍ KOULE
+### PLANOUCÍ KOULE
 
 *Vyvolávání 2. úrovně*
 
@@ -3657,7 +3657,7 @@ Když pohybuješ koulí, dokáže překonat až 1 sáh vysoké bariéry a přesk
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší zranění o 1k6.
 
-#### PODMÍNEČNOST
+### PODMÍNEČNOST
 
 *Zaklínání 6. úrovně*
 
@@ -3677,7 +3677,7 @@ Podmínečné kouzlo začne působit ihned, jakmile poprvé nastane popsaná oko
 
 Podmínečné kouzlo působí jen na tebe, i kdyby normálně mohlo cílit na ostatní. V jednu chvíli můžeš využívat jen jedno kouzlo *podmínečnost*. Sešleš-li toto kouzlo znovu, účinek předchozího kouzla *podmínečnost* skončí. *Podmínečnost* také skončí, pokud u sebe přestaneš mít surovinovou složku.
 
-#### PODPORA
+### PODPORA
 
 *Vymítání 2. úrovně*
 
@@ -3693,7 +3693,7 @@ Podmínečné kouzlo působí jen na tebe, i kdyby normálně mohlo cílit na os
 
 Tvé kouzlo dodá tvým spojencům nezdolnost a odhodlanost. Zvol až tři tvory v dosahu. Každému cíli se po dobu trvání zvýší maximum a aktuální životy o 5.Na vyšších úrovních. Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší životy cíle o 5 navíc.
 
-#### PODROB NESTVŮRU
+### PODROB NESTVŮRU
 
 *Očarování 8. úrovně*
 
@@ -3717,7 +3717,7 @@ Pokaždé, když cíl utrpí zranění, hodí si nový záchranný hod na Moudro
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 9. úrovně, trvání se změní na soustředění, až 8 hodin.
 
-#### PODROB OSOBU
+### PODROB OSOBU
 
 *Očarování 5. úrovně*
 
@@ -3741,7 +3741,7 @@ Pokaždé, když cíl utrpí zranění, hodí si nový záchranný hod na Moudro
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. úrovně, trvání se změní na soustředění, až 10 minut. Sešleš-li toto kouzlo použitím pozice kouzla 7. úrovně, trvání se změní na soustředění, až 1 hodina. Sešleš-li toto kouzlo použitím pozice kouzla 8. či vyšší úrovně, trvání se změní na soustředění, až 8 hodin.
 
-#### PODROB ZVÍŘE
+### PODROB ZVÍŘE
 
 *Očarování 4. úrovně*
 
@@ -3765,7 +3765,7 @@ Pokaždé, když cíl utrpí zranění, hodí si nový záchranný hod na Moudro
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 5. úrovně, trvání se změní na soustředění, až 10 minut. Sešleš-li toto kouzlo použitím pozice kouzla 6. úrovně, trvání se změní na soustředění, až 1 hodina. Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, trvání se změní na soustředění, až 8 hodin.
 
-#### POHNI ZEMÍ
+### POHNI ZEMÍ
 
 *Transmutace 6. úrovně*
 
@@ -3789,7 +3789,7 @@ Tímto kouzlem nelze manipulovat s přírodní skálou ani kamennou budovou. Sk�
 
 Podobně toto kouzlo neovlivňuje přímo růst rostlin, nicméně pohybující se půda s sebou nese i rostliny.
 
-#### POLAPUJÍCÍ ÚDER
+### POLAPUJÍCÍ ÚDER
 
 *Vyvolávání 1. úrovně*
 
@@ -3809,7 +3809,7 @@ Když je cíl zadržený tímto kouzlem, na začátku každého svého tahu utrp
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k6.
 
-#### POLOSFÉRA
+### POLOSFÉRA
 
 *Vyvolávání 8. úrovně*
 
@@ -3827,7 +3827,7 @@ Vytvoříš stínové dveře na plochém pevném povrchu, který vidíš v dosah
 
 Pokaždé, když sešleš toto kouzlo, můžeš vytvořit novou polosféru, nebo spojit stínové dveře s polosférou, kterou jsi vytvořil předchozím sesláním tohoto kouzla. Navíc, pokud znáš povahu a obsah polosféry vytvořené sesláním tohoto kouzla jiným tvorem, můžeš místo toho spojit stínové dveře s jeho polosférou.
 
-#### POMALÝ PÁD
+### POMALÝ PÁD
 
 *Transmutace 1. úrovně*
 
@@ -3844,7 +3844,7 @@ Pokaždé, když sešleš toto kouzlo, můžeš vytvořit novou polosféru, nebo
 Zvol až pět padajících tvorů v dosahu. Rychlost klesání padajícího tvora se zpomalí na 12 sáhů za kolo, dokud kouzlo nekončí. Přistane-li tvor, než kouzlo skončí, neutrpí pádem z výšky žádné zranění, může přistát na nohou a kouzlo pro něj skončí.
 
 
-#### POPLACH
+### POPLACH
 
 *Vymítání 1. úrovně (rituál)*
 
@@ -3864,7 +3864,7 @@ Mentální poplachtě upozorní ve tvé hlavě, pokud jsi do 1 míle od střeže
 
 Zvukový poplach bude 10 sekund vydávat zvuk ručního zvonku, který je slyšet do 12 sáhů.
 
-#### POROZUMĚNÍ JAZYKŮM
+### POROZUMĚNÍ JAZYKŮM
 
 *Věštění 1. úrovně (rituál)*
 
@@ -3882,7 +3882,7 @@ Po dobu trvání rozumíš doslovnému významu mluveného jazyka, který slyš�
 
 Toto kouzlo nerozšifruje tajné textové zprávy ani znak, například magickou runu, který není součástí psaného jazyka.
 
-#### PORYV VĚTRU
+### PORYV VĚTRU
 
 *Zaklínání 2. úrovně*
 
@@ -3904,7 +3904,7 @@ Poryv větru rozfoukává plyny a výpary a sfoukává svíčky, pochodně a pod
 
 Jako bonusovou akci můžeš v každém svém tahu, než kouzlo skončí, změnit směr dráhy, ve které z tebe fouká vítr.
 
-#### POSELSTVÍ
+### POSELSTVÍ
 
 *Zaklínání 3. úrovně*
 
@@ -3922,7 +3922,7 @@ Tvorovi, kterého znáš, pošleš krátkou zprávu o maximálně dvaceti pěti 
 
 Můžeš poslat zprávu na libovolnou vzdálenost, a dokonce i do jiných sfér existence, ale je-li cíl v jiné sféře existence než ty, je 5% šance, že zpráva nedorazí.
 
-#### POSLYŠ MÝTY
+### POSLYŠ MÝTY
 
 *Věštění 5. úrovně*
 
@@ -3940,7 +3940,7 @@ Jmenuj nebo popiš osobu, místo, či předmět. Díky tomuto kouzlu ti vyvstane
 
 Informace, které zjistíš, jsou přesné, ale mohou být formulovány květnatým jazykem. Například, máš-li v rukou tajemnou magickou sekeru, kouzlo může podat následující informace: „Běda zločinci, jehož ruka se dotkne sekery, neboť i topůrko pořeže ruku darebáka. Jen opravdové Dítě kamene, které miluje Moradina a jehož miluje Moradin, může probudit skutečnou moc sekery a jen s tajným slovem *Rudnog* na rtech."
 
-#### POSVÁTNÁ PŮDA
+### POSVÁTNÁ PŮDA
 
 *Zaklínání 5. úrovně*
 
@@ -3980,7 +3980,7 @@ Za druhé. Na oblast můžeš navázat dodatečný účinek. Vyber si účinek z
 
 ***Věčné odpočinutí.*** Mrtvá těla pohřbená v oblasti nelze proměnit v nemrtvé.
 
-#### POSVÁTNÝ PLAMEN
+### POSVÁTNÝ PLAMEN
 
 *Zaklínací trik*
 
@@ -3998,7 +3998,7 @@ Záření podobné plameni sestoupí na tvora, kterého vidíš v dosahu. Cíl m
 
 Zranění tohoto kouzla se zvýší o 1k8, když dosáhneš 5. úrovně (2k8), 11. úrovně (3k8) a 17. úrovně (4k8).
 
-#### POŽEHNÁNÍ
+### POŽEHNÁNÍ
 
 *Očarování 1. úrovně*
 
@@ -4014,7 +4014,7 @@ Požehnáš až třem tvorům dle své volby v rámci dosahu. Kdykoliv si cíl h
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. můžeš zacílit jednoho tvora navíc.
 
-#### PRAVDIVÉ VIDĚNÍ
+### PRAVDIVÉ VIDĚNÍ
 
 *Věštění 6. úrovně*
 
@@ -4030,7 +4030,7 @@ Požehnáš až třem tvorům dle své volby v rámci dosahu. Kdykoliv si cíl h
 
 Toto kouzlo dává tvorovi, kterého se dotkneš a který s tím souhlasí, schopnost vidět věci, jaké skutečně jsou. Po dobu trvání má tvor pravdivé vidění, všímá si tajných dveří skrytých pomocí magie, vidí do Éterické sféry, a to vše do vzdálenosti 24 sáhů.
 
-#### PROBUZENÍ
+### PROBUZENÍ
 
 *Transmutace 5. úrovně*
 
@@ -4048,7 +4048,7 @@ Poté, co strávíš dobu vyvolávání hledáním magických cest ve vzácném 
 
 Probuzené zvíře či rostlina je tebou zmámené 30 dní, nebo dokud mu ty nebo tví společníci neublížíte. Když stav zmámení skončí, probuzený tvor si zvolí, jestli se k tobě bude i nadále chovat přátelsky, na základě toho, jak ses k němu choval, když byl zmámený.
 
-#### PROJDI BEZE STOP
+### PROJDI BEZE STOP
 
 *Vymítání 2. úrovně*
 
@@ -4064,7 +4064,7 @@ Probuzené zvíře či rostlina je tebou zmámené 30 dní, nebo dokud mu ty neb
 
 Vyzafuje z tebe zavoj stinti a ticha, ktery maskuje tebe a tvé společníky před odhalením. Po dobu trvání má každý tvor, kterého zvolíš do 6 sáhů od tebe (včetně tebe), bonus +10 kovčienim Obratnosti (Nenapadnosti) a nelze ho stopovat, kromě magických prostředků. Tvor, který obdrží tento bonus, za sebou nezanechává žádné stopy či známky svého průchodu.
 
-#### PROJDI ZDÍ
+### PROJDI ZDÍ
 
 *Transmutace 5. úrovně*
 
@@ -4082,7 +4082,7 @@ V bodě dle tvé volby, který vidíš na dřevěném, omítnutém nebo kamenné
 
 Když otvor zmizí, tak všichni tvorové a předměty, kteří byli stále ještě v průchodu vytvořeném tímto kouzlem, jsou bezpečně vypuzeni na volné místo, které je nejblíže povrchu, na který jsi kouzlo seslal.
 
-#### PROMĚŇ
+### PROMĚŇ
 
 *Transmutace 4. úrovně*
 
@@ -4106,7 +4106,7 @@ Tvor je omezený akcemi, které může vykonávat z povahy nové podoby, a nemů
 
 Tvorovo vybavení splyne s novou podobou. Tvor ho nemůže aktivovat, používat, držet ani nijak jinak mít prospěch ze svého vybavení.
 
-#### PROTIKOUZLO
+### PROTIKOUZLO
 
 *Vymítání 3. úrovně*
 
@@ -4124,7 +4124,7 @@ Pokusíš se přerušit tvora v procesu sesílání kouzla. Sesílá-li tvor kou
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, přerušené kouzlo nemá žádný účinek, pokud jeho úroveň je nižší nebo rovná úrovni tebou použité pozice kouzla.
 
-#### PRST SMRTI
+### PRST SMRTI
 
 *Nekromancie 7. úrovně*
 
@@ -4142,7 +4142,7 @@ Vyšleš negativní energii způsobující palčivou bolest, která se prožene 
 
 Humanoid zabitý tímto kouzlem povstane na začát ku tvého příštího tahu jako zombie pod tvou kontrolou a řídí se tebou vyřčenými rozkazy, jak nejlépe umí.
 
-#### PŘÁNÍ
+### PŘÁNÍ
 
 *Vyvolávání 9. úrovně*
 
@@ -4172,7 +4172,7 @@ Můžeš být schopen dosáhnout něčeho mimo rozsah výše uvedených příkla
 
 Při seslání tohoto kouzla pro vytvoření účinku, jenž je jiný než duplikování jiného kouzla, tě oslabí stres. Když utrpíš tento stres, tak pokaždé, když sešleš nějaké kouzlo, utrpíš nekrotické zranění 1k10 za každou úroveň daného kouzla, dokud si důkladně neodpočineš. Toto zranění se nedá žádným způsobem snížit ani mu předejít. Mimo to, tvá Síla klesne na 3 (není-li už 3 či nižší) na 2k4 dní. Každý den, který strávíš odpočíváním a děláním jen lehkých činností, se tvůj zbývající čas k zotavení zkrátí o 2 dny. Navíc je 33% šance, že už nikdy nebudeš schopen seslat přání znovu, pokud utrpíš tento stres.
 
-#### PŘÁTELÉ
+### PŘÁTELÉ
 
 *Očarovací trik*
 
@@ -4188,7 +4188,7 @@ Při seslání tohoto kouzla pro vytvoření účinku, jenž je jiný než dupli
 
 Po dobu trvání máš výhodu ke všem ověřením Charismatu směřujícím na jednoho tvora dle tvé volby, který není vůči tobě nepřátelský. Když kouzlo skončí, tvor si uvědomí, že jsi použil magii k ovlivnění jeho rozpoložení a stane se vůči tobě nepřátelský. Tvor, jenž má sklon k násilí, na tebe může zaútočit. Jiný tvor může usilovat o odplatu jinými způsoby (dle úvahy PJ), v závislosti na povaze tvé interakce s ním.
 
-#### PŘÁTELSTVÍ ZVÍŘAT
+### PŘÁTELSTVÍ ZVÍŘAT
 
 *Očarování 1. úrovně*
 
@@ -4206,7 +4206,7 @@ Toto kouzlo ti umožňuje přesvědčit zvíře, že mu nechceš nijak ublížit
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. můžeš ovlivnit jedno zvíře navíc.
 
-#### PŘEDSTÍREJ SMRT
+### PŘEDSTÍREJ SMRT
 
 *Nekromancie 3. úrovně (rituál)*
 
@@ -4224,7 +4224,7 @@ Dotkneš se tvora, který s tím souhlasí, a uvedeš ho do kataleptického stav
 
 Po dobu trvání kouzla, nebo dokud se pomocí své akce nedotkneš cíle a kouzlo nezrušíš, vypadá cíl mrtvý pro všechna vnější vyšetření i kouzla použitá pro určení stavu cíle. Cíl je slepý a neschopný a jeho rychlost klesne na 0. Je odolný vůči všem zraněním, kromě psychického zranění. Pokud je nemocný či otrávený, když na něj sesíláš toto kouzlo, nebo se stane nemocný či otrávený během účinkování tohoto kouzla, nemoci ani jedy na něj nijak neúčinkují, dokud kouzlo neskončí.
 
-#### PŘEDTUCHA
+### PŘEDTUCHA
 
 *Věštění 9. úrovně*
 
@@ -4242,7 +4242,7 @@ Dotkneš se tvora, který s tím souhlasí, a udělíš mu omezenou schopnost na
 
 Toto kouzlo okamžitě skončí, pokud ho sešleš znovu, než skončí jeho doba trvání.
 
-#### PŘEDVÍDÁNÍ
+### PŘEDVÍDÁNÍ
 
 *Věštění 2. úrovně (rituál)*
 
@@ -4265,7 +4265,7 @@ Rozhozením zdobených tyček, hozením dračích kostí, rozložením tarotový
 
 Kouzlo nepočítá s potenciálními okolnostmi, které by mohly změnit výsledek, jako například seslání dalších kouzel nebo ztráta či zisk člena družiny. Sešleš-li kouzlo dvakrát či vícekrát před tím, než si důkladně odpočineš, je u každého seslání mimo první 25% šance, že dostaneš chybné údaje. PJ si hází tento hod v tajnosti.
 
-#### PŘELUD
+### PŘELUD
 
 *Iluze 2. úrovně*
 
@@ -4287,7 +4287,7 @@ Zatímco je cíl ovlivněn kouzlem, chová se, jako by byl přelud opravdový. P
 
 Ovlivněný tvor je natolik přesvědčený o reálnosti přeludu, že ho může iluze i zranit. Přelud, který má vypadat jako tvor, může na cíl zaútočit. Podobně přelud, který má vypadat jako oheň, kyselinové jezírko nebo láva, může cíl popálit. Každé kolo ve tvém tahu může přelud způsobit cíli psychické zranění 1k6, je-li cíl v oblasti přeludu nebo do 1 sáhu od přeludu a pokud je přelud iluzí nástrahy či tvora, jenž by logicky mohl způsobit zranění, například útokem. Cíl vnímá typ utrpěného zranění dle povahy iluze.
 
-#### PŘESNÝ ÚDER
+### PŘESNÝ ÚDER
 
 *Věštecký trik*
 
@@ -4303,7 +4303,7 @@ Ovlivněný tvor je natolik přesvědčený o reálnosti přeludu, že ho může
 
 Natáhneš ruku a ukážeš prstem na cíl v dosahu. Tvá magie ti poskytne stručný vhled do obrany cíle. Ve svém příštím tahu získáš výhodu k prvnímu hodu na útok proti cíli, pokud toto kouzlo do té doby neskončí.
 
-#### PŘESTROJENÍ
+### PŘESTROJENÍ
 
 *Iluze 1. úrovně*
 
@@ -4323,7 +4323,7 @@ Změny vytvořené tímto kouzlem neuspějí při fyzické kontrole. Přidáš-l
 
 Aby tvor odhalil, že jsi přestrojený, musí si tě pomocí své akce pozorně prohlédnout a uspět v ověření Inteligence (Pátrání) proti tvému SO záchrany kouzla.
 
-#### PŘESUN ROSTLINAMI
+### PŘESUN ROSTLINAMI
 
 *Vyvolávání 6. úrovně*
 
@@ -4339,7 +4339,7 @@ Aby tvor odhalil, že jsi přestrojený, musí si tě pomocí své akce pozorně
 
 Toto kouzlo vytvoří magické spojení mezi Velkou či větší neoživlou (vstupní) rostlinou v dosahu a jinou (výstupní) rostlinou, v jakékoli vzdálenosti, ve stejné sféře existence. Výstupní rostlinu jsi už někdy předtím musel vidět, nebo se jí dotknout. Po dobu trvání může jakýkoliv tvor vstoupit do vstupní rostliny a vyjít z výstupní rostliny použitím 1 sáhu pohybu.
 
-#### PŘESUN SFÉRAMI
+### PŘESUN SFÉRAMI
 
 *Vyvolávání 7. úrovně*
 
@@ -4359,7 +4359,7 @@ Nebo pokud znáš řadu run nějakého teleportačního kruhu v jiné sféře ex
 
 Toto kouzlo můžeš použít na vyhoštění tvora do jiné sféry, i když s tím nesouhlasí. Zvol tvora ve tvém dosahu a hod si na útok na blízko kouzlem proti němu. Při zásahu si tvor musí hodit záchranný hod na Charisma. Když v této záchraně neuspěje, je přenesen na náhodné místo ve sféře existence, kterou určíš. Takto přenesený tvor si musí najít svou vlastní cestu, jak se dostat zpět do tvé současné sféry existence.
 
-#### PŘÍZEŇ BOHŮ
+### PŘÍZEŇ BOHŮ
 
 *Zaklínání 1. úrovně*
 
@@ -4375,7 +4375,7 @@ Toto kouzlo můžeš použít na vyhoštění tvora do jiné sféry, i když s t
 
 Tvá modlitba tě posílí božským zářením. Dokud kouzlo neskončí, útoky tvou zbraní způsobí při zásahu dodatečné zářivé zranění 1k4.
 
-#### PŘÍZRAČNÍ STRÁŽCI
+### PŘÍZRAČNÍ STRÁŽCI
 
 *Vyvolávání 3. úrovně*
 
@@ -4395,7 +4395,7 @@ Když sesíláš toto kouzlo, můžeš určit libovolné množství tvorů, kter
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší zranění o 1k8.
 
-#### PŘÍZRAČNÝ OŘ
+### PŘÍZRAČNÝ OŘ
 
 *Iluze 3. úrovně (rituál)*
 
@@ -4413,7 +4413,7 @@ Na zemi na volném místě, které zvolíš v dosahu, se objeví Velký, napůl 
 
 Po dobu trvání můžeš ty nebo tvor, kterého určíš, jezdit na oři. Oř používá statistiky jezdeckého koně, ale jeho rychlost je 20 sáhů a může cestovat 10 mil za hodinu, nebo 13 mil rychlým tempem. Když kouzlo skončí, oř pozvolna zmizí, přičemž jezdec má 1 minutu na sesednutí. Kouzlo skončí, pokud použiješ akci na jeho zrušení, nebo utrpí-li oř zranění.
 
-#### RARYHO TELEPATICKÉ POUTO
+### RARYHO TELEPATICKÉ POUTO
 
 *Věštění 5. úrovně* *(rituál)*
 
@@ -4431,7 +4431,7 @@ Vytvoříš telepatické spojení mezi až osmi tvory v do sahu, kteří s tím 
 
 Dokud kouzlo neskončí, cíle spolu mohou tele paticky komunikovat skrz spojení, bez ohledu na to, jestli mají společný jazyk. Komunikace je možná na jakoukoli vzdálenost, avšak nedosáhne do jiných sfér existence.
 
-#### REGENERACE
+### REGENERACE
 
 *Transmutace 7. úrovně*
 
@@ -4447,7 +4447,7 @@ Dokud kouzlo neskončí, cíle spolu mohou tele paticky komunikovat skrz spojen�
 
 Dotkneš se tvora a stimuluješ jeho přirozenou samoléčící schopnost. Cíl si obnoví 4k8 + 15 životů. A pak po dobu trvání kouzla si cíl obnoví 1 život na začátku každého svého tahu (10 životů každou minutu). Všechny chybějící údy (prsty, nohy, ocas atd.) se obnoví cíli po 2 minutách. Máš-li oddělenou končetinu a přidržíš ji u pahýlu, úd se díky kouzlu okamžitě spojí s pahýlem.
 
-#### REINKARNACE
+### REINKARNACE
 
 *Transmutace 5. úrovně*
 
@@ -4484,7 +4484,7 @@ Reinkarnovaný tvor má vzpomínky i zkušenosti ze svého předchozího života
 | 84 – 91 | Trpaslík, horský |
 | 92 – 100 | Trpaslík, kopcový |
 
-#### ROJ METEORITŮ
+### ROJ METEORITŮ
 
 *Zaklínání 9. úrovně*
 
@@ -4500,7 +4500,7 @@ Plápolající ohnivé koule sletí na zem na čtyři různé body, které vidí
 
 Kouzlo v oblasti poškozuje předměty a zapaluje hořlavé předměty, které nikdo nedrží ani nenese.
 
-#### ROZKAZ
+### ROZKAZ
 
 *Očarování 1. úrovně*
 
@@ -4530,7 +4530,7 @@ Následuje několik typických rozkazů a jejich účinků. Můžeš vydat i jin
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. můžeš ovlivnit jednoho tvora navíc. Tvorové musí být navzájem do 6 sáhů od sebe, když na ně cílíš.
 
-#### ROZKLAD
+### ROZKLAD
 
 *Transmutace 6. úrovně*
 
@@ -4554,7 +4554,7 @@ Toto kouzlo automaticky rozloží Velký nebo menší nemagický předmět či v
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. se zvýší zranění o 3k6.
 
-#### ROZMAZÁNÍ
+### ROZMAZÁNÍ
 
 *Iluze 2. úrovně*
 
@@ -4570,7 +4570,7 @@ Toto kouzlo automaticky rozloží Velký nebo menší nemagický předmět či v
 
 Tvé tělo se stane jakoby zamlžené, přesouvá se a kolísá v očích každého, kdo tě vidí. Po dobu trvání má každý tvor nevýhodu k hodům na útok proti tobě. Útočník je imunní vůči tomuto účinku, pokud se neopírá o zrak, například s mimozrakovým vnímáním, nebo pokud vidí skrz iluze, například s pravdivým viděním.
 
-#### ROZPAL KOV
+### ROZPAL KOV
 
 *Transmutace 2. úrovně*
 
@@ -4590,7 +4590,7 @@ Drží-li tvor ovlivněný předmět, nebo ho má na sobě, když utrpí dané z
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší zranění o 1k8.
 
-#### ROZPTYL MAGII
+### ROZPTYL MAGII
 
 *Vymítání 3. úrovně*
 
@@ -4608,7 +4608,7 @@ Zvol jednoho tvora, předmět nebo magický účinek působící na cíl skonč�
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, automaticky ukončíš účinky každého kouzla působícího na cíl, jehož úroveň je nižší nebo rovna úrovni tebou použité pozice kouzla.
 
-#### ROZPTYL ZLO A DOBRO
+### ROZPTYL ZLO A DOBRO
 
 *Vymítání 5. úrovně*
 
@@ -4630,7 +4630,7 @@ Kouzlo můžeš ukončit předčasně použitím jedné z následujících zvlá
 
 ***Zlom očarování.*** Jako akci se dotkneš tvora, který je ve tvém dosahu a je posedlý, vystrašený či zmámený běsem, elementálem, nebešťanem, nemrtvým nebo vílou. Tvor, kterého se dotkneš, přestane být posedlý, vystrašený nebo zmámený takovými tvory.
 
-#### ROZTŘÍŠTĚNÍ
+### ROZTŘÍŠTĚNÍ
 
 *Zaklínání 2. úrovně*
 
@@ -4650,7 +4650,7 @@ Nemagický předmět, který nikdo nedrží ani nenese, utrpí také poškození
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvýší zranění o 1k8.
 
-#### ROZVĚTVENÝ BLESK
+### ROZVĚTVENÝ BLESK
 
 *Zaklínání 6. úrovně*
 
@@ -4670,7 +4670,7 @@ Cíl si musí hodit záchranný hod na Obratnost. Když cíl neuspěje, utrpí b
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. přeskočí z prvního cíle další jeden blesk na další cíl.
 
-#### RŮST ROSTLIN
+### RŮST ROSTLIN
 
 *Transmutace 3. úrovně*
 
@@ -4692,7 +4692,7 @@ Z oblasti účinku kouzla můžeš vyjmout jedno nebo víc míst libovolné veli
 
 Sesíláš-li kouzlo 8 hodin, zúrodníš půdu. Všechny rostliny v okruhu o poloměru půl míle kolem bodu v dosahu se zúrodní na 1 rok. Sklidí se z nich dvakrát více jídla než normálně.
 
-#### RYCHLOST
+### RYCHLOST
 
 *Transmutace 3. úrovně*
 
@@ -4710,7 +4710,7 @@ Zvol tvora, kterého vidíš v dosahu a který s tím souhlasí. Dokud kouzlo ne
 
 Když kouzlo skončí, tvor se bude moci pohybovat a provádět akce až po svém příštím tahu, a to v důsledku vlny otupělosti, která ho zasáhne.
 
-#### RYCHLÝ TOULEC
+### RYCHLÝ TOULEC
 
 *Transmutace 5. úrovně*
 
@@ -4728,7 +4728,7 @@ Proměníš svůj toulec, aby vytvářel nekonečnou zásobu nemagických střel
 
 V každém svém tahu, dokud kouzlo neskončí, můžeš použít bonusovou akci ke dvěma hodům na útok zbraní, která používá střely z tvého toulce. Pokaždé, když provedeš takovýto útok na dálku, tvůj toulec magicky nahradí střelu, kterou jsi použil, obdobnou nemagickou střelou. Střely vytvořené tímto kouzlem se rozloží, když kouzlo skončí. Pokud o toulec přijdeš, kouzlo skončí.
 
-#### SÁDLO
+### SÁDLO
 
 *Vyvolávání 1. úrovně*
 
@@ -4746,7 +4746,7 @@ Zemi pokryje čtverec kluzkého mazadla o straně 2 sáhy se středem v bodě v 
 
 Když se mazadlo objeví, každý tvor stojící v jeho oblasti musí uspět v záchranném hodu na Obratnost, jinak uklouzne a spadne. Tvor, který vstoupí do oblasti, nebo v ní skončí svůj tah, musí také uspět v ověření Obratnosti, jinak uklouzne a spadne.
 
-#### SEJMI KLETBU
+### SEJMI KLETBU
 
 *Vymítání 3. úrovně*
 
@@ -4762,7 +4762,7 @@ Když se mazadlo objeví, každý tvor stojící v jeho oblasti musí uspět v z
 
 Tvým dotykem se ukončí všechny kletby působící na jednoho tvora či předmět. Je-li předmět prokletý kouzelný předmět, jeho kletba zůstane, ale kouzlo přeruší vlastníkovo sladění s předmětem, takže ho lze sundat či odložit.
 
-#### SEN
+### SEN
 
 *Iluze 5. úrovně*
 
@@ -4784,7 +4784,7 @@ Můžeš udělat, aby se posel zdál cíli obludný a děsivý. Uděláš-li to,
 
 Pokud máš část těla, pramen vlasů, ústřižek z nehtu či podobnou část těla cíle, pak cíl má nevýhodu k záchrannému hodu.
 
-#### SEŽEHUJÍCÍ PAPRSEK
+### SEŽEHUJÍCÍ PAPRSEK
 
 *Zaklínání 2. úrovně*
 
@@ -4804,7 +4804,7 @@ Za každý paprsek si hoď na útok na dálku kouzlem. Při zásahu cíl utrpí 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. můžeš vytvořit jeden paprsek navíc.
 
-#### SFÉRICKÁ VAZBA
+### SFÉRICKÁ VAZBA
 
 *Vymítání 5. úrovně*
 
@@ -4824,7 +4824,7 @@ Zavázaný tvor musí plnit tvé instrukce, jak nejlépe dokáže. Můžeš mu p
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. úrovně, trvání je 10 dní. Když použiješ pozici kouzla 7. úrovně, trvání je 30 dní. Když použiješ pozici kouzla 8. úrovně, trvání je 180 dní. Když použiješ pozici kouzla 9. úrovně, trvání je rok a den.
 
-#### SFÉRICKÝ SPOJENEC
+### SFÉRICKÝ SPOJENEC
 
 *Vyvolávání 6. úrovně*
 
@@ -4850,7 +4850,7 @@ Poté, co tvor splní úkol, nebo když uplyne dohodnutá doba služby, vrátí 
 
 Tvor, jenž se přidá k vaší družině, se bere za jejího člena a obdrží plný podíl ze zkušenostní odměny.
 
-#### SCHRÁNKA ŽIVOTA
+### SCHRÁNKA ŽIVOTA
 
 *Nekromancie 6. úrovně*
 
@@ -4878,7 +4878,7 @@ Je-li nádoba zničena nebo kouzlo skončí, tvá duše se okamžitě navrátí 
 
 Když kouzlo skončí, nádoba se zničí.
 
-#### SILOVÁ KLEC
+### SILOVÁ KLEC
 
 *Zaklínání 7. úrovně*
 
@@ -4904,7 +4904,7 @@ Tvor uvnitř klece ji nemůže opustit nemagickými prostředky. Pokusí-li se t
 
 Toto kouzlo nelze rozptýlit pomocí *rozptyl magii*.
 
-#### SKOK
+### SKOK
 
 *Transmutace 1. úrovně*
 
@@ -4920,7 +4920,7 @@ Toto kouzlo nelze rozptýlit pomocí *rozptyl magii*.
 
 Dotkneš se tvora. Dokud kouzlo neskončí, vzdálenost, kterou dokáže skočit, se ztrojnásobí.
 
-#### SKUTEČNÁ PROMĚNA
+### SKUTEČNÁ PROMĚNA
 
 *Transmutace 9. úrovně*
 
@@ -4950,7 +4950,7 @@ Stane-li se kouzlo trvalé, přestaneš tvora ovládat. Může zůstat vůči to
 
 ***Tvor na předmět.*** Přeměníš-li tvora na předmět, tvorovo vybavení splyne s novou podobou. Tvorovy statistiky se stanou statistikami piedmétu a tvor si nic nevzpomíná z doby, kterou strávil v této podobě, když kouzlo skončí a navrátí se do své normální podoby.
 
-#### SLABOMYSLNOST
+### SLABOMYSLNOST
 
 *Očarování 6. úrovně*
 
@@ -4972,7 +4972,7 @@ Vždy po 30 dnech může tvor zopakovat svůj záchranný hod proti tomuto kouzl
 
 Kouzlo lze ukončit také pomocí kouzel *mocné navrácení*, *přání* nebo *uzdrav*.
 
-#### SLEDOVÁNÍ
+### SLEDOVÁNÍ
 
 *Věštění 5. úrovně*
 
@@ -5006,7 +5006,7 @@ Když neuspěje, kouzlo vytvoří neviditelný senzor do 2 sáhů od něj. Prost
 
 Místo zacílení tvora můžeš jako cíl tohoto kouzla zvolit místo, které jsi už někdy viděl. Uděláš-li to, senzor se objeví na daném místě, a nepohybuje se.
 
-#### SLEPOTA NEBO HLUCHOTA
+### SLEPOTA NEBO HLUCHOTA
 
 *Nekromancie 2. úrovně*
 
@@ -5024,7 +5024,7 @@ Můžeš oslepit nebo ohlušit nepřítele. Zvol jednoho tvora, kterého vidíš
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. můžeš zacílit jednoho tvora navíc.
 
-#### SLOVO MOCI „OCHROM "
+### SLOVO MOCI „OCHROM "
 
 *Očarování 8. úrovně*
 
@@ -5042,7 +5042,7 @@ Můžeš oslepit nebo ohlušit nepřítele. Zvol jednoho tvora, kterého vidíš
 
 Ochromený tvor si musí hodit záchranný hod na Odolnost na konci každého svého tahu. Když uspěje, ochromující účinek skončí.
 
-#### SLOVO MOCI „UZDRAV "
+### SLOVO MOCI „UZDRAV "
 
 *Zaklínání 9. úrovně*
 
@@ -5058,7 +5058,7 @@ Ochromený tvor si musí hodit záchranný hod na Odolnost na konci každého sv
 
 Tvora, kterého se dotkneš, zaliješ vlnou léčivé energie. Cíl si obnoví všechny životy.Je-li ochromený, paralyzovaný, vystrašený nebo zmámený, tyto stavy skončí. Pokud leží, může pomocí své reakce vstát. Toto kouzlo nijak nepůsobí na nemrtvé ani výtvory.
 
-#### SLOVO MOCI „ZABIJ "
+### SLOVO MOCI „ZABIJ "
 
 *Očarování 9. úrovně*
 
@@ -5074,7 +5074,7 @@ Tvora, kterého se dotkneš, zaliješ vlnou léčivé energie. Cíl si obnoví v
 
 Proneseš slovo moci, které dokáže přinutit jednoho tvora, kterého vidíš v dosahu, okamžitě zemřít. Má-li cíl 100 či méně životů, zemře. V opačném případě je kouzlo bez účinku.
 
-#### SLOVO NÁVRATU
+### SLOVO NÁVRATU
 
 *Vyvolávání 6. úrovně*
 
@@ -5092,7 +5092,7 @@ Ty a až pět dalších tvorů, kteří s tím souhlasí a jsou do 1 sáhu od te
 
 Musíš stanovit svatyni sesláním tohoto kouzla v místě zasvěcenému nebo silně spojenému s tvým božstvem, například v chrámu. Pokusíš-li se seslat kouzlo tímto způsobem v oblasti, která není zasvěcená tvému božstvu, kouzlo nemá žádný účinek.
 
-#### SLUNEČNÍ ERUPCE
+### SLUNEČNÍ ERUPCE
 
 *Zaklínání 8. úrovně*
 
@@ -5112,7 +5112,7 @@ Tvor, který je slepý kvůli tomuto kouzlu, si hodí další záchranný hod na
 
 Toto kouzlo ve své oblasti rozptýlí jakoukoli tmu vytvořenou pomocí kouzla.
 
-#### SLUNEČNÍ PAPRSEK
+### SLUNEČNÍ PAPRSEK
 
 *Zaklínání 6. úrovně*
 
@@ -5130,7 +5130,7 @@ Jako svou akci v libovolném tahu, dokud kouzlo neskončí, můžeš vytvořit n
 
 Po dobu trvání ve tvé dlani svítí zrnko oslnivého světla. Osvítí jasným světlem okruh o poloměru 6 sáhů a dalších 6 sáhů dosvítí slabým světlem. Jde o sluneční světlo.
 
-#### SPALUJÍCÍ ÚDER
+### SPALUJÍCÍ ÚDER
 
 *Zaklínání 1. úrovně*
 
@@ -5148,7 +5148,7 @@ Až příště zasáhneš tvora útokem na blízko zbraní v průběhu trvání 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší počáteční zranění způsobené útokem o 1k6.
 
-#### SPÁNEK
+### SPÁNEK
 
 *Očarování 1. úrovně*
 
@@ -5170,7 +5170,7 @@ Toto kouzlo nijak nepůsobí na nemrtvé ani tvory, kteří jsou imunní vůči 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. si hoď 2k8 navíc.
 
-#### SPATŘI NEVIDITELNÉ
+### SPATŘI NEVIDITELNÉ
 
 *Věštění 2. úrovně*
 
@@ -5186,7 +5186,7 @@ Toto kouzlo nijak nepůsobí na nemrtvé ani tvory, kteří jsou imunní vůči 
 
 Po dobu trvání vidíš neviditelné tvory a předměty, jako by byly viditelní, a vidíš do Eterické sféry. Eteričtí tvorové a předměty vypadají přízračně a průsvitně.
 
-#### SPEKTRÁLNÍ SPRŠKA
+### SPEKTRÁLNÍ SPRŠKA
 
 *Zaklínání 7. úrovně*
 
@@ -5211,7 +5211,7 @@ Ze tvé ruky vyletí osm různobarevných paprsků světla. Každý paprsek má 
  7. ***Fialová***. Když cíl neuspěje, oslepne. Na začátku tvého příštího tahu si pak musí hodit	záchranný hod na Moudrost. Uspěje-li, slepota skončí. Neuspěje-li i v této záchraně, je okamžitě přenesen do jiné sféry existence, kterou vybere PJ, a přestane být slepý. (Obvykle je to tak, že tvor, který není ve své domovské sféře, je vypuzen domů, a tvor, který je ve své domovské sféře, je obvykle přenesen buď do Astrální, nebo Éterické sféry).
  8. ***Zvláštní***. Tvor je zasažen dvěma paprsky. Hod si ještě dvakrát, a padne-li ti 8, hod zopakuj. 	
 
-#### SPEKTRÁLNÍ ZEĎ
+### SPEKTRÁLNÍ ZEĎ
 
 *Vymítání 9. úrovně*
 
@@ -5251,7 +5251,7 @@ Dokud stojí tato vrstva, kouzla neprojdou skrz zeď. Vrstvu je možné zničit 
 
 Tuto vrstvu je možné zničit kouzlem *rozptyl magii* nebo podobným kouzlem stejné či vyšší úrovně.
 
-#### SPĚŠNÝ ÚSTUP
+### SPĚŠNÝ ÚSTUP
 
 *Transmutace 1. úrovně*
 
@@ -5267,7 +5267,7 @@ Tuto vrstvu je možné zničit kouzlem *rozptyl magii* nebo podobným kouzlem st
 
 Toto kouzlo ti umožňuje pohybovat se neuvěřitelným tempem. Když sešleš toto kouzlo a pak jako bonusovou akci v každém svém tahu, dokud kouzlo neskončí, můžeš provést akci Úprk.
 
-#### SPOJENÍ
+### SPOJENÍ
 
 *Věštění 5. úrovně* *(rituál)*
 
@@ -5287,7 +5287,7 @@ Božské bytosti nemusí být nutně vševědoucí, takže mohou odpovědět „
 
 Sešleš-li kouzlo dvakrát či víckrát před tím, než si důkladně odpočineš, je u každého seslání po prvním kumulativní 25% šance, že nedostaneš žádnou odpověd. PJ si hází tento hod v tajnosti.
 
-#### SPOJENÍ S PŘÍRODOU
+### SPOJENÍ S PŘÍRODOU
 
 *Věštění 5. úrovně* *(rituál)*
 
@@ -5313,7 +5313,7 @@ Okamžitě získáš znalost až o třech faktech dle tvé volby o jakýchkoli n
 
 Například můžeš určit polohu mocného nemrtvého v oblasti, polohu hlavního zdroje bezpečné pitné vody a polohu nedalekých měst.
 
-#### STRACH
+### STRACH
 
 *Iluze 3. úrovně*
 
@@ -5331,7 +5331,7 @@ V myslích tvorů vytvoříš přízračný obraz jejich nejhorších obav. Kaž
 
 Když je tvor vystrašený tímto kouzlem, musí v každém svém tahu provést akci Úprka vzdálit se co nejdál od tebe co nejbezpečnější a nejkratší trasou, pokud ještě je, kam se pohnout. Skončí-li tvor svůj tah na místě, kde na tebe nemá výhled, může si hodit záchranný hod na Moudrost. Uspěje-li, kouzlo pro něj skončí.
 
-#### STRÁŽCE VÍRY
+### STRÁŽCE VÍRY
 
 *Vyvolávání 4. úrovně*
 
@@ -5349,7 +5349,7 @@ Na volném místě dle tvé volby, které vidíš v dosahu, se objeví Velký p�
 
 Každý vůči tobě nepřátelský tvor, který se poprvé v rámci tahu pohne na místo do 2 sáhů od strážce, musí uspět v záchranném hodu na Obratnost. Když tvor neuspěje, utrpí zářivé zranění 20, nebo poloviční zranění při úspěšném záchranném hodu. Strážce zmi zí, když utrpí celkové zranění za 60 životů.
 
-#### STRÁŽNÉ POUTO
+### STRÁŽNÉ POUTO
 
 *Vymítání 2. úrovně*
 
@@ -5367,7 +5367,7 @@ Toto kouzlo stráží tvora, kterého se dotkneš a který s tím souhlasí, a m
 
 Kouzlo skončí, pokud ti klesnou životy na 0, nebo pokud se s cílem vzdálíte od sebe víc než 12 sáhů. Kouzlo také skončí, je-li sesláno znovu na jednoho z propojených tvorů. Kouzlo můžeš také zrušit jako akci.
 
-#### STRÁŽNÝ ZNAK
+### STRÁŽNÝ ZNAK
 
 *Vymítání 3. úrovně*
 
@@ -5397,7 +5397,7 @@ Když vyrýváš znak, zvol buď *výbušné runy*, nebo *znak kouzla*.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší zranění výbušných run o 3k6. Vytvoříš-li znak kouzla, můžeš v něm uložit jakékoliv kouzlo stejné úrovně, jako je úroveň pozice, kterou použiješ pro *strážný znak*.
 
-#### STVOŘ JÍDLO A VODU
+### STVOŘ JÍDLO A VODU
 
 *Vyvolávání 3. úrovně*
 
@@ -5413,7 +5413,7 @@ Když vyrýváš znak, zvol buď *výbušné runy*, nebo *znak kouzla*.
 
 Na zemi nebo v nádobách v dosahu vytvoříš 45 liber jídla a 30 galonů vody, jež vydrží až patnácti humanoidům nebo pěti jízdním zvířatům 24 hodin.Jídlo je mdlé, ale výživné, a nesní-li se do 24 hodin, tak se zkazí. Voda je čistá a nekazí se.
 
-#### STVOŘ NEBO ZNIČ VODU
+### STVOŘ NEBO ZNIČ VODU
 
 *Transmutace 1. úrovně*
 
@@ -5435,7 +5435,7 @@ Buď stvoříš, nebo zničíš vodu.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. stvoříš či zničíš dalších 10 galonů vody, nebo se zvětší velikost strany krychle o 1 sáh.
 
-#### STVOŘ NEMRTVÉ
+### STVOŘ NEMRTVÉ
 
 *Nekromancie 6. úrovně*
 
@@ -5457,7 +5457,7 @@ Tvor je pod tvou kontrolou 24 hodin a poté přestane plnit tebou vydané rozkaz
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. úrovně, můžeš oživit nebo opětovně uplatnit svou kontrolu nad čtyřmi ghúly. Sešleš-li toto kouzlo použitím pozice kouzla 8. úrovně, můžeš oživit nebo opětovně uplatnit svou kontrolu nad pěti ghúly, nebo dvěma ghasty či fexty. Sešleš-li toto kouzlo použitím pozice kouzla 9. úrovně, můžeš oživit nebo opětovně uplatnit svou kontrolu nad šesti ghúly, nebo třemi ghasty či fexty, nebo dvěma mumiemi.
 
-#### STVOŘ PLAMEN
+### STVOŘ PLAMEN
 
 *Vyvolávací trik*
 
@@ -5477,7 +5477,7 @@ Plamenem můžeš i zaútočit, ale uděláš-li to, kouzlo skončí. Když ses�
 
 Zranění tohoto kouzla se zvýší o 1k8, když dosáhneš 5. úrovně (2k8), 11. úrovně (3k8) a 17. úrovně (4k8).
 
-#### SUGESCE
+### SUGESCE
 
 *Očarování 2. úrovně*
 
@@ -5497,7 +5497,7 @@ Cíl si musí hodit záchranný hod na Moudrost. Když neuspěje, drží se tebo
 
 Můžeš také vymezit podmínky, které spustí určitou činnost v průběhu doby trvání kouzla. Můžeš například sugestivně navrhnout, aby rytíř dal svého válečného koně prvnímu žebrákovi, kterého potká. Nesplní-li se dané podmínky před uplynutím doby trvání kouzla, činnost se neprovede. Pokud ty nebo tví společníci zraníte tvora, na něhož působí toto kouzlo, přestane na něj působit.
 
-#### SUKOVICE
+### SUKOVICE
 
 *Transmutační trik*
 
@@ -5513,7 +5513,7 @@ Můžeš také vymezit podmínky, které spustí určitou činnost v průběhu d
 
 Dřevo hole nebo kyje, kterou držíš, se naplní silou přírody. Po dobu trvání můžeš používat svou sesílací vlastnost místo Síly pro hody na útok a na zranění při útočení na blízko touto zbraní a kostka zranění zbraně se změní nak8. Zbraň se také stane magickou, pokud jí ještě není. Kouzlo skončí, pokud ho sešleš znovu, nebo pokud zbraň odložíš.
 
-#### SVATÁ AURA
+### SVATÁ AURA
 
 *Vymítání 8. úrovně*
 
@@ -5529,7 +5529,7 @@ Dřevo hole nebo kyje, kterou držíš, se naplní silou přírody. Po dobu trv�
 
 Zazáří z tebe božské světlo a utvoří jemnou záři v okruhu 6 sáhů kolem tebe. Tvorové v daném okruhu, které zvolíš při sesílání tohoto kouzla, vydávají slabé světlo v okruhu 1 sáh a mají výhodu ke všem záchranným hodům, a ostatní tvorové mají nevýhodu k hodům na útok proti nim, dokud kouzlo neskončí. Mimo to, když běs nebo nemrtvý zasáhne útokem na blízko tvora, na něhož působí toto kouzlo, aura zabliká oslnivým světlem. Útočník musí uspět v záchranném hodu na Odolnost, jinak oslepne, dokud kouzlo neskončí.
 
-#### SVĚTLO
+### SVĚTLO
 
 *Zaklínací trik*
 
@@ -5547,7 +5547,7 @@ Dotkneš se jednoho předmětu, který v žádném rozměru není větší než 
 
 Pokud zacílíš předmět, který drží nebo má na sobě nepřátelský tvor, tak tvor musí uspět v záchranném hodu na Obratnost, aby se vyhnul kouzlu.
 
-#### SVOLEJ BLESKY
+### SVOLEJ BLESKY
 
 *Vyvolávání 3. úrovně*
 
@@ -5569,7 +5569,7 @@ si-li pod širým nebem za bouřkových podmínek, když sesíláš toto kouzlo,
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší zranění o 1k10.
 
-#### SYMBOL
+### SYMBOL
 
 *Vymítání 7. úrovně*
 
@@ -5609,7 +5609,7 @@ Když vyrýváš znak, zvol jako účinek jednu z níže uvedených možností. 
 
 ***Šílenství.*** Každý cíl si musí hodit záchranný hod na Inteligenci. Když cíl neuspěje, na 1 minutu zešílí. Šílený tvor nemůže provádět akce, nerozumí, co říkají ostatní tvorové, neumí číst a říká pouze bláboly. PJ ovládá jeho pohyb, který je nevyzpytatelný.
 
-#### ŠOKUJÍCÍ SEVŘENÍ
+### ŠOKUJÍCÍ SEVŘENÍ
 
 *Zaklínací trik*
 
@@ -5627,7 +5627,7 @@ Z tvé ruky vyšlehne blesk, aby způsobil šok tvorovi, kterého se pokusíš d
 
 Zranění tohoto kouzla se zvýší o 1k8, když dosáhneš 5. úrovně (2k8), 11. úrovně (3k8) a 17. úrovně (4k8).
 
-#### ŠTÍT
+### ŠTÍT
 
 *Vymítání 1. úrovně*
 
@@ -5643,7 +5643,7 @@ Zranění tohoto kouzla se zvýší o 1k8, když dosáhneš 5. úrovně (2k8), 1
 
 Objeví se neviditelná bariéra magické síly, aby tě ochránila. Až do začátku svého příštího tahu máš bonus +5 k OČ, a to i proti spouštěcímu útoku, a magická střela ti nezpůsobí žádné zranění.
 
-#### ŠTÍT PROTI ŽIVÝM
+### ŠTÍT PROTI ŽIVÝM
 
 *Vymítání 5. úrovně*
 
@@ -5663,7 +5663,7 @@ Bariéra zabraňuje ovlivněnému tvorovi, aby prošel či se natáhl skrz. Ovli
 
 Pohneš-li se tak, že ovlivněný tvor je nucen projít bariérou, kouzlo skončí.
 
-#### ŠTÍT VÍRY
+### ŠTÍT VÍRY
 
 *Vymítání 1. úrovně*
 
@@ -5679,7 +5679,7 @@ Pohneš-li se tak, že ovlivněný tvor je nucen projít bariérou, kouzlo skon�
 
 Kolem tvora, kterého zvolíš v dosahu, se objeví třpytivé ochranné pole a poskytne mu bonus +2 k OČ po dobu trvání.
 
-#### TAJEMNÝ VÝŠLEH
+### TAJEMNÝ VÝŠLEH
 
 *Zaklínací trik*
 
@@ -5697,7 +5697,7 @@ K tvorovi v dosahu vyšlehne parsek jiskřící energie. Hoď si na útok na dá
 
 Kouzlo vytvoří víc než jeden paprsek, když dosáhneš vyšší úrovně; dva paprsky na 5. úrovni, tři paprsky na 11. úrovni a čtyři paprsky na a 17. úrovni. Paprsky můžeš nasměrovat na stejný cíl, nebo na různé cíle. Za každý paprsek si hoď na útok zvlášť.
 
-#### TANČÍCÍ SVĚTLA
+### TANČÍCÍ SVĚTLA
 
 *Zaklínací trik*
 
@@ -5715,7 +5715,7 @@ V dosahu vytvoříš až čtyři světla o velikosti pochodně, která vypadají
 
 Jako bonusovou akci můžeš ve svém tahu pohnout světly až o 12 sáhů na nové místo v rámci dosahu. Světlo musí být do 4 sáhy od jiného světla stvořeného tímto kouzlem. Pokud se nějaké světlo vzdálí mimo dosah kouzla, se zablikáním zhasne.
 
-#### TAŠIN DĚSIVÝ SMÍCH
+### TAŠIN DĚSIVÝ SMÍCH
 
 *Očarování 1. úrovně*
 
@@ -5733,7 +5733,7 @@ Tvor dle tvé volby, kterého vidíš v dosahu, vnímá všechno jako náramně 
 
 Na konci každého svého tahu a pokaždé, když utrpí zranění, si může cíl hodit další záchranný hod na Moudrost. Je-li to kvůli zranění, má cíl výhodu k záchrannému hodu. Když uspěje, kouzlo skončí.
 
-#### TELEKINEZE
+### TELEKINEZE
 
 *Transmutace 5. úrovně*
 
@@ -5759,7 +5759,7 @@ Telekinetickym stiskem se můžeš soustředit na jemnou manipulaci s předměty
 
 V pozdějších kolech můžeš použít svou akci k pokusu o udržení svého telekinetického stisku tvora pomocí opakovani konfliktu.
 
-#### TELEPATIE
+### TELEPATIE
 
 *Zaklínání 8. úrovně*
 
@@ -5777,7 +5777,7 @@ Vytvoříš telepatické spojení mezi tebou a tvorem, který s tím souhlasí a
 
 Dokud kouzlo neskončí, můžete navzájem okamžitě sdílet slova, obrázky, zvuky a jiné smyslové zprávy skrz spojení, a cíl tě rozpozná jako tvora, který s ním komunikuje. Kouzlo umožňuje tvorovi s hodnotou Inteligence aspoň 1 chápat význam tvých slov a vnímat smyslové zprávy, které mu posíláš.
 
-#### TELEPORT
+### TELEPORT
 
 *Vyvolávání 7. úrovně*
 
@@ -5819,7 +5819,7 @@ Cílové místo, které zvolíš, musíš znát a musí být ve stejné sféře 
 | Z popisu | 01−43 | 44−53 | 54−73 | 74−100 |
 | Falešné cílové místo | 01−50 | 51−100 | — | — |
 
-#### TELEPORTAČNÍ KRUH
+### TELEPORTAČNÍ KRUH
 
 *Vyvolávání 5. úrovně*
 
@@ -5839,7 +5839,7 @@ Mnoho katedrál, gild a jiných významných míst má trvalé teleportační kr
 
 Trvalý teleportační kruh můžeš vytvořit tak, že toto kouzlo sešleš každý den na stejném místě po dobu jednoho roku. Když sesíláš kouzlo tímto způsobem, nepotřebuješ použít k teleportaci kruh.
 
-#### TENSERŮV LEVITUJÍCÍ DISK
+### TENSERŮV LEVITUJÍCÍ DISK
 
 *Vyvolávání 1. úrovně (rituál)*
 
@@ -5859,7 +5859,7 @@ Disk je nehybný, dokud jsi do 4 sáhy od něj. Pohneš-li se dál než 4 sáhy 
 
 Vzdálíš-li se víc než 20 sáhů od disku (obvykle proto, že tě nemůže následovat kolem překážky), kouzlo skončí.
 
-#### TICHO
+### TICHO
 
 *Iluze 2. úrovně (rituál)*
 
@@ -5875,7 +5875,7 @@ Vzdálíš-li se víc než 20 sáhů od disku (obvykle proto, že tě nemůže n
 
 Uvnitř koule o poloměru 4 sáhy se středem v bodě, který zvolíš v dosahu, nevznikne po dobu trvání žádný zvuk ani neprojde skrz. Každý tvor či předmět, který je celý v kouli, je hluchý a imunní vůči hromovému zranění. Seslání kouzla, které obsahuje verbální složku, je v kouli nemožné.
 
-#### TICHÝ OBRAZ
+### TICHÝ OBRAZ
 
 *Iluze 1. úrovně*
 
@@ -5895,7 +5895,7 @@ Pomocí své akce můžeš způsobit, že se obraz pohne na libovolné místo v 
 
 Fyzická interakce s obrazem prozradí, že jde o iluzi, neboť jím prochází věci. Použije-li tvor svoji akci k pozornému prohlédnutí si obrazu, úspěšným ověřením Inteligence (Pátrání) proti tvému SO záchrany kouzla dokáže určit, že jde o iluzi. Pokud tvor odhalí, že jde o iluzi, může vidět skrz obraz.
 
-#### TMA
+### TMA
 
 *Zaklínání 2. úrovně*
 
@@ -5915,7 +5915,7 @@ Je-li tebou zvolený bod na předmětu, který držíš, nebo na předmětu, kte
 
 Překrývá-li se jakýkoliv oblast tohoto kouzla s plochou světla vytvořeného kouzlem 2. či nižší úrovně, pak kouzlo, které světlo vytvořilo, se rozptýlí.
 
-#### TRIK S LANEM
+### TRIK S LANEM
 
 *Transmutace 2. úrovně*
 
@@ -5937,7 +5937,7 @@ Do mimodimenzionálního prostoru se dá dostat vyšplháním po laně až nahor
 
 Když kouzlo skončí, všechno uvnitř mimodimenzionálního prostoru vypadne.
 
-#### TRNOVÁ ZEĎ
+### TRNOVÁ ZEĎ
 
 *Vyvolávání 6. úrovně*
 
@@ -5959,7 +5959,7 @@ Tvor může projít skrz zeď, i když jen pomalu a bolestivě. Za každý sáh,
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. se zvýší oba typy zranění o 1k8.
 
-#### TRNOVÝ BIČ
+### TRNOVÝ BIČ
 
 *Transmutační trik*
 
@@ -5977,7 +5977,7 @@ Vytvoříš dlouhý bič podobný úponku rostliny s trny, který na tvůj povel
 
 Zranění tohoto kouzla se zvýší o 1k6, když dosáhneš 5. úrovně (2k6), 11. úrovně (3k6) a 17. úrovně (4k6).
 
-#### TRNY
+### TRNY
 
 *Transmutace 2. úrovně*
 
@@ -5995,7 +5995,7 @@ Země v okruhu o poloměru 4 sáhy se středem v bodě v dosahu se zkroutí a r�
 
 Přeměna země je maskovaná, aby vypadala přirozeně. Tvor, který nevidí oblast kouzla v době jeho sesílání, si musí hodit na ověření Moudrosti (Vnímání) proti tvému SO záchrany kouzla, jestli si všimne, že je terén nástraha, než do něj vstoupí.
 
-#### TSUNAMI
+### TSUNAMI
 
 *Vyvolávání 8. úrovně*
 
@@ -6017,7 +6017,7 @@ Na začátku každého tvého tahu poté, co se stěna objeví, se pohne spolu s
 
 Tvor, který je ve stěně chycený, se může pohybovat plaváním. Ale kvůli síle vlny musí uspět v hodu na ověření Síly (Atletiky) proti tvému SO záchrany kouzla, aby se mohl pohnout. Pokud v ověření neuspěje, nemůže se pohnout. Tvor, který vyplave z oblasti, spadne na zem.
 
-#### TVARUJ KÁMEN
+### TVARUJ KÁMEN
 
 *Transmutace 4. úrovně*
 
@@ -6033,7 +6033,7 @@ Tvor, který je ve stěně chycený, se může pohybovat plaváním. Ale kvůli 
 
 Dotkneš se kamenného předmětu Střední či menší třídy velikosti, nebo části kamene, jejíž žádný rozměr není větší než 1 sáh, a vytvaruješ ho do podoby, která vyhovuje tvému záměru. Takže, například, můžeš vytvarovat velký balvan do podoby zbraně, sochy či truhlíku, nebo vytvořit malý průchod kamennou zdí, pokud zeď není tlustší než 1 sáh. Můžeš také vytvarovat kamenné dveře, nebo jeho rám, aby je utěsnil a udržel dveře zavřené. Předmět, který vytvoříš může mít až dva panty a jednu petlici, ale jemnější mechanický detail není možný.
 
-#### TVORBA
+### TVORBA
 
 *Iluze 5. úrovně*
 
@@ -6063,7 +6063,7 @@ Použití jakéhokoli materiálu vytvořeného tímto kouzlem jako surovinovou s
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvětší velikost strany krychle o 1 sáh
 
-#### UBROUSKU, PROSTŘI SE!
+### UBROUSKU, PROSTŘI SE!
 
 *Vyvolávání 6. úrovně*
 
@@ -6081,7 +6081,7 @@ Vytvoříš skvělou hostinu, včetně velkolepého jídla a pití. Hostina trv�
 
 Tvor, který se zúčastní hostiny, získá několik užitků. Uzdraví si veškeré nemoci a jedy, stane se imunní vůči jedu a vystrašení a hází všechny záchranné hody na Moudrost s výhodou. Jeho maximum životů se zvýší o 2k10 a stejné množství životů získá. Tyto užitky trvají 24 hodin.
 
-#### ÚDER ZLOBY
+### ÚDER ZLOBY
 
 *Zaklínání 1. úrovně*
 
@@ -6097,7 +6097,7 @@ Tvor, který se zúčastní hostiny, získá několik užitků. Uzdraví si veš
 
 Až příště zasáhneš útokem na blízko zbraní v průběhu trvání tohoto kouzla, tvůj útok způsobí dodatečné psychické zranění 1k6. Mimo to, pokud je cílem tvor, musí uspět v záchranném hodu na Moudrost, jinak se stane vystrašený, dokud kouzlo neskončí. Jako akci si tvor může hodit na ověření Moudrosti proti tvému SO záchrany kouzla, a pokud uspěje, vzmuží se a ukončí toto kouzlo.
 
-#### UCHVACUJÍCÍ RÉVA
+### UCHVACUJÍCÍ RÉVA
 
 *Vyvolávání 4. úrovně*
 
@@ -6115,7 +6115,7 @@ Vyvoláš révu, jež vyroste ze země na volném místě dle tvé volby, které
 
 Dokud kouzlo neskončí, můžeš v každém svém tahu jako bonusovou akci přikázat révě, aby se ohnala po tom stejném, nebo jiném tvorovi.
 
-#### UKLIDNI EMOCE
+### UKLIDNI EMOCE
 
 *Zaklínání 2. úrovně*
 
@@ -6135,7 +6135,7 @@ Můžeš potlačit jakýkoli účinek způsobující tvorovo vystrašení či zm
 
 Nebo můžeš způsobit, že je cíl lhostejný vůči tvorům, které zvolíš a vůči kterým je nepřátelský. Tato lhostejnost pomine, je-li cíl napaden, či zraněn kouzlem, nebo je-li svědkem, jak jsou zraněni jeho přátelé. Když kouzlo skončí, stane se tvor vůči tobě opět nepřátelský, pokud PJ nerozhodne jinak.
 
-#### ÚKOL
+### ÚKOL
 
 *Očarování 5. úrovně*
 
@@ -6157,7 +6157,7 @@ Kouzlo můžeš ukončit předčasně použitím akce k jeho zrušení. Kouzla *
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či 8. úrovně, trvání je 1 rok. Když použiješ pozici kouzla 9. úrovně, bude kouzlo trvat, dokud nebude ukončeno jedním z výše zmíněných kouzel.
 
-#### UKRYJ MYSL
+### UKRYJ MYSL
 
 *Vymítání 8. úrovně*
 
@@ -6173,7 +6173,7 @@ Kouzlo můžeš ukončit předčasně použitím akce k jeho zrušení. Kouzla *
 
 Dokud kouzlo neskončí, jeden tvor, kterého se dotkneš a který s tím souhlasí, je imunní vůči psychickému zranění, jakémukoli účinku, který by vytušil jeho emoce či četl jeho myšlenky, věšteckým kouzlům a zmámení. Kouzlo dokonce zmaří i kouzlo *přání* a podobně mocná kouzla či účinky použitá pro ovlivnění mysli cíle, nebo pro získání informací o cíli.
 
-#### UPÍŘÍ DOTYK
+### UPÍŘÍ DOTYK
 
 *Nekromancie 3. úrovně*
 
@@ -6191,7 +6191,7 @@ Dotyk tvé stínem ovinuté ruky umí nasát životní sílu ostatních a vylé�
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. či vyšší úrovně, za každou další úroveň pozice nad 3. se zvýší zranění o 1k6.
 
-#### URČENÍ
+### URČENÍ
 
 *Věštění 1. úrovně (rituál)*
 
@@ -6209,7 +6209,7 @@ Zvol jeden předmět, kterého se musíš dotýkat během vyvolávání kouzla. 
 
 Pokud se místo toho dotýkáš během sesílání tvora, zjistíš, jaká kouzla na něj právě působí, jsou-li taková.
 
-#### UŠETŘI UMÍRAJÍCÍHO
+### UŠETŘI UMÍRAJÍCÍHO
 
 *Nekromantický trik*
 
@@ -6225,7 +6225,7 @@ Pokud se místo toho dotýkáš během sesílání tvora, zjistíš, jaká kouzl
 
 Dotkneš se živého tvora, který má 0 životů. Tvor se stabilizuje. Toto kouzlo nijak nepůsobí na nemrtvé ani výtvory.
 
-#### UVĚZNĚNÍ
+### UVĚZNĚNÍ
 
 *Vymítání 9. úrovně*
 
@@ -6265,7 +6265,7 @@ Kouzlo *rozptyl magii* může ukončit kouzlo pouze tehdy, když se sešle jako 
 
 Jednu konkrétní zvláštní surovinu můžeš použít k vytvoření jen jednoho uvěznění najednou. Sešleš-li kouzlo znovu s použitím stejné suroviny, cíl prvního seslání je okamžitě osvobozen ze své vazby.
 
-#### UVRHINI KLETBU
+### UVRHINI KLETBU
 
 *Nekromancie 3. úrovně*
 
@@ -6290,7 +6290,7 @@ Kouzlo *sejmi kletbu* ukončí tento účinek. Dle úvahy PJ si můžeš zvolit 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 4. úrovně, trvání je soustředění, až 10 minut. Když použiješ pozici kouzla 5. či 6. úrovně, trvání je 8 hodin. Když použiješ pozici kouzla 7. či 8. úrovně, trvání je 24 hodin. Když použiješ pozici kouzla 9. úrovně, trvání je do rozptýlení. Použití pozice kouzla 5. či vyšší úrovně poskytuje trvání, které nevyžaduje soustředění.
 
-#### UZDRAV
+### UZDRAV
 
 *Zaklínání 6. úrovně*
 
@@ -6308,7 +6308,7 @@ Zvol tvora, kterého vidíš v dosahu. Projde jím vlna pozitivní energie a tvo
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. se zvýší léčení o 10.
 
-#### VĚČNÝ PLAMEN
+### VĚČNÝ PLAMEN
 
 *Zaklínání 2. úrovně*
 
@@ -6324,7 +6324,7 @@ Zvol tvora, kterého vidíš v dosahu. Projde jím vlna pozitivní energie a tvo
 
 Z předmětu, kterého se dotkneš, vzejde plamen, jehož jas je ekvivalentní k pochodni. Účinek vypadá jako běžný plamen, ale nevytváří žádné teplo a nespotřebovává kyslík. *Věčný plamen* lze zakrýt nebo schovat, ale ne udusit ani uhasit.
 
-#### VEJDI DO KAMENE
+### VEJDI DO KAMENE
 
 *Transmutace 3. úrovně* *(rituál)*
 
@@ -6344,7 +6344,7 @@ V době, kdy splýváš s kamenem, nevidíš, co se děje venku a ke všem ově�
 
 Drobná fyzická poškození kamene ti neublíží, ale jeho částečné zničení nebo změna tvaru (do rozsahu, do které se už nevejdeš) tě vypudí a způsobí ti drtivé zranění 6k6. Úplné zničení kamene (nebo proměna do jiného materiálu) tě vypudí a způsobí ti drtivé zranění 50. Jsi-li vypuzen, spadneš na volné místo, které je nejblíž bodu, ve kterém jsi vstupoval do kamene.
 
-#### VELKÝ OBRAZ
+### VELKÝ OBRAZ
 
 *Iluze 3. úrovně*
 
@@ -6366,7 +6366,7 @@ Fyzická interakce s obrazem prozradí, že jde o iluzi, neboť jím prochází 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, bude kouzlo trvat do rozptýlení a nemusíš se na něj soustředit.
 
-#### VĚŠTĚNÍ
+### VĚŠTĚNÍ
 
 *Věštění 4. úrovně* *(rituál)*
 
@@ -6386,7 +6386,7 @@ Kouzlo nepočítá s potenciálními okolnostmi, které by mohly změnit výsled
 
 Sešleš-li kouzlo dvakrát či víckrát před tím, než si důkladně odpočineš, je u každého seslání po prvním kumulativní 25% šance, že dostaneš chybné údaje. PJ si hází tento hod v tajnosti.
 
-#### VĚTRNÁ CHŮZE
+### VĚTRNÁ CHŮZE
 
 *Transmutace 6. úrovně*
 
@@ -6404,7 +6404,7 @@ Ty a až deset tvorů, kteří s tím souhlasí a které vidíš v dosahu, na se
 
 Je-li tvor v podobě oblaku a letí ve chvíli, kdy účinek skončí, bude klesat rychlostí 12 sáhů za kolo po dobu 1 minuty, dokud bezpečně nepřistane. Nedokáže-li tvor přistát do 1 minuty, zbývající vzdálenost spadne.
 
-#### VĚTRNÁ ZEĎ
+### VĚTRNÁ ZEĎ
 
 *Zaklínání 3. úrovně*
 
@@ -6424,7 +6424,7 @@ Když se zeď objeví, každý tvor v její oblasti si musí hodit záchranný h
 
 Silný vítr drží mlhu, kouř a jiné plyny na uzdě. Malí nebo menší létající tvorové či předměty zdí neproletí. Volné, lehké materiály vzlétávají ve zdi vzhůru. Šípy, šipky do kuše a jiné obyčejné střely vystřelené na cíl za zdí, se vychýlí vzhůru a automaticky minou. (Balvany vržené obry či obléhacími stroji, nebo podobné střely zeď neovlivní) Tvorové v plynné podobě nemohou projít skrz zeď.
 
-#### VIDĚNÍ VE TMĚ
+### VIDĚNÍ VE TMĚ
 
 *Transmutace 2. úrovně*
 
@@ -6440,7 +6440,7 @@ Silný vítr drží mlhu, kouř a jiné plyny na uzdě. Malí nebo menší léta
 
 Dotkneš se tvora, který s tím souhlasí, a udělíš mu schopnost vidět ve tmě. Po dobu trvání má vidění ve tmě na vzdálenost 12 sáhů.
 
-#### VÍLÍ OHEŇ
+### VÍLÍ OHEŇ
 
 *Zaklínání 1. úrovně*
 
@@ -6458,7 +6458,7 @@ Každý předmět v krychli 4 sáhy v dosahu se obalí modrým, zeleným, nebo f
 
 Hody na útok na tvora nebo předmět, na něž působí toto kouzlo, mají výhodu, pokud útočník cíl vidí, a ovlivněný tvor či předmět nemají žádný prospěch z neviditelnosti.
 
-#### VLASTNÍ OBRAZ
+### VLASTNÍ OBRAZ
 
 *Iluze 7. úrovně*
 
@@ -6480,7 +6480,7 @@ Vidíš jejíma očima a slyšíš jejíma ušima, jako bys byl na jejím míst�
 
 Fyzická interakce s obrazem prozradí, že jde o iluzi, neboť jím prochází věci. Použije-li tvor svoji akci k pozornému prohlédnutí si obrazu, úspěšným ověřením Inteligence (Pátrání) proti tvému SO záchrany kouzla dokáže určit, že jde o iluzi. Pokud tvor odhalí, že jde o iluzi, může vidět skrz obraz a jakékoli zvuky, které iluze vydavá, se stanou pro tvora mdlé.
 
-#### VODNÍ DECH
+### VODNÍ DECH
 
 *Transmutace 3. úrovně* (*(rituál)*)
 
@@ -6496,7 +6496,7 @@ Fyzická interakce s obrazem prozradí, že jde o iluzi, neboť jím prochází 
 
 Toto kouzlo dá až deseti tvorům, kteří s tím souhlasí a které vidíš v dosahu, schopnost dýchat pod vodou, dokud kouzlo neskončí. Ovlivnění tvorové si také uchovají svůj normální způsob dýchání.
 
-#### VOLNOST
+### VOLNOST
 
 *Vymítání 4. úrovně*
 
@@ -6514,7 +6514,7 @@ Dotkneš se tvora, který s tím souhlasí. Po dobu trvání na pohyb cíle nep�
 
 Cíl také může utratit 1 sáh pohybu k automatickému uniknutí z nemagického zadržení: například z okovů nebo z chvatu tvora. Mimo to, prostředí pod vodou nezpůsobuje pohybu a útokům cíle žádné postihy.
 
-#### VYNUCENÝ DUEL
+### VYNUCENÝ DUEL
 
 *Zaklínání 1. úrovně*
 
@@ -6532,7 +6532,7 @@ Pokusíš se vynutit s tvorem duel. Jeden tvor, kterého vidíš v dosahu, si mu
 
 Kouzlo skončí, zaútočíš-li na někoho jiného než je cíl tohoto kouzla, sešleš-li kouzlo, které cílí na jiného nepřátelského tvora než je cíl, zraní-li ho tvůj přátelský tvor či sešle-li na něj zraňující kouzlo, nebo skončíš-li svůj tah dál než 6 sáhů od cíle.
 
-#### VYPUZENÍ
+### VYPUZENÍ
 
 *Vymítání 4. úrovně*
 
@@ -6554,7 +6554,7 @@ Patří-li cíl do jiné sféry existence, než ve které se spolu nacházíte, 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 5. či vyšší úrovně, za každou další úroveň pozice nad 4. můžeš zacílit jednoho tvora navíc.
 
-#### VYPUZUJÍCÍ ÚDER
+### VYPUZUJÍCÍ ÚDER
 
 *Vymítání 5. úrovně*
 
@@ -6570,7 +6570,7 @@ Patří-li cíl do jiné sféry existence, než ve které se spolu nacházíte, 
 
 Až příště zasáhneš tvora útokem zbraní v průběhu trvání tohoto kouzla, zbraň zajiskří silou a útok způsobí cíli dodatečné silové zranění 5k10. Pokud navíc toto kouzlo sníží životy cíle na 50 či méně, tvora vypudíš. Patří-li cíl do jiné sféry existence, než ve které se nacházíš spolu s cílem, vypudíš ho s tichým třesknutím zpět do jeho domovské sféry. Je-li sféra existence, ve které se spolu nacházíte, jeho domovskou sférou, vypudíš ho do neškodné polosféry. V ní je cíl neschopný. Zůstane v ní, dokud kouzlo neskončí, načeš se znovu objeví na místě, které opustil, nebo na nejbližším volném místě, pokud je jeho původní místo obsazené.
 
-#### VÝŘEČNOSTI
+### VÝŘEČNOSTI
 
 *Transmutace 8. úrovně*
 
@@ -6586,7 +6586,7 @@ Až příště zasáhneš tvora útokem zbraní v průběhu trvání tohoto kouz
 
 Dokud kouzlo neskončí, tak kdykoliv si hodíš na ověření Charismatu, můžeš nahradit hozené číslo číslem 15. Navíc ať říkáš cokoliv, magie, která má rozhodnout, jestli říkáš pravdu, ukazuje, že říkáš pravdu.
 
-#### VYVOLEJ ELEMENTÁLA
+### VYVOLEJ ELEMENTÁLA
 
 *Vyvolávání 5. úrovně*
 
@@ -6608,7 +6608,7 @@ Pokud přerušíš své soustředění, elementál nezmizí. Místo toho nad ní
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvýší nebezpečnost o 1.
 
-#### VYVOLEJ LESNÍ BYTOSTI
+### VYVOLEJ LESNÍ BYTOSTI
 
 *Vyvolávání 4. úrovně*
 
@@ -6637,7 +6637,7 @@ PJ má statistiky vílích tvorů.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla určité vyšší úrovně, zvolíš jednu z výše uvedených přivolávacích možností, ale objeví se více tvorů: při použití pozice 6. či 7. úrovně dvakrát tolik a při použití pozice 8. či 9. úrovně třikrát tolik.
 
-#### VYVOLEJ NEBEŠŤANA
+### VYVOLEJ NEBEŠŤANA
 
 *Vyvolávání 7. úrovně*
 
@@ -6659,7 +6659,7 @@ PJ má nebešťanovy statistiky.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 9. úrovně, přivoláš nebešťana s nebezpečností 5 či méně.
 
-#### VYVOLEJ NIŽŠÍ ELEMENTÁLY
+### VYVOLEJ NIŽŠÍ ELEMENTÁLY
 
 *Vyvolávání 4. úrovně*
 
@@ -6688,7 +6688,7 @@ PJ má statistiky elementálů.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla určité vyšší úrovně, zvolíš jednu z výše uvedených přivolávacích možností, ale objeví se více elementálů: při použití pozice 6. či 7. úrovně dvakrát tolik a při použití pozice 8. či 9. úrovně třikrát tolik.
 
-#### VYVOLEJ PALBU
+### VYVOLEJ PALBU
 
 *Vyvolávání 3. úrovně*
 
@@ -6704,7 +6704,7 @@ PJ má statistiky elementálů.
 
 Vystřelíš do vzduchu nemagickou střelu ze střelné zbraně, nebo vrhneš do vzduchu nemagickou vrhací zbraň, a vytvoříš tak kužel totožných střel či zbraní, které vystřelí kupředu a pak zmizí. Každý tvor v kuželu 12 sáhů si musí hodit záchranný hod na Obratnost. Když tvor neuspěje, utrpí zranění 3k8, nebo poloviční zranění při úspěšném záchranném hodu. Typ zranění je stejný jako u použité střely či zbraně.
 
-#### VYVOLEJ SALVU
+### VYVOLEJ SALVU
 
 *Vyvolávání 5. úrovně*
 
@@ -6720,7 +6720,7 @@ Vystřelíš do vzduchu nemagickou střelu ze střelné zbraně, nebo vrhneš do
 
 Vystřelíš do vzduchu nemagickou střelu ze střelné zbraně, nebo vrhneš do vzduchu nemagickou vrhací zbraň a zvolíš bod v dosahu. Seshora spadnou v salvě stovky kopií střely či zbraně a pak zmizí. Každý tvor ve válci s poloměrem 9 sáhů, výškou 4 sáhy a středem v daném bodě si musí hodit záchranný hod na Obratnost. Když tvor neuspěje, utrpí zranění 8k8, nebo poloviční zranění při úspěšném záchranném hodu. Typ zranění je stejný jako u použité střely či zbraně.
 
-#### VYVOLEJ VÍLU
+### VYVOLEJ VÍLU
 
 *Vyvolávání 6. úrovně*
 
@@ -6742,7 +6742,7 @@ PJ má statistiky vílího tvora.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 7. či vyšší úrovně, za každou další úroveň pozice nad 6. se zvýší nebezpečnost o 1.
 
-#### VYVOLEJ ZVÍŘATA
+### VYVOLEJ ZVÍŘATA
 
 *Vyvolávání 3. úrovně*
 
@@ -6771,7 +6771,7 @@ PJ má statistiky tvorů.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla určité vyšší úrovně, zvolíš jednu z výše uvedených přivolávacích možností, ale objeví se více tvorů: při použití pozice 5. či 6. úrovně dvakrát tolik, při použití pozice 7. či 8. úrovně třikrát tolik a při použití pozice 9. úrovně čtyřikrát tolik.
 
-#### VZKŘÍŠENÍ
+### VZKŘÍŠENÍ
 
 *Nekromancie 5. úrovně*
 
@@ -6793,7 +6793,7 @@ Toto kouzlo uzavře všechny smrtelné rány, ale neobnoví chybějící části
 
 Navrátit se ze smrti je nesmírně útrpné. Cíl utrpí postih –4 ke všem hodům na útok, záchranným hodům a ověřením vlastností. Pokaždé, když si cíl důkladně odpočine, postih se sníží o 1, dokud úplně nevymizí.
 
-#### ZAHALENÍ
+### ZAHALENÍ
 
 *Transmutace 7. úrovně*
 
@@ -6813,7 +6813,7 @@ Je-li cílem tvor, upadne do stavu zdánlivé smrti. Přestane pro něj plynout 
 
 Můžeš nastavit podmínku, za které kouzlo skončí předčasně. Podmínkou může být, cokoliv si vymyslíš, ale musí nastat nebo být viditelná do 1 míle od cíle. Například, „po 1 000 letech" nebo „když se vzbudí tarask." Toto kouzlo také skončí, utrpí-li cíl zranění.
 
-#### ZÁKAZ
+### ZÁKAZ
 
 *Vymítání 5. úrovně* (*rituál*)
 
@@ -6833,7 +6833,7 @@ Když sesíláš toto kouzlo, můžeš určit heslo. Tvor, který vysloví heslo
 
 Oblast kouzla se nesmí překrývat s oblastí jiného kouzla *zákaz*. Pokud sešleš *zákaz* každý den po dobu 30 dní na stejném místě, kouzlo vydrží, dokud se nerozptýlí, a při posledním seslání se spotřebují surovinové složky kouzla.
 
-#### ZAKLEP
+### ZAKLEP
 
 *Transmutace 2. úrovně*
 
@@ -6855,7 +6855,7 @@ Pokud zvolíš cíl, který drží zavřený mystický zámek, tak se na 10 minu
 
 Když kouzlo sešleš, cílový předmět vyloudí hlasité zaklepání, slyšitelné až 60 sáhů daleko.
 
-#### ZAPLETENÍ
+### ZAPLETENÍ
 
 *Vyvolávání 1. úrovně*
 
@@ -6875,7 +6875,7 @@ Každý tvor, který je v oblasti při seslání kouzla, musí uspět v záchran
 
 Když kouzlo skončí, vyvolané rostliny uvadnou.
 
-#### ZASTAV ČAS
+### ZASTAV ČAS
 
 *Transmutace 9. úrovně*
 
@@ -6893,7 +6893,7 @@ Pro všechny kromě sebe na chvíli zastavíš plynutí času. Zatímco pro osta
 
 Toto kouzlo skončí, pokud nějaká tvá akce či účinek, který vytvoříš v době trvání kouzla, ovlivní někoho jiného než tebe, nebo ovlivní předmět, který někdo jiný drží či nese. Kouzlo skončí také tehdy, vzdálíš-li se od místa, kde jsi kouzlo seslal, dál než 200 sáhů.
 
-#### ZÁVRATNÝ ÚDER
+### ZÁVRATNÝ ÚDER
 
 *Zaklínání 4. úrovně*
 
@@ -6909,7 +6909,7 @@ Toto kouzlo skončí, pokud nějaká tvá akce či účinek, který vytvoříš 
 
 Až příště zasáhneš tvora útokem na blízko zbraní v průběhu trvání tohoto kouzla, zbraň probodne jeho tělo i mysl a útok způsobí cíli dodatečné psychické zranění 4k6. Cíl si musí hodit záchranný hod na Moudrost. Když neuspěje, má nevýhodu k hodům na útok a ověřením vlastností a nemůže reagovat do konce svého příštího tahu.
 
-#### ZBROJ AGATHYSU
+### ZBROJ AGATHYSU
 
 *Vymítání 1. úrovně*
 
@@ -6927,7 +6927,7 @@ Obklopí tě ochranná magická síla, která se projevuje jako přízračná ji
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší dočasné životy i chladné zranění o 5.
 
-#### ZEĎ SÍLY
+### ZEĎ SÍLY
 
 *Zaklínání 5. úrovně*
 
@@ -6945,7 +6945,7 @@ V bodě, který zvolíš v dosahu, se vynoří neviditelná zeď síly. Zeď se 
 
 Zdí fyzicky nic neprojde. Zeď je imunní vůči všem poškozením a nedá se rozptýlit kouzlem *rozptyl magii*. Kouzlo *rozklad* ji však okamžitě zničí. Zeď také přesahuje do Éterické sféry a blokuje éterické cestování skrz zeď.
 
-#### ZEMĚTŘESENÍ
+### ZEMĚTŘESENÍ
 
 *Zaklínání 8. úrovně*
 
@@ -6973,7 +6973,7 @@ Trhlina, která se otevře pod budovou, způsobí, že se budova automaticky zř
 
 ***Budovy.*** Když kouzlo sešleš a na začátku každého tvého tahu, dokud kouzlo neskončí, způsobí otřesy drtivé poškození 50 každé budově na zemi v oblasti. Sníží-li se životy budovy na 0, budova se zřítí a potenciálně zraní blízké tvory. Tvor, který je ve vzdálenosti do poloviny výšky budovy, si musí hodit záchranný hod na Obratnost. Když tvor neuspěje, utrpí drtivé zranění 5k6, je sražen k zemi a trosky ho pohřbí, přičemž uniknout z nich vyžaduje ověření Síly (Atletiky) se SO 20. PJ může SO zvýšit nebo snížit dle povahy trosek. Při úspěšné záchraně utrpí tvor poloviční zranění a není sražen k zemi ani pohřben.
 
-#### ZHOJ ZRANĚNÍ
+### ZHOJ ZRANĚNÍ
 
 *Zaklínání 1. úrovně*
 
@@ -6991,7 +6991,7 @@ Tvor, kterého se dotkneš, si obnoví počet životů rovných 1k8 + tvá oprav
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší léčení o 1k8.
 
-#### ZHOTOV
+### ZHOTOV
 
 *Transmutace 4. úrovně*
 
@@ -7011,7 +7011,7 @@ Zvol surový materiál, který vidíš v dosahu. Můžeš zhotovit Velký či me
 
 Tímto kouzlem nelze stvořit či přeměnit tvory ani kouzelné předměty. Toto kouzlo také nelze použít k výrobě předmětů, které zpravidla vyžadují vysoký stupeň řemeslného umu, například šperky, zbraně, sklo nebo zbroje, pokud nejsi zdatný s typem řemeslnického nářadí, jež se používá k výrobě takových předmětů.
 
-#### ZHOUBA
+### ZHOUBA
 
 *Očarování 1. úrovně*
 
@@ -7029,7 +7029,7 @@ Až tři tvorové dle tvé volby, které vidíš v dosahu, si musí hodit záchr
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. můžeš zacílit jednoho tvora navíc.
 
-#### ZLÉ OKO
+### ZLÉ OKO
 
 *Nekromancie 6. úrovně*
 
@@ -7051,7 +7051,7 @@ Po dobu trvání kouzla se tvé oči stanou inkoustově prázdné, naplněné d�
 
 ***Spánek.*** Cíl upadne do bezvědomí, dokud kouzlo neskončí, nebo dokud spáč neutrpí zranění, nebo dokud někdo nepoužije akci, aby s ním zatřásl, nebo ho propleskal.
 
-#### ZLEPŠI VLASTNOST
+### ZLEPŠI VLASTNOST
 
 *Transmutace 2. úrovně*
 
@@ -7081,7 +7081,7 @@ Dotkneš se tvora a propůjčíš mu magické zlepšení. Zvol jeden z následuj
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. můžeš zacílit jednoho tvora navíc.
 
-#### ZLOMYSLNÝ VÝSMĚCH
+### ZLOMYSLNÝ VÝSMĚCH
 
 *Očarovací trik*
 
@@ -7099,7 +7099,7 @@ Na tvora, kterého vidíš v dosahu, spustíš lavinu urážek protkaných očar
 
 Zranění tohoto kouzla se zvýší o 1k4, když dosáhneš5. úrovně (2k4), 11. úrovně (3k4) a 17. úrovně (4k4).
 
-#### ZMAM OSOBU
+### ZMAM OSOBU
 
 *Očarování 1. úrovně*
 
@@ -7117,7 +7117,7 @@ Pokusíš se zmámit humanoida, kterého zvolís v dosahu. Musí si hodit záchr
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. můžeš ovlivnit jednoho tvora navíc. Tvorové musí být navzájem do 6 sáhů od sebe, když na ně cílíš.
 
-#### ZMATEK
+### ZMATEK
 
 *Očarování 4. úrovně*
 
@@ -7146,7 +7146,7 @@ Na konci každého svého tahu si ovlivněný cíl může hodit záchranný hod 
 | 7 - 8 | Tvor pomocí své akce zaútočí na blízko proti náhodně určenému tvorovi Ve svém dosahu. Není-li nikdo v jeho dosahu, neprovede tvor V tomto tahu nic. | 
 | 9 – 10 | Tvor se může pohybovat a jednat normálně. |
 
-#### ZMĚŇ PAMĚŤ
+### ZMĚŇ PAMĚŤ
 
 *Očarování 5. úrovně*
 
@@ -7172,7 +7172,7 @@ Kouzlo *sejmi kletbu* nebo *mocné navrácení* seslané na cíl obnoví tvorovu
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, můžeš změnit vzpomínky cíle na událost, která se stala až před 7 dny (6. úroveň), 30 dny (7. úroveň), 1 rokem (8. úroveň), nebo kdykoliv v tvorově minulosti (9. úroveň).
 
-#### ZMĚŇ SVŮJ TVAR
+### ZMĚŇ SVŮJ TVAR
 
 *Transmutace 2. úrovně*
 
@@ -7194,7 +7194,7 @@ Vezmeš na sebe jinou podobu. Když sesíláš toto kouzlo, zvol jednu z násled
 
 ***Změna vzhledu.*** Přeměníš svůj vzhled. Rozhodneš, jak máš vypadat, včetně své výšky, váhy, rysů obličeje, znění svého hlasu, délky vlasů, zbarvení a případných rozlišujících charakteristik. Můžeš změnit svůj vzhled za příslušníka jiné rasy, ale žádný z tvých rysů rasy se však nezmění. Také nemůžeš vypadat jako tvor jiné třídy velikosti a tvůj základní tvar těla zůstane stejný; jsi-li například dvounohý, nemůžeš použít toto kouzlo, aby ses stal čtyřnohým. Kdykoliv v době trvání kouzla můžeš použít svou akci k opětovné změně svého vzhledu tímto způsobem.
 
-#### ZMĚNA PODOBY
+### ZMĚNA PODOBY
 
 *Transmutace 9. úrovně*
 
@@ -7220,7 +7220,7 @@ Když se přeměníš, zvolíš si, jestli tvé vybavení upadne na zem, nebo sp
 
 V průběhu trvání tohoto kouzla můžeš pomocí své akce vzít na sebe jiný vzhled dle stejných omezení a pravidel pro původní podobu, s jednou výjimkou: má-li tvá nová podoba více životů než tvá současná, tvé životy zůstanou na své aktuální hodnotě.
 
-#### ZMRTVÝCHVSTÁNÍ
+### ZMRTVÝCHVSTÁNÍ
 
 *Nekromancie 7. úrovně*
 
@@ -7244,7 +7244,7 @@ Návrat ze smrti je nesmírně útrpný. Cíl utrpí postih –4 ke všem hodům
 
 Seslání tohoto kouzla na tvora, jemuž vracíš život po ročním či delším úmrtí, tě velmi zatíží. Dokud si důkladně neodpočineš, nemůžeš sesílat kouzla a všechny tvé hody na útok, ověření vlastností a záchranné hody mají nevýhodu.
 
-#### ZMRZLÝ DÉŠŤ
+### ZMRZLÝ DÉŠŤ
 
 *Vyvolávání 3. úrovně*
 
@@ -7264,7 +7264,7 @@ Zem v oblasti pokryje hladký led, čímž se z ní stane těžký terén. Když
 
 Pokud se tvor soustředí v oblasti kouzla, musí uspět v záchranném hodu na Odolnost proti tvému SO záchrany kouzla, jinak se jeho soustředění přeruší.
 
-#### ZNAMENÍ PROTI ČEPELÍM
+### ZNAMENÍ PROTI ČEPELÍM
 
 *Vymítací trik*
 
@@ -7280,7 +7280,7 @@ Pokud se tvor soustředí v oblasti kouzla, musí uspět v záchranném hodu na 
 
 Natáhneš svou ruku a opíšeš ve vzduchu ochranné znamení. Do konce tvého příštího tahu jsi odolný vůči bodným, drtivým a sečným zraněním způsobenými útoky zbraní.
 
-#### ZNAMENÍ PROTI SMRTI
+### ZNAMENÍ PROTI SMRTI
 
 *Vymítání 4. úrovně*
 
@@ -7300,7 +7300,7 @@ Když by poprvé cíli klesly životy na 0 jako výsledek utrpěného zranění,
 
 Je-li kouzlo stále účinné, když je cíl vystaven účinku, jenž by ho zabil namístě bez způsobení zranění, tak onen účinek místo toho na tento cíl nezafunguje a kouzlo skončí.
 
-#### ZNEHYBNI NESTVŮRU
+### ZNEHYBNI NESTVŮRU
 
 *Očarování 5. úrovně*
 
@@ -7318,7 +7318,7 @@ Zvol tvora, kterého vidíš v dosahu. Cíl musí uspět v záchranném hodu na 
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. můžeš zacílit jednoho tvora navíc. Tvorové musí být navzájem do 6 sáhů od sebe, když na ně cílíš.
 
-#### ZNEHYBNI OSOBU
+### ZNEHYBNI OSOBU
 
 *Očarování 2. úrovně*
 
@@ -7336,7 +7336,7 @@ Zvol humanoida, kterého vidíš v dosahu. Cíl musí uspět v záchranném hodu
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. můžeš zacílit jednoho humanoida navíc. Humanoidi musí být navzájem do 6 sáhů od sebe, když na ně cílíš.
 
-#### ZNOVUZROZENÍ
+### ZNOVUZROZENÍ
 
 *Nekromancie 9. úrovně*
 
@@ -7356,7 +7356,7 @@ Toto kouzlo uzavírá všechny rány, neutralizuje všechny jedy, uzdraví všec
 
 Dokonce dokáže opatřit nové tělo, pokud už původní neexistuje, přičemž v takovém případě musíš vyslovit tvorovo jméno. Poté se objeví na tebou zvoleném volném místě do 2 sáhů od tebe.
 
-#### ZÓNA PRAVDY
+### ZÓNA PRAVDY
 
 *Očarování 2. úrovně*
 
@@ -7374,7 +7374,7 @@ Vytvoříš magickou zónu, která chrání před klamáním v kouli o poloměru
 
 Ovlivněný tvor si je kouzla vědom a může se vyhýbat odpovídání na otázky, na které by normálně zalhal, nebo může být v odpovědích vyhýbavý, pokud se drží v rámci pravdivosti.
 
-#### ZPOMALENÍ
+### ZPOMALENÍ
 
 *Transmutace 3. úrovně*
 
@@ -7396,7 +7396,7 @@ Pokusí-li se tvor seslat kouzlo s dobou vyvolání 1 akce, hoď k20. Padne-li 1
 
 Tvor, na něhož působí toto kouzlo, si hodí další záchranný hod na Moudrost na konci svého tahu. Pokud uspěje, účinek pro něj skončí.
 
-#### ZPRÁVA
+### ZPRÁVA
 
 *Transmutační trik*
 
@@ -7414,7 +7414,7 @@ Ukážeš svým prstem na tvora v dosahu a zašeptáš zprávu. Cíl (a pouze on
 
 Toto kouzlo můžeš seslat skrz pevné objekty, pokud se znáš s cílem a víš, že je za bariérou. Kouzlo neprojde 1 stopou kamene, 1 coulem běžného kovu, tenkou vrstvou olova nebo 3 stopami dřeva či hlíny a utiší ho i magické ticho. Kouzlo nemusí jít po přímce; může zahýbat kolem rohů nebo skrz otvory.
 
-#### ZPŮSOB ZRANĚNÍ
+### ZPŮSOB ZRANĚNÍ
 
 *Nekromancie 1. úrovně*
 
@@ -7432,7 +7432,7 @@ Hoď si na útok na blízko kouzlem proti tvorovi, kterého se můžeš dotknout
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. se zvýší zranění o 1k10.
 
-#### ZRAŇ
+### ZRAŇ
 
 *Nekromancie 6. úrovně*
 
@@ -7448,7 +7448,7 @@ Hoď si na útok na blízko kouzlem proti tvorovi, kterého se můžeš dotknout
 
 Vypustíš zhoubnou nemoc na tvora, kterého vidíš v dosahu. Cíl si musí hodit záchranný hod na Odolnost. Když neuspěje, utrpí nekrotické zranění 14k6, nebo poloviční zranění při úspěšném záchranném hodu. Zranění nemůže snížit počet životů cíle pod 1. Když cíl v záchranném hodu neuspěje, jeho maximum životů se sníží na 1 hodinu o množství rovné utrpěnému nekrotickému zranění. Jakýkoliv účinek, který odstraňuje nemoc, umožňuje, aby se tvorovo maximum životů vrátilo do normálu před uplynutím dané doby.
 
-#### ZRCADLOVÝ OBRAZ
+### ZRCADLOVÝ OBRAZ
 
 *Iluze 2. úrovně*
 
@@ -7472,7 +7472,7 @@ Kopie má OČ rovné 10+ tvá oprava Obratnosti. Pokud útok zasáhne kopii, kop
 
 Toto kouzlo nepůsobí na tvora, který nevidí, nebo se spoléhá na jiné smysly než zrak, například mimozrakové vnímání, nebo když dokáže odhalovat iluze jako falešné, například pravdivým viděním.
 
-#### ZVĚTŠENÍ NEBO ZMENŠENÍ
+### ZVĚTŠENÍ NEBO ZMENŠENÍ
 
 *Transmutace 2. úrovně*
 
@@ -7494,7 +7494,7 @@ Je-li cílem tvor, tak vše, co má na sobě či nese, změní svou velikost spo
 
 ***Zvětšení.*** Velikost cíle se zvětší na dvojnásobek ve všech rozměrech a jeho váha se zvětší na osminásobek normálu. Toto zvětšení zvětší třídu velikosti cíle o jedna – například ze Střední na Velkou. Pokud není dost místa, aby cíl zvětšil svou velikost na dvojnásobek, tvor či předmět dosáhne maximální možnou velikost v dostupném prostoru. Dokud kouzlo neskončí, cíl má také výhodu k ověřením Síly a záchranným hodům na Sílu. Zbraně cíle se také zvětší, aby odpovídaly jeho nové velikosti. Zatímco jsou tyto zbraně zvětšené, útoky cíle s nimi způsobí o 1k4 větší zranění.
 
-#### ZVÍŘECÍ PODOBA
+### ZVÍŘECÍ PODOBA
 
 *Transmutace 8. úrovně*
 
@@ -7514,7 +7514,7 @@ Přeměna vydrží pro daný cíl po dobu trvání, nebo dokud neklesnou jeho ž
 
 Vybavení cíle splyne s novou podobou. Cíl ho nemůže aktivovat, používat, držet ani nijak jinak mít prospěch ze svého vybavení.
 
-#### ZVÍŘECÍ POSEL
+### ZVÍŘECÍ POSEL
 
 *Očarování 2. úrovně (rituál)*
 
@@ -7534,7 +7534,7 @@ Když posel dorazí, doručí tvorovi, kterého jsi popsal, tvou zprávu tvým h
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 3. či vyšší úrovně, za každou další úroveň pozice nad 2. se zvětší trvání kouzla o 48 hodin.
 
-#### ZVÍŘECÍ SMYSLY
+### ZVÍŘECÍ SMYSLY
 
 *Věštění 2. úrovně (rituál)*
 
@@ -7550,7 +7550,7 @@ Když posel dorazí, doručí tvorovi, kterého jsi popsal, tvou zprávu tvým h
 
 Dotkneš se zvířete, které s tím souhlasí. Po dobu trvání kouzla můžeš použít svou akci, abys viděl očima zvířete a slyšel, co slyší. To trvá, dokud nepoužiješ svou akci pro návrat do svých normálních smyslů. Zatímco vnímáš skrz smysly zvířete, máš prospěch z jeho případných zvláštních smyslů, ale jsi slepý a hluchý vůči svému vlastnímu okolí.
 
-#### ŽIVELNÁ ZBRAŇ
+### ŽIVELNÁ ZBRAŇ
 
 *Transmutace 3. úrovně*
 
