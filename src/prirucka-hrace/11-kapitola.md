@@ -3276,7 +3276,7 @@ Toto kouzlo opraví jeden rozbitý, zlomený či roztržený předmět, kterého
 
 Toto kouzlo dokáže fyzicky opravit kouzelný předmět nebo výtvor, ale magii mu obnovit nedokáže.
 
-**OSLEPUJÍCÍ ÚDER**
+#### OSLEPUJÍCÍ ÚDER
 
 *Zaklínání 3. úrovně*
 
