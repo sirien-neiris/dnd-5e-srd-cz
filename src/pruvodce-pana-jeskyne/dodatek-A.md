@@ -459,7 +459,7 @@ Spoléhání na náhodné hody při zaplňování celé jeskyně může vést k�
 | 99–100 | Zbrojnice |  
   
 ### Současný stav místnosti
-  
+
 Pokud má jeskyně bouřlivou minulost, můžeš si hodit pro určení současného stavu jakékoliv části oblasti. Pokud ale místnost stále slouží svému zamýšlenému účelu, zůstává neporušená.
   
 **Současný stav místnosti**
