@@ -101,7 +101,7 @@ Tabulka tvůrců jeskyně obsahuje tvory, kteří typicky budují jeskyně. Tvů
 | 19 | Zřící |
 | 20 | Žádný tvůrce (přírodní jeskyně) |
   
-**Tabulka kultů a náboženských skupin **
+**Tabulka kultů a náboženských skupin**
 
 | k20 | Kult nebo náboženská skupina |
 | --- | --- |
@@ -259,7 +259,7 @@ Pokud potřebuješ pomoct s vytvářením map podzemí od píky, viz dodatek A
   
 Atmosféra, fyzické charakteristiky a původ jeskyní se mohou široce lišit. Stará hrobka může mít kamenné zdi a uvolněné dveře, puch rozkladu a žádné světlo kromě toho, co si dobrodruzi sami přinesou. Sopečné doupě může mít hladké kamenné stěny vymleté dřívějšími výbuchy, magicky zesílené mosazné dveře, zápach síry a světlo z tryskajících ohňů v každé chodbě a místnosti.
   
-##### Zdi
+#### Zdi
   
 Některé jeskyně mají zdi ze zdiva. Jiné mají zdi z pevné skály, vytesané nástroji, které jim daly hrubý, neotesaný vzhled, nebo hladké vymleté průchodem vody či lávy. Nadzemní jeskyně může být vyrobená ze dřeva nebo kompozitních materiálů.
   
@@ -583,6 +583,7 @@ Požadavky na jídlo a vodu uvedené v *Příručce hráče* se týkají pos
 **Tabulka potřebného jídla a vody**
 
 | Třída velikosti tvora | Jídla na den | Voda na den |
+| --- | --- | --- |
 | Drobná | 0,25 libry | 1 máz |
 | Malá | 1 libra | 1 galon |
 | Střední | 1 libra | 1 galon |
@@ -866,6 +867,7 @@ Tabulka náhodných městských střetnutí se hodí pro dobrodružství odehrá
 **Tabulka náhodných městských střetnutí**
   
 | k12 + k8 | Střetnutí |
+| --- | --- |
 | 2 | Kapsář |
 | 3 | Mrtvola |
 | 4 | Najmutí |
@@ -1115,6 +1117,7 @@ Past, která má být **nepříjemná**, nejspíš postavy na vyznačených úro
 **Tabulka SO záchrany a útočných bonusů**
 
 | Závažnost pasti | SO záchrany | Útočný bonus |
+| --- | --- | --- |
 | Nepříjemná | 10–11 | +3 až +5 |
 | Nebezpečná | 12–15 | +6 až +8 |
 | Vražedná | 16–20 | +9 až +12 |
@@ -1122,6 +1125,7 @@ Past, která má být **nepříjemná**, nejspíš postavy na vyznačených úro
 **Tabulka závažnosti zranění dle úrovně**
   
 | Úroveň postav | Nepříjemná | Nebezpečná | Vražedná |
+| --- | --- | --- | --- |
 | 1. – 4. | 1k10 | 2k10 | 4k10 |
 | 5. – 10. | 2k10 | 4k10 | 10k10 |
 | 11. – 16. | 4k10 | 10k10 | 18k10 |
