@@ -270,6 +270,7 @@ Vyžadovaná doba výcviku závisí na úrovni, kterou má postava získat, jak 
 **Tabulka výcviku na další úroveň**
 
 | Dosažená úroveň | Doba výcviku | Cena výcviku |
+| --- | --- | --- |
 | 2.–4. | 10 dní | 20 zl |
 | 5.–10. | 20 dní | 40 zl |
 | 11.–16. | 30 dní | 60 zl |
