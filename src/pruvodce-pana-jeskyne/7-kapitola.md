@@ -2403,7 +2403,7 @@ Kletbu můžeš zlomit obvyklými způsoby. Případně seslání *vypuzení* na
 Ve světě Greyhawk se ví o existenci jen devíti exemplářů z těchto mečů. Každý z nich je podle vzoru legendárního meče Fragarach, který se různě překládá jako „Konečné slovo“. Každý z devíti mečů má své vlastní jméno a přesvědčení a každý má v hrušce zasazen jiný drahokam.
   
 | Název | Přesvědčení | Drahokam |
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | Kousavec | Zákonné zlo | Granát |
 | Odmlouvač | Chaotické zlo | Gagát |
 | Odplacovač | Zákonné dobro | Akvamarín |
@@ -4853,7 +4853,7 @@ Když získáš toto dobrodiní, zvolíš si sféru existence mimo Materiální 
   
 Můžeš si přičíst k10 k jakémukoli svému hodu na ověření vlastnosti, hodu na útok nebo záchrannému hodu. Jakmile použiješ toto dobrodiní, můžeš ho použít znovu, až si krátce odpočineš.
   
-#### #### Dobrodiní výdrže
+#### Dobrodiní výdrže
   
 Tvé maximum životů se zvýší o 40.
   
