@@ -29,6 +29,25 @@ const menu = {
                 '/prirucka-hrace/dodatek-e',
             ]
         },{
+            title: 'Průvodce pána jeskyně',
+            collapsable: true,
+            children: [
+                '/pruvodce-pana-jeskyne/uvod',
+                '/pruvodce-pana-jeskyne/1-kapitola',
+                '/pruvodce-pana-jeskyne/2-kapitola',
+                '/pruvodce-pana-jeskyne/3-kapitola',
+                '/pruvodce-pana-jeskyne/4-kapitola',
+                '/pruvodce-pana-jeskyne/5-kapitola',
+                '/pruvodce-pana-jeskyne/6-kapitola',
+                '/pruvodce-pana-jeskyne/7-kapitola',
+                '/pruvodce-pana-jeskyne/8-kapitola',
+                '/pruvodce-pana-jeskyne/9-kapitola',
+                '/pruvodce-pana-jeskyne/dodatek-A',
+                '/pruvodce-pana-jeskyne/dodatek-B',
+                '/pruvodce-pana-jeskyne/dodatek-C',
+                '/pruvodce-pana-jeskyne/dodatek-D',
+            ]
+        },{
             title: 'Grimoar',
             collapsable: true,
             children: [
