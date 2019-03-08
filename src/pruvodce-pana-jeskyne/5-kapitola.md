@@ -242,15 +242,10 @@ Jeskyně může mít různou velikost, od několika místností v poničeném 
 Mapa jeskyně se dá nejsnadněji nakreslit na čtverečkovaný papír, kde každý čtvereček představuje oblast 2 × 2 sáhy. (Hrajete-li s figurkami na herním plánu, možná dáš přednost měřítku, kde každý čtvereček představuje 1 sáh, nebo rozdělíš dvousáhovou síť na sáhovou, když budeš kreslit své mapy pro boj.) Když kreslíš svou mapu, měj na paměti následující body:
   
  * Asymetrické místnosti a uspořádání mapy dělá jeskyni méně předvídatelnou.
-  
  * Mysli prostorově. Schody, svahy, plošiny, žebříky, balkóny, jámy a jiné změny převýšení dělají jeskyni zajímavější a bojová střetnutí v těchto oblastech náročnější.
-  
  * Dej jeskyni trochu opotřebení. Nechceš-li zdůraznit, že stavitelé jeskyně byli mimořádně zruční, běžně se mohou vyskytovat zřícené chodby a oddělovat dříve propojené části jeskyně. Dřívější zemětřesení mohla vytvořit v jeskyni průrvy. Rozštěpení místností a chodeb může tvořit zajímavé překážky.
-  
  * Včleň přírodní rysy dokonce i do uměle vybudované jeskyně. Středem trpasličí pevnosti může protékat podzemní potok a vytvářet různorodé tvary a velikosti místností a vyžádané rysy jako mosty a odtoky.
-  
  * Přidej několik vchodů a východů. Nic nedá hráčům silnější pocit skutečného rozhodování než několik možností vstupu do jeskyně.
-  
  * Přidej tajné dveře a tajné místnosti jako odměnu pro hráče, kteří si udělají čas na jejich hledání.
   
 Pokud potřebuješ pomoct s vytvářením map podzemí od píky, viz dodatek A.
