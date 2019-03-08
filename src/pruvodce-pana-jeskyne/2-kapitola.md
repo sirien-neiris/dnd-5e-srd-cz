@@ -33,17 +33,11 @@ Jak je popsáno v *Příručce hráče*, předpokládaná kosmologie D&D zahrn
 Většina světů D&D vyžaduje minimálně následující prvky:
   
  * Domovská sféra pro běsy
-  
  * Domovská sféra pro nebešťany
-  
  * Domovská sféra pro elementály
-  
  * Místo pro božstva, které může obsahovat jakékoli či všechny předchozí tři
-  
  * Místo, kam odchází smrtelné duše po smrti, které může obsahovat jakékoli či všechny z první tří
-  
  * Způsob, jak se dostat z jedné sféry do druhé
-  
  * Způsob, jak fungují kouzla a nestvůry, které používají Astrální sféru a Éterickou sféru
   
 Jakmile se usneseš na sférách, které chceš používat ve svém herním světě, můžeš je dát do ucelené kosmologie, ale není to povinné. Protože hlavní způsob cestování ze sféry do sféry, dokonce i s použitím Přechodných sfér, je pomocí magických portálů, které propojí sféry, přesný vztah různých sfér mezi sebou je značně teoretický. Žádná bytost v multivesmíru se nemůže podívat dolů a vidět sféry v takovém rozložení, jak se na ně díváme na diagramu v knize. Žádný smrtelník nemůže potvrdit, jestli hora Celestie je sevřená mezi Bytopií a Arkádií, ale jde o vhodný teoretický konstrukt na základě teoretického překryvu mezi těmito třemi sférami a relativní důležitosti, kterou přikládají zákonu a dobru.
