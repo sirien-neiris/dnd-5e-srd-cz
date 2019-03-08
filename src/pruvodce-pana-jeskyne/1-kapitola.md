@@ -226,21 +226,13 @@ Ať začneš v jakémkoliv měřítku, je snadné se na mapě přibližovat ne
 Místa, kde žijí obyvatelé — rušná velkoměsta, prosperující města a drobné vesnice choulící se mezi mílemi zemědělské půdy — pomáhají vymezit povahu civilizace ve tvém světě. Jediná osada — domovská základna pro tvé dobrodruhy — je ideální místo pro začátek tažení a počátek budování tvého světa. Když ve svém světě vytváříš nějakou osadu, zamysli se nad následujícími otázkami:
   
  * Jakému účelu slouží ve tvé hře?
-  
  * Jak je velká? Kdo v ní žije?
-  
  * Jak vypadá, voní a zní?
-  
  * Kdo jí vládne? Kdo dál má moc? Je součástí většího státu?
-  
  * Jaká je její obrana?
-  
  * Kam jdou postavy, když potřebují zboží a služby?
-  
  * Jaké jsou v ní význačné chrámy a jiné organizace?
-  
  * Jaké fantastické prvky jí odlišují od obyčejného města?
-  
  * Proč by se postavy měli o osadu zajímat?
   
 Pokyny v této části ti mají pomoci vybudovat osadu, jakou chceš z libovolného důvodu. Opomeň rady, které jsou v protikladu s tvou vizí osady.
@@ -454,9 +446,7 @@ Naopak mince z dávno ztracených, legendárních zemí a center ohromné ma
 ***Slitky.*** Velké množství mincí se těžko přenáší a těžko se s ním platí. Mnoho obchodníků dává přednost používání slitků — pruty drahých kovů a slitin (obvykle stříbra) přijme radši v podstatě každý. V každém slitku je vyražený nebo vyrytý symbol obchodní společnosti či vlády, která ho původně vyrobila. Tyto slitky se cení následovně podle váhy:
   
  * Dvoulibrový stříbrný slitek má hodnotu 10 zl a je asi 5 coulů dlouhý, 2 couly široký a půl coulu tlustý.
-  
  * Pětilibrový stříbrný slitek má hodnotu 25 zl a je asi 6 coulů dlouhý, 2 couly široký a 1 coul tlustý.
-  
  * Pětilibrový zlatý slitek má hodnotu 250 zl a má zhruba stejnou velikost jako pětilibrový stříbrný slitek.
   
 Velkoměsto Baldurova brána razí velké množství stříbrných slitků a udává standard pro tuto formu platidla. Velkoměsto Mirabar razí z černého železa vřetenové slitky se čtvercovými konci vážící každý 2 libry. Takový slitek má hodnotu 10 zl v tomto velkoměstě, značně méně v okolních obchodních centrech a jinde má hodnotu jako normální železo (1 st za libru).
@@ -518,9 +508,7 @@ Organizace několikrát zažila vzestup, pád a opět vzestup. Její trvanlivo
 ***Vyznání.*** Vyznání Harfeníků se dá shrnout následovně:
   
  * Nikdo nemůže mít nikdy příliš mnoho informací či mystických znalostí.
-  
  * Příliš mnoho moci vede ke korupci, a zejména zneužívání magie musí být podrobně sledováno.
-  
  * Nikdo by neměl být bezmocný.
   
 ***Cíle.*** Sběr informací po celém Faerûnu, rozlišování politické dynamiky v každém regionu a podpora spravedlnosti a rovnosti tajnými prostředky. Otevřené jednání je nejzazší možnost. Protivení se tyranům a každému vůdci, vládě či skupině, jež se stane příliš mocnou. Podpora slabých, chudých a utlačovaných.
@@ -542,9 +530,7 @@ Veřejná tvář Černé sítě vypadá docela vlídně. Nabízí to nejlepší 
 ***Vyznání.*** Vyznání Zentarim se dá shrnout následovně:
   
  * Zentarim je tvá rodina. Staráš se o ni a ona o tebe.
-  
  * Jsi pánem svého vlastního osudu. Nikdy nebuď míň, než si zasloužíš.
-  
  * Všechno a všichni mají svou cenu.
   
 ***Cíle.*** Nahromaď bohatství, moc a vliv, jimiž ovládni Fearûn.
@@ -620,11 +606,8 @@ Některé světy D&D jsou magičtější než jiné. Na Athasu, nevlídné plane
 Když umísťuješ magii do svého světa, zvaž tyto otázky:
   
  * Je nějaká magie běžná? Je nějaká magie společensky nepřijatelná? Jaká magie je vzácná?
-  
  * Jak neobvyklí jsou příslušníci jednotlivých kouzlících povolání? Jak běžní jsou ti, kdo umí seslat kouzla vysoké úrovně?
-  
  * Jak jsou vzácné kouzelné předměty, magická místa a tvorové s nadpřirozenými schopnostmi? Na jaké úrovni se tyto věci dostávají z každodenních do exotických?
-  
  * Jak úřady regulují a používají magii? Jak používají magii prostí obyvatelé a jak se proti ní chrání?
   
 Odpovědi na některé z otázek vedou k odpovědím na jiné. Například, pokud jsou sesilatelé kouzel nízké úrovně běžní, jako je tomu v Eberronu, pak úřady a prostí obyvatelé mají k takovým kouzlům nejspíš přístup a využívají jejich výsledky. Nákup všední magie je nejen možný, ale také levnější. Obyvatelé nejspíš o známé magii dobře vědí a umí se proti ní chránit, zejména v riskantních situacích.
@@ -692,9 +675,7 @@ Pro každý z těchto kroků dej lokalitám jen nejnutnější detaily. Nemus�
 Když začneš vyvíjet své tažení, budeš muset předat hráčům základní informace o tažení. Pro snadnou distribuci z nich sestav leták. Takový leták obvykle zahrnuje následující údaje:
   
  * Případná omezení nebo nové možnosti pro tvorbu postavy, například nové nebo zakázané rasy.
-  
  * Příběhové informace na pozadí tvého tažení, o kterých by postavy měly vědět. Pokud máš vymyšlené téma nebo směr svého tažení, tyto informace mohou zahrnovat semínka naznačující dané zaměření.
-  
  * Základní informace o oblasti, ve které postavy začínají, například jméno města, důležitá místa v daném městě a okolí, přední CP, o kterých by měli dobrodruzi vědět, a možná zvěsti, které poukazují na vzrůstající problém.
   
 Udělej tento leták stručný a výstižný. Dvě strany jsou rozumné maximum. I když tě popadne tvořivost, s níž vyprodukuješ dvacet stran skvělého materiálu, šetři si ho pro dobrodružství. Nechť hráči odkrývají detaily postupně během hraní.
@@ -706,9 +687,7 @@ Jakmile jsi určil, o čem je tvé tažení, nech hráče, ať ti pomohou s 
 Někteří hráči mohou mít potíže něco vymyslet — ne každý je stejně vynalézavý. Můžeš podnítit jejich tvořivost několika dotazy na jejich postavy:
   
  * Jsi v této oblasti místní? Narodil ses tu a vyrostl jsi tu? Pokud ano, kdo je tvá rodina? Jaké je tvé současné zaměstnání?
-  
  * Přišel jsi sem teprve nedávno? Odkud pocházíš? Proč jsi přišel do této oblasti?
-  
  * Máš vazby na nějakou z organizací nebo na osoby vyskytující se v událostech, jež odstartovaly tažení? Jsou to tví přátelé, nebo nepřátelé?
   
 Poslechni si nápady hráčů a řekni ano, pokud můžeš. I kdybys chtěl, aby všechny postavy vyrostly v počátečním městě, zvaž, jestli nepovolíš, že postava přicestovala nebo se přestěhovala teprve nedávno, pokud je příběh hráče dostatečně přesvědčivý. Můžeš navrhnout změny do příběhu postavy, aby lépe zapadal do tvého světa, nebo do něj vetkni první nitky svého tažení.
@@ -786,11 +765,8 @@ Političtí vůdci jsou monarchové, šlechtici, náčelníci. Náboženští v�
 Nový vůdce otřásá základy tvého herního světa a ve vybraném kraji začíná novou éru. Jak tato osoba nebo tato éra začne ovlivňovat svět? Je několik věcí, které bys měl zvážit při určování vlivu vůdce na svět:
   
  * Jmenuj jednu věc, která po věky platila o světě, ale už neplatí kvůli vzestupu či vlivu tohoto vůdce. Toto je největší změna, která nastane, když se nový vůdce chopí moci, a stane se převládajícím rysem vymezujícím tuto éru, pamětihodnou charakteristikou.
-  
  * Jmenuj osobu (osoby), jejíž smrt, porážka nebo ztráta otevřela dveře novému vůdci, aby se chopil moci. Může jít o vojenskou porážku svržení starých myšlenek, kulturní obrození, nebo něco jiného. Kdo zemřel, byl ztracen nebo poražen? Z čeho nebyli schopni ustoupit? Má nový vůdce účast na dané smrti, porážce či ztrátě, nebo šlo o nahodilou příležitost?
-  
  * Navzdory vůdcovým ctnostem, jedna vada velmi vadí určité části populace. O jakou vadu jde? Jaká osoba či skupina osob udělá vše, aby kvůli ní vůdce zneškodnila? Co je naopak největší ctností vůdce a kdo se za něj kvůli ní postaví?
-  
  * Kdo nyní věří tomuto vůdci, ale stále má určité pohybnosti? Jde o někoho, kdo je vůdci blízký, kdo má jeho důvěru a ví o jeho tajných obavách, pochybnostech nebo zlozvycích.
   
 ***Pád vůdce, konec éry.*** Vše, co začíná, musí i skončit. S pády králů a královen se překreslují mapy světa. Mění se zákony, přichází do módy nové zvyky a staré odchází z výsluní. Přístup občanů k jejich padlému vůdci se mění zprvu nepatrně, ale při pohledu zpět nebo vzpomínce na staré časy se pak mění dramaticky.
@@ -798,13 +774,9 @@ Nový vůdce otřásá základy tvého herního světa a ve vybraném kraji za
 Padlý vůdce mohl být benevolentní vládce, vlivný občan, nebo dokonce protivník postav. Jak smrt této osoby ovlivní ty, kteří bývali pod jeho vlivem? Je několik věcí, které bys měl zvážit při určování vlivu vůdce odcházejícího vůdce:
   
  * Jmenuj jednu pozitivní změnu, kterou přinesl vůdce svému panství nebo sféře vlivu. Přetrvá tato změna i po jeho smrti?
-  
  * Vyjádři obecnou náladu či postoj obyvatel pod mocí této osoby. Jaký důležitý fakt si o této osobě či její vládě neuvědomovali, a později vyjde napovrch?
-  
  * Jmenuj jednu osobu či skupinu, která usiluje o vyplnění následného mocenského vakua.
-  
  * Jmenuj jednu osobu či skupinu, která kula pikle proti tomuto vůdci.
-  
  * Jmenuj tři věci, za které si svět bude tohoto vůdce pamatovat.
   
 #### 3. Obrovská katastrofa
@@ -837,13 +809,9 @@ Božský soud je něco zcela jiného. Tato katastrofa může mít podobu, jakou 
 Můžeš se rozhodnout vymazat město, kraj nebo národ z mapy světa. Katastrofa pustoší zemi a účinně eliminuje to, jak ji postavy znaly. Nech jednoho či dva přeživší, aby postavám pověděli, co se stalo a postarej se, aby postavy pocítily hloubku katastrofy. Jaké jsou pokračující účinky této katastrofy? Následující body ti pomohou vymezit povahu a následky katastrofy:
   
  * Rozhodni, co způsobilo tuto katastrofa a odkud se to vzalo.
-  
  * Tuto událost zvěstovala sudba, nebo série znamení a sudeb. Podrobně vylič sudbu.
-  
  * Popiš nebo jmenuj tvora, který varoval obyvatelstvo před blížící se katastrofou? Kdo ho poslouchal?
-  
  * Kdo jsou ti šťastní (nebo nešťastní), co přežili?
-  
  * Popiš, jak oblast vypadá po katastrofě, v kontrastu s tím, jak vypadala předtím.
   
 #### 4. Napadení nebo vpád
@@ -874,11 +842,8 @@ Urči agresora a jestli představuje známého nepřítele, nebo dříve nezn�
 Nyní zvaž tyto jiné aspekty konfliktu:
   
  * Jmenuj jeden prvek vpádu či napadení, který obránci nečekali nebo ho nemohli odrazit.
-  
  * Prvním obráncům, kteří stáli proti invazi či napadení, se něco stalo — něco, o čem nikdo nechce mluvit. Co to bylo?
-  
  * Útočníci měli pro svou akci motiv, který zprvu nebyl jasný či pochopený. O co šlo?
-  
  * Kdo přiměl zrádce zradit a co tím zvrátili? Proč to udělali? Pokusil se útočník zastavit nájezd, nebo se významný obránce přidal na stranu vetřelců?
   
 #### 5. Povstání, revoluce, převrat
@@ -890,13 +855,9 @@ Měřítko revoluce nemusí zahrnovat masy prostých obyvatel proti šlechtě. R
 Představ si, že část tvého herní světa propukne v revoluci. Vyber mocnou skupinu ve tvém současném tažení a jmenuj (nebo vymysli) skupinu, která jí oponuje a podněcuje revoluci. Pak nechť ti pomohou se zhmotněním konfliktu následující body:
   
  * Jmenuj tři věci, kterých rebelové chtějí dosáhnout, nebo doufají v jejich dosažení.
-  
  * Rebelové dosáhnou vítězství proti těm, které chtějí svrhnout, i za cenu pyrrhova vítězství. Jakých ze svých tří cílů dosáhnou? Jak dlouho tento úspěch nejspíš vydrží?
-  
  * Vyjádři cenu, kterou musel zaplatit starý řád po svém odtržení od moci. Setrval někdo z bývalé mocenské skupiny u moci v průběhu následujícího režimu? Pokud zůstal u moci starý řád, popiš jeden způsob, jakým jeho vůdci potrestali revolucionáře.
-  
  * Jednoho z předních odbojových vůdců — v jistých ohledech tvář revoluce — hnal do jeho účasti na událostech osobní důvod. Popiš tuto osobu a jmenuj skutečný důvod, proč vedla povstání.
-  
  * Jaký problém existoval před evolucí a přetrval jí navzdory?
 
 #### 6. Zánik nebo úpadek
@@ -923,11 +884,8 @@ Co zmizelo ze světa — nebo kraje, který jsi zvolil — co v něm kdysi byl
 Nyní zvaž tyto další otázky:
   
  * Jmenuj teritorium, rasu nebo druh tvora, který spoléhal na věc, která byla ztracena. Jak se s tím vyrovnávají? Jak se pokouší nahradit, co bylo ztraceno?
-  
  * Kdo nebo co je za ztrátu zodpovědný?
-  
  * Popiš bezprostřední následky ztráty. Předpověz jeden způsob, jak ztráta ovlivní či změní svět 
-  
  * v dlouhodobém měřítku. Kdo nebo co bude trpět v důsledku ztráty nejvíc? Komu nebo čemu to nejvíc prospěje?
   
 #### 7. Nová organizace
@@ -954,11 +912,8 @@ V jedné části tvého světa možná vyvstane nová důležitá organizace. 
 Pak zvaž některé, nebo všechny následující možnosti:
   
  * Nový řád vytlačuje současnou mocenskou skupinu ve světě. Získává teritorium, konvertity či přeběhlíky a snižuje stavy předchozí mocenské skupiny. Kdo nebo co tvoří základy tohoto nového vytlačujícího řádu?
-  
  * Nový řád se zamlouvá specifickému publiku. Rozhodni, jestli tento řád přitahuje určitou rasu, společenskou vrstvu, nebo jisté povolání postav.
-  
  * Vůdce tohoto nového řádu je znám svou vlastností, které si váží jeho stoupenci. Rozveď, proč si ho váží za tuto vlastnost a co udělal, že získal přízeň svých stoupenců.
-  
  * Soupeřící skupina se brání založení této nové organizace. Vyber ze svého tažení existující mocenskou skupinu, která vzdoruje nové organizaci, nebo nějakou vytvoř z kategorií v tabulce. Rozhodni, proč nové skupině vzdorují, kdo je vede a co hodlají dělat, aby zastavili svého soupeře.
   
 #### 8. Objev, rozpínání, vynález
@@ -989,11 +944,8 @@ Rozhodni o typu učiněného objevu, nebo pro obecný nápad použij Tabulku o
 Jakmile jsi rozhodl o typu objevu, zhmotni ho tím, že určíš, o co přesně jde, kdo ho objevil a jaký může mít potenciální efekt na svět. Ideálně by ti s vyplněním prázdných míst měly pomoci předchozí dobrodružství ve tvém tažení, ale mysli i na následující:
   
  * Tento objev je vhod zejména jedné osobě, skupině, nebo frakci. Komu prospívá nejvíc? Jmenuj tři prospěchy, které těží z tohoto objevu.
-  
  * Tento objev přímo poškozuje jinou osobu, skupinu, nebo frakci. Koho poškozuje nejvíc?
-  
  * Tento objev má důsledky. Jmenuj tři důsledky nebo postranní efekty. Kdo je ignoruje?
-  
  * Jmenuj dva nebo tři jedince či frakce, které soupeří o ovládnutí nebo zmocnění se tohoto objevu. Kdo nejspíš vyhraje? Co tím získají a co jsou ochotni udělat pro ovládnutí objevu?
   
 #### 9. Předpověď, věštba, proroctví
@@ -1003,13 +955,9 @@ Prognóza světoborné události se někdy stává světobornou událostí sama 
 Představ si, že vyjde najevo světoborné proroctví. Pokud události budou pokračovat tak, jako dosud, proroctví se naplní, a tím se svět dramaticky změní. Nevyhýbej se tomu, aby toto proroctví bylo současně významné i znepokojivé. Měj na paměti následující body:
   
  * Vytvoř proroctví, které předpovídá velkou změnu herního světa. Můžeš ho vytvořit zgruntu pomocí nápadů z aktuálního tažení, nebo náhodně urči světobornou událost a zhmotni podrobnosti.
-  
  * Napiš si seznam aspoň tří věšteb, které nastanou, než se proroctví přihodí. Můžeš použít události, které již v tažení nastaly, takže naplnění proroctví bude blíže. Zbytek jsou události, které mohou, nebo nemusí nastat, podle činů postav.
-  
  * Popiš osobu či tvora, který proroctví objevil, a jak k tomu došlo. Co tvor získal jeho odhalením? Co tím tato osoba ztratila, nebo co obětovala?
-  
  * Popiš jedince či frakci, která proroctví podporuje a pracuje na jeho naplnění. Popiš jedince či frakci, která udělá, co je v její moci, aby proroctví zamezila. Jaký první krok každá ze stran podnikne? Kdo za své úsilí pyká?
-  
  * Jedna část proroctví je chybná. Vyber jednu z věšteb ve svém seznamu, nebo jeden z detailů, který jsi vytvořil pro světobornou událost, jež věštba předpovídá. Zvolená věštba je falešná a je-li to možné, pravdou je její opak.
   
 #### 10. Mýtus a legenda
@@ -1124,21 +1072,13 @@ Herní styl většiny tažení spadá mezi tyto dva extrémy. V tažení je sp
 Rozmysli si svůj oblíbený herní styl pomocí odpovědí na tyto otázky:
   
  * Jsi fanouškem realismu a drsných důsledků, nebo bys byl radši, aby hra působila jako akční film?
-  
  * Chceš, aby hra navozovala dojem středověké fantasy, nebo bys chtěl prozkoumat alternativní časové osy či moderní myšlení?
-  
  * Chceš udržovat vážný tón, nebo je tvým cílem humor?
-  
  * I když jsi vážný, je akce veselá, nebo napjatá?
-  
  * Je klíčový odvážný čin, nebo hráči musí být pozorní a obezřetní?
-  
  * Plánuješ si rád všechno důkladně dopředu, nebo dáváš přednost improvizaci na místě?
-  
  * Je hra plná různých prvků D&D, nebo se soustředí na určité téma, například horor?
-  
  * Je hra pro všechny věkové kategorie, nebo zahrnuje témata pro dospělé?
-  
  * Máš rád morální dvojznačnost, například to, že postavy razí heslo „účel světí prostředky“? Nebo máš radši přímé hrdinské zásady, například spravedlnost, obětování se a pomáhání utiskovaným?
   
 ### Jména postav
@@ -1162,11 +1102,8 @@ Oproti tomu epizodické tažení je jako televizní pořad, kde epizoda každéh
 Téma tažení, tak jako v literárním díle, vyjadřuje hlubší význam příběhu a základní prvky lidské zkušenosti, kterou příběh zkoumá. Tvé tažení nemusí být literárním dílem, ale přesto může čerpat ze společných témat, která dávají příběhům výraznou příchuť. Zvaž následující příklady:
   
  * Tažení o konfrontaci s nevyhnutelnou smrtelností, buď v podobě nemrtvých nestvůr, nebo skrz smrt milovaných osob.
-  
  * Tažení točící se kolem zákeřného zla, buď temných bohů, nestvůrných ras (například yuan-ti), nebo tvorů z neznámých říší, které nezajímají starosti smrtelníků. Když se hrdinové utkávají s tímto zlem, musí u toho čelit také sobeckým, chladným sklonům svých vlastních ras.
-  
  * Tažení zahrnující problémové hrdiny, kteří čelí nejen divokosti bestiálních tvorů světa, ale také bestii uvnitř jich samých — vzteku a zuřivosti, které leží v jejich vlastních srdcích.
-  
  * Tažení zabývající se neukojitelnou touhou po moci a nadvládou, ztělesněnou hostiteli Devíti pekel, nebo humanoidními vládci usilujícími o dobytí světa.
   
 S tématem jako „konfrontace se smrtelností“ můžeš vytvořit široké spektrum dobrodružství, která nejsou nutně spojená se společným padouchem. Jedno dobrodružství může obsahovat mrtvé tvory vstávající z hrobů, u nichž hrozí, že přemohou celé město. Šílený kouzelník v dalším dobrodružství vytvoří masného golema ve snaze vzkřísit svou ztracenou lásku. Padouch může zajít do extrému, aby dosáhl nesmrtelnosti, a vyhnul se tak svému vlastnímu zániku. Dobrodruzi mohou pomoci duchovi přijmout smrt a odejít na věčnost, nebo jeden z dobrodruhů se dokonce může stát duchem\!
