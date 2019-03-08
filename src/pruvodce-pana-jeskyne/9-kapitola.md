@@ -7,7 +7,6 @@ Možnosti v této kapitole se vztahují k mnoha různým částem hry. Někt
 Než přidáš do svého tažení nové pravidlo, zeptej se sám sebe na dvě otázky:
   
  * Zlepší toto pravidlo hru?
-  
  * Bude se mým hráčům líbit?
   
 Pokud jsi přesvědčen, že odpověď na obě otázky je ano, pak nemáš co ztratit, když to vyzkoušíš. Vybídni své hráče, ať ti poskytnou zpětnou vazbu. Pokud pravidlo nebo herní prvek nefunguje zamýšleným způsobem, nebo vaší hře moc nepřidává, můžeš ho vypilovat, nebo pohřbít. Ať je zdrojem pravidla cokoliv, pravidlo slouží vám, ne naopak.
@@ -108,9 +107,7 @@ Pokud vedeš tažení formované striktním kodexem cti, nebo neustálým rizike
 Zde je postup, jak včlenit tyto volitelné vlastnosti do tvorby postavy:
   
  * Pokud tví hráči používají standardní množinu hodnot vlastností, přidej do množiny jednu 11 za každou volitelnost vlastnost, kterou chceš přidat.
-  
  * Pokud tví hráči používají variantu Přizpůsobené hodnoty vlastností, přidej do počtu bodů 3 body za každou volitelnost vlastnost, kterou chceš přidat.
-  
  * Pokud si tví hráči nahazují hodnoty vlastností, nechť si hodí na přidané hodnoty vlastností.
   
 Pokud by sis někdy potřeboval hodit na ověření nebo záchranný hod na Čest či Příčetnost za nestvůru, která nemá danou hodnotu, můžeš použít Charisma jako Čest a Moudrost jako Příčetnost.
@@ -128,21 +125,15 @@ Oproti jiným vlastnostem Čest nelze zvýšit normálním zvýšením hodnot vl
 Můžeš také požádat o ověření Cti, když je postava v jedné z následujících situací:
   
  * Není si jistá, jak se zachovat čestně
-  
  * Vzdává se, ale snaží si uchovat tvář
-  
  * Snaží se určit hodnotu Cti jiné postavy
-  
  * Snaží se chovat vhodně podle etikety v choulostivé společenské situaci
-  
  * Využívá své dobré nebo špatné pověsti k ovlivnění někoho
   
 ***Záchranné hody na Čest.*** Záchranný hod na Čest vstupuje do hry, když chceš určit, jestli postava bezděčně udělá něco nečestného. Můžeš také požádat o záchranný hod na Čest v následujících situacích:
   
  * Vyhnutí se nechtěnému porušení cti či etikety
-  
  * Odolání nutkání reagovat na popichování nebo urážení od nepřítele
-  
  * Rozpoznání, když se nepřítel snaží napálit postavu, aby porušila čest
   
 #### Příčetnost
@@ -154,21 +145,15 @@ Postava s vysokou Příčetností je duševně vyrovnaná, i když čelí š
 ***Ověření Příčetnosti.*** Můžeš požádat postavy, aby si hodily na ověření Příčetnosti místo ověření Inteligence, když si mají vybavit znalost o cizáckých tvorech šílenství, jež se vyskytují ve tvém tažení, rozluštit spisy blouznících šílenců, nebo se naučit kouzla z rukovětí zakázaného vědění. Můžeš také požádat o ověření Příčetnosti, když se postava snaží o jednu z následujících činností:
   
  * Rozluštit kus textu napsaného tak cizáckým jazykem, že hrozí že se postava pomátne
-  
  * Překonat vleklé účinky šílenství
-  
  * Pochopit kus cizácké magie, která se vymyká všemu normálnímu chápání magie.
     
 ***Záchranné hody na Příčetnost.*** Můžeš požádat o záchranný hod na Příčetnost, když postavě hrozí, že podlehne šílenství, jako v následujících situacích:
   
  * Spatření tvora ze Vzdálené říše nebo jiných cizáckých říší poprvé
-  
  * Uzavření přímé dohody s myslí cizácké bytosti
-  
  * Být cílem kouzla, které ovlivňuje mentální vyrovnanost, jako například možnost šílenství kouzla *symbol*
-  
  * Procházení mezisférou založenou na cizácké fyzice
-  
  * Odolání účinku udělenému útokem či kouzlem, které způsobuje psychické zranění
   
 Neúspěšný záchranný hod na Příčetnost může vyústit v krátkodobé, dlouhodobé či trvalé šílenství, jak je popsáno v 8. kapitole, „Vedení hry“. Kdykoliv postava utrpí dlouhodobé či trvalé šílenství, sniž Příčetnost postavy o 1. Kouzlo *mocné navrácení* může obnovit Příčetnost ztracenou tímto způsobem a postava si může zvýšit svou Příčetnost, když postoupí o úroveň.
@@ -497,9 +482,7 @@ Zranění obvykle nezanechává žádné přetrvávající účinky. Tato možno
 Je na tobě rozhodnout, kdy si hodit na dlouhodobý úraz. Tvor může utrpět dlouhodobý úraz za následujících okolností:
   
  * Když utrpí kritický zásah
-  
  * Když se jeho životy sníží na 0, ale není namístě mrtvý
-  
  * Když neuspěje v záchranném hodu proti smrti o 5 či více
   
 Pro určení povahy úrazu si hoď podle Tabulky dlouhodobých úrazů. Tato tabulka předpokládá typickou humanoidní fyziologii, ale výsledky můžeš uzpůsobit pro tvory s odlišnými typy těla.
@@ -543,17 +526,13 @@ Někteří účastníci boje mohou utéct, když se boj otočí proti nim. Toto 
 Tvor se může dát na útěk za následujících okolností:
   
  * Tvor je překvapený.
-  
  * Tvorovi se poprvé v souboji sníží životy na polovinu či méně.
-  
  * Tvor ve svém tahu nemá jak zranit protistranu.
   
 Skupina tvorů se může dát na útěk za následujících okolností:
   
  * Všichni tvorové ve skupině jsou překvapení.
-  
  * Vůdci skupiny klesnou životy na 0, stane se neschopný, upadne do zajetí, nebo je vyřazen ze souboje.
-  
  * Velikost skupiny klesne na polovinu oproti původní velikosti, aniž by protistrana utrpěla nějaké ztráty.
   
 Abys určil, zdali tvor nebo skupina tvorů se dá na útěk, hoď záchranný hod na Moudrost se SO 10 za tvora či vůdce skupiny. Je-li protistrana ohromující, záchranný hod má nevýhodu, nebo můžeš rozhodnout, že záchrana neuspěje automaticky. Pokud si vůdce skupiny z jakéhokoliv důvodu nemůže hodit záchranný hod, nechť si místo něj hodí tvor s nejvyšší hodnotou Charismatu ve skupině.
@@ -1034,7 +1013,6 @@ Dodatek B v *Bestiáři* obsahuje bloky statistik pro běžné archetypy cizí
 Pokud potřebuješ zcela nové statistiky pro CP, máš dvě možnosti:
   
  * Můžeš vytvořit blok statistik CP (podobný těm v *Bestiáři*) podobně jako blok statistik nestvůry, jak se o tom píše v předchozí části.
-  
  * Můžeš vytvořit CP podobně jako hráčskou postavu, jak se o tom píše v *Příručce hráče*.
   
 Rozhodneš-li se, že vytvoříš CP stejným způsobem, jakým se tvoří hráčská postava, můžeš přeskočit volbu zázemí a místo toho pro CP vybrat dvě zdatnosti v dovednostech.
@@ -1082,9 +1060,7 @@ Pomocí pravidel ze 3. kapitoly Příručky hráče můžeš dát nestvůře úr
 Začni s blokem statistik nestvůry. Nestvůra získá všechny schopnosti povolání pro každou úroveň povolání, kterou jí dáš, s následujícími výjimkami:
   
  * Nestvůra nezíská počáteční vybavení daného povolání.
-  
  * Za každou úroveň povolání, kterou nestvůře dáš, získá nestvůra jednu Kostku životů svého normálního typu (dle své velikosti), přičemž ignoruje Kostku životů povolání.
-  
  * Zdatnostní bonus nestvůry je podle její nebezpečnosti, ne podle jejích úrovní povolání.
   
 Jakmile jsi nestvůře přidal úrovně povolání, klidně uprav její hodnoty vlastností, jak se ti hodí (například, zvýšíš nestvůře hodnotu Inteligence, aby byla efektivnějším kouzelníkem) i jakékoliv jiné potřebné úpravy. Budeš muset přepočítat její nebezpečnost, jako kdybys vytvářel nestvůru od nuly.
@@ -1096,11 +1072,8 @@ Nebezpečnost nestvůry se může změnit jen nepatrně, nebo dramaticky zvýši
 Když vytváříš nové kouzlo, vezmi si jako vzor existující kouzla. Zde jsou určité věci na zvážení:
   
  * Je-li kouzlo tak dobré, že by ho sesilatel chtěl používat pořád, možná je příliš mocné pro danou úroveň.
-  
  * Dlouhé trvání nebo rozlehlou oblast lze vyrovnat slabším účinkem, v závislosti na kouzle.
-  
  * Vyhni se kouzlům, která mají velmi omezené použití, například těm, které fungují jen proti dobrým drakům. I když by takové kouzlo mohlo na světě existovat, jen málokteré postavy by se obtěžovaly jeho učením či přípravou, ledaže by věděly dopředu, že se to vyplatí.
-  
  * Ujisti se, že kouzlo je v souladu s identitou povolání. Například kouzelníci a čarodějové obvykle nemají přístup k léčivým kouzlům a přidání léčivého kouzla do seznamu kouzelnických kouzel by bylo zásahem do klerikovy sféry.
   
 ### Zranění kouzla
@@ -1173,7 +1146,6 @@ Pro představu, jak mocný by měl být předmět, dle své vzácnosti, použij 
 Rozhodni, zda předmět vyžaduje, aby se s ním postava sladila, aby využila jeho vlastnosti. Nechť ti při tvém rozhodování pomohou tato obecná pravidla:
   
  * Je-li nežádoucí, aby si všechny postavy v družině předávaly předmět k získání jeho trvalých užitků, měl by předmět vyžadovat sladění.
-  
  * Dává-li předmět bonus, který dávají i jiné předměty, je dobré, aby vyžadoval sladění a postavy se tak nesnažily sbírat příliš mnoho těchto předmětů.
 
 ## Tvorba nových možností postavy
@@ -1185,21 +1157,13 @@ Pokud možnosti pro hráčské postavy v *Příručce hráče* zcela nesplňuj
 Tato část tě naučí, jak upravit existující rasy i jak vytvořit nové. Nejdůležitější krok při upravování nebo vytváření ras pro tvé tažení je začít s příběhem rasy či podrasy, kterou si přeješ vytvořit. Jasná představa o příběhu rasy ve tvém tažení ti pomůže se rozhodovat během procesu tvorby. Polož si několik otázek:
   
  * Proč pro své tažení potřebuji, aby rasa byla hratelná?
-  
  * Jak rasa vypadá?
-  
  * Jak bych popsal kulturu oné rasy?
-  
  * Kde žijí příslušníci této rasy?
-  
  * Vyskytují se v historii a kultuře rasy zajímavé konflikty, kvůli nimž je rasa působivá z příběhového hlediska?
-  
  * Jaký je vztah rasy k ostatním hratelným rasám?
-  
  * Jaká povolání a zázemí se dobře hodí k členům této rasy?
-  
  * Jaké jsou příznačné rysy této rasy?
-  
  * V případě nové podrasy, co ji odlišuje od ostatních podras mateřské rasy?
   
 Srovnej rasu, kterou máš ve své představě, s ostatními možnostmi ras, které jsou hráčům dostupné, a ujisti se, že nová rasa není chabá v porovnání s existujícími možnostmi (což by vedlo k její neoblíbenosti), ani je zcela nezastiňuje (aby hráči neměli pocit, že ostatní možnosti jsou podřadné).
@@ -1249,7 +1213,6 @@ Můžeš se rozhodnout, že použiješ ásimara jako kontrapunkt k rase tiefli
 Zde jsou naše základní cíle pro ásimara:
   
  * Ásimarové by měli být efektivní klerici a paladinové.
-  
  * Ásimarové by měli být pro nebešťany a lidi tím, co jsou tieflingové pro běsy a lidi.
   
 Vzhledem k tomu, že ásimarové a tieflingové jsou jako dvě strany téže mince, tiefling je dobrý výchozí bod pro vymýšlení rysů nové rasy. Neboť chceme, aby ásimar byl efektivní paladin a kněz, dává smysl zvýšit jejich Moudrost a Charisma místo Inteligence a Charismatu.
@@ -1313,11 +1276,8 @@ Konečně, povolání je od toho, aby pomohlo hráči vyjádřit konkrétní kon
 Prvním krokem je zjistit, jakou schopnost povolání nebo skupinu schopností povolání máš v plánu nahradit. Pak musíš stanovit, co každá schopnost přináší danému povolání, aby schopnosti, které přidáš, neudělali povolání přespříliš mocné nebo slabé. Polož si následující otázky o schopnosti, kterou nahrazuješ:
   
  * Jaký dopad má výměna schopnosti na průzkum, sociální interakci nebo boj?
-  
  * Ovlivní výměna schopnosti, jak dlouho může družina pokračovat v dobrodružství během dne?
-  
  * Spotřebovává schopnost zdroje poskytované jinde v povolání?
-  
  * Funguje schopnost pořád, nebo se obnovuje po krátkém odpočinku, důkladném odpočinku, nebo jiném čase?
   
 S odpověďmi na tyto otázky můžeš začít navrhovat nové schopnosti, které nahradí ty, jež odstraňuješ. Je v pořádku, pokud nové schopnosti povolání budou blíž průzkumu, sociální interakci nebo boji, než ty nahrazované, ale dej si pozor, abys nezašel příliš daleko. Například, pokud nahrazuješ schopnost zaměřenou na průzkum nějakou čistě bojovou, uděláš povolání mocnější v boji a může zastínit jiná povolání způsobem, který jsi nezamýšlel.
@@ -1331,9 +1291,7 @@ Každé povolání má aspoň jeden hlavní bod výběru. Klerici si volí božs
 Jakmile máš ve své mysli koncept pro možnost povolání, je na čase navrhnout specifika. Pokud si nejsi jistý, kde začít, podívej se na existující možnosti a jaké schopnosti povolání poskytují. Je naprosto přípustné, že dvě možnosti povolání poskytují podobné schopnosti a je také v pořádku, když se podíváš na jiná povolání, abys našel příklady herních mechanismů, ze kterých můžeš čerpat inspiraci. Pokaždé, když navrhuješ schopnost povolání, polož si následující otázky:
   
  * Jak schopnost povolání posiluje příběh nebo téma možnosti povolání?
-  
  * Existuje nějaká schopnost, která se dá použít jako model?
-  
  * Jak si nová schopnost povolání vede ve srovnání s jinými schopnostmi stejné úrovně?
   
 #### Varianta: Magy
@@ -1355,6 +1313,7 @@ Tento systém lze použít i pro nestvůry, které sesílají kouzla pomocí p
 **Tabulka hodnoty magů**
 
 | Úroveň kouzla | Magy |
+| --- | --- |
 | 1. | 2 |
 | 2. | 3 |
 | 3. | 5 |
@@ -1368,6 +1327,7 @@ Tento systém lze použít i pro nestvůry, které sesílají kouzla pomocí p
 **Tabulka magů podle úrovně**
 
 | Úroveň povolání | Magy | Max. úroveň kouzla |
+| --- | --- | --- |
 | 1. | 4 | 1. |
 | 2. | 6 | 1. |
 | 3. | 14 | 2. | 
