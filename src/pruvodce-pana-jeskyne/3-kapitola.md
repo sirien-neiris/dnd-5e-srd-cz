@@ -167,7 +167,7 @@ Tabulka jeskynních cílů poskytuje běžné cíle, které ženou či lákají 
 | 11 | Zmařte obchodní operaci. |
 | 12 | Zachraňte postavu, nestvůru či předmět před přírodní či nepřírodní katastrofou. |
  
-2. Stanov důležité cizí postavy
+#### 2. Stanov důležité cizí postavy
   
 Použij Tabulku padouchů, Tabulku spojenců a Tabulku patronů, které ti pomohou stanovit tyto cizí postavy. 4. kapitola ti pomůže vdechnout těmto CP život.
   
