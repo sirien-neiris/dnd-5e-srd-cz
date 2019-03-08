@@ -759,13 +759,9 @@ Pokud postavy mají újmu, kterou jejich nepřátelé nemají, zvyš obtížnost
 Situační újmy zahrnují následující:
   
  * Celá družina je překvapená a nepřítel není.
-  
  * Nepřítel má kryt a družina ne.
-  
  * Postavy nedokážou vidět nepřítele.
-  
  * Postavy trpí každé kolo zranění z nějakého účinku prostředí nebo magického zdroje a nepřítel ne.
-  
  * Postavy visí na laně, jsou uprostřed zlézání zdi či skalní stěny, přilepené k podlaze, nebo v nějaké jiné situaci, která výrazně omezuje jejich pohyblivost, nebo která z nich dělá snadné cíle.
   
 Situační prospěchy jsou podobné újmám, ale mají z nich užitek postavy místo nepřítele.
@@ -775,13 +771,9 @@ Situační prospěchy jsou podobné újmám, ale mají z nich užitek postavy 
 Následující rysy mohou bojovému střetnutí dodat více zábavy a překvapení:
   
  * Rysy terénu, které představují skrytá rizika pro postavy i jejich nepřátele, například roztřepený lanový most a jezírka zeleného hlenu
-  
  * Rysy terénu, které poskytují změnu převýšení, například jámy, stohy prázdných beden, římsy a balkóny
-  
  * Rysy, které buď lákají, nebo nutí postavy a jejich nepřátele se pohybovat kolem, například lustry, sudy se střelným prachem či olejem a pasti s vířivou čepelí
-  
  * Nepřátelé na těžko dostupných místech nebo v obranných pozicích, takže postavy, které by normálně útočily z dálky, se musí pohybovat po bojišti
-  
  * Různé typy spolupracujících nestvůr
   
 ## Náhodná střetnutí
@@ -791,15 +783,10 @@ Když postavy prozkoumávají divočinu nebo jeskyní komplex, jsou vděčné za
 Někteří hráči a Páni jeskyně považují náhodná střetnutí v dobrodružství za ztrátu času, nicméně dobře navržená náhodná střetnutí mohou posloužit k různým účelům:
   
  * **Vytvoření naléhavosti.** Dobrodruzi nemají sklon zahálet, když se nad jejich hlavami vznáší hrozba náhodných střetnutí. Touha vyhnout se potulujícím se nestvůrám vytváří silný popud najít bezpečné místo pro odpočinek. (Toho lze často dosáhnout pouhým hodem kostkami za zástěnou PJ, dokonce i bez faktického střetnutí.)
-  
  * **Navození atmosféry.** Výskyt tématicky provázaných tvorů v rámci náhodných střetnutí pomáhá vytvořit konzistentní odstín a atmosféru dobrodružství. Například tabulka střetnutí naplněná netopýry, přízraky, obřími pavouky a zombiemi vytváří pocit hororu a napovídá dobrodruhům, aby se připravili na souboj s ještě mocnějšími tvory noci.
-  
  * **Odsátí zdrojů postav.** Náhodná střetnutí mohou odsát životy a pozice kouzel družiny, což v dobrodruzích zanechá pocit slabosti a zranitelnosti. To vytváří tlak, kdy hráči jsou nuceni dělat rozhodnutí na základě faktu, že jejich postavy nejsou zcela při síle.
-  
  * **Poskytnutí pomoci.** Některá náhodná střetnutí mohou odměnit postavy, místo aby jim překážela nebo je zranila. Užiteční tvorové či CP mohou poskytnout dobrodruhům užitečné informaci nebo pomoc, když to budou potřebovat nejvíc.
-  
  * **Zvýšení zájmu.** Náhodná střetnutí mohou odhalit podrobnosti o tvém světě. Mohou nastínit nebezpečí nebo poskytnout náznaky, které pomohou dobrodruhům se připravit na nadcházející střetnutí.
-  
  * **Posílení témat tažení.** Náhodná střetnutí mohou připomenout hráčům hlavní témata tažení. Například, obsahuje-li tažení probíhající válku mezi dvěma národy, můžeš vytvořit tabulky náhodných střetnutí, které posílí všudypřítomnou povahu konfliktu. Na přátelském území mohou tvé tabulky obsahovat ucourané vojenské jednotky vracející se z bitvy, uprchlíky utíkající před nájezdními vojsky, těžce střežené karavany plné zbraní a osamělé posly na koních jedoucí z předních linií. Když jsou postavy na nepřátelském území, tabulky mohou obsahovat bojiště zaneřáděná nedávno padlými tvory, pochodující armády zlých humanoidů a improvizované šibenice s dezertéry, kteří se pokusili utéct z boje.
   
 Náhodná střetnutí by pro tebe a tvé hráče nikdy neměla být únavná. Dej si pozor, aby hráči neměli pocit, že se nikam neposunují, protože kdykoliv se snaží někam posunout, zhatí jim to další náhodné střetnutí. Podobně si dej pozor, abys neutrácel čas rušivými náhodnými střetnutími, které nic nedávají dobrodružnému vyprávění, nebo které narušují celkové tempo, které se snažíš nastolit.
@@ -811,11 +798,8 @@ Ne každý PJ používá rád náhodná střetnutí. Možná zjistíš, že rozp
 Neboť chceš, aby náhodná střetnutí stavěla na zamýšleném vyprávění herního sezení, ne aby s ním soupeřila, měl bys volit umístění těchto střetnutí pečlivě. Přemýšlej o náhodném střetnutí při jakékoliv z následujících situací:
 
  * Hráči přestávají dávat pozor a hra se zpomaluje.
-  
  * Postavy se zastavily na krátký či důkladný odpočinek.
-  
  * Postavy jsou na dlouhém, jednotvárném putování.
-  
  * Postavy na sebe upoutávají pozornost, když by se měly chovat nenápadně.
   
 #### Ověření náhodných střetnutí
@@ -853,7 +837,6 @@ Ne všechna náhodná střetnutí s nestvůrami se musí řešit bojem. Druži
 Přesto tabulka náhodných střetnutí obvykle obsahuje nepřátelské (i když ne nutně zlé) nestvůry, které jsou určeny k boji. Následující nestvůry se považují za přiměřené bojové výzvy:
   
  * Jediná nestvůra s nebezpečností nižší nebo rovnou úrovni družiny.
-  
  * Skupina nestvůr, jejichž upravená hodnota ZK představuje pro družinu lehkou, střední nebo těžkou výzvu, a to dle pokynů pro tvorbu bojových střetnutí dříve v této kapitole.
   
 **Tabulka střetnutí sylvánských hvozdů**
