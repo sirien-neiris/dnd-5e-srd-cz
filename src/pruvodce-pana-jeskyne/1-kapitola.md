@@ -58,7 +58,7 @@ Svatyně a chrámy slouží pro setkávání komunity při náboženských ob�
   
 Panteon pro svůj svět vytvoříš rychle tak, že přiřadíš jednoho boha každé z osmi domén dostupných klerikům: Bouře, Příroda, Smrt, Světlo, Šalba, Válka, Znalost a Život. Těmto božstvům můžeš vymyslet jména a osobnosti, nebo si půjčit božstva z jiných panteonů. Tento přístup ti dá malý panteon, který pokrývá nejvýznamnější aspekty existence, a je dostatečně jednoduchý k odvození dalších oblastí života, které každé božstvo kontroluje. Například bůh Znalosti může být také patronem magie a proroctví, zatímco bůh Světla může být slunečním bohem a bohem času.
 
-**Tabulka božstev Války úsvitu **
+**Tabulka božstev Války úsvitu**
 
 | Božstvo | Přesvědčení | Doporučené domény | Symbol |
 | --- | --- | --- | --- |
