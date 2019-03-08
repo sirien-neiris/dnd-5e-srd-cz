@@ -17,9 +17,7 @@ Ideálně by se hráči měli sejít u herního stolu se stejným cílem: už�
 Nastav podmínky, za jakých mohou hráči u stolu promlouvat:
   
  * Mějte jasno, kdo mluví: Postava, nebo hráč (mimo postavu).
-  
  * Rozhodni, jestli hráč může sdílet informace, které by jeho postava neměla znát, nebo když postava není schopna je sdělit v důsledku toho, že je v bezvědomí, mrtvá či nepřítomna.
-  
  * Mohou hráči vzít zpět, co právě řekly jejich postavy?
   
 ### Házení kostkami
@@ -31,13 +29,9 @@ Když kostka spadne na podlahu, budeš ji počítat, nebo se hází znovu? Když
 A co ty jako Pán jeskyně? Házíš kostkami tam, kde mohou hráči vidět, nebo své hody skrýváš za zástěnou? Zvaž Je to na tobě, ale uvaž:
   
  * Když házíš tam, kde mohou hráči vidět, pak ví, že hraješ nestranně a nešvindluješ hody.
-  
  * Při házení za zástěnou musí hráče hádat sílu protistrany. Když nestvůra neustále úspěšně zasahuje, je to tím, že má velmi vysokou nebezpečnost, nebo jen házíš sérii vysokých čísel?
-  
  * Házení za zástěnou ti umožňuje švindlovat výsledky, pokud chceš. Pokud by měly dva kritické zásahy v řadě zabít postavu, můžeš chtít změnit druhý kritický zásah na normální, nebo dokonce minutí. Nedělej to však příliš často a nenech se prozradit. Jinak hráči získají dojem, že nečelí žádnému skutečnému nebezpečí — nebo ještě hůř, že nahráváš svým oblíbencům.
-  
  * Hod za zástěnou může pomoci zachovat tajemství. Například, pokud si hráč myslí, že v okolí může být někdo neviditelný a hodí si na ověření Moudrosti (Vnímání), zvaž, jestli si nehodit za zástěnou, i kdyby tam nikdo nebyl, neboť si hráč stále bude moci myslet, že se tam někdo ve skutečnosti schovává. Snaž se, abys tento trik nenadužíval.
-  
  * Můžeš se rozhodnout, že si hodíš za hráče, když nechceš, aby hráč věděl, jak dobrý bude výsledek ověření. Pokud například hráč podezírá baronku, že je zmámená a chce si hodit na ověření Moudrosti (Vhledu), můžeš si hodit v tajnosti za hráče. Kdyby hráč hodil vysoký hod, ale postava by nezjistila nic, co by zmámení potvrzovalo, byl by si jistý, že baronka není zmámená. Při nízkém hodu by záporná odpověď moc nevyřešila. Skrytý hod dovoluje určitou nejistotu.
   
 ### Házení na útok a na zranění
@@ -59,11 +53,8 @@ Odrazuj od toho hráče jemnými slovními připomínkami: „Ale co si myslí v
 Co dělat s postavami chybějících hráčů? Zvaž tyto možnosti:
   
  * Svěř hraní postavy chybějícího hráče jinému hráči. Hráč hrající postavu navíc by měl vyvinout úsilí, aby zachoval postavu naživu a moudře disponoval jejími zdroji.
-  
  * Hraj postavu ty sám. Hrát jako PJ postavu chybějícího hráče je pro tebe práce navíc, ale může to fungovat.
-  
  * Rozhodni, že postava tam není. Vymysli dobrý důvod, proč postava chybí v dobrodružství, třeba že se zdržela ve městě. Ujisti se, že postavě ponecháš prostor opětovně se připojit k družině, až se hráč vrátí.
-  
  * Nech postavu odejít do pozadí. Toto řešení vyžaduje, aby každý trochu přihmouřil oko nad jistou nereálností tohoto kroku v herním světě, ale je to nejsnazší řešení. Jednáte, jako by tam postava nebyla, ale nepokoušíte se vnitroherně vysvětlit její nepřítomnost. Nestvůry na ni neútočí a ona neútočí na ně. Když se hráč vrátí, znovu vstoupí do hry tak, jako by nikdy neodešel.
   
 ### Malé skupiny
@@ -81,9 +72,7 @@ Když se k vaší skupině přidá nový hráč, dovol mu vytvořit si postavu
 Integrování nové postavy do družiny může být obtížné, pokud je družina uprostřed dobrodružství. Následující přístupy to mohou usnadnit:
   
  * Nová postava je přítel či příbuzný jednoho z dobrodruhů, který hledal družinu.
-  
  * Nová postava je vězněm nepřátel, proti kterým bojují ostatní postavy. Když je tato postava osvobozena, přidá s k družině.
-  
  * Nová postava je jediný přeživší jiné skupiny dobrodruhů.
   
 ## Role kostek
@@ -119,7 +108,6 @@ Když hráč chce něco udělat, je často vhodné nechat jeho pokus uspět bez 
 Když se rozhoduješ, jestli použít hod, polož si dvě otázky:
   
  * Je činnost tak snadná, pohodová a bezkonfliktní, že nemá smysl řešit její selhání?
-  
  * Je činnost tak nepřiměřená či nemožná — například zasáhnout šípem měsíc — že prostě nelze provést?
   
 Je-li odpověď na obě tyto otázky ne, pak je vhodný nějaký druh hodu. Následující části poskytují pokyny pro rozhodnutí, jestli vyzvat k hodu na ověření vlastnosti, hodu na útok nebo záchrannému hodu; jak stanovit SO; kdy použít výhodu a nevýhodu; a jiná související témata.
@@ -252,19 +240,14 @@ Postavy zpravidla získávají výhodu či nevýhodu použitím zvláštních sc
 Uvaž poskytnutí **výhody**, když …
   
  * Tvorovi nahrávají okolnosti, jež nejsou spojené s jeho vrozenými schopnostmi.
-  
  * Nějaký aspekt prostředí přispívá k šanci postavy na úspěch.
-  
  * Hráč projevil výjimečnou kreativitu či mazanost při pokusu o činnost nebo popisování činnosti.
-  
  * Předchozí akce (postavy, jež se o činnost pokouší, nebo nějakého jiného tvora) zvyšují šance na úspěch.
   
 Uvaž poskytnutí **nevýhody**, když …
   
  * Okolnosti nějakým způsobem brání úspěchu.
-  
  * Nějaký aspekt prostředí činí úspěch méně pravděpodobným (za předpokladu, že tento aspekt již nezpůsobil postih k současnému hodu).
-  
  * Prvek plánu nebo popisu akce činí úspěch méně pravděpodobným.
   
 Protože výhoda a nevýhoda se vzájemně vyruší, není potřeba si udržovat přehled o tom, kolik okolností se přiklání na tu či onu stranu.
@@ -348,11 +331,8 @@ Jako Pán jeskyně máš širokou paletu barevných nástrojů, které můžeš 
 Neúspěch může být tvrdý, ale jsou to muka, když postava neuspěje o pouhý kousínek. Když postava neuspěje v hodu pouze o 1 či 2, můžeš postavě umožnit uspět za cenu komplikace nebo zádrhelu. Takové komplikace mohou jít ve šlépějích následujících řádků:
   
  * Postavě se podaří projít skrz skurutovu obranu a změnit minutí na zásah, ale skurut stočí svůj štít a odzbrojí ji.
-  
  * Postava jen tak tak unikne plnému náporu *ohnivé koule*, ale upadne při tom na zem.
-  
  * Postavě se nepodaří zastrašit koboldího vězně, ale kobold přesto prozradí svá tajemství, zatímco vříská na celé kolo, čímž zburcuje nestvůry v okolí.
-  
  * Postavě se podaří svízelně vyšplhat na vrchol skalní stěny navzdory kluzkosti, načež zjistí, že lano, na kterém visí její společníci pod ní, se co nevidět přetrhne.
 
 Když zavádíš ceny jako tyto, snaž se je udělat jako překážky a nezdary, které mění povahu situace v dobrodružství. Na oplátku za úspěch hráči musí uvážit nové způsoby, jak čelit výzvě.
@@ -438,7 +418,7 @@ Při neúspěšném ověření postava ztratí stopu, ale může se ji pokusit n
 | Hlína nebo tráva | 15 |
 | Holý kámen | 20 |
 | Každý den od projití tvora | +5 |
-| Tvor zanechal další stopu, například krev −5 |
+| Tvor zanechal další stopu, například krev | −5 |
 
 ## Sociální interakce
   
@@ -1263,9 +1243,7 @@ Jako výchozí bod použij pravidla pro tvorbu bojových střetnutí ve 3. kapit
 Postavy můžeš odměnit ZK i v případě, kdy dokončí významné milníky. Když připravuješ své dobrodružství, stanov určité události nebo výzvy jako milníky, podobné následujícím příkladům:
   
  * Splnění jednoho ze série cílů nutných ke splnění dobrodružství.
-  
  * Objevení skryté oblasti nebo informace, jež se vztahuje k dobrodružství.
-  
  * Dosažení důležitého cílového místa.
   
 Když uděluješ ZK, ber hlavní milník jako těžké střetnutí a vedlejší milník jako lehké střetnutí.
@@ -1273,9 +1251,7 @@ Když uděluješ ZK, ber hlavní milník jako těžké střetnutí a vedlejš�
 Chceš-li odměnit své hráče za jejich postup dobrodružstvím něčím víc než ZK a pokladem, dej jim dodatečné malé odměny na milnících. Zde je několik příkladů:
   
  * Dobrodruzi získají užitek krátkého odpočinku.
-  
  * Postavy si mohou obnovit Kostku životů a pozici kouzla nízké úrovně.
-  
  * Postavy si mohou obnovit jedno použití těch kouzelných předmětů, které mají nějaká spotřebovaná použití.
   
 ### Zvyšování úrovně bez ZK
