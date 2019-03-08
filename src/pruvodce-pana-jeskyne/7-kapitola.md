@@ -1173,9 +1173,7 @@ Tento elegantní oděv je vyroben z nádherné bíle, šedé nebo černé lát
 Když máš na sobě toto roucho, získáš tyto užitky:
   
  * Nemáš-li na sobě zbroj, tvé základní Obranné číslo je 15 + tvá oprava Obratnosti.
-  
  * Máš výhodu k záchranným hodům proti kouzlům a jiným magickým účinkům.
-  
  * SO záchrany kouzla a útočná oprava kouzla se ti oboje zvýší o 2.
   
 #### Berla hemžení hmyzu
@@ -1329,9 +1327,7 @@ Tato zazátkovaná láhev čvachtá, když se s ní zatřese, jako by obsahova
 Jako akci můžeš odejmout zátku a vyslovit jedno ze tří zaklínadel, načež se z karafy vyteče určité množství pitné, nebo slané vody (dle tvé volby). Voda přestane téct na začátku tvého příštího tahu. Zvol z následujících možností:
   
  * „Proud“ vytvoří 1 galon vody.
-  
  * „Fontána“ vytvoří 5 galonů vody.
-  
  * „Gejzír“ vytvoří 30 galonů vody, která vytryskne v 6 sáhů dlouhém a 1 stopu širokém gejzíru. Když karafu držíš, jako bonusovou akci můžeš zamířit gejzír na tvora, kterého vidíš do 6 sáhů od sebe. Cíl musí uspět v záchranném hodu na Sílu se SO 13, jinak utrpí drtivé zranění 1k4 a je sražen k zemi. Místo tvora můžeš zacílit předmět, který nikdo nedrží ani nenese a který neváží více než 200 liber. Předmět se buď převrhne, nebo odtlačí až o 3 sáhy od tebe.
    
 #### Bilarrské ocelové obruče
@@ -1363,9 +1359,7 @@ Kladivo má také 5 dávek. Když jsi s ním sladěný, můžeš spotřebovat 
 Tyto kožešinové boty jsou pohodlné a docela teplé. Když je máš na sobě, získáš následující užitky:
   
  * Jsi odolný vůči chladnému zranění.
-  
  * Ignoruješ těžký terén způsobený ledem či sněhem.
-  
  * Umíš snášet nízkou teplotu až −45°C bez jakékoliv další ochrany. Máš-li zimní oblečení, umíš snášet nízkou teplotu až −75°C.
   
 #### Boty levitace
@@ -1487,9 +1481,7 @@ Máš-li dobré přesvědčení, tak figurka má pokaždé, když ji použiješ,
 ***Slonovinové kozy (vzácné).*** Tyto slonovinové sošky koz jsou vyrobeny vždycky po třech. Každá koza vypadá jinak a funguje odlišným způsoben než ostatní. Jejich vlastnosti jsou následující:
   
  * *Koza cestování* se může stát Velkou kozou se stejnými statistikami jako jezdecký kůň. Má 24 dávek a každou započatou hodinu, kterou stráví ve zvířecí podobě, stojí 1 dávku. Dokud má dávky, můžeš ji používat dle libosti. Když jí dojdou, navrátí se do figurky a nelze použít znovu, dokud neuplyne 7 dní, kdy si dobije všechny dávky.
-  
  * *Koza dřiny* se stane obří kozou až na 3 hodiny. Jakmile se použije, nelze použít znovu, dokud neuplyne 30 dní.
-  
  * *Koza hrůzy* se stane obří kozou až na 3 hodiny. Nemůže útočit, ale můžeš jí vyjmout rohy a použít je jako zbraně. Z jednoho rohu se stane *dřevec +1* a z druhého *dlouhý meč +2*. Vyjmutí rohu vyžaduje akci a zbraně zmizí a rohy se vrátí, když se koza navrátí do podoby figurky. Navíc koza vyzařuje auru hrůzy o poloměru 6 sáhů, když na ní jedeš. Každý tvor, který začne svůj tah v auře a je vůči tobě nepřátelský, musí uspět v záchranném hodu na Moudrost se SO 15, jinak bude vystrašený na 1 minutu, nebo dokud se koza nenavrátí do podoby figurky. Vystrašený tvor může zopakovat záchranný hod na konci každého svého tahu a v případě úspěchu pro něj účinek skončí. Je-li záchranný hod tvora úspěšný nebo účinek pro něj skončí, je tvor imunní vůči auře kozy následujících 24 hodin. Jakmile se figurka použije, nelze použít znovu, dokud neuplyne 15 dní.
   
 ***Stříbrný krkavec (neobvyklý).*** Tato stříbrná soška krkavce se může stát krkavcem až na 12 hodin. Jakmile se použije, nelze použít znovu, dokud neuplynou 2 dny. Dokud je figurka v krkavčí podobě, umožňuje ti libovolně seslat kouzlo *zvířecí posel*.
@@ -1746,7 +1738,7 @@ Toto žezlo vyrobené drowy je magická zbraň, která je zakončené třemi pry
   
 #### Ifrítí drátovka
   
-*Zbroj (drátová), legendární (vyžaduje sladění)/
+*Zbroj (drátová), legendární (vyžaduje sladění)*
   
 Když máš na sobě tuto zbroj, získáš bonus +3 k OČ, jsi imunní vůči ohnivému zranění a rozumíš a umíš mluvit prvotštinou. Navíc můžeš stát na roztavené hornině a chodit po ní, jako by šlo o pevnou zem.
   
@@ -2701,7 +2693,7 @@ Když ti padne při hodu na útok s touto zbraní 20, cíl utrpí dodatečné 
   
 #### Palcát hrůzy
   
-*Zbraň (palcát), vzácný (vyžaduje sladění)
+*Zbraň (palcát), vzácný (vyžaduje sladění)*
   
 Tato magická zbraň má 3 dávky. Když ji držíš, můžeš použít akci k spotřebování 1 dávky a tím vypustit vlnu hrůzy. Každý tvor dle tvé volby do 6 sáhů od tebe musí uspět v záchranném hodu na Moudrost se SO 15, jinak bude tebou vystrašený na 1 minutu. Zatímco je tvor tímto způsobem vystrašený, musí strávit své tahy tím, že se pokouší od tebe maximálně vzdálit a dobrovolně se nepohne na místo do 6 sáhů od tebe. Také nemůže provádět reakce. Jako svou akci může použít pouze Úprk, nebo se pokusit uniknout z účinku, který mu brání se pohnout. Pokud se tvor nemá kam pohnout, může použít akci Uhnutí. Na konci každého svého tahu může tvor zopakovat záchranný hod a při úspěchu pro něj účinek skončí.
   
@@ -2722,13 +2714,9 @@ Když tuto zbraň držíš, svítí jasným světlem v okruhu o poloměru 4 
 Tento hebký oděv je vyroben z černého hedvábí a protkaný jemnými stříbrnými nitkami. Když ho máš na sobě, získáš následující užitky:
   
  * Jsi odolný vůči jedovému zranění.
-  
  * Máš rychlost šplhání rovnou tvé rychlosti chůze.
-  
  * Můžeš se pohybovat nahoru, dolů i do stran na svislých površích, a dokonce i po stropech hlavou dolů s volnýma rukama.
-  
  * Nemůžeš být chycen do pavučin žádného druhu a neprostupnými pavučinami můžeš procházet, jako by šlo o těžký terén, a pavučinami, které jsou jako těžký terén, můžeš procházet zcela volně.
-  
  * Jako akci můžeš seslat kouzlo *pavučina* (SO záchrany 13). Pavučina vytvořená kouzlem vyplní dvojnásobek normální plochy. Tuto vlastnost pláště nelze použít znovu až do příštího úsvitu.
   
 #### Pelerína magického odolání
@@ -2889,7 +2877,6 @@ Prsten má 5 dávek. Každý den za úsvitu si dobije 1k4 + 1 spotřebovaných d
 Pomůžeš-li zabít ohnivého elementála, když jsi sladěn s tímto prstenem, získáš přístup k následujícím dalším vlastnostem:
   
  * Jsi imunní vůči ohnivému zranění.
-  
  * Spotřebováním jistého množství dávek můžeš z prstenu seslat následující kouzla: *hořící ruce* (1 dávka), *ohnivá koule* (2 dávky) nebo *ohnivá zeď* (3 dávky).
   
 ***Prsten ovládání vodního živlu.*** Můžeš spotřebovat 2 dávky prstenu k seslání *podrob nestvůru* na vodního elementála. Mimo to můžeš stát na kapalných površích a chodit po nich, jako by šlo o pevnou zem. Umíš mluvit a rozumíš aquanštině.
@@ -2897,7 +2884,6 @@ Pomůžeš-li zabít ohnivého elementála, když jsi sladěn s tímto prstene
 Pomůžeš-li zabít vodního elementála, když jsi sladěn s tímto prstenem, získáš přístup k následujícím dalším vlastnostem:
   
  * Můžeš dýchat pod vodou a máš rychlost plavání rovnou tvé rychlosti chůze.
-  
  * Spotřebováním jistého množství dávek můžeš z prstenu seslat následující kouzla: *ledová bouře* (2 dávky), *ledová zeď* (3 dávky), *ovládni vodu* (3 dávky) či *stvoř nebo znič vodu* (1 dávka).
   
 ***Prsten ovládání vzdušného živlu.*** Můžeš spotřebovat 2 dávky prstenu k seslání *podrob nestvůru* na vzdušného elementála. Mimo to když spadneš z výšky, budeš klesat rychlostí 12 sáhů za kolo a neutrpíš žádné zranění z pádu. Umíš mluvit a rozumíš auranštině.
@@ -2905,9 +2891,7 @@ Pomůžeš-li zabít vodního elementála, když jsi sladěn s tímto prstenem
 Pomůžeš-li zabít vzdušného elementála, když jsi sladěn s tímto prstenem, získáš přístup k následujícím dalším vlastnostem:
   
  * Jsi odolný vůči bleskovému zranění.
-  
  * Máš rychlost létání rovnou tvé rychlosti chůze a můžeš se vznášet.
-  
  * Spotřebováním jistého množství dávek můžeš z prstenu seslat následující kouzla: *poryv větru* (2 dávky), *rozvětvený blesk* (3 dávky) nebo *větrná zeď* (1 dávka).
   
 ***Prsten ovládání zemního živlu.*** Můžeš spotřebovat 2 dávky prstenu k seslání *podrob nestvůru* na zemního elementála. Mimo to se můžeš pohybovat v těžkém terénu, který se skládá ze suti, trosek či balvanů, jako by to byl normální terén. Umíš mluvit a rozumíš terranštině.
@@ -2915,9 +2899,7 @@ Pomůžeš-li zabít vzdušného elementála, když jsi sladěn s tímto prste
 Pomůžeš-li zabít zemního elementála, když jsi sladěn s tímto prstenem, získáš přístup k následujícím dalším vlastnostem:
   
  * Jsi odolný vůči kyselinovému zranění.
-  
  * Můžeš se pohybovat skrz pevnou zem či skálu, jako by šlo o těžký terén. Skončíš-li v ní svůj tah, přesuneš se ven na nejbližší volné místo, které jsi naposledy zabíral.
-  
  * Spotřebováním jistého množství dávek můžeš z prstenu seslat následující kouzla: *kamenná kůže* (3 dávky), *kamenná zeď* (3 dávky) nebo *tvaruj kámen* (2 dávky).
   
 #### Prsten ovlivňování zvířat
@@ -2927,9 +2909,7 @@ Pomůžeš-li zabít zemního elementála, když jsi sladěn s tímto prstenem
 Prsten má 3 dávky a každý den za úsvitu si dobije 1k3 spotřebovaných dávek. Když ho máš navléknutý, můžeš pomocí akce spotřebovat 1 z jeho dávek k seslání jednoho z následujících kouzel:
   
  * *Přátelství zvířat* (SO záchrany 13)
-  
  * *Strach* (SO záchrany 13), který cílí pouze na zvířata, která mají Inteligenci 3 či nižší
-  
  * *Mluv se zvířaty*
   
 #### Prsten padajících hvězd
@@ -3203,9 +3183,7 @@ Toto roucho má 3 dávky a každý den za úsvitu si dobije 1k3 spotřebovaný
 Toto roucho je ozdobeno vzory podobným očím. Když ho máš na sobě, získáš následující užitky:
   
  * Roucho ti umožňuje vidět všemi směry a máš výhodu k ověřením Moudrosti (Vnímání), která se opírají o zrak.
-  
  * Máš vidění ve tmě do vzdálenosti 24 sáhů.
-  
  * Vidíš neviditelné tvory a předměty a vidíš i do Éterické sféry, do vzdálenosti 24 sáhů.
   
 Oči na rouchu se nedají zavřít ani odvrátit. I když můžeš zavřít nebo odvrátit své vlastní oči, není ti to nic platné, když máš na sobě toto roucho.
@@ -3341,7 +3319,6 @@ Když máš na sobě tyto boty, tvá rychlost chůze je 6 sáhů, není-li již 
 Podržíš-li ve své ruce tento medailon ve tvaru brouka 1 kolo, na jeho povrchu se objeví nápis zjevující jeho magickou povahu. Máš-li ho u sebe, poskytuje ti dva užitky:
   
  * Máš výhodu k záchranným hodům proti kouzlům.
-  
  * Skarabeus má 12 dávek. Neuspěješ-li v záchranném hodu proti nekromatickému kouzlu či zraňujícímu účinku, jehož původcem je nemrtvý tvor, můžeš pomocí reakce spotřebovat 1 dávku a změnit neúspěšnou záchranu na úspěšnou. Skarabeus se rozpadne na prach a zničí, když se spotřebuje jeho poslední dávka.
   
 #### Skládací člun
@@ -3653,7 +3630,6 @@ Tento trojzubec je magická zbraň. Má 3 dávky. Když ho držíš, můžeš ja
 Když máš na sobě tento opasek, získáš následující užitky:
   
  * Tvá hodnota Odolnosti se zvýší o 2, ale maximálně na 20.
-  
  * Máš výhodu k ověřením Charismatu (Přesvědčování) při interakci s trpaslíky.
   
 Mimo to, když jsi s opaskem sladěný, máš každý den za úsvitu 50% šanci, že ti naroste plnovous, pokud jsi způsobilý, aby ti narostl, nebo viditelně hustší plnovous, pokud ho už máš.
@@ -3661,9 +3637,7 @@ Mimo to, když jsi s opaskem sladěný, máš každý den za úsvitu 50% šanc
 Pokud nejsi trpaslík, získáš navíc následující užitky, když máš opasek na sobě:
   
  * Máš výhodu k záchranným hodům proti jedu a jsi odolný vůči jedovému zranění.
-  
  * Máš vidění ve tmě do vzdálenosti 12 sáhů.
-  
  * Umíš mluvit, číst a psát trpasličtinou.
   
 #### Trpasličí plátovka
@@ -3687,12 +3661,9 @@ Tato oslnivá přilba je osazena 1k10 diamanty, 2k10 rubíny, 3k10 ohnivými op�
 Když ji máš na sobě, získáš následující užitky:
   
  * Jako akci můžeš seslat jedno z následujících kouzel (SO záchrany 18) použitím jednoho z drahokamů přilby jistého typu jako suroviny: *denní světlo* (opál), *ohnivá koule* (ohnivý opál), *ohnivá zeď* (rubín) nebo *spektrální sprška* (diamant). Drahokam se zničí, když se kouzlo sešle, a zmizí z přilby.
-  
-* Dokud má přilba aspoň jeden diamant, vydává slabé světlo o poloměru 6 sáhů, když je v rámci této oblasti aspoň jeden nemrtvý. Nemrtvý, který začne svůj tah v této oblasti, utrpí zářivé zranění 1k6.
-  
-* Dokud má přilba aspoň jeden rubín, jsi odolný vůči ohnivému zranění.
-  
-* Dokud má přilba aspoň jeden ohnivý opál, můžeš pomocí akce vyslovit zaklínadlo a způsobit, že jedna zbraň, kterou držíš, vzplane. Plameny osvítí jasným světlem okruh o poloměru 2 sáhy a slabým světlem další 2 sáhy. Pro tebe a zbraň jsou plameny neškodné. Když zasáhneš útokem pomocí této sálající zbraně, cíl utrpí dodatečné ohnivé zranění 1k6. Plameny vydrží, dokud pomocí bonusové akce nevyslovíš zaklínadlo znovu, nebo dokud zbraň neodložíš či nezasuneš.
+ * Dokud má přilba aspoň jeden diamant, vydává slabé světlo o poloměru 6 sáhů, když je v rámci této oblasti aspoň jeden nemrtvý. Nemrtvý, který začne svůj tah v této oblasti, utrpí zářivé zranění 1k6.
+ * Dokud má přilba aspoň jeden rubín, jsi odolný vůči ohnivému zranění.
+ * Dokud má přilba aspoň jeden ohnivý opál, můžeš pomocí akce vyslovit zaklínadlo a způsobit, že jedna zbraň, kterou držíš, vzplane. Plameny osvítí jasným světlem okruh o poloměru 2 sáhy a slabým světlem další 2 sáhy. Pro tebe a zbraň jsou plameny neškodné. Když zasáhneš útokem pomocí této sálající zbraně, cíl utrpí dodatečné ohnivé zranění 1k6. Plameny vydrží, dokud pomocí bonusové akce nevyslovíš zaklínadlo znovu, nebo dokud zbraň neodložíš či nezasuneš.
   
 Když máš na sobě přilbu a utrpíš ohnivé zranění jako výsledek neúspěšného záchranného hodu proti kouzlu, hoď si k20. Padne-li 1, přilba zazáří paprsky světla ze zbývajících drahokamů. Každý tvor do 12 sáhů od přilby mimo tebe musí uspět v záchranném hodu na Obratnost se SO 17, jinak do něj udeří paprsek a utrpí zářivé zranění rovné počtu drahokamů na přilbě. Přilba a její drahokamy se pak zničí.
   
@@ -3732,11 +3703,9 @@ Jako akci můžeš vyslovit jiné zaklínadlo, načež se svítící koule vznes
   
 Tento hranol má 50 dávek. Když hod držíš, můžeš jako akci vyslovit jedno z jeho tří zaklínadel a způsobit jeden z následujících účinků:
   
-* První zaklínadlo způsobí, že drahokam osvítí jasným světlem okruh o poloměru 6 sáhů a slabým světlem dalších 6 sáhů. Tento účinek nespotřebuje žádnou dávku. Vydrží, dokud nepoužiješ bonusovou akci na zopakování zaklínadla, nebo dokud nepoužiješ jinou funkci drahokamu.
-  
-* Druhé zaklínadlo spotřebuje 1 dávku a způsobí, že drahokam zasvítí oslnivým paprskem světla na jednoho tvora, kterého vidíš do 12 sáhů od sebe. Tvor musí uspět v záchranném hodu na Odolnost se SO 15, jinak oslepne na 1 minutu. Tvor může zopakovat záchranný hod na konci každého svého tahu a při úspěchu pro něj účinek skončí.
-  
-* Třetí zaklínadlo spotřebuje 5 dávek a způsobí, že drahokam zazáří oslepujícím světlem v kuželu 6 sáhů s počátkem v drahokamu. Každý tvor v kuželu si musí hodit záchranný hod, jako by ho zasáhl paprsek vytvořený druhým zaklínadlem.
+ * První zaklínadlo způsobí, že drahokam osvítí jasným světlem okruh o poloměru 6 sáhů a slabým světlem dalších 6 sáhů. Tento účinek nespotřebuje žádnou dávku. Vydrží, dokud nepoužiješ bonusovou akci na zopakování zaklínadla, nebo dokud nepoužiješ jinou funkci drahokamu.
+ * Druhé zaklínadlo spotřebuje 1 dávku a způsobí, že drahokam zasvítí oslnivým paprskem světla na jednoho tvora, kterého vidíš do 12 sáhů od sebe. Tvor musí uspět v záchranném hodu na Odolnost se SO 15, jinak oslepne na 1 minutu. Tvor může zopakovat záchranný hod na konci každého svého tahu a při úspěchu pro něj účinek skončí.
+ * Třetí zaklínadlo spotřebuje 5 dávek a způsobí, že drahokam zazáří oslepujícím světlem v kuželu 6 sáhů s počátkem v drahokamu. Každý tvor v kuželu si musí hodit záchranný hod, jako by ho zasáhl paprsek vytvořený druhým zaklínadlem.
   
 Když se spotřebují všechny dávky drahokamu, drahokam se stane nemagickým šperkem v hodnotě 50 zl.
   
@@ -4072,19 +4041,14 @@ Vnímajícímu předmětu můžeš dát cíl, který má sledovat, a všechny 
 Vnímající předmět má svou vlastní vůli, formovanou jeho osobností a přesvědčením. Pokud jeho nositel jedná způsobem, který se příčí přesvědčení nebo účelu předmětu, může vyvstat konflikt. Když takový konflikt nastane, předmět si hodí na ověření Charismatu v konfliktu proti ověření Charismatu nositele. Pokud předmět v konfliktu vyhraje, učiní jeden či více z následujících požadavků:
   
  * Předmět trvá na tom, aby ho nositel držel či nosil neustále.
-  
  * Předmět požaduje, aby se nositel zbavil něčeho, co se předmětu hnusí.
-  
  * Předmět požaduje, aby nositel sledoval cíle předmětu a odmítal všechny ostatní cíle.
-  
  * Předmět se dožaduje, aby byl předán někomu jinému.
   
 Odmítne-li nositel splnit přání předmětu, předmět může udělat něco či všechno následující:
   
  * Znemožní svému nositeli se s ním sladit.
-  
  * Potlačí jednu či více ze svých aktivovaných vlastností.
-  
  * Pokusí se převzít kontrolu nad svým nositelem.
   
 Pokud se vnímající předmět pokusí převzít kontrolu nad svým nositelem, nositel si musí hodit záchranný hod na Charisma, se SO rovným 12 + oprava Charismatu předmětu. Když nositel v záchraně neuspěje, předmět ho zmámí na 1k12 hodin. Zatímco je nositel zmámený, musí se pokoušet plnit rozkazy předmětu. Utrpí-li nositel zranění, může záchranný hod zopakovat a při úspěchu účinek skončí. Ať už při pokusu o kontrolu nad svým uživatelem předmět uspěje nebo neuspěje, nemůže použít tuto schopnost znovu až do příštího úsvitu.
@@ -4306,17 +4270,11 @@ Artefakt se dá zničit pouze jistým zvláštním způsobem. Jinak je prakticky
 Každý artefakt má slabinu, díky níž se dá zničit jeho existence. Zjištění této slabiny může vyžadovat rozsáhlé bádání, nebo úspěšné splnění úkolu. PJ určí, jak lze konkrétní artefakt zničit. Zde je několik návrhů:
   
  * Artefakt musí být roztaven v sopce, výhni nebo tyglíku, ve kterém byl vytvořen.
-  
  * Artefakt musí být hozen do řeky Styx.
-  
  * Artefakt musí být spolknut a stráven taraskem nebo jiným prastarým tvorem.
-  
  * Artefakt musí být vykoupán v krvi boha či anděla.
-  
  * Artefakt musí být zasažen a rozbit zvláštní zbraní vykovanou pro tento účel.
-  
  * Artefakt musí být rozemlet mezi titánskými stroji Mechanu.
-  
  * Artefakt musí být vrácen svému tvůrci, který ho může zničit svým dotykem.
   
 ### Ukázky artefaktů
@@ -4418,13 +4376,10 @@ Kdykoliv se s *Knihou odporné temnoty* sladí tvor, který není zlý, musí 
   
 ***Náhodné vlastnosti.*** *Kniha odporné temnoty* má následující náhodě určené vlastnosti:
   
-* 3 vedlejší prospěšné vlastnosti
-  
-* 1 hlavní prospěšnou vlastnost
-  
-* 3 vedlejší škodlivé vlastnosti
-  
-* 2 hlavní škodlivé vlastnosti
+ * 3 vedlejší prospěšné vlastnosti
+ * 1 hlavní prospěšnou vlastnost
+ * 3 vedlejší škodlivé vlastnosti
+ * 2 hlavní škodlivé vlastnosti
   
 ***Zvýšení Moudrosti.*** Poté, co strávíš požadované množství času čtením a studiem knihy, jedna tvá hodnota vlastnosti dle tvé volby se zvýší o 2, ale maximálně na 24. Jiná tvá hodnota vlastnosti dle tvé volby se sníží o 2, ale maximálně na 3. Kniha nedokáže upravit tvé hodnoty vlastností opakovaně.
   
@@ -4459,7 +4414,6 @@ Užitky dané *Knihou vznešených skutků* trvají jen do té doby, dokud se sn
 ***Náhodné vlastnosti.*** *Kniha vznešených skutků* má následující náhodě určené vlastnosti:
   
  * 2 vedlejší prospěšné vlastnosti
-  
  * 2 hlavní prospěšné vlastnosti
   
 ***Zvýšení Moudrosti.*** Poté, co strávíš požadované množství času čtením a studiem knihy, tvá hodnota Moudrosti se zvýší o 2, ale maximálně na 24. Tento užitek nemůžeš získat z knihy víc než jednou.
@@ -4495,31 +4449,22 @@ Aby ses sladil s rukou, musíš si odříznout svou levou ruku u zápěstí 
 ***Vlastnosti oka.*** Tvé přesvědčení se změní na neutrálně zlé a získáš následující užitky:
   
  * Máš pravdivé vidění.
-  
  * Použitím akce můžeš vidět, jako bys měl na sobě *prsten rentgenového vidění*. Tento účinek můžeš ukončit jako bonusovou akci.
-  
  * Oko má 8 dávek. Jako akci můžeš spotřebovat 1 či více dávek a seslat tak z oka jedno z následujících kouzel (SO záchrany 18): *jasnozřivost* (2 dávky), *koruna šílenství* (1 dávka), *podrob nestvůru* (5 dávek), *rozklad* (4 dávky) nebo *zlé oko* (4 dávky). Každý den za úsvitu si oko dobije 1k4 + 4 spotřebovaných dávek. Pokaždé, když sešleš z oka kouzlo, je 5% šance, že Vekna vytrhne tvou duši z těla, sežere ji a pak převezme kontrolu nad tělem jako loutkou. Pokud se tak stane, staneš se CP pod kontrolou PJ.
   
 ***Vlastnosti ruky.*** Tvé přesvědčení se změní na neutrálně zlé a získáš následující užitky:
   
  * Tvá hodnota Síly se změní na 20, pokud už není 20 či vyšší.
-  
  * Každý útok na blízko kouzlem, který provedeš touto rukou, a každý útok na blízko zbraní, který provedeš zbraní drženou touto rukou, způsobí při zásahu dodatečné chladné zranění 2k8.
-  
  * Ruka má 8 dávek. Jako akci můžeš spotřebovat 1 či více dávek a seslat tak z ruky jedno z následujících kouzel (SO záchrany 18): *prst smrti* (5 dávek), *spánek* (1 dávka), *teleport* (3 dávky) nebo *zpomalení* (2 dávky). Každý den za úsvitu si ruka dobije 1k4 + 4 spotřebovaných dávek. Pokaždé, když sešleš z ruky kouzlo, sešle na tebe kouzlo *sugesce* (SO záchrany 18) a požaduje, abys spáchal zlý skutek. Ruka může určit konkrétní skutek, nebo ho nechat na tobě.
   
 ***Vlastnosti oka a ruky.*** Pokud se sladíš s rukou i okem, získáš následující užitky navíc:
   
  * Jsi imunní vůči nemocem a jedu.
-  
  * Použití rentgenového vidění oka ti nikdy nezpůsobí únavu.
-  
  * Umíš vytušit nebezpečí a nejsi-li neschopný, nelze tě překvapit.
-  
  * Začínáš-li svůj tah s aspoň 1 životem, obnovíš si 1k10 životů.
-  
  * Pokud má tvor kostru, můžeš se pokusit proměnit jeho kosti v rosol dotykem *Ruky Vekny*. Můžeš to udělat jako akci tak, že zaútočíš útokem na blízko zbraní proti tvorovi ve tvém dosahu, přičemž jako svůj útočný bonus na blízko použiješ buď ten pro zbraně, nebo pro kouzla. Při zásahu musí cíl uspět v záchranném hodu na Odolnost se SO 18, jinak se sníží jeho životy na 0.
-  
  * Jako akci můžeš seslat *přání*. Tuto vlastnost nelze použít znovu, dokud neuplyne 30 dní.
   
 ***Zničení oka a ruky.*** Jsou-li *Oko Vekny* i *Ruka Vekny* připojeny ke stejnému tvorovi a tento tvor je zabit *Kasovým mečem*, pak oko i ruka vybuchnou ohněm a promění se v popel a jsou navždy zničeny. Jakýkoliv jiný pokus o zničení oka nebo ruky se zdá, že funguje, ale artefakt se znovu objeví v jedné z mnoha Veknových skrytých kobek, kde čeká, až bude znovu nalezen.
@@ -4590,9 +4535,7 @@ Později, v temné éře poznamenané zradou a špatností, došlo ke ztrace
 ***Moradinovo požehnání.*** Jsi-li trpaslík sladěný s touto sekerou, získáš následující užitky:
   
  * Jsi imunní vůči jedovému zranění.
-  
  * Dosah tvého vidění ve tmě se zvýší o 12 sáhů.
-  
  * Získáš zdatnost s následujícím řemeslnickým nářadím: kovářské nástroje, pivovarnické suroviny a zednické nářadí, respektive kamenické nástroje.
   
 ***Vyvolání zemního elementála.*** Když držíš tuto sekeru, můžeš z ní jako akci seslat kouzlo *vyvolej elementála* a přivolat zemního elementála. Tuto vlastnost nelze použít znovu až do příštího úsvitu.
@@ -4617,11 +4560,9 @@ Postava může obdržet požehnání od božstva za to, že udělá něco skute�
   
 Požehnání je vhodná odměna za jeden z následujících úspěchů:
   
-* Obnovení nejsvatější kaple boha
-  
-* Zmaření světoborného plánu nepřátel boha
-  
-* Pomoci splnit svatý úkol služebníkovi, který je u boha oblíbený.
+ * Obnovení nejsvatější kaple boha
+ * Zmaření světoborného plánu nepřátel boha
+ * Pomoci splnit svatý úkol služebníkovi, který je u boha oblíbený.
   
 Dobrodruh může obdržet požehnání za splnění nebezpečného úkolu i předem. Například paladin může získat požehnání, než se vydá na výpravu za zabitím strašného kostěje, jenž je zodpovědný za magický mor, který zaplavuje zemi.
   
@@ -4732,9 +4673,7 @@ Postavě může být nabídnut zvláštní výcvik namísto finanční odměny. 
 Postava, která souhlasí s výcvikem jako odměnou, musí strávit s trenérem čas v mezidobí (více informací o činnostech v mezidobí se dočteš v 6. kapitole). Na oplátku postava získá zvláštní užitek. Eventuální užitky výcviku jsou:
   
  * Každý den za úsvitu postava získá inspiraci po dobu 1k4 + 6 dní.
-  
  * Postava získá zdatnost v dovednosti.
-  
  * Postava získá odbornost.
   
 ### Epická dobrodiní
