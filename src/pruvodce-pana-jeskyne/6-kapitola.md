@@ -43,13 +43,9 @@ Abys zabránil hráčům ve zbloudění, uchovej si nejlepší nápady až na ú
 Zde je několik příkladů, jak lze odhalit semínko dobrodružství:
   
  * Na mrtvole padoucha najdou postavy důkaz, že padouch pracoval pro někoho jiného.
-  
  * Zajatá CP prozradí polohu někoho nebo něčeho, co postavy může zajímat.
-  
  * Postavy míří do místní hospody, když si všimnou vývěsky hledané nebo ztracené osoby (doplněné příslibem slušné odměny).
-  
  * Příslušníci místní milice či městské hlídky rozhlásí, že byl spáchán zločin a hledají se potenciální svědci a podezřelí.
-  
  * Postavy obdrží anonymní dopis, který objasňuje plán nebo blížící se událost, které si předtím nebyly vědomy.
   
 ### Nastínění
@@ -57,15 +53,10 @@ Zde je několik příkladů, jak lze odhalit semínko dobrodružství:
 Nastínění je cvičení v bystrosti. Zahrnuje delikátní zasazení semínek pro budoucí dobrodružství. Ne všechna nastínění přináší ovoce, zejména pokud jsou indicie příliš spletité, nebo pokud souhra událostí zavede tvé tažení novým směrem. Cílem nastínění je naznačit blížící se události a nové hrozby ve tvém tažení, aniž by bylo hráčům zcela zřejmé, že jim říkáš, co se stane. Zde je několik příkladů:
   
  * Předmět, který má nepřítel u sebe, má na sobě vyrytý nebo napsaný symbol dříve neznámé organizace.
-  
  * Šílená žena stojící na rohu ulice ze sebe chrlí střípky dávného proroctví, zatímco míří svým křivým prstem na postavy.
-  
  * Král s královnou oznámí svatbu svého syna s dcerou sousedního monarchy, ale různé frakce proti svazku brojí. Vzrůstá problém.
-  
  * Gobří zvědi pronikají do civilizovaných zemí a špehují osady, což je předehra k vpádu skurutích válečníků.
-  
  * Loutkové divadlo na tržišti předpovídá tragický výsledek, pokud se dva šlechtické rody na pokraji vzájemného vyhlášení války odmítnou smířit.
-  
  * Ve městě dochází k vraždám CP dobrodruhů podobným, ale nezvyklým způsobem, což naznačuje hráčským postavám budoucí hrozbu.
   
 ## Sledování tažení
@@ -321,11 +312,7 @@ Postava může strávit mezidobí zvyšováním své proslulosti v konkrétní
 Tvoji hráče mohou mít zájem zabývat se činnostmi v mezidobí, které nejsou uvedeny v této kapitole ani v *Příručce hráče*. Při vymýšlení nových činností v mezidobí pamatuj na následující:
   
  * Činnost by nikdy neměla potlačit potřebu či touhu postav vydávat se za dobrodružstvími.
-  
  * Činnosti, s nimiž je spojena peněžní cena, poskytují hráčským postavám příležitosti k utrácení jejich těžce nabytého pokladu.
-  
  * Činnosti, jež odhalují nové zápletky dobrodružství a dříve neznámá fakta o tažení, ti mohou pomoci s nastíněním budoucích událostí a konfliktů.
-  
  * Pro činnost, u níž očekáváš, že ji postava bude opakovat s různých stupněm úspěchu, zvaž vytvoření tabulky náhodných výsledků podle těch v této kapitole.
-  
  * Patří-li postava do povolání, nebo má-li zdatnost či zázemí, díky nimž by neměla mít problém s konkrétní činností, zvaž udělení bonusu k ověřením vlastností, na něž si postava hází pro úspěšné splnění dané činnosti.
