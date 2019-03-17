@@ -1,6 +1,6 @@
 # 1. kapitola: Tvůj vlastní svět
   
-vůj svět je prostředím pro tvé tažení. Místem, kde se odehrávají dobrodružství. Dokonce i když používáš již existující herní svět, například Forgotten Realms, stane se tvým, když do něj umístíš dobrodružství, vytvoříš v něm cizí postavy a během tažení v něm provedeš změny. Tato kapitola je celá o tvorbě světa a následné tvorbě tažení, které do něj umístíš.
+Tvůj svět je prostředím pro tvé tažení. Místem, kde se odehrávají dobrodružství. Dokonce i když používáš již existující herní svět, například Forgotten Realms, stane se tvým, když do něj umístíš dobrodružství, vytvoříš v něm cizí postavy a během tažení v něm provedeš změny. Tato kapitola je celá o tvorbě světa a následné tvorbě tažení, které do něj umístíš.
   
 ## Celkový pohled
   
