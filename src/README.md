@@ -33,3 +33,6 @@ Za přenos překladu Příručky hráče do SRD vděčíme zejména **Arledovi**
 DnD napsali mnozí autorové pod vedením Mike Maerlse pro Wizards of the Coast je k dispozici pod otevřenou herní licencí (OGL). DnD a všechny možné další termíny a divná jména (zejm. Forgotten realms, Drizzt atp.) jsou (c) Wizards of the Coasts. 
 
 Toto SRD běží na technologii Vuepress a za jeho existenci vděčíme **Dukolmovi**.
+
+## last update
+<RecentArticles/>
