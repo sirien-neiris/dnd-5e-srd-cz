@@ -5,7 +5,7 @@
         <div class="monster__block monster--red">
             <span class="monster__block-title">Obranné číslo</span> {{ armorClass }}<br>
             <span class="monster__block-title">Životy</span> {{ hitPoints }}<br>
-            <span class="monster__block-title">speed</span> {{ speed }}
+            <span class="monster__block-title">Rychlost</span> {{ speed }}
         </div>
         <div class="monster__stats monster--red">
             <ul>
@@ -37,9 +37,9 @@
         </div>
         <div class="monster__block monster--red">
             <span class="monster__block-title">Záchranné hody</span> {{ savingThrows }}<br>
-            <span class="monster__block-title">skills</span> {{ skills }}<br>
+            <span class="monster__block-title">Dovednosti</span> {{ skills }}<br>
             <span class="monster__block-title">Imunity vůči zraněním</span> {{ damageImmunities }}<br>
-            <span class="monster__block-title">senses</span> {{ senses }}<br>
+            <span class="monster__block-title">Smysly</span> {{ senses }}<br>
             <span class="monster__block-title">Jazyky</span> {{ languages }}<br>
             <span class="monster__block-title">Nebezpečnost</span> {{ challenge }}<br>
         </div>
