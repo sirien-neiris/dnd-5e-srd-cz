@@ -3,7 +3,7 @@
         <div class="monster__title">{{ title }}</div>
         <div class="monster__subtitle">{{ subtitle }}</div>
         <div class="monster__block monster--red">
-            <span class="monster__block-title">dexanné číslo</span> {{ armorClass }}<br>
+            <span class="monster__block-title">Obranné číslo</span> {{ armorClass }}<br>
             <span class="monster__block-title">Životy</span> {{ hitPoints }}<br>
             <span class="monster__block-title">speed</span> {{ speed }}
         </div>

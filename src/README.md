@@ -34,5 +34,5 @@ DnD napsali mnozí autorové pod vedením Mike Maerlse pro Wizards of the Coast 
 
 Toto SRD běží na technologii Vuepress a za jeho existenci vděčíme **Dukolmovi**.
 
-## last update
+## Poslední změněné soubory
 <RecentArticles/>
