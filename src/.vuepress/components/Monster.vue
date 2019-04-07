@@ -38,7 +38,10 @@
         <div class="monster__block monster--red">
             <span class="monster__block-title">Záchranné hody</span> {{ savingThrows }}<br>
             <span class="monster__block-title">Dovednosti</span> {{ skills }}<br>
+            <span class="monster__block-title">Zranitelnost vůči zraněním</span> {{ damageVulnerabilities }}<br>
+            <span class="monster__block-title">Odolání vůči zraněním</span> {{ damageResistances }}<br>
             <span class="monster__block-title">Imunity vůči zraněním</span> {{ damageImmunities }}<br>
+            <span class="monster__block-title">Imunity vůči stavům</span> {{ conditionImmunities }}<br>
             <span class="monster__block-title">Smysly</span> {{ senses }}<br>
             <span class="monster__block-title">Jazyky</span> {{ languages }}<br>
             <span class="monster__block-title">Nebezpečnost</span> {{ challenge }}<br>
@@ -66,7 +69,10 @@
             'cha',
             'savingThrows',
             'skills',
+            'damageVulnerabilities',
+            'damageResistances',
             'damageImmunities',
+            'conditionImmunities',
             'senses',
             'languages',
             'challenge'
