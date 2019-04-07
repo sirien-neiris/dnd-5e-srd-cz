@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.47",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.47",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-deflist": "^2.0.3",
+    "moment": "^2.24.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vuepress": "^1.0.0-alpha.47"
+  },
+  "scripts": {
+    "srd:dev": "vuepress dev src --host 0.0.0.0",
+    "srd:build": "vuepress build src"
+  }
+}

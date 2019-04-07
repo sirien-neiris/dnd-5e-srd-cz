@@ -1,26 +1,16 @@
-FROM node:alpine
-
-RUN apk --update add git openssh && \
-    rm -rf /var/lib/apt/lists/* && \
-    rm /var/cache/apk/*
-
-WORKDIR /var/www/html
-RUN npm install -g vuepress@next
-RUN npm install markdown-it-deflist
-RUN npm install markdown-it-container
-
-RUN npm i @vuepress/plugin-google-analytics
-RUN npm i @vuepress/plugin-medium-zoom
-
-RUN npm i moment
+FROM node:10.15.1-stretch
 
 WORKDIR /var/www/html
 
-# CMD vuepress build
-# CMD LOCAL_IP=`hostname -i` vuepress dev
+RUN apt-get update && apt-get install -y yarn
+
+COPY package.json /var/www/html/package.json
+COPY ./yarn.lock /var/www/html/yarn.lock
+
+RUN yarn install
 
 CMD if [ "$DEV" = "1" ]; then \
-        vuepress dev src --host 0.0.0.0; \
+        yarn srd:dev; \
     else \
-        vuepress build src; \
+        yarn srd:build; \
     fi;
