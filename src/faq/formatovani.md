@@ -66,7 +66,7 @@ Fate symboly:
 
 * prázdná řádka ve skutečnosti vytvoří odskok mezi jednotlivými položkami
 
-```$xslt
+```
 1. pro číslovaný seznam 
 2. platí totéž
 2. platí totéž 
