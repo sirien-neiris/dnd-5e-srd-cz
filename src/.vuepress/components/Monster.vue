@@ -36,15 +36,33 @@
             </ul>
         </div>
         <div class="monster__block monster--red">
-            <span class="monster__block-title">Záchranné hody</span> {{ savingThrows }}<br>
-            <span class="monster__block-title">Dovednosti</span> {{ skills }}<br>
-            <span class="monster__block-title">Zranitelnost vůči zraněním</span> {{ damageVulnerabilities }}<br>
-            <span class="monster__block-title">Odolání vůči zraněním</span> {{ damageResistances }}<br>
-            <span class="monster__block-title">Imunity vůči zraněním</span> {{ damageImmunities }}<br>
-            <span class="monster__block-title">Imunity vůči stavům</span> {{ conditionImmunities }}<br>
-            <span class="monster__block-title">Smysly</span> {{ senses }}<br>
-            <span class="monster__block-title">Jazyky</span> {{ languages }}<br>
-            <span class="monster__block-title">Nebezpečnost</span> {{ challenge }}<br>
+            <template v-if="savingThrows">
+                <span class="monster__block-title">Záchranné hody</span> {{ savingThrows }}<br>
+            </template>
+            <template v-if="skills">
+                <span class="monster__block-title">Dovednosti</span> {{ skills }}<br>
+            </template>
+            <template v-if="damageVulnerabilities">
+                <span class="monster__block-title">Zranitelnost vůči zraněním</span> {{ damageVulnerabilities }}<br>
+            </template>
+            <template v-if="damageResistances">
+                <span class="monster__block-title">Odolání vůči zraněním</span> {{ damageResistances }}<br>
+            </template>
+            <template v-if="damageImmunities">
+                <span class="monster__block-title">Imunity vůči zraněním</span> {{ damageImmunities }}<br>
+            </template>
+            <template v-if="conditionImmunities">
+                <span class="monster__block-title">Imunity vůči stavům</span> {{ conditionImmunities }}<br>
+            </template>
+            <template v-if="senses">
+                <span class="monster__block-title">Smysly</span> {{ senses }}<br>
+            </template>
+            <template v-if="languages">
+                <span class="monster__block-title">Jazyky</span> {{ languages }}<br>
+            </template>
+            <template v-if="challenge">
+                <span class="monster__block-title">Nebezpečnost</span> {{ challenge }}<br>
+            </template>
         </div>
         <div class="monster__block-content">
             <slot></slot>
@@ -84,69 +102,57 @@
 </script>
 
 
-<style>
-    .monster {
-        margin-bottom: 1em;
-        padding: 15px 20px;
-        background-color: #ffebb6;
-        color: black;
-    }
+<style lang="sass">
+    .monster
+        margin-bottom: 1em
+        padding: 15px 20px
+        background-color: #ffebb6
+        color: black
 
-    .monster__title {
-        font-size: 200%;
-        text-transform: capitalize;
-    }
+        .monster__title
+            font-size: 200%
+            text-transform: capitalize
 
-    .monster__subtitle {
-        font-size: 110%;
-        font-style: italic;
-    }
+        .monster__subtitle
+            font-size: 110%
+            font-style: italic
 
-    .monster__block {
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
-        padding: 0.5em;
-        border-top: 3px #7c0005 solid;
-        border-bottom: 3px #7c0005 solid;
-    }
+        .monster__block
+            margin-top: 0.5em
+            margin-bottom: 0.5em
+            padding: 0.5em
+            border-top: 3px #7c0005 solid
+            border-bottom: 3px #7c0005 solid
 
-    .monster__block-title {
-        font-weight: bold
-    }
+        .monster__block-title
+            font-weight: bold
 
-    .monster--red {
-        color: #7c0005
-    }
+        .monster--red
+            color: #7c0005
 
-    .monster__stats ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-    }
+        .monster__stats ul
+            list-style-type: none
+            margin: 0
+            padding: 0
+            overflow: hidden
 
-    .monster__stats li {
-        float: left;
-        display: inline-block;
-        width: 16.5%;
-        text-align: center;
-    }
+        .monster__stats li
+            float: left
+            display: inline-block
+            width: 16.5%
+            text-align: center
 
+        .monster__stats-item-name
+            font-weight: bold
+            display: block
 
-    .monster__stats-item-name {
-        font-weight: bold;
-        display: block;
-    }
+        .monster__stats-item-number
+            display: block
 
-    .monster__stats-item-number {
-        display: block;
-    }
-
-    h6 {
-        font-size: 160%;
-        border-bottom: 1px black solid;
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
-    }
+        h6
+            font-size: 160%
+            border-bottom: 1px black solid
+            margin-top: 0.5em
+            margin-bottom: 0.5em
 
 </style>
