@@ -17,9 +17,7 @@
         },
         computed:{
             recentFiles() {
-                console.log(this.$site);
                 let files = this.$site.pages.filter(p => {
-                    //console.log(p);
                     return p.path.indexOf('/') >= 0;
                 }).sort((a,b) => {
                     let aDate = moment(a.lastUpdated, "LLL");
