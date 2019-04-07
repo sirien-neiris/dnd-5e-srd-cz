@@ -14,13 +14,13 @@ Pokud to neuděláte, ENTER
 tak se to přeloží jako stále ta samá řádka
 
 
-\*kurzíva\* = *kurzíva*
+```*kurzíva*``` = *kurzíva*
 
-\*\*tučné\*\* = **tučné**
+```**tučné**``` = **tučné**
 
-\*\*\*tučná kurzíva\*\*\* = ***tučná kurzíva***
+```***tučná kurzíva***``` = ***tučná kurzíva***
 
-\[Odkaz na Kostku\](http://www.d20.cz) = \[Odkaz na Kostku\](http://www.d20.cz) 
+```[Odkaz na Kostku](http://www.d20.cz)``` = [Odkaz na Kostku](http://www.d20.cz) 
 
 
 "Znegování" markdownu se provádí pomocí "\\". Tzn pokud nechci **tučně** ale \*\*tučně*\*\* tak to musím psát \\\*\\\*tučně\\\*\\\*. Zpětné lomítko \\ se tudíž píše jako \\\\ .
@@ -38,13 +38,13 @@ tak se to přeloží jako stále ta samá řádka
 
 Fate symboly:
 
-* \<span class="fate-font"\>+\</span\> = <span class="fate-font">+</span>
-* \<span class="fate-font"\>-\</span\> = <span class="fate-font">-</span>
-* \<span class="fate-font"\>0\</span\> = <span class="fate-font">0</span>
-* \<span class="fate-font"\>o\</span\> = <span class="fate-font">o</span>
-* \<span class="fate-font"\>c\</span\> = <span class="fate-font">c</span>
-* \<span class="fate-font"\>a\</span\> = <span class="fate-font">a</span>
-* \<span class="fate-font"\>d\</span\> = <span class="fate-font">d</span>
+* ```<span class="fate-font">+</span>``` = <span class="fate-font">+</span>
+* ```<span class="fate-font">-</span>``` = <span class="fate-font">-</span>
+* ```<span class="fate-font">0</span>``` = <span class="fate-font">0</span>
+* ```<span class="fate-font">o</span>``` = <span class="fate-font">o</span>
+* ```<span class="fate-font">c</span>``` = <span class="fate-font">c</span>
+* ```<span class="fate-font">a</span>``` = <span class="fate-font">a</span>
+* ```<span class="fate-font">d</span>``` = <span class="fate-font">d</span>
 
 
 
@@ -52,50 +52,61 @@ Fate symboly:
 
 ### seznamy
 
-\* tohle vyrobí bodový seznam
-  \* tohle vyrobá bodový seznam 2. úrovně (dvě mezery na začátku)
-\* jednotlivé položky bodového seznamu *nemusí* být odděleny prázdnou řádkou
+```
+* tohle vyrobí bodový seznam
+  * tohle vyrobá bodový seznam 2. úrovně (dvě mezery na začátku)
+* jednotlivé položky bodového seznamu *nemusí* být odděleny prázdnou řádkou
 
-\* prázdná řádka ve skutečnosti vytvoří odskok mezi jednotlivými položkami
-  
+* prázdná řádka ve skutečnosti vytvoří odskok mezi jednotlivými položkami
+```
+
 * tohle vyrobí bodový seznam
   * tohle vyrobá bodový seznam 2. úrovně (dvě mezery na začátku)
 * jednotlivé položky bodového seznamu *nemusí* být odděleny prázdnou řádkou
 
 * prázdná řádka ve skutečnosti vytvoří odskok mezi jednotlivými položkami
 
+```$xslt
+1. pro číslovaný seznam 
+2. platí totéž
+2. platí totéž 
+```
 
-\1. pro číslovaný seznam 
-\2. platí totéž
-
-\1. pro číslovaný seznam 
-\2. platí totéž
+1. pro číslovaný seznam 
+2. platí totéž
+2. platí totéž
 
 
 
 ### Příklady (citace)
 
-\> tohle je funkce "citace" a používáme ji na příklady
+```
+> tohle je funkce "citace" a používáme ji na příklady
+```
 
 > tohle je funkce "citace" a používáme ji na příklady
 
 
 Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná pravidla pro formátování textu.
 
-\> Mezi dvěma odstavci citace musí být opět mezera, ale nemusíte se bát,
+```
+> Mezi dvěma odstavci citace musí být opět mezera, ale nemusíte se bát,
 
-\> vodící linie z toho udělá jednu celistvou citaci
+> vodící linie z toho udělá jednu celistvou citaci
+```
 
 > Mezi dvěma odstavci citace musí být opět mezera, ale nemusíte se bát,
 
 > vodící linie z toho udělá jednu celistvou citaci
 
 
-\> \* tohle je bodový seznam v citaci
-\> \* opět platí totéž ci výše pro 
-\>   \* druhou úroveň
+```
+> * tohle je bodový seznam v citaci
+> * opět platí totéž ci výše pro 
+>   * druhou úroveň
 
-\> \* i pro odskoky
+> * i pro odskoky
+```
 
 > * tohle je bodový seznam v citaci
 > * opět platí totéž ci výše pro 
@@ -108,44 +119,40 @@ Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná prav
 
 ### Rámečky (kartičky atp.)
 
-\:\:\: card
+```
+<Card>
 
 Tohle bude základní rámeček. 
 
 MUSÍTE tam napsat ono "card" a MUSÍTE to i zakončit třemi trojtečkami.
-\:\:\:
 
-::: card
+</Card>
+```
+
+<Card>
 
 Tohle bude základní rámeček. 
 
 MUSÍTE tam napsat ono "card" a MUSÍTE to i zakončit třemi trojtečkami.
-:::
 
+</Card>
 
-\:\:\: card Tohle je nadpis
-
-Karta s nadpisem
-\:\:\:
-
-::: card Tohle je nadpis
+```
+<Card header="Tohle je nadpis">
 
 Karta s nadpisem
-:::
 
+</Card>
+```
 
-\:\:\: card V rámečku lze opět dále formátovat
+<Card header="Tohle je nadpis">
 
-Za pomoci standardní \*kurzívy\*, \*\*tučného\*\* a \*\*\*tučné kurzívy\*\*\*
+Karta s nadpisem
 
-\* bodových seznamů
+</Card>
 
-\> citací
-
-\*\*uvnitř rámečků NEpoužívejte nadpisy\*\*
-\:\:\:
-
-::: card V rámečku lze opět dále formátovat
+```
+<Card header="V rámečku lze opět dále formátovat">
 
 Za pomoci standardní *kurzívy*, **tučného** a ***tučné kurzívy***
 
@@ -154,15 +161,30 @@ Za pomoci standardní *kurzívy*, **tučného** a ***tučné kurzívy***
 > citací
 
 **uvnitř rámečků NEpoužívejte nadpisy**
-:::
+
+</Card>
+```
+<Card header="V rámečku lze opět dále formátovat">
+
+Za pomoci standardní *kurzívy*, **tučného** a ***tučné kurzívy***
+
+* bodových seznamů
+
+> citací
+
+**uvnitř rámečků NEpoužívejte nadpisy**
+
+</Card>
 
 
 ### Tabulky
 
-\| hlavička \| bohužel \| musí      \| být     \|
-\| ---      \| :---:   \| ---:      \| ---     \|
-\| \*\*2. řádek\*\* \| je      \| zarovnání \| sloupce \|
-\| není nutné snažít se mít \| ten zdroj nějak \| zvlášť \| hezky \|
+```
+| hlavička | bohužel | musí      | být     |
+| ---      | :---:   | ---:      | ---     |
+| **2. řádek** | je      | zarovnání | sloupce |
+| není nutné snažít se mít | ten zdroj nějak | zvlášť | hezky |
+```
 
 | hlavička | bohužel | musí      | být     |
 | ---      | :---:   | ---:      | ---     |
