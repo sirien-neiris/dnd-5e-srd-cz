@@ -28,17 +28,17 @@ if (namespaceSettings !== undefined) {
         console.log(` - Vytvářím soubor v tmp složce ${dist}`);
     });
 
-    snipetsFiles = fs.readdirSync(namespaceSettings.snipetsFolder);
+    snippetsFiles = fs.readdirSync(namespaceSettings.snippetsFolder);
 
-    console.log(` - Začínám nahrazovat snipety: ${snipetsFiles.length}`);
-    snipetsFiles.forEach(file => {
-        const regex = new RegExp('<snipet:' + file.replace('.md', '') + '>', 'g');
+    console.log(` - Začínám nahrazovat snippety: ${snippetsFiles.length}`);
+    snippetsFiles.forEach(file => {
+        const regex = new RegExp('<snippet:' + file.replace('.md', '') + '>', 'g');
         replace.sync({
             files: replaceFiles,
             from: regex,
-            to: fs.readFileSync(namespaceSettings.snipetsFolder + '/' + file),
+            to: fs.readFileSync(namespaceSettings.snippetsFolder + '/' + file),
         });
-        console.log(`    - Nahrayuji snipet ${file}`);
+        console.log(`    - Nahrazuji snippet ${file}`);
     });
 
     replaceFiles.forEach(file => {

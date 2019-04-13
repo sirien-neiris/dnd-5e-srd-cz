@@ -2,7 +2,7 @@ let config = {
     namespaces: [
         {
             name: 'grimoar',
-            snipetsFolder: './gen/grimoar/snipets',
+            snippetsFolder: './gen/grimoar/snippets',
             templatesFolder: './gen/grimoar/templates',
             distFolder: './src/grimoar',
         }

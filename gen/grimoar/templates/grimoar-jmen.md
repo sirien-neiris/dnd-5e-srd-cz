@@ -2,7 +2,7 @@
   
 ## A
 
-<snipet:antimagicke-pole>
+<snippet:antimagicke-pole>
 
-<snipet:antipatie-nebo-sympatie>
+<snippet:antipatie-nebo-sympatie>
 

@@ -1,5 +1,5 @@
 
 
-<snipet:antipatie-nebo-sympatie>
+<snippet:antipatie-nebo-sympatie>
 
-<snipet:antimagicke-pole>
+<snippet:antimagicke-pole>
