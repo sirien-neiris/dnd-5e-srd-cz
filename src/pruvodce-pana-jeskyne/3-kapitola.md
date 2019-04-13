@@ -642,13 +642,15 @@ Existují čtyři kategorie obtížnosti střetnutí.
 | 19. | 2 400 | 4 900 | 7 300 | 10 900 |
 | 20. | 2 800 | 5 700 | 8 500 | 12 700 |
 
-::: card Nebezpečnost
+<Card header="Nebezpečnost">
+
   
 Když dáváš dohromady střetnutí či dobrodružství, zejména na nižších úrovních, buď opatrný, když používáš nestvůry, jejichž nebezpečnost je vyšší než průměrná úroveň družiny. Takový tvor může jedinou akcí způsobit dostatek zranění na vyřazení dobrodruha na nižší úrovni. Například, obr má nebezpečnost 2, ale kouzelníka na 1. úrovni může zabít jedním úderem.
   
 Navíc některé nestvůry mají schopnosti, jejichž přemožení může být těžké či nemožné pro postavy na nízké úrovni. Například rakšáza má nebezpečnost 13 a je imunní vůči kouzlům 6. či nižší úrovně. Sesilatelé kouzel, kteří jsou na 12. či nižší úrovni, nemají žádná kouzla vyšší než 6. úrovně, což znamená, že nebudou moci ovlivnit rakšázu svou magií a dobrodruhům to způsobí vážný neprospěch. Takové střetnutí by bylo pro družinu výrazně obtížnější, než by mohlo být patrné z nebezpečnosti nestvůry.
   
-:::
+
+</Card>
   
 #### Ohodnocení obtížnosti střetnutí
   

@@ -1363,7 +1363,8 @@ Když kouzlo sešleš, můžeš pro svého přítelíčka zvolit jednu z norm�
   
 Navíc, když použiješ akci Útok, můžeš se vzdát jednoho ze svých vlastních útoků a umožnit tak svému přítelíčkovi, aby sám jednou zaútočil. Když necháš svého přítelíčka zaútočit, udělá to pomocí své reakce.
 
-::: card Laskavost daná paktem
+<Card header="Laskavost daná paktem">
+
 
 Každá možnost Laskavosti dané paktem přináší zvláštního tvora či předmět, který odráží povahu tvého patrona.
 
@@ -1373,7 +1374,8 @@ Každá možnost Laskavosti dané paktem přináší zvláštního tvora či př
 
 ***Pakt řetězu.*** Tvůj přítelíček je chytřejší než typický přítelíček. Jeho výchozí podoba může být odrazem tvého patrona. Poletucha či pseudodrak pro Arcivílu a ďáblík či rarach pro Běsa. K Prastarému se hodí jakákoliv podoba přítelíčka, neboť jeho povaha je nevyzpytatelná.
 
-:::
+
+</Card>
   
 #### Zvýšení hodnot vlastností
   
@@ -1793,7 +1795,8 @@ Kromě vybavení daného tvým zázemím začínáš i s následujícím vyb
   
 Znáš druidštinu, tajnou řeč druidů. Umíš jí mluvit a používat ji k zanechávání tajných zpráv. Ty a jiní, kteří znají tuto řeč, si automaticky všimnete takové zprávy. Ostatní si všimnou přítomnosti zprávy při úspěšném ověření Moudrosti (Vnímání) se SO 15, ale bez magie ji nedokážou rozšifrovat.
 
-::: card Posvátné rostliny a dřevo
+<Card header="Posvátné rostliny a dřevo">
+
 
 Druidi považují některé rostliny za posvátné, zejména bez, břízu, dub, jalovec, jasan, jeřáb, jmelí, lísku, olši a vrbu. Druidi často používají takové rostliny jako součást sesílacích ohniskových předmětů. Zapracovávají do nich kusy dubu či tisu nebo snítky jmelí. 
 
@@ -1801,7 +1804,8 @@ Druidi používají taková dřeva i k výrobě jiných předmětů, například
 
 Druidi z krajů, které nemají zde popsané rostliny, si volí jiné rostliny s podobným použitím. Například druid z pouště si může cenit juky nebo kaktusu.
 
-:::
+
+</Card>
   
 #### Sesílání kouzel
   
@@ -1959,7 +1963,8 @@ Když dosáhneš 14. úrovně, tvorové přírodního světa cítí tvé spojen�
   
 Tvor si je vědom tohoto účinku, než na tebe zaútočí.  
 
-::: card Druidové a bohové
+<Card header="Druidové a bohové">
+
 
 Někteří druidové uctívají síly samotné přírody, ale většinou jsou druidi oddaní jednomu z mnoha přírodních božstev uctívaných v multivesmíru (seznamy bohů v dodatku B zahrnují mnohá taková božstva). Uctívání takových božstev se zpravidla praktikuje spíš jako starý obyčej než jako víra kleriků a urbanizovaných obyvatel. Vlastně ve světě Greyhawk se druidská víra nazývá Stará víra a má mnoho příznivců mezi farmáři, lesníky, rybáři a ostatními, kdo žijí v těsném spojení s přírodou. Tato tradice zahrnuje uctívání Přírody jako zosobnění prvotní síly, ale zahrnuje také uctívání Beory, Matky Zamie, nebo také uctívání Obad-Haie, Ehlonny a Ulý.
 
@@ -1967,7 +1972,8 @@ Ve světech Greyhawku a Forgotten Realms druidské kruhy obvykle nejsou spojeny 
 
 Druidové Eberronu věří v animismus, který nijak nesouvisí se Svrchovaným dvorem, Temnou Šestkou, ani žádným jiným náboženstvím toho světa. Věří, že každá živá věc a každý přírodní úkaz — slunce, měsíc, vítr, oheň i samotný svět — má duši. Jejich kouzla jsou pak příkazy a prostředky ke komunikaci s těmito dušemi. Ale různé druidské sekty mají různé filozofie o správném vztahu s těmito dušemi a k silám civilizace. Například Jasanovazný řád věří, že mystická magie je opovrhování přírodou, Děti zimy uctívají síly smrti a Strážci bran uchovávají starodávné tradice, které mají chránit svět před vpádem zrůd.
 
-:::
+
+</Card>
   
 **Arktida**
 
@@ -2922,7 +2928,8 @@ Na 1. úrovni znáš tři triky dle své volby ze seznamu kouzelnických kouzel.
   
 Na 1. úrovni máš knihu kouzel obsahující šest kouzelnických kouzel 1. úrovně dle tvé volby. Kniha kouzel neobsahuje triky.
 
-::: card Tvoje kniha kouzel
+<Card header="Tvoje kniha kouzel">
+
 
 Kouzla, jež si přidáváš do své knihy kouzel při postupu na vyšší úrovně, odráží tvoje bádání, které provádíš na svou vlastní pěst, stejně jako intelektuální objevy, jež jsi učinil o povaze multivesmíru. Na svých dobrodružstvích možná najdeš další kouzla. Například, můžeš objevit kouzlo zaznamenané na svitku v truhle zlého kouzelníka nebo v zaprášené rukověti v prastaré knihovně.
 
@@ -2938,7 +2945,8 @@ Přijdeš-li o svou knihu kouzel, můžeš použít stejný postup k přepisu ko
 
 ***Vzhled knihy.*** Tvoje kniha kouzel je unikátní kompilací kouzel, se svými vlastními dekorativními ozdobami a okrajovými poznámkami. Může to být prostý, funkční kožený svazek, který jsi dostal jako dárek od svého mistra, může to být jemně vázaná rukověť s pozlacenými okraji, kterou jsi našel v prastaré hrobce, nebo to může být dokonce jen volná sbírka poznámek, které sis dal dohromady poté, co jsi přišel o svou předchozí knihu kouzel při nehodě.
 
-:::
+
+</Card>
 
   
 ##### Příprava a sesílání kouzel
@@ -3605,7 +3613,8 @@ Na 11. úrovni se naučíš, jak splynout se stíny. Když jsi v oblasti šera
   
 Od 17. úrovně můžeš využít tvorovy chvilkové nepozornosti, když ho zasáhne něčí útok. Kdykoliv je tvor do 1 sáhu od tebe zasažen útokem někoho jiného, než jsi ty, můžeš pomocí své reakce zaútočit na blízko proti tomuto tvorovi.
   
-::: card Mnišské řády
+<Card header="Mnišské řády">
+
 
 Světy D&D obsahují velké množství klášterů a mnišských tradic. V zemích s nádechem asijské kultury, jako je například Šou Lung na východě Forgotten Realms, jsou tyto kláštery spojeny s filozofickými tradicemi a výcvikem bojových umění. Šou Lungské kláštery Škola železné ruky, Škola pěti hvězd, Škola severní pěsti a Škola jižní hvězdy vyučují různé přístupy k fyzickým, mentálním a duševním disciplínám mnicha. Některé z těchto klášterů se rozšířily do západních zemí Faerûnu, zejména do míst s velkými komunitami šounských přistěhovalců, jako je třeba Thesk a Západní brána.
 
@@ -3613,7 +3622,8 @@ Jiné klášterní tradice jsou spojeny s božstvy, která učí cenit si fyzick
 
 Zlí mniši Šarlatového bratrstva ve světě Greyhawk neodvozují svou fantastickou horlivost ze zasvěcení bohu, ale z obětavosti k principům svého národa a rasy — víře, že suelští lidé jsou předurčeni vládnout světu.
 
-:::
+
+</Card>
 
 ## Paladin
   
@@ -4028,7 +4038,8 @@ Přeměnu podstoupíš použitím své akce. Na 1 minutu získáš následujíc�
   
 Jakmile použiješ tuto schopnost, nemůžeš ji použít znovu, dokud si důkladně neodpočineš.
   
-::: card Porušení tvé přísahy
+<Card header="Porušení tvé přísahy">
+
 
 Paladin se snaží dostát nejvyšším normám chování, ale i ten nejctnostnější paladin se dopouští omylů. Někdy se správná cesta jeví jako příliš náročná, někdy si situace žádá zvolit menší ze dvou zel a někdy se v zápalu emocí stane, že se paladin prohřeší proti své přísaze.
 
@@ -4036,7 +4047,8 @@ Paladin, který porušil slib, obvykle usiluje o rozhřešení od klerika stejn�
 
 Pokud paladin poruší svou přísahu záměrně a nejeví žádnou známku kajícnosti, může to mít vážné následky. Zatvrzelý paladin může být dle úvahy PJ donucen k opuštění tohoto povolání a přijetí jiného, případně může využít možnost paladina Křivopřísežníka, která se vyskytuje v *Průvodci Pána jeskyně*.
 
-:::
+
+</Card>
  
 ## Tulák
   

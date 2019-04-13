@@ -72,7 +72,8 @@ Degradování je mezi ďábly obvyklý trest za selhání nebo neposlušnost. Ar
   
 13. arcivévoda či arcivévodkyně
 
-::: card Pravá jména ďáblů a talismany
+<Card header="Pravá jména ďáblů a talismany">
+
   
 I když všichni ďáblové mají obecná jména, každý s vyšším postavením než mátoha má pravé jméno, které uchovává v tajnosti. Je-li ďábel zmámený, lze ho donutit, aby vyzradil své pravé jméno, a říká se, že existují prastaré svitky a rukověti, které uvádí pravá jména určitých ďáblů.
   
@@ -80,13 +81,15 @@ Smrtelník, který se dozví ďáblovo pravé jméno, ho může pomocí mocné p
   
 I když je ďábel přivolán do Materiální sféry, obvykle odmítá být přitlačen do služby. Ďábel využije každé příležitosti, aby zkazil svého přivolávače a duše přivolávače tak skončila v Devíti peklech. Jen ďáblíkům skutečně vyhovuje být přivolán a klidně souhlasí sloužit přivolávači jako přítelíček, ale přesto udělají vše, co je v jejich silách, aby zkazili ty, kdo je přivolali.
 
-:::
+
+</Card>
   
 #### Devět pekel
   
 Devět pekel jsou jedna sféra skládající se z devíti samostatných vrstev (viz tabulka Vrstvy a páni Devíti pekel). V každé z prvních osmi vrstev vládne jistý arciďábel. Ti se zodpovídají největšímu arciďáblovi ze všech: Asmodeovi, Arcivévodovi Nessu, deváté vrstvy. Ten, kdo chce dosáhnout nejhlubší vrstvy Devíti pekel, musí po pořadě sestoupit skrz všech osm vrstev nad ní. Nejrychlejší způsob, jak to udělat, je po řece Styx, která se noří stále hlouběji, jak teče z jedné vrstvy do další. Jen ti nejodvážnější dobrodruzi snesou utrpení a hrůzu této cesty.
 
-::: card Varianta: Přivolávání ďáblů
+<Card header="Varianta: Přivolávání ďáblů">
+
   
 Někteří ďáblové mohou mít možnost akce, která jim umožňuje přivolat další ďábly.
   
@@ -102,7 +105,8 @@ Někteří ďáblové mohou mít možnost akce, která jim umožňuje přivolat 
   
 Přivolaný ďábel se objeví na volném místě do 12 sáhů od přivolávače, jedná jako přivolávačův spojenec a nemůže přivolat další ďábly. Vydrží 1 minutu, dokud on sám či jeho přivolávač nezemře, nebo dokud ho přivolávač nezruší jako akci.
 
-:::
+
+</Card>
 
 ## Ďáblík
   
@@ -110,13 +114,15 @@ Přivolaný ďábel se objeví na volném místě do 12 sáhů od přivolávače
   
 Ďáblík na sebe libovolně může brát zvířecí podobu, ale ve své přirozené podobě připomíná maličkého humanoida s rudou pokožkou, ostnatým ocasem, malými rohy a kožnatými křídly. Zaútočí, když je neviditelný, pomocí svého jedového žihadla.
 
-::: card Varianta: Ďáblík jako přítelíček
+<Card header="Varianta: Ďáblík jako přítelíček">
+
   
 Ďáblíky lze najít ve službách smrtelných sesilatelů kouzel jako poradce, špehy a přítelíčky. Ďáblík popichuje svého pána, aby jednal zle. Ví, že smrtelníkova duše je odměna, kterou by mohl nakonec získat. Ďáblíci prokazují svým pánům nebývalou věrnost a ďáblík může být docela nebezpečný, je-li ohrožen jeho pán. Někteří takoví ďáblíci mají následující rys.
   
 ***Přítelíček.*** Ďáblík může uzavřít smlouvu s jiným tvorem a sloužit mu jako přítelíček, přičemž naváže telepatické pouto se svým pánem, který s tím souhlasí. Dokud jsou ti dva spojeni, pán dokáže vnímat to, co ďáblík, pokud jsou od sebe navzájem do 1 míle. Když je ďáblík do 2 sáhů od svého pána, jeho pán sdílí ďáblíkův rys Magické odolání. Pokud ďáblíkův pán poruší podmínky smlouvy, ďáblík může ukončit svou službu přítelíčka a ukončit telepatické pouto.
   
-:::
+
+</Card>
   
 ## Erínyje
   
@@ -231,13 +237,15 @@ Vousatý ďábel má humanoidní podobu, se špičatýma ušima, šupinatou poko
   
 </Monster>   
   
-::: card
+<Card header="">
+
   
 „Žijí mečem a umírají mečem. Jejich krása je ničím v porovnání s jejich hněvem.“
   
 — Z *Knihy odporné temnoty*
 
-:::
+
+</Card>
 
 <Monster 
     title="Erinyje"
@@ -278,11 +286,13 @@ Vousatý ďábel má humanoidní podobu, se špičatýma ušima, šupinatou poko
   
 </Monster>  
   
-::: card Varianta: Omotávací lano
+<Card header="Varianta: Omotávací lano">
+
   
 Některé erinyje nosí *omotávací lano* (popsané v *Průvodci Pána jeskyně*). Když taková erinyje použije svůj Vícenásobný útok, může použít lano místo dvou útoků.
   
-:::     
+
+</Card>
 
 <Monster 
     title="Kostěný ďábel"
@@ -320,7 +330,8 @@ Některé erinyje nosí *omotávací lano* (popsané v *Průvodci Pána jeskyn
   
 </Monster>   
 
-::: card Varianta: Sudlice kostěného ďábla
+<Card header="Varianta: Sudlice kostěného ďábla">
+
   
 Někteří kostění ďáblové mají následující možnosti akce.
   
@@ -328,7 +339,8 @@ Někteří kostění ďáblové mají následující možnosti akce.
   
 ***Sudlice.*** *Útok na blízko zbraní:* +8 k zásahu, dosah 2 sáhy, jeden cíl. *Zásah:* Bodné zranění 17 (2k12 + 4). Je-li cílem Obrovský či menší tvor, je uchvácený (SO úniku je 14). Dokud toto uchvácení neskončí, ďábel nemůže použít sudlici na jiný cíl.
   
-:::  
+
+</Card>
 
 <Monster 
     title="Ledový ďábel"
@@ -373,7 +385,8 @@ Zeď vydrží 1 minutu, nebo dokud se ďábel nestane neschopný či nezemře. Z
   
 </Monster>    
 
-::: card Varianta: Kopí ledového ďábla
+<Card header="Varianta: Kopí ledového ďábla">
+
   
 Někteří ledoví ďáblové mají následující možnosti akce.
   
@@ -381,7 +394,8 @@ Někteří ledoví ďáblové mají následující možnosti akce.
   
 ***Ledové kopí.*** *Útok na blízko zbraní:* +10 k zásahu, dosah 2 sáhy, jeden cíl. *Zásah:* Bodné zranění 14 (2k8 + 5) plus chladné zranění 10 (3k6). Je-li cílem tvor, musí uspět v záchranném hodu na Odolnost se SO 15, jinak na 1 minutu se jeho rychlost sníží o 2 sáhy; může používat buď akci, nebo bonusovou akci v každém svém tahu, ne obojí; a nemůže používat reakce. Cíl může zopakovat záchranný hod na konci každého svého tahu a při úspěchu pro něj účinek skončí.
   
-::: 
+
+</Card>
 
 <Monster 
     title="Mátoha"
@@ -532,13 +546,15 @@ Každý oživlý řetěz je předmět s OČ 20, 20 životy, odoláním vůči 
 
 </Monster>  
 
-::: card 
+<Card header="">
+
 
 „Vaše válkou zničené království je v naprostém rozkladu, jeho obyvatelé umírají hladem a sváry. Volají po novém vedení – někom s charismatem a odvahou skoncovat s nepokojem a strádáním. Vy byste mohli být tím někým.“
   
 — šejtán Hrdinobal
   
-::: 
+
+</Card>
 
 <Monster 
     title="Šejtán"
@@ -628,14 +644,16 @@ Libovolně: *najdi magii*, *ohnivá koule*
 
 </Monster>  
 
-::: card 
+<Card header="">
+
 
 „Leťte, mí krasavci, leťte! Leťte!“
   
 — Firna, arcivévodkyně Flegetosu, 
 přikazující svým legiím trnitých ďáblů
   
-::: 
+
+</Card>
 
 <Monster 
     title="Vousatý ďábel"

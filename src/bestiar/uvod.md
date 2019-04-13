@@ -147,13 +147,15 @@ V celé této knize se vyskytuje škála humanoidů, ale rasami, o kterých 
   
 ***Zrůdy*** jsou naprosto cizácké bytosti. Mnoho z nich má přirozené magické schopnosti, které čerpají z tvorovy cizácké mysli místo z mystických sil světa. Typickými zrůdami jsou aboleti, mozkožrouti, sládi a zřící.
 
-::: card Úprava nestvůr
+<Card header="Úprava nestvůr">
+
   
 Navzdory všestranné sbírce nestvůr v této knize se můžeš ocitnout v nesnázích, když budeš chtít najít tvora, který by dokonale zapadl do části tvého dobrodružství. Klidně uprav existujícího tvora do něčeho, co je pro tebe použitelnější. Třeba si půjč jeden dva rysy z jiné nestvůry, nebo použij **variantu** či **šablonu**, jako jsou ty v této knize. Nezapomeň, že úprava nestvůry, i když na ni použiješ šablonu, může změnit její nebezpečnost.
   
 Rady, jak upravit tvory a spočítat jejich nebezpečnost, najdeš v *Průvodci Pána jeskyně*.
   
-:::
+
+</Card>
   
 #### Značky
   
@@ -273,7 +275,8 @@ Položka Dovednosti je vyhrazena pro nestvůry, které jsou zdatné v jedné �
   
 Dovednostní bonus je součet příslušné opravy vlastnosti nestvůry a jejího zdatnostního bonusu, který je dán nebezpečností nestvůry (jak je uvedeno v tabulce Zdatnostní bonusy podle nebezpečnosti). Lze použít i jiné opravy. Například, nestvůra si může započítat větší než předpokládaný bonus (obvykle dvojnásobný zdatnostní bonus) díky své zvýšené kvalifikaci.
 
-::: card Zdatnosti se zbrojí, zbraněmi a pomůckami
+<Card header="Zdatnosti se zbrojí, zbraněmi a pomůckami">
+
   
 Předpokládej, že tvor je zdatný se svou zbrojí, zbraněmi a pomůckami. Pokud je vyměníš, rozhodni, jestli je tvor zdatný se svým novými vybavením.
   
@@ -281,7 +284,8 @@ Například kopcový obr obvykle nosí usňovou zbroj a těžký kyj. Místo t
   
 Viz pravidla pro používání zbrojí a zbraní bez zdatnosti v *Příručce hráče*.
 
-:::
+
+</Card>
   
 ### Zranitelnosti, odolání a imunity
   
@@ -418,13 +422,15 @@ Nejběžnější akce, které bude nestvůra používat v boji, jsou útoky na
   
 ***Minutí.*** Má-li útok účinek, který se projeví při minutí, tato informace je uvedena za notací „*Minutí:*“.
 
-::: card Pravidla chvatu pro nestvůry
+<Card header="Pravidla chvatu pro nestvůry">
+
   
 Mnoho nestvůr má zvláštní útoky, které jim umožňují rychle uchvátit kořist. Když nestvůra zasáhne takovým útokem, nemusí si házet na ověření vlastnosti, zdali chvat uspěje, pokud útok neříká jinak.
   
 Tvor uchvácený nestvůrou může použít svou akci k pokusu o únik. Aby unikl, musí uspět v ověření Síly (Atletiky) nebo Obratnosti (Akrobacie) proti SO úniku v bloku statistik nestvůry. Pokud není uveden SO úniku, předpokládej, že SO je 10 + oprava Síly (Atletiky) nestvůry.
 
-:::
+
+</Card>
   
 #### Vícenásobný útok
   

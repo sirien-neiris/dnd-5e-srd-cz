@@ -17,13 +17,15 @@ Skuteční draci prochází čtyřmi odlišnými stádii života, od pokorných 
 | Dospělý drak | Obrovská | 101–800 let |
 | Prastarý drak | Gigantická | 801 či více let |
 
-::: card Varianta: Draci jako přirození sesilatelé kouzel
+<Card header="Varianta: Draci jako přirození sesilatelé kouzel">
+
   
 Draci jsou přirození magičtí tvorové, kteří při použití této varianty si mohou osvojit několik kouzel v průběhu stárnutí.
   
 Mladý či starší drak může přirozeně sesílat počet kouzel rovných jeho opravě Charismatu. Každé kouzlo se dá seslat jednou za den, nejsou k němu potřeba suroviny a úroveň kouzla může být maximálně třetina drakovy nebezpečnosti (zaokrouhleno dolů). Drakův bonus k zásahu při útoku kouzlem je roven jeho zdatnostnímu bonusu + jeho oprava Charismatu. Drakův SO záchrany kouzla je roven 8 + jeho zdatnostní bonus + jeho oprava Charismatu.
   
-:::  
+
+</Card>
   
 ## Barevní draci
   
@@ -928,13 +930,15 @@ Každý dvousáhový panel zdi má OČ 5, 30 životů, zranitelnost vůči ohniv
   
 Pokud drak umře, hlodavci a ptáci s ním ztratí své nadpřirozené spojení. Houštiny zůstanou, ale během 1k10 dní se stanou obyčejnými rostlinami a normálním obtížným terénem a ztratí své trny.
 
-::: card
+<Card header="">
+
 
 „Vidím prastarého elfího krále, jehož majestátnost již dávno pohasla, klesla a napolo usnula v jeho trůnu. Zelený drak našeptává do králova ucha, kazí a překrucuje jeho sny. Jméno tohoto draka je Azurová Krvavá Zhouba a znamená zkázu pro nás všechny.“
   
 — Pelios z Ergotu, Sylvánský věštec
   
-:::
+
+</Card>
 
 <Monster 
     title="Zelené dráče"

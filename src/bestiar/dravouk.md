@@ -6,7 +6,8 @@ Když drow vypadá velmi slibně, Lolth ho přivolá do Jam Sítě démonů a 
   
 Ve výjimečných případech se dravouk vrací na okraj drowí společnosti navzdory svému prokletí, zpravidla aby dostál nějakému dlouhodobému slibu nebo krevní mstě ze svého bývalého života. Drowové se bojí dravouků a vyhýbají se jim. Chovají k nim menší úctu než k otrokům. Avšak tolerují přítomnost těchto tvorů jako živých představitelů Lolthiny vůle a připomínku osudu, jenž čeká na ty, kdo zklamou Pavoučí královnu.
   
-::: card Varianta: Dravoučí sesilatelé kouzel
+<Card header="Varianta: Dravoučí sesilatelé kouzel">
+
   
 Dravouci, kteří bývali drowí sesilatelé kouzel, si mohli uchovat svou schopnost sesílat kouzla. Takoví dravouci obvykle mají vyšší sesílací schopnost (15 či 16) než ostatní dravouci. Navíc takový dravouk získá rys Sesílání kouzel. Dravouk, který býval drowí božský sesilatel kouzel, tak může mít Moudrost 16 (+3) a následující rys Sesílání kouzel.
   
@@ -22,15 +23,18 @@ Triky (libovolně): *divotvorství*, *jedovatá sprška*
   
 4. úroveň (2 pozice): *věštění*, *volnost*
   
-:::  
 
-::: card 
+</Card>
+
+<Card header="">
+
  
 „Jednou jsem zklamal Pavoučí královnu. Už nikdy více.“
   
 — Dravouk Pellanistra
   
-:::
+
+</Card>
 
 <Monster 
     title="Dravouk"

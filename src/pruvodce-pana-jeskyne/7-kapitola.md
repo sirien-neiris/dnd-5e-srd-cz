@@ -476,7 +476,8 @@ Kategorie lektvary sdružuje různé druhy magických kapalin: odvary z čarov
   
 Lektvary jsou jednorázové kouzelné předměty. Vypití lektvaru nebo podání lektvaru jiné postavě vyžaduje akci. Natření oleje může trvat déle, jak je uvedeno v jeho popisu. Jakmile se lektvar použije, okamžitě účinkuje a spotřebuje se.
 
-::: card Volitelné pravidlo: Míchání lektvarů
+<Card header="Volitelné pravidlo: Míchání lektvarů">
+
   
 Postava může vypít lektvar, když ještě působí lektvar, jenž vypila předtím, nebo slije několik lektvarů do jedné nádoby. Podivné přísady používané k výrobě lektvarů mohou vyústit v nepředvídatelné interakce.
   
@@ -495,7 +496,8 @@ Když postava smíchá dva lektvary, hoď procentovou kostkou a nahlédni do T
 | 91–99 | Číselné účinky a trvání jednoho lektvaru se zdvojnásobí. Nelze-li u žádného z lektvarů nic takto zdvojnásobit, budou oba fungovat normálně. |
 | 100 | Funguje jen jeden lektvar, ale jeho účinek je trvalý. Jako trvalý zvol účinek, který je nejjednodušší, nebo který se zdá nejzábavnější. Například *léčivý lektvar* může zvýšit maximum životů příjemce o 4 životy, nebo *éterický olej* může trvale lapit uživatele v Éterické sféře. Dle tvé úvahy může ukončit tento trvalý účinek vhodné kouzlo, například *rozptyl magii* nebo *sejmi kletbu*. |
   
-:::
+
+</Card>
   
 #### Prsteny
   
@@ -509,7 +511,8 @@ Svitek je jednorázový kouzelný předmět. Nezávisle na povaze magie obsažen
   
 Jakýkoli tvor, jenž rozumí psanému jazyku, může přečíst mystický zápis na svitku a pokusit se ho aktivovat.
 
-::: card Volitelné pravidlo: Svitkové nehody
+<Card header="Volitelné pravidlo: Svitkové nehody">
+
   
 Tvor, který se pokusí seslat kouzlo z *kouzelného svitku*, a selže, musí si hodit záchranný hod na Inteligenci se SO 10. Neuspěje-li v něm, hoď podle Tabulky svitkových nehod.
   
@@ -524,7 +527,8 @@ Tvor, který se pokusí seslat kouzlo z *kouzelného svitku*, a selže, mus�
 | 5 | Sesilatel utrpí drobný, ale bizarní účinek související s kouzlem. Takový účinek vydrží jen po dobu trvání původního kouzla, nebo 1k10 minut u kouzel, která působí ihned. Například *ohnivá koule* může způsobit kouř vycházející ze sesilatelových uší 1k10 minut. |
 | 6 | Kouzlo se aktivuje za 1k12 hodin. Byl-li zamýšleným cílem sesilatel, kouzlo účinkuje normálně. Nebyl-li zamýšleným cílem sesilatel, kouzlo se vydá obecným směrem k zamýšlenému cíli, až do maximálního dosahu kouzla, pokud se cíl vzdálil. |
   
-::: 
+
+</Card>
   
 #### Zbraně
   
@@ -584,7 +588,8 @@ Kouzelné předměty, například některé berly, mohou vyžadovat tvou vlastn�
   
 Některé kouzelné předměty mají dávky, které se musí spotřebovat pro aktivaci jejich vlastností. Počet dávek, jež předmětu zbývají, se odhalí sesláním kouzla *určení* na předmět, nebo také když se s ním tvor sladí. Navíc, když se předmětu dobijí dávky, tak tvor, který je s ním sladěný, se dozví, kolik dávek se dobilo. 
   
-::: card Formule kouzelných předmětů
+<Card header="Formule kouzelných předmětů">
+
   
 Formule kouzelného předmětu vysvětluje, jak vyrobit daný předmět. Taková formule může být skvělou odměnou, umožníš-li hráčským postavám vyrábět kouzelné předměty, jak je vysvětleno v 6. kapitole, „Mezi dobrodružstvími“.
   
@@ -592,7 +597,8 @@ Formuli můžeš udělit místo kouzelného předmětu. Obvykle je napsaná v 
   
 Je-li tvorba kouzelných předmětů ve tvém světě běžná, tak formule má stejnou vzácnost jako předmět, který umožňuje postavě vyrobit. Formule pro běžné a neobvyklé předměty mohou být dokonce na prodej, každá za dvojnásobnou cenu, než je cena jejího kouzelného předmětu.
  
-::: 
+
+</Card>
   
 ### Odolnost kouzelných předmětů
   
@@ -604,11 +610,13 @@ Kouzelnému předmětu můžeš dodat individuálnost, když promyslíš jeho mi
   
 Tabulky, které následují, ti pomohou s odpověďmi. Hoď si dle libovolného množství těchto tabulek. Některé položky v tabulce dávají větší smysl pro určité předměty než pro jiné. Například některé kouzelné předměty vyrábí pouze jisté druhy tvorů; *elfí plášť* vyrábí spíš elfové než trpaslíci. Padne-li něco, co nedává smysl, tak hoď znovu, či vyber vhodnou položku, nebo použij hozenou věc jako inspiraci pro svůj vlastní výmysl.
   
-::: card Volitelné pravidlo: Nedobíjecí hůlky
+<Card header="Volitelné pravidlo: Nedobíjecí hůlky">
+
   
 Typická hůlka má spotřební dávky. Chceš-li, aby hůlky byly omezeným zdrojem, můžeš některé z nich udělat neschopné dobíjet dávky. Zvaž zvýšení základního množství dávek takové hůlky, maximálně však na 25 dávek. Tyto dávky se nikdy nedobijí, jakmile se jednou spotřebují.
 
-:::
+
+</Card>
    
 **Kdo ho vytvořil nebo měl v úmyslu používat?**
   
@@ -1448,7 +1456,8 @@ Tvor existuje po dobu uvedenou u každé figurky. Na konci této doby se tvor 
   
 ***Ebenová moucha (vzácná).*** Tato ebenová soška je vyřezaná do podobizny ováda. Může se stát obří mouchou až na 12 hodin. Jakmile se použije, nelze použít znovu, dokud neuplynou 2 dny.
 
-::: card Obří moucha
+<Card header="Obří moucha">
+
   
 *Velké zvíře, bez přesvědčení*
   
@@ -1466,7 +1475,8 @@ Tvor existuje po dobu uvedenou u každé figurky. Na konci této doby se tvor 
   
 **Jazyky** —
   
-::: 
+
+</Card>
   
 ***Hadcová sova (vzácná).*** Tato hadcová soška sovy se může stát obří sovou až na 8 hodin. Jakmile se použije, nelze použít znovu, dokud neuplynou 2 dny. Sova s tebou může telepaticky komunikovat na jakoukoli vzdálenost, pokud jste ve stejné sféře existence.
   
@@ -1905,7 +1915,8 @@ Jakmile si lízneš kartu, zmizí. Nebyla-li to karta Blázen nebo Kašpar, obje
   
 ***Lebka.*** Přivoláš avatara smrti — přízračného humanoidního kostlivce v otrhaném černém rouchu, který drží přízračnou kůsu. Objeví se na místě dle úvahy PJ do 2 sáhů od tebe a zaútočí na tebe, přičemž varuje všechny ostatní, že musíš vyhrát souboj sám. Avatar bojuje, dokud nezemřeš, nebo mu neklesnou životy na 0, a pak zmizí. Pokusí-li se ti někdo pomoci, pomahač přivolá svého vlastního avatara smrti. Tvora poraženého avatarem smrti nelze obživnout.
 
-::: card Avatar smrti
+<Card header="Avatar smrti">
+
   
 Střední nemrtvý, neutrální zlo
   
@@ -1937,7 +1948,8 @@ Akce
   
 ***Kosa smrtky.*** Avatar máchne svou přízračnou kůsou skrz tvora do 1 sáhu od něj a způsobí mu sečné zranění 7 (1k8 + 3) plus nekrotické zranění 4 (1k8).
 
-:::
+
+</Card>
   
 ***Měsíc.*** Získáš schopnost 1k3 krát seslat kouzlo *přání*.
   
@@ -1961,13 +1973,15 @@ Akce
   
 ***Vezír.*** Kdykoliv do jednoho roku od líznutí této karty můžeš během meditace položit jednu otázku a mentálně na ni obdržíš pravdivou odpověď. Kromě informace ti odpověď pomůže vyřešit zapeklitý problém nebo jiné dilema. Jinými slovy, mimo informace získáš znalost, jak ji použít.
 
-::: card Otázka nepřátelství
+<Card header="Otázka nepřátelství">
+
   
 Dvě karty z *karet mnoha věcí* mohou postavě vysloužit nepřátelství jiné bytosti. U karty Oheň je nepřátelství zjevné. Postava by měla zakusit ďáblovu zlomyslnou snahu při několika příležitostech. Vyhledání běsa by nemělo být snadné a dobrodruh by se měl několikrát utkat s ďáblovými spojenci a stoupenci, než se bude moci postavit samotnému ďáblovi.
   
 V případě karty Tulák je nepřátelství tajné a mělo by přijít od někoho, kdo je považován za přítele či spojence. Jako Pán jeskyně bys měl nechat dobrodruha pouze hádat, kdo se nejspíš stal zrádcem, a vyčkat na dramaticky vhodný okamžik, kdy odhalíš toto nepřátelství.
   
-:::
+
+</Card>
   
 #### Keoghtomovo mazání
   
@@ -4358,7 +4372,8 @@ Příroda nesnáší přítomnost knihy. Obyčejné rostliny v její blízkost
   
 Tvor sladěný s knihou musí strávit 80 hodin čtením a studiem knihy, aby pronikl do jejího obsahu a získal její užitky. Pak může volně upravovat obsah knihy, pokud tyto změny zvětšují zlo a rozšiřují vědomosti, které už v knize jsou.  
   
-::: card Odporné znalosti
+<Card header="Odporné znalosti">
+
   
 *Kniha odporné temnoty* probírá každé zlo ve vesmíru. Postava může pomocí znalostí obsažených v knize odkrýt strašná tajemství, která by neměl znát žádný smrtelník. Mezi tématy, jež postava může v obsahu najít, jsou následující, plus cokoliv jiného zvolíš:
   
@@ -4368,7 +4383,8 @@ Tvor sladěný s knihou musí strávit 80 hodin čtením a studiem knihy, ab
   
  * **Černá magie.** V knize může být několik strašně zlých kouzel, dle návrhu a volby Pána jeskyně. Kouzla mohou způsobovat hrůzné kletby, netvořit ostatní, vyžadovat lidskou oběť, postihovat tvory ochromující bolestí, šířit zhoubné nemoci a tak dále.
  
-::: 
+
+</Card>
 
 Kdykoliv se s *Knihou odporné temnoty* sladí tvor, který není zlý, musí si hodit záchranný hod na Charisma se SO 17. Když tvor neuspěje, změní se jeho přesvědčení na neutrálně zlé.
   
@@ -4686,7 +4702,8 @@ Ty určuješ, které epické dobrodiní postava získá. Ideálně by tebou vybr
   
 Ať už postava skončí s jakýmkoli dobrodiním, zvaž jeho místo ve svém příběhu a světě. Mnohá dobrodiní jsou mimořádná a představují postupný přerod postavy v něco, co připomíná poloboha. Získání dobrodiní může viditelně přeměnit postavu. Například oči postavy s Dobrodiním pravdivého vidění mohou svítit, když postava cítí silnou emoci a kolem hlavy postavy, která má Dobrodiní vysoké magie, mohou poletovat zrnka mdlého světla. Také urči, jak se dobrodiní poprvé projeví. Projeví se spontánně a záhadně? Nebo se zjeví bytost s vesmírnou mocí, která ho udělí? Udělení dobrodiní může být samo o sobě úžasnou scénou v dobrodružství.
   
-::: card Alternativy k epickým dobrodiním
+<Card header="Alternativy k epickým dobrodiním">
+
   
 Můžeš se rozhodnout, že místo epického dobrodiní udělíš postavě na 20. úrovni jednu z následujících odměn. Těmito dvěma možnostmi lze postavu odměnit více než jednou.
   
@@ -4694,7 +4711,8 @@ Můžeš se rozhodnout, že místo epického dobrodiní udělíš postavě na 20
   
 ***Nová odbornost.*** Postava získá novou odbornost, kterou jí vybere hráč, ale podléhá tvému schválení.
   
-:::  
+
+</Card>
     
 Text dobrodiní oslovuje jeho uživatele. Pokud dobrodiní neříká jinak, postava ho nemůže získat více než jednou.
   

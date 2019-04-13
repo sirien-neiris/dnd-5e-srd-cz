@@ -827,7 +827,8 @@ Pokud se výstupní zranění nestvůry liší kolo od kola, počítej její vý
   
 Když počítáš výstupní zranění nestvůry, započítej také zvláštní schopnosti, které způsobují zranění mimo tah, například aury, reakce, legendární akce nebo akce doupěte. Například balorova Ohnivá aura způsobuje ohnivé zranění 10 každému tvorovi, který zasáhne balora útokem na blízko. Aura také způsobuje ohnivé zranění 10 všem tvorům do 1 sáhu od balora na začátku každého balorova tahu. Pokud předpokládáš, že jedna postava v družině bude neustále do 1 sáhu od balora a každé kolo ho zasáhne zbraní na blízko, pak balorovo výstupní zranění za kolo se zvýší o 20.
   
-::: card Útočné dodatky
+<Card header="Útočné dodatky">
+
   
 Mnoho nestvůr má útoky, které způsobují víc než jen zranění. K útoku lze přidat jisté účinky, aby způsoboval zajímavou zápletku, například:
   
@@ -836,7 +837,8 @@ Mnoho nestvůr má útoky, které způsobují víc než jen zranění. K útok
  * Umožnění nestvůře, aby při zásahu srazila cíl k zemi
  * Pokud útok zasáhne a cíl neuspěje v záchranném hodu, utrpí stav
 
-:::
+
+</Card>
   
 #### 12. krok: SO záchran
   

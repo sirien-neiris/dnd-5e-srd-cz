@@ -38,8 +38,10 @@ V Materiální sféře árakokry vytváří orlí hnízda na vrcholech nejvyš
 
 </Monster> 
 
-::: card Přivolávání vzdušných elementálů
+<Card header="Přivolávání vzdušných elementálů">
+
   
 Pět árakoker, které jsou od sebe navzájem do 6 sáhů, mohou magicky přivolat vzdušného elementála. Každý z pěti musí použít svou akci a pohyb ve třech po sobě jdoucích tazích k vzdušnému tanci a během něj se na něj musí soustředit (jako by se soustředil na kouzlo). Když všech pět dokončí svůj třetí tah tance, objeví se elementál na volném místě do 12 sáhů od nich. Je vůči nim přátelský a splní jejich vyřčené příkazy. Vydrží 1 hodinu, nebo dokud všichni přivolávači nezemřou, či dokud ho některý z jeho přivolávačů nezruší jako bonusovou akci. Přivolávač nemůže znovu tancovat tento tanec, dokud si krátce neodpočine. Když se elementál vrací do Sféry vzdušného živlu, jakýkoliv árakokra do 1 sáhu od něj se může vrátit s ním.
   
-:::  
+
+</Card>

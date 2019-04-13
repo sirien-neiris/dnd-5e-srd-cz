@@ -268,7 +268,8 @@ V závislosti na zbroji, kterou nosíš, si případně můžeš přičíst č
   
 Na začátku každého souboje si hodíš na iniciativu pomocí ověření Obratnosti. Iniciativa určuje pořadí tahů tvorů v boji, jak je popsáno v 9. kapitole.
 
-::: card Schování se
+<Card header="Schování se">
+
   
 PJ určí, jestli jsou vhodné okolnosti pro schování. Když se pokoušíš schovat, hoď si na ověření Obratnosti (Nenápadnosti). Tento výsledek tvého ověření zůstane, dokud nejsi objeven nebo se nepřestaneš skrývat a porovná se v konfliktu proti ověření Moudrosti (Vnímání) každého tvora, který se aktivně pokusí hledat stopy tvé přítomnosti.
   
@@ -282,7 +283,8 @@ Například, má-li postava na 1. úrovni (se zdatnostním bonusem +2) Moudrost 
   
 ***Co vidíš?*** Jedním z hlavních faktorů při rozhodování, jestli můžeš najít schovaného tvora nebo předmět, je, jak dobře vidíš v oblasti, která může být **slabě** nebo **hustě zahalená**, jak vysvětluje 8. kapitola. 
   
-:::
+
+</Card>
   
 ### Odolnost
   
@@ -374,13 +376,15 @@ Ověření Moudrosti může odrážet úsilí při čtení řeči těla, pochope
   
 Klerici používají Moudrost jako svou sesílací vlastnost, jež jim pomáhá určit SO záchranného hodu kouzel, která sesílají.
 
-::: card Hledání ukrytého předmětu
+<Card header="Hledání ukrytého předmětu">
+
   
 Když tvá postava hledá ukrytý předmět, například tajné dveře, PJ tě obvykle požádá o ověření Moudrosti (Vnímání). Takové ověření lze použít k objevení podrobností nebo jiných informací a vodítek, které bys jinak přehlédl.
   
 Ve většině případů musíš popsat, kde hledáš, aby PJ určil tvou šanci na úspěch. Například klíč je ukrytý pod složeným oblečením v horní zásuvce komody. Řekneš-li Pánovi jeskyně, že obcházíš místnost a rozhlížíš se po zdech a nábytku, nemáš žádnou šanci na nalezení klíče, bez ohledu na výsledek tvého ověření Moudrosti (Vnímání). Musel bys upřesnit, že otvíráš zásuvky a hledáš v komodě, abys měl nějakou šanci na úspěch.
 
-:::
+
+</Card>
   
 ### Charisma
   

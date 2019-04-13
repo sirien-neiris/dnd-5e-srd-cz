@@ -16,7 +16,8 @@ PJ rozhodne, kdo je případně překvapený. Pokud ani jedna strana se nesnaž�
   
 Jsi-li překvapený, nemůžeš se ve svém prvním tahu boje pohnout ani provést akci a nemůžeš reagovat, dokud tento tah neskončí. Člen skupiny může být překvapený, i když ostatní členové nejsou.
 
-::: card Boj krok za krokem
+<Card header="Boj krok za krokem">
+
   
  1. **Určete překvapení.** PJ určí, jestli je nějaký účastník bojového střetnutí překvapený.
   
@@ -28,7 +29,8 @@ Jsi-li překvapený, nemůžeš se ve svém prvním tahu boje pohnout ani prové
  
  5. **Začněte další kolo.** Když každý, kdo je zapojen do boje, měl svůj tah, kolo končí. Opakujte 4. krok, dokud se boj nezastaví. 
  
-:::  
+
+</Card>
   
 ### Iniciativa
   
@@ -74,7 +76,8 @@ Určité zvláštní schopnosti, kouzla a situace ti umožňují provést zvl�
   
 Když provedeš reakci, nemůžeš dále reagovat do začátku svého příštího tahu. Pokud tvá reakce přeruší tah jiného tvora, hned po vyřešení tvé reakce může pokračovat ve svém tahu.
 
-::: card Interagování s předměty kolem sebe
+<Card header="Interagování s předměty kolem sebe">
+
   
 Zde je několik příkladů věcí, které můžeš udělat spolu se svým pohybem a akcí:
   
@@ -101,7 +104,8 @@ Zde je několik příkladů věcí, které můžeš udělat spolu se svým pohyb
 * oťuknout podlahu dvousáhovou tyčí
 * podat předmět jiné postavě
 
-:::
+
+</Card>
   
 ## Pohyb a pozice
   
@@ -182,7 +186,8 @@ Protože větší tvorové zabírají více místa, může jich obklíčit tvora
   
 Tvor se může protlačit prostorem, který je dostatečně velký pro tvora menšího o jednu třídu velikosti. Takže Velký tvor se může protlačit chodbou, která je jen 1 sáh široká. Během protlačování musí tvor utratit 1 sáh rychlosti navíc za každý sáh, o který se pohne, a má nevýhodu k hodům na útok a záchranným hodům na Obratnost. Zatímco je v menším prostoru, mají útoky proti němu výhodu.
 
-::: card Varianta: Hraní na herním plánu
+<Card header="Varianta: Hraní na herním plánu">
+
   
 Pokud pro vyjadřování boje používáte čtverečkovaný herní plán a figurky nebo žetony, řiďte se těmito pravidly.
   
@@ -198,7 +203,8 @@ Stojí-li pole pohyb navíc, jako například pole těžkého terénu, musí ti 
   
 ***Vzdálenosti.*** Při určování vzdálenosti na herním plánu mezi dvěma věcmi — tvory či předměty — začni počítat pole od toho, které sousedí s tím, na kterém je jeden z nich a přestaň počítat na místě druhého z nich. Vol při tom nejkratší trasu.
 
-:::
+
+</Card>
 
 ## Akce v boji
   
@@ -258,14 +264,16 @@ Pomocí této akce můžeš jednou zaútočit na blízko, nebo na dálku. Viz č
   
 Některé schopnosti, například bojovníkova schopnost Útok navíc, umožňují provést touto akcí víc než jeden útok.
   
-::: card Improvizovaná akce
+<Card header="Improvizovaná akce">
+
   
 Tvá postava může dělat věci, na které se nedají použít akce v této kapitole, například vyrazit dveře, zastrašit nepřátele, hledat slabiny v magické obraně nebo vyjednávat s protivníkem. Jediná omezení pro akce, které se můžeš pokusit provést, jsou tvá představivost a hodnoty vlastností tvé postavy. Viz popisy vlastností v 7. kapitole, kde najdeš inspiraci pro svou improvizaci.
   
 Pokud popíšeš akci, která není popsána nikde jinde v pravidlech, PJ ti řekne, jestli je tato akce možná a na jaký druh ověření by sis měl případně hodit pro určení úspěchu
 či neúspěchu.
 
-:::
+
+</Card>
   
 ## Zaútočení
   
@@ -335,11 +343,13 @@ Většina tvorů má **dosah** 1 sáh, a tak mohou útočit na cíle do 1 sáh
   
 Místo použití zbraně k útoku na blízko zbraní můžeš použít **úder beze zbraně**: pěst, kop, hlavičku nebo podobný silový úder (žádný z nich se nebere jako zbraň). Při zásahu úder beze zbraně způsobí drtivé zranění rovné 1 + tvá oprava Síly. S údery beze zbraně jsi zdatný.
 
-::: card Konflikty v boji
+<Card header="Konflikty v boji">
+
   
 V souboji se často staví tvá zdatnost proti té protivníkově. To zahrnuje nejběžnější konflikty, které vyžadují akci v boji: chvat a strčení. PJ může použít tyto konflikty jako modely pro jiné improvizace.
 
-:::
+
+</Card>
   
 #### Příležitostné útoky
   
@@ -403,12 +413,14 @@ Když útočíš **zbraní**, přičteš ke zranění svou opravu vlastnosti —
   
 Pokud kouzlo či jiný účinek způsobuje zranění **více než jednomu cíli** najednou, hoď na zranění pouze jednou pro všechny. Například, když kouzelník sešle _ohnivou kouli_ nebo klerik sešle _plamenný úder_, na zranění si hodí pouze jednou pro všechny tvory ve výšlehu.
 
-::: card Popis účinků zranění
+<Card header="Popis účinků zranění">
+
   
 Pánové jeskyně popisují ztrátu životů různými způsoby. Máš-li aktuálně aspoň polovinu svého maxima životů, obvykle nemáš žádné známky poranění. Když ti počet životů klesne pod polovinu maxima, je to na tobě už trochu znát, máš například škrábance nebo modřiny. Útok, který ti sníží počet životů na 0, je přímý zásah, jenž ti způsobí krvácející poranění či jiné trauma, nebo tě zkrátka srazí do
 bezvědomí.
 
-:::
+
+</Card>
 
 #### Kritické zásahy
   

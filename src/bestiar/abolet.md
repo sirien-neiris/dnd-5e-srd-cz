@@ -1,13 +1,15 @@
 # Abolet
 
-::: card
+<Card header="">
+
 
 „Mohou být aboleti starší než bohové? Že než vznikly božské bytosti, tak multivesmír utvářely takové hrůzy? To je mrazivá představa.“
   
 — Vaqir Hekh‘r, githzerajský filozof a autor knihy 
 Vzdálená říše: skutečná, a přece neskutečná
   
-:::  
+
+</Card>
 
 Aboleti číhali v prvobytných oceánech a podzemních jezerech ještě před příchodem bohů. Napnuli své mysli, ovládli vzkvétající formy života v smrtelné říši a udělali si z nich otroky. Jejich převaha z nich udělala něco jako bohy. Pak se objevili skuteční bohové a smetli říši aboletů a osvobodili otroky.
   

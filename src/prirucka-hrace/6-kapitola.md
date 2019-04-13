@@ -12,13 +12,15 @@ S tímto pravidlem máš možnost získat úroveň v novém povolání, kdyk
   
 Jak postupuješ na nové úrovně, můžeš primárně zůstat členem svého původního povolání jen s několika úrovněmi jiného povolání, nebo můžeš úplně změnit svůj kurz a nikdy už se neohlédnout zpět na povolání, které jsi za sebou zanechal. Nebo se dokonce můžeš začít rozvíjet ve třetím nebo čtvrtém povolání. Ve srovnání s postavou na stejné úrovni s jediným povoláním obětuješ určité zaměření výměnou za všestrannost.
 
-::: card Příklad multipovolání
+<Card header="Příklad multipovolání">
+
 
 Martin hrál bojovníka na 4. úrovni. Když jeho postava získala dostatek zkušenostních bodů k přestupu na 5. úroveň, rozhodl se, že jeho postava půjde do multipovolání, místo aby pokračovala v rozvoji jako bojovník. Martinův bojovník strávil mnoho času s Vláďovým tulákem a navíc jako hromotluk dělal nějaké bokovky pro místní cech zlodějů. Martin se rozhodl pro multipovolání své postavy do tuláka, a tak jeho postava je bojovník na 4. úrovni a tulák na 1. úrovni (zapisuje se jako bojovník 4/tulák 1). 
 
 Když Martinova postava získá dostatek zkušeností k přestupu na 6. úroveň, může se rozhodnout, jestli si přidá další úroveň bojovníka (a stane se bojovník 5/tulák 1), nebo další úroveň tuláka (a stane se bojovník 4/tulák 2), či získá úroveň ve třetím povolání, třeba fušováním do kouzelnictví díky rukověti tajemného vědění, kterou získal (a stane se bojovník 4/ kouzelník 1 /tulák 1).
 
-:::
+
+</Card>
   
 ### Předpoklady
   

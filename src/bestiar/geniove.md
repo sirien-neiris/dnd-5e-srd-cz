@@ -80,13 +80,15 @@ Humanoidi jsou mezi nejnižšími z tvorů, jež maridé musí tolerovat, i 
   
 ***Rozmarní vypravěči.*** Maridi jsou prvotřídní vypravěči, jejichž oblíbené legendy zdůrazňují dovednost maridů obecně a zejména řečníka. Tito géniové jsou nadaní představivostí a lžou často a nápaditě. Nejde jim vždy o to záludně klamat, ale přikrášlují svou fantazii. Maridi považují za zločin přerušení jejich vyprávění příběhu nižší bytostí. A urazit marida je jistý způsob, jak vyvolat jeho hněv.
 
-::: card 
+<Card header="">
+
 
 „Vítejte ve Velkém chmurném závrtu, drahokamu Vnitřních sfér. Nyní jste otroky mocné a milosrdné Khatuny Zafary al‘Yily jin Zarainy, Královny Zastřených hlubin, biskupky Diamantové katedrály, Ochránkyně Malachitového žezla a tak dále a tak dále.“
   
 — Standardní uvítání chrliče-majordoma
 
-:::
+
+</Card>
 
 <Monster 
     title="Dao"
@@ -131,7 +133,8 @@ Libovolně: *najdi magii*, *najdi zlo a dobro*, *tvaruj kámen*
 
 </Monster>
  
-::: card Varianta: Schopnosti géniů
+<Card header="Varianta: Schopnosti géniů">
+
   
 Géniové mají různé magické schopnosti, včetně kouzel. Hrstka z nich má ještě větší schopnosti, které jim umožňují měnit svůj vzhled, nebo povahu reality.
   
@@ -141,7 +144,8 @@ Pro splnění přání tvor do 12 sáhů od génia mu sdělí požadovaný úči
   
 ***Přestrojení.*** Někteří géniové se umí zastřít iluzí, aby byli jako jiní podobně tvarovaní tvorové. Takoví géniové umí libovolně přirozeně sesílat kouzlo *přestrojení*, často s delším trváním, než je obvyklé pro toto kouzlo. Mocnější géniové umí jednou až třikrát denně seslat kouzlo *skutečná proměna*, nejspíš s delším trváním, než je obvyklé. Takoví géniové umí měnit jen svůj tvar, ale vzácná hrstka umí použít toto kouzlo i na jiné tvory a předměty.
 
-:::
+
+</Card>
   
 <Monster 
     title="Džin"
@@ -184,13 +188,15 @@ Tvor může použít svou akci k osvobození tvora zadrženého vzdušným ví
 
 </Monster>
  
-::: card
+<Card header="">
+
 
 „Vojska Velkého sultána jsou zesílena legiemi ďáblů, jeho palác je střežen kouzly tisíců arcimágů, jeho poklady hlídají rudí draci a ohniví elementálové. Nikdo nevyloupil ifrítovy pokladnice a žil přitom dost dlouho, aby o tom vyprávěl. Milostí tisíce větrů, vy byste mohli být první.“
   
 — Džin vábící dobrodruhy, aby osvobodili jeho kalifa z magické lampy v Uhelném paláci Mosazného města
 
-:::
+
+</Card>
 
 <Monster 
     title="Ifrít"
@@ -231,7 +237,8 @@ Libovolně: *najdi magii*
  
 </Monster>
  
-::: card
+<Card header="">
+
 
 „Marid vytekl z lahvice jako voda a pravil: ‚Tvé přání je mi rozkazem.‘ Přešťastný hobit si přál nesmrtelnost, tak ho marid přeměnil v rybu, která sebou legračně mrskala, až nakonec lekla. Je to varovný příběh, který přetrval věky, takže se domnívám, že se tomu hobitovi jeho přání splnilo.“
   
@@ -239,7 +246,8 @@ Libovolně: *najdi magii*
 Roztrženého závoje, 
 knihkupectví v Sigilu
 
-:::
+
+</Card>
 
 <Monster 
     title="Marid"

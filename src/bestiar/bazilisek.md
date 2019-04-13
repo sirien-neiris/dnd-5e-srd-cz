@@ -1,12 +1,14 @@
 # Bazilišek
 
-::: card 
+<Card header="">
+
 
 „Nikdo netesá sochy vyděšených válečníků. Pokud nějakou uvidíš, drž své oči zavřené a uši otevřené.“
   
 — 4. pravidlo přežití v jeskyni Mystika X
 
-:::
+
+</Card>
   
 Cestovatelé někdy nachází předměty, které vypadají jako kusy kamenných soch divokých zvířat a pozoruhodně jako živé. Chybějící části jako by byly ukousnuty. Ostřílení průzkumníci považují takové relikvie za varování. Vědí, že bazilišek, který je vytvořil, je nejspíš někde poblíž.
   

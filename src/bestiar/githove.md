@@ -46,13 +46,15 @@ Zkušení githzerajští mniši, kteří nejlépe dokazují svým příkladem u�
   
 Třebaže jsou githzerajci tak disciplinovaní, nikdy nezapomněli na své dlouhé věznění mozkožrouty. Jako zvláštní zanícení organizují *rrakkmy* — skupiny na lov illitydů — do ostatních sfér, které se vrací do svých klášterů až tehdy, co zabijí nejméně tolik illitydů, kolik je lovců ve skupině.
 
-::: card
+<Card header="">
+
 
 „Githyankové a githzerajové byli tak hluboce zjizveni zotročením mozkožrouty, že zapomněli, že bývali spojeni v jedné rase. Když si vydobyli svobodu, vedli proti sobě válku s takovou nenávistí, kterou nikdo neumí zcela pochopit.“
   
 — Žlutý Aristul, Mistr sférických znalostí
 
-:::
+
+</Card>
   
 <Monster 
     title="Githyankský rytíř"

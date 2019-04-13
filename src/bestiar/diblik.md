@@ -1,12 +1,14 @@
 # Diblík
 
-::: card
+<Card header="">
+
 
 „Šaty z okvětních lístků a žaludové čapky jsou jako minulé léto\!“
   
 — Řekotřpyt, diblický módní návrhář
 
-:::
+
+</Card>
   
 Diblíci jsou sotva stopu vysocí. Připomínají zmenšené elfy s tenoučkými křídly jako od vážky či motýla, lesklými jako jasný úsvit a světélkujícími jako úplněk. Diblíci jsou zvědaví jako kočky a plaší jako srny. Jdou, kam chtějí. Rádi špehují cizí tvory a jen těžko potlačují vzrušení z okolí. Jejich nutkání se uvést a uzavřít přátelství je téměř zmáhající; ve vzduchu visí jen diblíkova obava ze zajetí nebo napadení. Ti, kdo putují přes mýtinku diblíků, je možná nikdy nespatří, ale slyší občasné hihňání, vyjeknutí či povzdechnutí.
   

@@ -42,9 +42,11 @@ Začínání na 1. úrovni značí vstup tvé postavy do dobrodružného života
   
 Do deníku postavy si zapiš svou úroveň. Začínáš-li na vyšší úrovni, napiš si další prvky, které ti dává tvé povolání na vyšších úrovních. Napiš si také své body zkušenosti. Postava na 1. úrovni má 0 ZK. Postava na vyšší úrovni obvykle začíná s minimálním množstvím ZK, které jsou potřeba pro postup na danou úroveň (viz „Po 1. úrovni“ dále v této kapitole).
 
-::: card Rychlá tvorba
+<Card header="Rychlá tvorba">
+
 Popis každého povolání ve 3. kapitole obsahuje část, která nabízí návrhy, jak rychle vytvořit postavu daného povolání, včetně přiřazení nejvyšších hodnot vlastností, počátečních kouzel a zázemí vhodného pro dané povolání.
-::: 
+
+</Card>
 
 #### Životy a Kostky životů
   

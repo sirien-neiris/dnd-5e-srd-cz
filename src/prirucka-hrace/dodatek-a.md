@@ -112,7 +112,8 @@ Následující definice určují, co se stane tvorovi, zatímco je vystaven dan�
   
 * Tvor, který způsobil tvorovo zmámení, má výhodu ke všem ověřením vlastností vztahujícím se k společenské interakci se zmámeným tvorem.
 
-::: card Únava
+<Card header="Únava">
+
 
 Některé zvláštní schopnosti a nástrahy prostředí, například hladovění a dlouhodobé účinky mrazivých či velmi horkých teplot, mohou vést ke zvláštnímu stavu zvanému únava. Únava se měří v šesti stupních. Účinek může dát tvorovi jednu čí více stupňů únavy, jak je uvedeno v popisu účinku.
 
@@ -133,4 +134,5 @@ Tvor trpí účinkem svého aktuálního stupně únavy, stejně jako všemi ni�
 
 Důkladný odpočinek sníží tvorův stupeň únavy o 1, pokud se tvor také nají a napije. Vzkříšení z mrtvých také sníží tvorův stupeň únavy o 1.
 
-:::
+
+</Card>

@@ -1027,7 +1027,8 @@ Relativně klidné moře ponouká skvělou viditelnost. Ze stožárového koše 
   
 V nějakém bodě tvého tažení se dobrodruzi mohou zmocnit lodě. Mohou si ji koupit či ukořistit, nebo ji obdržet pro vykonání mise. Je na tobě, jestli je možné si koupit loď a vždy máš moc zbavit dobrodruhy lodi, i když by to nebylo nic příjemného (viz rámeček „Ztroskotání“).
 
-::: card Ztroskotání
+<Card header="Ztroskotání">
+
   
 Ztroskotání je zápletkový nástroj, který lze šetrně použít s velkým efektem, zejména pokud chceš, aby postavy byly vyplaveny na břehu nějakého nestvůrami zamořeného ostrova, nebo (v případě vzducholodě) aby spadly doprostřed nějaké exotické země. Nejsou zde pravidla pro určení, jestli loď ztroskotá; ztroskotá, když chceš nebo potřebuješ, aby k tomu došlo.
   
@@ -1035,7 +1036,8 @@ I ta nejsilnější námořní loď může jít v bouři ke dnu, ztroskotat 
   
 Pokud se svým tažením zosnuješ ztroskotání lodi, na které cestují postavy, předpokládá se, že postavy přežijí i se svým vybavením. Osud CP a nákladu na ztroskotané lodi je zcela na tobě.
 
-:::
+
+</Card>
   
 **Tabulka lodí**
 

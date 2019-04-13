@@ -858,7 +858,8 @@ Obří orel je vznešené zvíře, který mluví svým vlastním jazykem a roz
   
 ***Kopyta.**** Útok na blízko zbraní:* +4 k zásahu, dosah 1 sáh, jeden cíl. *Zásah:* Drtivé zranění 11 (2k6 + 4).
   
-::: card Varianta: Zbroj válečného koně
+<Card header="Varianta: Zbroj válečného koně">
+
 
 Obrněný válečný kůň má Obranné číslo dle typu prsosin, co má na sobě navlečené (více informací o prsosinách najdeš v 5. kapitole). Koňovo Obranné číslo zahrnuje jeho opravu Obratnosti, pokud se používá.
 
@@ -872,7 +873,8 @@ Obrněný válečný kůň má Obranné číslo dle typu prsosin, co má na sob�
 | 17 | Lamelové |
 | 18 | Plátové |
 
-:::
+
+</Card>
 
 ### Vlk
   

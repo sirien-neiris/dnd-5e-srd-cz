@@ -99,13 +99,15 @@ Postava může jít v přední v řadě, v některé řadě uprostřed, ne
   
 ***Méně než tři řady.*** Pokud družina dobrodruhů zaujme pochodové uskupení pouze se dvěma řadami, jde o přední řadu a zadní řadu. Je-li jen jedna řada, považuje se za přední řadu.
 
-::: card Rozdělení družiny
+<Card header="Rozdělení družiny">
+
   
 Občas má smysl, aby se družina rozdělila. Zvlášť, pokud chcete, aby jedna či dvě postavy hlídkovaly v předvoji. Můžete utvořit několik skupin, kdy každá se pohybuje jinou rychlostí. Každá skupina má svou vlastní přední, střední a zadní řadu.
   
 Nevýhodou tohoto přístupu je, že když dojde k nečekanému útoku, družina bude rozdělena do několika menších skupin. Výhodou je, že skupinka nenápadných, pomalu se pohybujících postav, se může proplížit nepřáteli, kteří by hlučnější postavy postřehli. Dvojici tuláků pohybujících se pomalým tempem je mnohem těžší odhalit, když za sebou nechají svého kamaráda trpaslíka bojovníka.
 
-:::
+
+</Card>
 
 #### Nenápadnost
   

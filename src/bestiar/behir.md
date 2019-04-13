@@ -1,13 +1,15 @@
 # Behir
 
-::: card 
+<Card header="">
+
   
 „Už jsem dnes snědl tři obří netopýry, šest troglodytů a mozkožrouta, ale to nevadí. V mém žaludku je stále dost místa pro tebe a tvé přátele.“
   
 — Behir Lludd při střetu s dobrodruhy 
 v Ztracených jeskyních Tsojcantu
 
-:::
+
+</Card>
   
 Hadovitý behir leze po podlaze a zdech za svou kořistí. Jeho bleskový dech umí spálit většinu tvorů, ale behir umí uškrtit a sníst zaživa dokonce i silnější nepřátele.
   

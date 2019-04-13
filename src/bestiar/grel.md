@@ -12,14 +12,16 @@ I když jsou grelové od přírody samotářští, někdy se sdružují do sku
   
 Grel někdy umožňuje dobrodruhům, aby vedli válku s ostatními nestvůrnými obyvateli jeskyně, kterou nazývá domovem. Jde dobrodruhům z cesty, když ho tím zbaví větších hrozeb a čeká na tu správnou chvíli, kdy udeří.
   
-::: card
+<Card header="">
+
 
 „Naše nebojácná tulačka vyšplhala šachtou, aby zajistila lano. Zaslechli jsme zalapání po dechu a lano spadlo. Už jsme ji nikdy nespatřili.“
   
 — Dobrodruhův popis grelova útoku v Khyberu, 
 vydaný v Letopisech Korranbergu
 
-:::
+
+</Card>
 
 <Monster 
     title="Grel"

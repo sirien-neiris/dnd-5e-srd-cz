@@ -16,7 +16,8 @@ Můžeš hrát mužskou i ženskou postavu bez zvláštních výhod nebo přek
   
 Nemusíš se držet jen klasického rozlišení pohlaví. Například elfí bůh Corellon Laretian je často vnímán jako oboupohlavní a někteří elfové v multivesmíru jsou stvořeni ke Corellonově obrazu. Také můžeš hrát ženskou postavu vydávající se za muže, nebo muže, který se cítí uvězněn v ženském těle, či vousatou trpaslici, která nesnáší, když si ji někdo splete s mužem. Stejně tak je na tvém rozhodnutí sexuální orientace postavy.
 
-::: card Tika a Artemis: Protikladné postavy
+<Card header="Tika a Artemis: Protikladné postavy">
+
 
 Prvky popsané v této kapitole zásadním způsobem odlišují tvou postavu od všech ostatních postav. Uvaž například tyto dva lidské bojovníky.
 Tika Waylanová, původem ze světa Dragonlance, byla divoký teenager s těžkým dětstvím. Dcera zloděje, která utekla z domu, a provozovala otcovo řemeslo na ulicích Utěšína. Když se snažila okrást majitele hostince Poslední domov, tak ji chytil, vzal pod svá křídla a zaměstnal jako servírku. Když ale drakoniánské armády zplundrovaly Útěšín a zničily hostinec, nouze vyhnala Tiku za dobrodružstvím, spolu s jejími přáteli z dětství. Její zručnost v boji (pánev zůstala jednou z jejích oblíbených zbraní) spolu s pouliční minulostí jí daly pro život dobrodruha neocenitelné dovednosti.
@@ -24,7 +25,8 @@ Tika Waylanová, původem ze světa Dragonlance, byla divoký teenager s těžk�
 Artemis Entreri vyrůstal na ulicích Kalimportu ve světě Forgotten Realms. Díky bystrému úsudku, síle a mrštnosti si brzy vydobyl vlastní teritorium v jedné z mnoha chudých částí města. Po několika letech si jej všiml vlivný zlodějský cech a on pak i přes své mládí rychle postupoval v jeho řadách. Artemis se stal oblíbeným vrahem jednoho z městských pašů, který jej poslal daleko do Planiny ledového větru získat zpátky ukradené klenoty. Je to profesionální zabiják a neustále pracuje na svých dovednostech. 
 Tika i Artemis jsou oba lidé a oba bojovníci (s nějakou zkušeností coby tuláci), oba mají podobně vysoké hodnoty Síly a Obratnosti, ale tam podobnost končí.
 
-:::
+
+</Card>
 
 ### Výška a váha
   
@@ -55,13 +57,15 @@ Tak například Tika, jako člověk, má výšku 4 stopy 8 coulů plus 2k10 coul
   
 Zvol věk, barvu vlasů, očí a pokožky své postavy. Možná budeš chtít postavu odlišit nějakým nezvyklým nebo zapamatovatelným rysem, jako třeba jizvou, kulháním nebo tetováním.
 
-::: card Tika a Artemis: Detaily postavy
+<Card header="Tika a Artemis: Detaily postavy">
+
 
 Všimni si, jak jména Tika Waylanová a Artemis Entreri vzájemně tyto postavy odlišují a odráží jejich osobnosti. Tika je mladá žena odhodlaná prokázat, že už není dítě a z její jméno zní mladě a obyčejně. Artemis Entreri pochází z exotické země a z jeho jména dýchá tajemství.
 
 Tice je na začátku její dobrodružné kariéry devatenáct let, má kaštanové vlasy, zelené oči, světlou pleť posetou pihami a na pravém boku pigmentovou skvrnku. Artemis je nevysoký, ale šlachovitý a svalnatý muž. Má ostré rysy, vysoké lícní kosti a vždycky vypadá, že by se potřeboval oholit. Jeho černé havraní vlasy jsou husté a objemné, ale oči má šedé a bez života – prozrazující prázdnotu jeho života a duše.
 
-:::
+
+</Card>
   
 ### Přesvědčení
   
@@ -97,13 +101,15 @@ Přesvědčení je nedílnou součástí povahy nebešťanů a běsů. Ďábel
   
 Většina tvorů, kteří postrádají schopnost rozumně myslet, nemá žádné přesvědčení. Takoví tvorové nedokáží dělat morální nebo etické volby a jejich jednání je dáno jejich zvířecí povahou. Například, žraloci jsou nelítostní predátoři, ale nejsou zlí – nemají žádné přesvědčení.
 
-::: card Tika a Artemis: Přesvědčení
+<Card header="Tika a Artemis: Přesvědčení">
+
 
 Tika Waylanová je neutrálně dobrá, má v zásadě dobré srdce a když může, snaží se pomáhat ostatním. Artemis je zákonně zlý, hodnota vědomého života je mu lhostejná, ale zachovává si profesionální přístup k zabíjení. 
 
 Artemis, jako zlá postava, není ideální dobrodruh. Svoji kariéru začal jako padouch a s hrdiny spolupracuje, jen když musí, a když to pomůže jeho zájmům. Ve většině her zlí dobrodruzi způsobují problémy v družinách s těmi, kdo nesdílí jejich zájmy a cíle. Obecně, zlá přesvědčení jsou pro padouchy a nestvůry, ne pro hráčské postavy.
 
-:::
+
+</Card>
   
 ### Jazyky
   
@@ -167,7 +173,8 @@ Pouta se mohou vázat k tvému povolání, zázemí, rase nebo nějakému jin�
   
 Konečně, vyber pro svou postavu nějakou vadu. Vadu tvé postavy představuje nějaká neřest, zlozvyk, strach nebo slabost – konkrétně něco, co může někdo použít proti tobě a uškodit ti, nebo čím tě může donutit jednat proti tvým zájmům. Vada je mnohem výraznější než negativní osobnostní rys, protože může odpovídat na některé z těchto otázek: Co tě dokáže rozzuřit? Koho nebo čeho se děsíš? Jaké jsou tvé neřesti?
 
-::: card Tika a Artemis: Osobní charakteristiky
+<Card header="Tika a Artemis: Osobní charakteristiky">
+
 
 Tika a Artemis mají hodně rozdílné osobnostní rysy. Tika Waylanová nemá ráda chvástání a po jednom škaredém pádu, ke kterému došlo během její zlodějské kariéry, se bojí výšek. Artemis Entreri se vždycky připravuje na nejhorší a pohybuje se s chladným, rozhodným sebevědomím.
 
@@ -179,7 +186,8 @@ Pouto Artemise Entreriho je jeho zvláštní, skoro paradoxní vztah s Drizztem 
 
 Obě tyto postavy mají i významné vady. Tika Waylanová je naivní a emočně zranitelná. Je mladší než její společníci a irituje jí, že ji stále berou jako dítě, které poznali před lety. Může být dokonce v pokušení udělat něco proti svým zásadám, pokud jí přijde, že by to dokázalo její dospělost. Artemis Entreri je naprosto uzavřený jakýmkoli osobním vztahům a chce prostě zůstat o samotě.
 
-:::
+
+</Card>
   
 ## Inspirace
   
@@ -229,11 +237,13 @@ Zázemí obsahuje návrhy osobních charakteristik na základě tvého zázemí.
   
 Pokud chceš, můžeš si některé prvky zázemí přizpůsobit, aby lépe seděly na tvou postavu nebo prostředí vašeho herního světa. Pro přizpůsobení zázemí můžeš vyměnit schopnost za kteroukoli jinou, vybrat si dvě libovolné dovednosti a zvolit si dohromady dva jazyky nebo zdatnosti s pomůckami. Buď můžeš použít balíček vybavení ze svého zázemí, nebo si vybavení nakoupit, jak je popsáno v 5. kapitole. (Pokud si budeš vybavení nakupovat, tak neobdržíš ani vybavení navržené tvým povoláním.) Nakonec si vyber dva osobnostní rysy, jeden ideál, jedno pouto a jednu vadu. Pokud nenajdeš schopnost, která by odpovídala tvé představě, tak se domluv s PJ na vytvoření vlastní.
   
-::: card Tika a Artemis: Zázemí
+<Card header="Tika a Artemis: Zázemí">
+
 
 Tika Waylanová a Artemis Entreri prožili oba svá raná léta jako pouliční darebáci. Tičina pozdější zkušenost číšnice ji tolik neovlivnila, takže by si vybrala zázemí uličníka a získala z něj dovednosti Čachry a Nenápadnost a naučila se zacházet se soupravou pro přestrojování a zlodějským náčiním. Artemise lépe vystihuje jeho zázemí zločince, které mu dává dovednosti Klamání a Nenápadnost a zdatnosti s hracími kostkami a zlodějským náčiním.
 
-:::
+
+</Card>
 
 ### Akolyta
   
@@ -754,12 +764,14 @@ Své mládí jsi strávil ve službě u obávaného piráta, nelítostného mo
   
 Rozhodneš-li se, že tvá námořnická kariéra zahrnovala pirátství, můžeš si zvolit schopnost Špatná pověst (viz rámeček) místo schopnosti Plavba zdarma.
 
-::: card Varianta schopnosti: Špatná pověst
+<Card header="Varianta schopnosti: Špatná pověst">
+
 
 Pokud má tvá postava zázemí námořníka, můžeš si zvolit tuto schopnost zázemí místo Plavby zdarma. 
 Kamkoliv přijdeš, mají z tebe obyvatelé strach kvůli tvé pověsti. Když jsi v civilizované zástavbě, mohou ti projít drobné trestné činy, například odmítnutí zaplatit za jídlo v hostinci, nebo vyražení dveří v místním obchodě, neboť většina obyvatel tě za tvé činy nenahlásí.
 
-:::
+
+</Card>
   
 ### Poustevník
   
@@ -985,13 +997,15 @@ Rytířský stav patří ve většině společnostech mezi nejnižší šlechtic
   
 Jako symbol rytířství a ideálů dvorské lásky můžeš do svého vybavení zahrnout prapor či jiný znak od své šlechtické dámy, které jsi dal své srdce — jako jistý znak cudnosti a oddanosti. (Tato osoba může být tvým poutem.) 
 
-::: card Varianta schopnosti: Sluhové
+<Card header="Varianta schopnosti: Sluhové">
+
 
 Má-li tvá postava zázemí šlechtice, můžeš si zvolit tuto schopnost zázemí místo Výsadního postavení.
 
 Slouží ti tři sluhové věrní tvé rodině. Tito sluhové mohou být klasičtí sloužící či poslové, a jeden z nich může být majordomem. Tví sluhové jsou prostí obyvatelé, kteří pro tebe mohou vykonávat obyčejné činnosti, ale nebojují za tebe, nedoprovází tě do očividně nebezpečných oblastí (například jeskyní) a odejdou, jsou-li často ohrožováni nebo zneužíváni.
 
-:::
+
+</Card>
   
 ### Uličník
   

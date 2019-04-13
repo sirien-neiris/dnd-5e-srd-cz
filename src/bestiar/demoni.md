@@ -94,13 +94,15 @@ Yeenoghu vypadá jako obrovský, zjizvený gnol se špičatým hřebínkem čern
   
 Nikdo nezná úplný počet démonických pánů, kteří řádí v Propasti. Vzhledem k nekonečným hloubkám této sféry mocní démoni neustále vzestupují a stávají se démonickými pány, načež téměř stejně rychle upadají. Mezi démonické pány, jejichž moc vydržela dostatečně dlouho, aby je démonologové pojmenovali, se řadí Fraz-Urb’lú, Kníže klamání; Kostšij, Kníže hněvu; Pazuzu, Kníže Nižších Vzdušných království; a Zugtmoj, Paní hub.
 
-::: card Pravá jména démonů
+<Card header="Pravá jména démonů">
+
   
 I kdy všichni démoni mají obecná jména, každý démonický pán a každý démon 1. až 6. typu má pravé jméno, které uchovává v tajnosti. Je-li démon zmámený, lze ho donutit, aby vyzradil své pravé jméno, a říká se, že existují prastaré svitky a rukověti, které uvádí pravá jména nejmocnějších démonů.
   
 Smrtelník, který se dozví démonovo pravé jméno, ho může pomocí mocné přivolávací magie přivolat z Propasti a mít nad ním určitou kontrolu. Ale většina démonů, kteří jsou přineseni do Materiální sféry tímto způsobem, udělá vše, co je v jejich silách, aby způsobili spoušť nebo zaseli neshody a sváry.
  
-:::
+
+</Card>
   
 ## Typy démonů
   
@@ -203,7 +205,8 @@ Vroci hltají humanoidní maso, kdykoliv mohou. Svým pronikavým vřískotem vr
   
 Vroci prahnou po krásných věcech. Obrací se proti sobě, když je šance získat levný šperk či dekorační kameny. Navzdory jejich lásce k pokladům je těžké je podplatit. Nevidí důvod vyjednávat, když si prostě mohou vzít, co chtějí, od případné vyjednavačovy mrtvoly.
   
-::: card Varianta: Přivolávání démonů
+<Card header="Varianta: Přivolávání démonů">
+
   
 Někteří démoni mohou mít možnost akce, která jim umožňuje přivolat další démony.
   
@@ -221,15 +224,18 @@ Někteří démoni mohou mít možnost akce, která jim umožňuje přivolat dal
   
 Přivolaný démon se objeví na volném místě do 12 sáhů od přivolávače, jedná jako přivolávačův spojenec a nemůže přivolat další démony. Vydrží 1 minutu, dokud on sám či jeho přivolávač nezemře, nebo dokud ho přivolávač nezruší jako akci.
 
-:::
+
+</Card>
  
-::: card
+<Card header="">
+
 
 „Démony je bolestně obtížné přivolat a ovládat. Není to nic pro ty, co mají slabé srdce nebo slabého ducha.“
   
 — Z Iggwilvina lexikonu démonů
 
-:::
+
+</Card>
 
 <Monster 
     title="Balor"
@@ -546,13 +552,15 @@ Zatímco je jochlola v mlžné podobě, může vstoupit na tvorovo místo a 
 
 </Monster>
   
-::: card 
+<Card header="">
+
 
 „V chrámu se válely části těl. Došli jsme k závěru, že kultisté přivolali mocného démona a nežili tak dlouho, aby toho litovali. Nechtěli jsme, aby nás taky rozsekal na části, tak jsme zkrátili naši expedici a vrátili se do vesnice Hommlet se staženými půlky. Rufus a Burn byli vysmátí z naší slavné výpravy, to ti povím.“
   
 — Neluma, mladá půlelfí kouzelnice, zaznamenávající její jedinou návštěvu Chrámu Živelného zla.
   
-:::
+
+</Card>
 
 <Monster 
     title="Marilita"
@@ -669,21 +677,25 @@ Zatímco je jochlola v mlžné podobě, může vstoupit na tvorovo místo a 
   
 </Monster>  
   
-::: card Varianta: Rarach jako přítelíček
+<Card header="Varianta: Rarach jako přítelíček">
+
   
 Smrtelní sesilatelé kouzel mající zájem o mimosférické přítelíčky se domnívají, že přivolat raracha je snadné a že rarach je horlivý služebník. Rarach hraje poslušného služebníka. Slouží svému smrtelnému pánovi dobře, ale popichuje ho, aby dělal stále chaotičtější a zlejší skutky. Takoví raraši mají následující rys.
   
 ***Přítelíček.*** Rarach může sloužit jako přítelíček, přičemž naváže telepatické pouto se svým pánem, který s tím souhlasí. Dokud jsou ti dva spojeni, pán dokáže vnímat to, co rarach, pokud jsou od sebe navzájem do 1 míle. Když je rarach do 2 sáhů od svého pána, jeho pán sdílí rarachův rys Magické odolání. Kdykoliv a z jakéhokoliv důvodu může rarach ukončit svou službu přítelíčka a ukončit telepatické pouto.
   
-:::    
 
-::: card 
+</Card>
+
+<Card header="">
+
   
 „Neměj slitování s tímto zavrženíhodným ubožákem. Ten proklatec by mohl jednoho dne vyrůst v Démonického pána.“
   
 — Chaotický emirikol
   
-:::
+
+</Card>
 
 <Monster 
     title="Stal"

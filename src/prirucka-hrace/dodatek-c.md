@@ -18,11 +18,13 @@ Materiální sféra je magií oplývající místo a jeho magická povaha se o
   
 **Stínopád**, zvaný také Sféra stínů, je temně osvětlená dimenze, svět černé a bílé, kde barva byla ze všeho vyloužená. Je to místo toxické tmy, která nesnáší světlo, kde nebe je černá klenba bez slunce i hvězd.
 
-::: card Pozitivní a negativní sféra
+<Card header="Pozitivní a negativní sféra">
+
 
 **Pozitivní sféra** je jako kopule nad ostatními sférami. Je zdrojem zářivé energie a surovou životní silou, která zaplavuje všechny živé bytosti, od mrňavých po velebné. Jejím temným odrazem je **negativní sféra**, zdroj nekrotické energie, která ničí život a oživuje nemrtvé.
 
-:::
+
+</Card>
   
 ## Mimo Materiální sféru
   

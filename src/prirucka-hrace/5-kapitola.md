@@ -83,7 +83,8 @@ Tabulka zbrojí udává cenu, váhu a další vlastnosti běžných typů zbro
   
 ***Štíty.*** Štít se vyrábí ze dřeva nebo kovu a nosí se v jedné ruce. Držení štítu zvyšuje tvé Obranné číslo o 2. V jednu chvíli můžeš mít prospěch jen z jednoho štítu.
 
-::: card Varianta: Velikosti vybavení
+<Card header="Varianta: Velikosti vybavení">
+
 
 Ve většině herních světů můžeš používat nebo nosit na sobě jakékoliv vybavení, které najdeš na svých dobrodružstvích, v rámci selského rozumu. Například rozložitý půlork by se nevešel do hobitovy kožené zbroje a gnóm by naprosto zapadl do elegantního roucha oblačného obra.
 
@@ -91,7 +92,8 @@ PJ může zavést větší realizmus. Například, plátová zbroj jednoho člov
 
 Při použití této varianty, když dobrodruzi najdou zbroj, oblečení a podobné věci na nošení, budou možná muset navštívit zbrojíře, krejčího, koželuha nebo podobného experta, aby udělal předmět nositelným. Cena takové práce se různí od 10 do 40% tržní ceny předmětu. PJ si buď může hodit 1k4 × 10, nebo určit zvýšení ceny na základě rozsahu nutných úprav.
 
-:::
+
+</Card>
 
 **Tabulka zbraní**
 
@@ -723,13 +725,15 @@ Tabulka jídla, pití a ubytování udává ceny za jedno jídlo nebo ubytová
 | Stolní (karafa) | 2 st |
 | Archivní (láhev) | 10 zl |
   
-::: card Soběstačnost
+<Card header="Soběstačnost">
+
 
 Náklady a životní styly popsané v této kapitole předpokládají, že čas mezi dobrodružstvími trávíš ve městě a využíváš všech služeb, které si můžeš dovolit — placení za jídlo a střechu nad hlavou, placení měšťanů za naostření tvého meče a opravení tvé zbroje a tak dále. Některé postavy však mohou raději trávit svůj čas mimo civilizaci, kde se v divočině starají o sebe lovem zvěře, sběrem plodů a o svou výbavu pečují samy.
 
 Za tento druh životního stylu nemusíš utratit ani minci, ale je časově náročný. Trávíš-li svůj čas mezi dobrodružstvími provozováním profese, jak je popsáno v 8. kapitole, dokážeš šetřit peníze a utratit jen ekvivalent k chudému životními stylu. Zdatnost v dovednosti Přežití ti umožňuje žít ekvivalentně k pohodovému životnímu stylu.
 
-:::
+
+</Card>
 
 ### Služby
   

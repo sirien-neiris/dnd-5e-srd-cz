@@ -141,7 +141,8 @@ Konflikt je druh ověření vlastnosti, který vzájemně porovnává dva tvory.
   
 Když požádáš o konflikt, vybereš vlastnost, kterou ta která strana musí použít. Rozhodneš, jestli obě strany použijí stejnou vlastnost, nebo odlišné odporující vlastnosti. Například, když se tvor snaží schovat, hodí si na ověření Obratnosti v konfliktu proti ověření Moudrosti. Ale pokud dva tvorové vedou pěstní souboj, nebo pokud jeden se jeden tvor snaží držet zavřené dveře jinému tvorovi, který se je snaží otevřít, použijí oba Sílu.
 
-::: card Ověření Inteligence vs. ověření Moudrosti
+<Card header="Ověření Inteligence vs. ověření Moudrosti">
+
   
 Pokud máš problém rozhodnout, jestli požádat o ověření Inteligence, nebo Moudrosti, zamysli se nad tím ve smyslu, co mohou znamenat vysoké či nízké hodnoty těchto dvou vlastností.
   
@@ -151,7 +152,8 @@ Oproti tomu postava s vysokou Inteligencí, a nízkou Moudrostí, je nejspí
   
 Ověření Moudrosti umožňují postavám vnímat, co je kolem nich (je zde hladká zeď), zatímco ověření Inteligence odpovídá na to, proč jsou věci takové, jaké jsou (jsou zde nejspíš tajné dveře).
 
-:::
+
+</Card>
   
 ### Hody na útok
   

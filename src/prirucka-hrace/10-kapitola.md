@@ -56,11 +56,13 @@ Když postava sesílá kouzlo, řídí se stejnými pravidly, bez ohledu na své
   
 Popis každého kouzla v 11. kapitole začíná blokem informací, včetně názvu kouzla, úrovně, školy magie, vyvolání, dosahu, složek a trvání. V rámci popisu kouzla je i výčet povolání, která ho mají ve svém seznamu. Zbytek zápisu kouzla popisuje účinek kouzla.
 
-::: card Sesílání ve zbroji
+<Card header="Sesílání ve zbroji">
+
 
 Protože sesílání kouzel vyžaduje mentální soustředění a přesné gestikulace, musíš být zdatný se zbrojí, kterou máš na sobě, abys mohl kouzlo seslat. Jinak budeš příliš rozrušený a zbroj ti bude při sesílání fyzicky překážet.
 
-::: 
+
+</Card>
 
 ### Vyvolání
   
@@ -106,7 +108,8 @@ Pokud kouzlo říká, že surovinu kouzlo spotřebuje, musí sesilatel tuto suro
   
 Sesilatel musí mít volnou ruku pro manipulaci s těmito surovinami, ale může to být ta stejná ruka, kterou používá na provádění pohybových složek.
 
-::: card Školy magie
+<Card header="Školy magie">
+
 
 Magické univerzity dělí kouzla do osmi kategorií zvaných školy magie. Učenci, zejména kouzelníci, používají tyto kategorie na všechna kouzla. Domnívají se, že všechna magie funguje v zásadě stejným způsobem, ať pochází z přísného studia, nebo je udělena božstvem.
 
@@ -130,7 +133,8 @@ Vytváření nemrtvých pomocí nekromantických kouzel, například oživ mrtv�
 
 **Zaklínací** kouzla manipulují s magickou energií k vytvoření požadovaného efektu. Některá přivolávají blesky nebo výšlehy ohně, jiná pomocí pozitivní energie léčí zranění.
 
-:::
+
+</Card>
   
 ### Trvání
   
@@ -210,7 +214,8 @@ Výchozí bod válce je ve středu kruhu daného poloměru, jenž je uveden v 
   
 Výchozí bod válce je zahrnut do oblasti účinku válce.
 
-::: card Tkanivo magie
+<Card header="Tkanivo magie">
+
 
 Světy v multivesmíru D&D jsou magická místa. Veškerá existence je prodchnutá magickou mocí a potenciální energie leží nevyužita v každé skále, potoku, živém tvorovi, a dokonce i v samotném vzduchu. Surová magie je tvůrčí materiál, němá a neinteligentní vůle existence, prostupující každým kouskem látky a přítomná v každém projevu energie po celém multivesmíru.
 
@@ -220,7 +225,8 @@ Všechna magie závisí na Tkanivu, i když různé druhy magie k němu přistup
 
 Kdykoliv se vytvoří magický účinek, vlákna Tkaniva se spletou, zamotají a složí a tím ho umožní. Když postava použije věštecké kouzlo, například *najdi magii* či *určení*, tak letmo Tkanivo zahlédne. Kouzlo jako *rozptyl magii* Tkanivo uhladí. Kouzlo jako například *antimagické pole* přeuspořádá Tkanivo, takže magie proudí kolem oblasti, na kterou kouzlo působí, místo skrz. A na místech, kde je Tkanivo poškozené nebo rozpárané, funguje magie nepředvídatelnými způsoby, nebo nefunguje vůbec.
 
-:::
+
+</Card>
   
 ### Záchranné hody
   

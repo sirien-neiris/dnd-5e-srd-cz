@@ -621,7 +621,8 @@ Dokud aura trvá, paladin může pomocí své bonusové akce ve svém tahu způs
   
 Po aktivaci aury ji paladin nemůže aktivovat znovu, dokud si důkladně neodpočine.
   
-::: card Křivopřísežníkovo smíření
+<Card header="Křivopřísežníkovo smíření">
+
   
 Povolíš-li hráči, aby si zvolil možnost Křivopřísežníka, můžeš jeho paladinovi později dovolit se smířit a zase se stát pravým paladinem.
   
@@ -629,4 +630,5 @@ Paladin, který si přeje se smířit, se musí nejprve vzdát svého zlého př
   
 Paladin, který podruhé poruší svou svatou přísahu, se může znovu stát Křivopřísežníkem, ale nemůže se smířit.
 
-:::
+
+</Card>

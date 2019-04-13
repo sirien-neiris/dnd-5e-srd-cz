@@ -42,7 +42,8 @@ Takové kněžky vykonávají vůli Pavoučí královny a ve výsledku mají o
   
 Privilegovaní drowí muži, kteří postrádají sílu a bojovou zdatnost, aby se vycvičili na válečníky, nemají jiné východisko, než studovat magii. Pro ně je to otázka přežití. Drowky s přirozeným sklonem k mystickým uměním se mohou také stát drowími mágyněmi, i když jsou mnohem méně časté.
    
-::: card Varianta: Drowí magické zbraně a zbroje
+<Card header="Varianta: Drowí magické zbraně a zbroje">
+
   
 Drowové často nosí magické zbroje a magické zbraně, které trvale ztrácí své zlepšující bonusy, když jsou vystaveny slunečnímu světlu 1 hodinu či déle.
   
@@ -52,16 +53,19 @@ Drowové často nosí magické zbroje a magické zbraně, které trvale ztrác
   
 ***Drowí kněžka Lolth***, která má na sobě *šupinovou zbroj +3*, má OČ 19.
   
-:::  
 
-::: card
+</Card>
+
+<Card header="">
+
   
 „Taková zvrhlost. Tak děsivá krutost. Jsou odporným jedem, který zamořuje celé elfí plemeno.“
   
 — Nelar Dobrojeseň, 
 elfí klerik Corellona Laretina
 
-:::
+
+</Card>
 
 <Monster 
     title="Drow"

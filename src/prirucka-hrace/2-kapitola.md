@@ -67,7 +67,8 @@ Lidé, se svými sklony k migraci a dobývání, jsou fyzicky různorodějš
   
 Lidé jsou nejpřizpůsobivější a nejambicióznější ze všech běžných ras. Mají nejrozmanitější chutě, morálku a tradice v mnoha různých zemích, které osídlili. Když se však někde usadí, zůstanou: budují města, která vydrží roky, a velká království, která přetrvají celá staletí. Jeden člověk může žít relativně krátkou dobu, ale lidský národ či kultura si uchovává tradice, které sahají daleko před vzpomínky jednoho člověka. Žijí plně přítomností – takže dobrodružný život jim padne dobře — ale také plánují do budoucnosti, snaží se zanechat trvalý odkaz. Lidé jako jednotlivci i skupina jsou přizpůsobiví oportunisté a zůstávají ve střehu vůči politickým a společenským změnám.
 
-::: card Druzí nejlepší přátelé všech
+<Card header="Druzí nejlepší přátelé všech">
+
 
 Tak jako se mísí jeden s druhým, stejně se druží s příslušníky ostatních ras. Vychází téměř s každým, i když s mnohými si nemusí být příliš blízcí. Lidé často působí jako velvyslanci, diplomaté, smírčí soudci, obchodníci a nejrůznější funkcionáři všech druhů.
 
@@ -77,7 +78,8 @@ Tak jako se mísí jeden s druhým, stejně se druží s příslušníky ostatn�
 
 ***Trpaslíci.*** „Jsou statný národ, oddaní přátelé a drží své slovo. Jejich chamtivost po zlatu je však jejich zkázou.“
 
-:::
+
+</Card>
   
 ### Trvalé instituce
   
@@ -165,7 +167,8 @@ Je těžké generalizovat lidi, ale tvoje lidská postava má tyto rysy.
   
 ***Jazyky.*** Umíš mluvit, číst a psát obecnou řečí a jedním jazykem navíc dle své volby. Lidé se obvykle učí jazyky ostatních obyvatel, se kterými jednají, včetně pokoutných dialektů. Lidé s nadšením okořeňují svou řeč přejatými slovy z jiných jazyků: orčími kletbami, elfími hudebními výrazy, trpasličími vojenskými slovními obraty a tak dále.
   
-:::card Varianta lidských rysů
+<Card header="Varianta lidských rysů">
+
 
 Pokud vaše tažení používá volitelná pravidla pro odbornosti z 6. kapitoly, tak váš Pán jeskyně může povolit tyto
 variantní rysy, jež všechny nahradí lidský rys Zvýšení hodnot vlastností.
@@ -176,7 +179,8 @@ variantní rysy, jež všechny nahradí lidský rys Zvýšení hodnot vlastnost�
 
 ***Odbornost.*** Získáš jednu odbornost dle své volby. 
 
-:::
+
+</Card>
   
 ## Elf
   
@@ -224,7 +228,8 @@ Když se elf prohlásí za dospělého, vybere si současně dospělé jméno, i
   
 **Příjmení (překlady do obecné řeči):** Amastacia (Hvězdný květ), Amakiir (Drahokamová květina), Galanodel (Šepot luny), Holimion (Diamantová rosa), Liadon (Stříbrný vějíř), Meliamne (Pata dubu), Naïlo (Noční vánek), Siannodel (Měsíční potok), Ilphelkiir (Drahokamový květ), Xiloscient (Zlatý plátek)
   
-::: card Povýšení, ale laskaví
+<Card header="Povýšení, ale laskaví">
+
 
 Ač mohou být elfové povýšení, obecně jsou milí a laskaví i na ty, kteří nedosahují jejich úrovně — což je většina neelfů. Přesto umí najít něco dobrého skoro na každém.
 
@@ -234,7 +239,8 @@ Ač mohou být elfové povýšení, obecně jsou milí a laskaví i na ty, kteř
 
 ***Trpaslíci.*** „Trpaslíci jsou tupí, nemotorní spratci. Ale co postrádají v humoru, kulturnosti a způsobech, dohání svou srdnatostí. A musím uznat, že jejich nejlepší kováři produkují umění, které se blíží elfí kvalitě.“
 
-:::
+
+</Card>
 
 ### Elfí rysy
   
@@ -306,11 +312,13 @@ Drowí dobrodruzi jsou vzácní a tato rasa neexistuje ve všech světech. Zep
   
 ***Drowí výcvik se zbraněmi.*** Jsi zdatný s krátkým mečem, rapírem a ruční kuší.
 
-::: card Temnota drowů
+<Card header="Temnota drowů">
+
 
 Nebýt jedné slavné výjimky, rasa drowů by byla všeobecně zlořečená. Jejich zvrácená společnost je posedlá po přízni Lolth, jejich pavoučí bohyně, která schvaluje vraždu a vyhlazení celých rodin, když urozené rodiny soupeří o postavení. Drowové vyrůstají v přesvědčení, že rasy na povrchu si zaslouží leda otroctví. Ale přinejmenším jeden drow překročil mez. Ve světě Forgotten Realms, Drizzt Do’Urden, hraničář ze Severu, prokázal své kvality jako dobrosrdečný ochránce slabých a utiskovaných. Odmítl svůj původ a vydal se nazdařbůh světem, který na něj pohlíží s úděsem a odporem. Drizzt je vzorem pro těch několik drowů, kteří jdou v jeho šlépějích a snaží se nalézt život mimo zlou společnost jejich domoviny v Temných říších. Drowové vyrůstají v přesvědčení, že rasy žijící na povrchu jsou podřadné, vhodné leda tak jako otroci. Pro drowy, v nichž se vyvine svědomí, nebo musí spolupracovat s příslušníky jiných ras, je těžké překonat tento předsudek, obzvlášť když tak často pociťují zášť protistrany.
 
-:::
+
+</Card>
 
 
 ## Hobit
@@ -351,7 +359,8 @@ Mnoho hobitů žije mezi ostatními rasami, kde tvrdě pracují a poctivost ji
   
 Hobiti se obvykle dávají na dráhu dobrodruha, aby chránili svá společenství, podpořili své přátele, nebo prozkoumali širý svět plný krás. Dobrodruh pro ně není ani povolání, jako spíš příležitost, nebo někdy nutnost.
 
-::: card Vlídní a pozitivní
+<Card header="Vlídní a pozitivní">
+
 
 Hobiti se snaží vyjít s každým a neradi dělají povrchní zobecňování — zvlášť ta negativní. 
 
@@ -361,7 +370,8 @@ Hobiti se snaží vyjít s každým a neradi dělají povrchní zobecňování �
 
 ***Trpaslíci.*** „Trpaslíci si dělají věrné přátele a můžeš se spolehnout na jejich slovo. Ale bolelo by je, kdyby se občas usmáli?“
 
-:::
+
+</Card>
   
 ### Hobití jména
   
@@ -448,7 +458,8 @@ Trpaslíci jsou v ostatních zemích zpravidla řemeslníci, zejména zbrojí�
   
 Trpaslíci, co se dají na dráhu dobrodruha, mohou být motivováni touhou po pokladu — pro poklad samotný, pro konkrétní účel, nebo dokonce ze zcela nesobecké touhy pomáhat ostatním. Jiné trpaslíky žene příkaz či vnuknutí božstva, přímé volání, nebo prostě touha přinést slávu jednomu z trpasličích bohů. Kmen a předci jsou také důležité motivace. Trpaslík může usilovat o obnovu ztracené cti kmene, pomstu dávné křivdy, jež kmen utrpěl, či získání nového místa v kmeni poté, co byl vyhnán. Nebo může hledat sekeru mocného předka, která se před staletími ztratila na bitevním poli.
  
-::: card Nedůvěřiví
+<Card header="Nedůvěřiví">
+
 
 Trpaslíci vychází jakž takž dobře s většinou ostatních ras „Rozdíl mezi známostí a přátelstvím je přibližně sto let,“ je trpasličí rčení, které je možná nadsázka, ale určitě ukazuje, jak může být těžké pro člena krátce žijící rasy, například lidi, získat trpaslíkovu důvěru.
 
@@ -458,7 +469,8 @@ Trpaslíci vychází jakž takž dobře s většinou ostatních ras „Rozdíl m
 
 ***Hobiti.*** „Jistě, jsou příjemný národ. Ale ukaž mi hobitího hrdinu. Říši, vítězné vojsko. Nebo jen poklad dělaný celé věky hobitíma rukama. Nic. Jak je můžeš brát vážně?“ 
  
-:::
+
+</Card>
 
 ### Trpasličí jména
   
@@ -514,11 +526,13 @@ Jako kopcový trpaslík máš bystré smysly, hlubokou intuici a pozoruhodnou 
   
 ***Trpasličí nezdolnost.*** Tvoje maximum životů se zvýší o 1 a zvýší se o 1 pokaždé, když získáš úroveň.   
 
-::: card Duergaři
+<Card header="Duergaři">
+
   
 Ve městech hluboko v Temných říších žijí duergaři, neboli šedí trpaslíci. Tito zkažení, tajnůstkářští obchodníci s otroky podnikají na povrchu nájezdy na zajatce a pak svou kořist prodávají ostatním rasám v Temných říších. Mají vrozené magické schopnosti zneviditelnění a dočasného nárůstu do obří velikosti.
 
-:::
+
+</Card>
 
 
 ## Drakorozený
@@ -600,13 +614,16 @@ Poté, co použiješ svůj dračí dech, ho můžeš použít znovu, až si krá
   
 ***Jazyky.*** Umíš mluvit, číst a psát obecnou řečí a dračí řečí. Dračí řeč se považuje za jeden z nejstarších jazyků a často se používá při studiu magie. Většině ostatních tvorů zní tvrdě a obsahuje množství tvrdých souhlásek a sykavek.
   
-::: card Drakoniánci
+<Card header="Drakoniánci">
+
 
 Ve světě Dragonlance se uctívači zlé bohyně Takhisis naučili temný rituál, který jim umožnil pokazit vejce kovových draků a vytvořit zlé drakorozené zvané drakoniánci. Pět typů drakoniánců, odpovídajících pěti typům kovových draků, bojovalo za Takhisis ve Válce kopí: aurakové (zlatí), baazové (mosazní), bozakové (bronzoví), kapakové (mědění) a sivakové (stříbrní). Místo dračích dechů mají unikátní magické schopnosti.
 
-:::
 
-::: card Nevšední rasy
+</Card>
+
+<Card header="Nevšední rasy">
+
 
 Drakorození a zbytek ras v této kapitole jsou nevšední. Existují jen v některých světech D&D a i tam jsou méně rozšíření než lidé, elfové, hobiti a trpaslíci. V kosmopolitních městech multivesmíru D&D si většina obyvatel nijak zvlášť nevšímá ani těch nejexotičtějších ras. Ale malá města a venkov jsou jiné. Prostí obyvatelé nejsou zvyklí vidět členy těchto ras a podle toho se také
 chovají.
@@ -621,7 +638,8 @@ chovají.
 
 ***Tiefling.*** Půlorkové jsou vítáni s praktickou opatrností, ale tieflingové jsou předmětem mimořádného strachu. Zlo jejich dědictví je jasně viditelné v jejich rysech a co se týče většiny obyvatel, tiefling by mohl dost dobře být čert pří mo z Devíti pekel. Když přichází tielfing, obyvatelé se mohou křižovat, přecházet na druhou stranu ulice, aby kolem něj nemuseli projít, nebo před ním zavírat dveře obchodu na petlici, aby nemohl vejít.
 
-:::
+
+</Card>
   
 
 ## Gnóm
@@ -658,11 +676,13 @@ Gnómové, kteří se usadili na lidských územích, jsou obvykle brusiči drag
   
 Gnómové, zvědaví a impulzivní, se mohou vydat za dobrodružstvím jako způsob, jak se podívat do světa, nebo kvůli lásce k prozkoumávání. Protože milují drahokamy a jiné umělecké předměty, někteří z nich berou dobrodružství jako rychlý, i když nebezpečný způsob, jak si vydělat jmění. Bez ohledu na to, co je podnítilo k dobrodružství, tak ti, co se dají na dráhu dobrodruha, si ji užívají stejně jako jiné činnosti, jež podnikají, občas k velké mrzutosti svých dobrodružných společníků.
 
-::: card Hlubinní gnómové
+<Card header="Hlubinní gnómové">
+
 
 Třetí podrasou gnómů jsou hlubinní gnómové (zvaní také permoníci), kteří žijí v malých komunitách roztroušených v Temných říších. Oproti duergarům a drowům jsou permoníci stejně dobří jako jejich bratranci na povrchu. Ale jejich humor a nadšení jsou utlumeny tísnivým prostředím a jejich vynalézavost se zaměřuje převážně na kamenictví.
 
-:::
+
+</Card>
   
 ### Gnómská jména
   
@@ -726,11 +746,13 @@ Když sestrojíš zařízení, zvol si jednu z následujících možností.
   
 *Zapalovač:* Zařízení vyrábí miniaturní plamen, který můžeš použít k zapálení svíčky, pochodně nebo táborového ohně. Použití zařízení vyžaduje tvou akci.
 
-::: card Vždy uznalí
+<Card header="Vždy uznalí">
+
 
 Nestává se, že by gnóm byl nepřátelský či zlomyslný, pokud neutrpěl těžké poranění. Gnómové ví, že většina ras nesdílí jejich smysl pro humor, ale jsou rádi za každou společnost, stejně jako je těší vše, co si zvolili, že budou dělat.
 
-:::
+
+</Card>
 
   
 ## Půlelf
@@ -756,11 +778,13 @@ Půlelfové nemají žádnou svoji zemi, ale jsou vítaní v lidských městec
   
 Ve většině částí světa ale půlelfové nejsou až tak běžní, takže půlelf může prožít několik let, aniž by potkal jiného půlelfa. Někteří půlelfové se raději vyhýbají jakékoli společnosti a putují divočinou jako zálesáci, lesníci, lovci nebo dobrodruzi a civilizaci navštěvují jen sporadicky. Podobně jako elfové mají cestovatelskou vášeň, která vychází z jejich dlouhověkosti. Ostatní půlelfové se naopak naplno vrhají do společnosti a skvěle využívají své charisma a sociální dovednosti v diplomatických rolích nebo jako podvodníci.
 
-::: card Vynikající velvyslanci
+<Card header="Vynikající velvyslanci">
+
 
 Mnoho půlelfů se v útlém věku učí, jak vyjít s každým, jak přemoci nepřátelství a jak najít společné východisko. Jako rasa mají elfí šarm bez elfí rezervovanosti a lidskou energii bez lidské neomalenosti. Jsou z nich často vynikající velvyslanci a prostředníci (kromě prostřednictví mezi elfy a lidmi, neboť každá ze stran podezřívá půlelfa z nadržování té druhé).
 
-:::
+
+</Card>
 
 ### Půlelfí jména
   
@@ -811,11 +835,13 @@ Orky stvořil jednooký bůh Grúmš, a dokonce i ti orkové, kteří se odv
   
 Půlorkové nejčastěji žijí mezi orky. Z ostatních ras je nejvíc přijímají lidé a pokud nežijí mezi orčími kmeny, nejčastěji žijí právě v lidských zemích. Ať už se vyskytují mezi hrubými barbarskými kmeny, nebo se snaží přežívat v chudinských čtvrtích velkoměst, spoléhají na svou fyzickou sílu, odolnost a čiré odhodlání, které zdědili od svého lidského předka.
 
-::: card Zdráhavé přijetí
+<Card header="Zdráhavé přijetí">
+
 
 Každý půlork hledá způsob, jak by ho přijali ti, kdo nesnáší orky. Někteří jsou odtažití a snaží se nepřitahovat na sebe pozornost. Hrstka z nich projevuje zbožnost a laskavost, jak nejvíc veřejně to jde (bez ohledu na to, jestli takový projev je upřímný). A někteří se prostě snaží jen být co největší tvrďáci, aby se jim ostatní zkrátka vyhýbali.
 
-:::
+
+</Card>
   
 ### Půlorčí jména
   

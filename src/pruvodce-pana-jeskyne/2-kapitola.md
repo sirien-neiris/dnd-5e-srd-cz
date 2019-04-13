@@ -51,11 +51,13 @@ Výchozí kosmologické uspořádání představené v *Příručce hráče* z
 V tomto uspořádání dává smysl, že řeka Styx protéká Nižšími sférami a propojuje Acheron, Devět pekel, Gegennu, Hády, Carceri, Propast a Pandemonium jako šňůrka korálky. Ale to není jediné možné vysvětlení toku řeky.
   
   
-::: card Vymýšlení vlastních sfér
+<Card header="Vymýšlení vlastních sfér">
+
   
 Každá ze sfér popsaných v této kapitole má nejméně jeden zásadní vliv na cestovatele, kteří v ní cestují. Když vymýšlíš své vlastní sféry, je dobré se držet tohoto modelu. Stvoř jeden jednoduchý rys, kterého si hráči všimnou a který nevytváří příliš mnoho komplikací u herního stolu, a jenž si lze snadno zapamatovat. Snaž se vyjádřit filozofii a atmosféru takového místa, nejen jeho fyzikální vlastnosti.
 
-:::
+
+</Card>
   
 #### Světový strom
   
@@ -293,13 +295,15 @@ Vílí divočina existuje paralelně k Materiální sféře. Jde o alternati
   
 Vílí divočina je obydlena sylvánskými lesními tvory, například elfy, dryádami, satyry, diblíky a poletuchami, a také kentaury a magickými tvory jako mihotavými psy, vílími dráčky, enty a jednorožci. Temnější kraje sféry jsou domovem tak zlovolných tvorů, jako jsou ježibaby, sněti, goblini, zlobři a obři.
 
-::: card Šťastní a Nešťastní
+<Card header="Šťastní a Nešťastní">
+
   
 Ve Vílí divočině mají svůj dvůr dvě královny a většina víl je věrná jedné, či druhé. Královna Titanie a její Letní dvůr vede Šťastné víly. Královna vzduchu a tmy, vládkyně Potemnělého dvora, vede Nešťastné víly.
   
 Šťastní a Nešťastní nemají přímou korelaci s dobrem a zlem, i když mnoho smrtelníků si to myslí. Mnozí Šťastní jsou dobří a mnozí Nešťastní jsou zlí, ale jejich vzájemný protiklad vychází z žárlivé rivality jejich královen, ne z abstraktních morálních pohnutek. Ohyzdní obyvatelé Vílí divočiny, například farmoriané a ježibaby, téměř nikdy nejsou členy žádného dvora a víly nezávislé duše odmítají dvory úplně. Dvory spolu soupeří více méně přátelskou soutěživostí, i když byly doby, kdy spolu válčily, a někdy dokonce tajně v některých malých věcech uzavírají spojenectví.
 
-:::
+
+</Card>
   
 ### Vílí přechody
   
@@ -368,7 +372,8 @@ Když se domníváš, že je to vhodné, avšak obvykle ne víckrát než jednou
   
 Pokud postava již trpí účinkem zoufalství a neuspěje v záchranném hodu, nový účinek zoufalství nahradí ten starý. Po důkladném odpočinku se postava může pokusit překonat zoufalství záchranným hodem na Moudrost se SO 15. (SO je vyšší, protože jakmile se zoufalství usadí, je těžší se ho zbavit.) Když postava v záchraně uspěje, účinek zoufalství pro ni skončí.
 
-::: card Věčná noc
+<Card header="Věčná noc">
+
   
 Velkoměsto Letohrad ve světě Forgotten Realms má temný odraz v Stínopádu: velkoměsto Věčná noc. Věčná noc je město popraskaných kamenných budov a domů ze shnilého dřeva. Cesty tvoří většinou ušlapaný hrobní prach, a v těch několika málo dlážděných ulicích chybí tolik kamenů, že vypadají jako poďobané. Nebe je mrtvolně šedé a studeně fouká vlhký vítr, ze kterého nabíhá husí kůže.
   
@@ -376,7 +381,8 @@ Velkoměsto Letohrad ve světě Forgotten Realms má temný odraz v Stínopád
   
 Zvěsti říkají, že toto odporné místo zrcadlí jedno velkoměsto v každém světě.
 
-:::
+
+</Card>
   
 ## Vnitřní sféry
   
@@ -700,7 +706,8 @@ Larva je bídný běs, kterému zůstávají obličejové rysy předchozí podob
   
 Hády se hemží larvami. Noční ježibaby, kostějové a rakšázy je sbírají pro své hnusné rituály. Ostatní běsové se jimi rádi krmí.
 
-::: card Larva
+<Card header="Larva">
+
 
 *Střední běs, neutrální zlo*
   
@@ -724,7 +731,8 @@ Hády se hemží larvami. Noční ježibaby, kostějové a rakšázy je sbíra
   
 ***Kousnutí.*** *Útok na blízko zbraní:* +1 k zásahu, dosah 1 sáh, jeden cíl. *Zásah:* Bodné zranění 1 (1k4 – 1).
 
-:::
+
+</Card>
   
 ### Gehenna
   

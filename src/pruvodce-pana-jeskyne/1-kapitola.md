@@ -105,7 +105,8 @@ Většina těsných panteonů má jednoho či více zrůdných bohů — božste
   
 Jako příklad těsného panteonu slouží severská božstva. Odin je vůdce panteonu a postava otce. Božstva jako Thór, Týr a Freya ztělesňují důležité aspekty severské kultury. Mezitím Loki a jeho stoupenci číhají ve stínech, občas pomáhají jiným božstvům a občas pracují proti nim spolu s nepřáteli panteonu.
 
-::: card Božská hodnost
+<Card header="Božská hodnost">
+
   
 Božské bytosti multivesmíru se často třídí podle vesmírné moci. Někteří bohové jsou uctíváni v několika světech a v každém z nich mají jinou hodnost, v závislosti na jejich tamním vlivu.
   
@@ -121,7 +122,8 @@ Božské bytosti multivesmíru se často třídí podle vesmírné moci. Někte�
   
 *Zakrnělci* jsou božstva, která ztratila téměř veškeré své uctívače a jsou považováni za mrtvé, ze smrtelného hlediska. Tajné rituály mohou tyto bytosti někdy kontaktovat a čerpat z jejich skryté moci.
 
-:::
+
+</Card>
   
 #### Tajemné kulty
   
@@ -497,7 +499,8 @@ Zvolení symbolu a motta pro organizaci je shrnutím tvé dosavadní práce. F
   
 Nakonec přemýšlej nad způsoby, kterými mohou hráčské postavy přijít do kontaktu s organizací. Kdo jsou důležití členové — nejen vůdci, ale i agenti v poli, se kterými se mohou dobrodruzi setkat? Kde jsou aktivní a kde mají velení či pevnosti? Pokud se dobrodruzi přidají, na jaký druh misí mohou být vysíláni? Jaké lze získat odměny?
 
-::: card Příklad frakce: Harfeníci
+<Card header="Příklad frakce: Harfeníci">
+
   
 Harfeníci jsou roztroušená síť sesilatelů kouzel a špehů, kteří prosazují rovnost a tajně vzdorují zneužívání moci, magické i jiné.
   
@@ -515,9 +518,11 @@ Organizace několikrát zažila vzestup, pád a opět vzestup. Její trvanlivo
   
 ***Typické úkoly.*** Typické úkoly Harfeníků zahrnují zajištění artefaktu, který by mohl narušit rovnováhu moci v kraji, sběr informací o mocném jedinci nebo organizaci a určení skutečných záměrů ambiciózní politické figury či zlého sesilatele kouzel.
 
-:::
 
-::: card Příklad frakce: Zentarim
+</Card>
+
+<Card header="Příklad frakce: Zentarim">
+
   
 Zentarim (známý také jako Černá síť) je bezohledná stinná síť, která usiluje o rozšíření svého vlivu a moci po celých Forgotten Realms.
   
@@ -537,7 +542,8 @@ Veřejná tvář Černé sítě vypadá docela vlídně. Nabízí to nejlepší 
   
 ***Typické úkoly.*** Typické úkoly Zentarim zahrnují ukradení nebo uloupení pokladu, mocného kouzelného předmětu či artefaktu; zajištění lukrativního obchodního kontraktu nebo prosazení dosud neexistujícího; a zajištění opory na místě, kde to se Zentarim vypadá trochu bledě.
 
-:::
+
+</Card>
   
 ### Proslulost
   
@@ -974,7 +980,8 @@ Kalendář ti umožňuje zaznamenávat plynutí času během tažení. Ale hlavn
   
 Tato metoda je dobrá pro začátek, ale kalendář tvého světa se nemusí držet moderního kalendáře. Pokud si chceš svůj kalendář přizpůsobit detaily, které jsou pro tvůj svět jedinečné, zvaž tyto typy vlastností.
 
-::: card Harptosův kalendář
+<Card header="Harptosův kalendář">
+
   
 Svět Forgotten Realms používá harptoský kalendář, pojmenovaný po dávno zemřelém kouzelníkovi, který ho vymyslel. Každý rok s 365 dny je rozdělen do dvanácti měsíců s třiceti dny, což zhruba odpovídá měsícům v gregoriánském kalendáři reálného světa. Každý měsíc je rozdělen do tří desetidnů. Pět zvláštních svátků spadá mezi měsíce a značí roční období. Další zvláštní svátek, Setkání štítů, je vsazen do kalendáře po letním slunovratu každé čtyři roky, podobně jako přestupné roky v gregoriánském kalendáři.
 
@@ -999,7 +1006,8 @@ Svět Forgotten Realms používá harptoský kalendář, pojmenovaný po dávno 
 | | *Každoroční svátek:* Svátek měsíce | |
 | 12 | dlouhonoc | zklidnění |
  
-:::  
+
+</Card>
   
 #### Základy
   
@@ -1035,13 +1043,15 @@ Vyhraď pro postavy dostatek prostoru a času ke konci svého tažení, aby do
   
 Jakmile tažení skončilo, může začít nové. Pokud máš v úmyslu vést nové tažení pro stejnou skupinu hráčů a použiješ činy jejich předchozích postav jako základ pro legendy, vyvolá to v hráčích bezprostřední zájem o nové prostředí. Nechť nové postavy pocítí, jak se svět kvůli jejich starým postavám změnil. Nové tažení je ale konečně novým příběhem s novými protagonisty. Je to jejich výsluní a hrdinové ze zašlých dob by jim ho neměli nijak upírat.
 
-::: card Svět k prozkoumání
+<Card header="Svět k prozkoumání">
+
   
 Velká část tažení obsahuje cestování dobrodruhů z místa na místo, průzkum prostředí a dozvídání se o fantasy světě. Takový průzkum se může odehrávat v jakémkoliv prostředí, včetně rozlehlé divočiny, spletité jeskyně, stinných chodeb Temných říší, přecpaných ulic velkoměsta nebo na vlnách moře. Součástí průzkumu může být nalezení cesty okolo překážky, nalezení skrytého předmětu, prozkoumání zvláštního rysu jeskyně, rozluštění stop, řešení hlavolamů a obejití či zneškodnění pastí.
   
 Někdy je průzkum vedlejší součástí hry. Například nedůležitou cestu můžeš zamluvit tím, že oznámíš hráčům že za tři dny chůze po cestě se nic zvláštního nestalo, a přejít k dalšímu bodu zájmu. Jindy je průzkum tím hlavním. Šance k popisu úžasné části světa nebo k příběhu, který zvýší vžití hráčů do děje. Stejně tak bys měl zvážit odehrávání průzkumu, když tvoji hráči rádi řeší hlavolamy, hledají okliky kolem překážek či tajné dveře v jeskynních chodbách.
  
-::: 
+
+</Card>
   
 ## Herní styl
   
