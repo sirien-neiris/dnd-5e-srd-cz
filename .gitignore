@@ -4,3 +4,6 @@
 
 src/.vuepress/dist/
 /.env
+/tmp
+
+

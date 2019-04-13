@@ -6,11 +6,14 @@
     "markdown-it-deflist": "^2.0.3",
     "moment": "^2.24.0",
     "node-sass": "^4.11.0",
+    "replace-in-file": "^3.4.4",
     "sass-loader": "^7.1.0",
     "vuepress": "^1.0.0-alpha.47"
   },
   "scripts": {
     "srd:dev": "vuepress dev src --host 0.0.0.0",
-    "srd:build": "vuepress build src"
+    "srd:build": "vuepress build src",
+    "srd:gen": "node tools/gen.js",
+    "srd:menu": "node tools/menu.js"
   }
 }
