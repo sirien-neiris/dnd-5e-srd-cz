@@ -16,7 +16,7 @@ if (namespaceSettings !== undefined) {
 
     files.forEach(file => {
         let dir = namespaceSettings.distFolder.replace('./src/', './tmp/');
-        let dist = dir + '/generated-' + file;
+        let dist = dir + '/' + file;
         replaceFiles.push(dist);
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir);
