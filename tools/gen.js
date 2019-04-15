@@ -32,7 +32,7 @@ if (namespaceSettings !== undefined) {
 
     console.log(` - Začínám nahrazovat snippety: ${snippetsFiles.length}`);
     snippetsFiles.forEach(file => {
-        const regex = new RegExp('<snippet:' + file.replace('.md', '') + '>', 'g');
+        const regex = new RegExp('snippet:' + file.replace('.md', ''), 'g');
         replace.sync({
             files: replaceFiles,
             from: regex,
