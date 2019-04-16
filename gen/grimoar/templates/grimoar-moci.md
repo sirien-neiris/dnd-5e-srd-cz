@@ -76,11 +76,6 @@ snippet:trnovy-bic
 snippet:usetri-umirajiciho
 
 
-### V
-
-snippet:vyvolej-elementala
-
-
 ### Z
 
 snippet:zlomyslny-vysmech
@@ -823,7 +818,12 @@ snippet:tvorba
 
 snippet:ukol
 
+
+### V
+
 snippet:vypuzujici-uder
+
+snippet:vyvolej-elementala
 
 snippet:vyvolej-salvu
 
