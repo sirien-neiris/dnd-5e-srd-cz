@@ -21,7 +21,3 @@ Pro tebe a tvory, které určíš při sesílání kouzla, vypadá text normáln
 Je-li kouzlo rozptýleno, zmizí původní text i iluze. 
 
 Tvor s pravdivým viděním dokáže přečíst skrytý text.
-
-
-
-## J

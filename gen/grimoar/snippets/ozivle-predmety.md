@@ -33,7 +33,3 @@ Oživlý předmět je výtvor s OČ , životy, útoky, Silou a Obratností daný
 Nařídíš-li předmětu zaútočit, může provést jeden útok na blízko proti tvorovi do 1 sáhu od něj. Útočí bouchnutím a jeho útočný bonus a drtivé zranění jsou dány jeho velikostí. PJ může určit, že konkrétní předmět způsobuje sečné nebo bodné zranění na základě jeho podoby.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. oživíš dva další předměty.
-
-
-
-## P

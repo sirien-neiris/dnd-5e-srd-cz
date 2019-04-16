@@ -21,9 +21,3 @@ Toto kouzlo také neutralizuje jedy a uzdraví nemagické nemoci, které postiho
 Toto kouzlo uzavře všechny smrtelné rány, ale neobnoví chybějící části těla. Chybí-li tvorovi části těla nebo orgány, které jsou nezbytné k přežití (například hlava), kouzlo automaticky selže. 
 
 Navrátit se ze smrti je nesmírně útrpné. Cíl utrpí postih –4 ke všem hodům na útok, záchranným hodům a ověřením vlastností. Pokaždé, když si cíl důkladně odpočine, postih se sníží o 1, dokud úplně nevymizí.
-
-
-
-
-
-## Z

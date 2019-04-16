@@ -21,7 +21,3 @@ Základní zranění kouzla je 12k6. Pokud na konci tvého tahu korálek stále 
 Oheň zapaluje v oblasti hořlavé předměty, které nikdo nedrží ani nenese.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 8. či vyšší úrovně, za každou další úroveň pozice nad 7. se zvýší základní zranění o 1k6.
-
-
-
-## D

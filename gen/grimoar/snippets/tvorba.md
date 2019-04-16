@@ -29,9 +29,3 @@ Trvání záleží na materiálu předmětu. Je-li předmět složený z více m
 Použití jakéhokoli materiálu vytvořeného tímto kouzlem jako surovinovou složku jiného kouzla způsobí, že kouzlo selže.
 
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 6. či vyšší úrovně, za každou další úroveň pozice nad 5. se zvětší velikost strany krychle o 1 sáh
-
-
-
-
-
-## U

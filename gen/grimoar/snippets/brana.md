@@ -21,7 +21,3 @@ Portál má přední a zadní stranu v každé sféře, kde se objeví. Cestová
 Božstva a ostatní vládci sfér mohou zabránit otevření portálů tohoto kouzla v jejich přítomnosti nebo kdekoliv na jejich území. 
 
 Když sesíláš toto kouzlo, můžeš vyslovit jméno konkrétního tvora (pseudonym, titul ani přezdívka nefunguje). Je-li daný tvor v jiné sféře než ty, portál se otevře v jeho bezprostřední blízkosti a vtáhne ho do sebe na nejbližší volné místo na tvé straně portálu. Nezískáš nad ním žádnou zvláštní moc a může volně jednat, jak Pán jeskyně uzná za vhodné. Může odejít, zaútočit na tebe, nebo ti pomoci.
-
-
-
-## C

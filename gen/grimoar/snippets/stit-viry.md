@@ -15,8 +15,3 @@
 **Povolání:** Klerik, paladin
 
 Kolem tvora, kterého zvolíš v dosahu, se objeví třpytivé ochranné pole a poskytne mu bonus +2 k OČ po dobu trvání.
-
-
-
-
-## T
