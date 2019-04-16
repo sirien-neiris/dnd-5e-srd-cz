@@ -150,6 +150,12 @@ const menu = {
                 '/grimoar/grimoar-jmen',
                 '/grimoar/grimoar-moci',
             ]
+        },{
+            title: 'Soupis',
+            collapsable: true,
+            children: [
+                '/soupis/carodej',
+            ]
         },
     ]
 };

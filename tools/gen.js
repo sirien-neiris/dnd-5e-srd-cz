@@ -12,34 +12,43 @@ let replaceFiles = [];
 
 if (namespaceSettings !== undefined) {
     console.log(`Zahajuji generování namespace ${namespace}`);
-    let files = fs.readdirSync(namespaceSettings.templatesFolder);
 
-    files.forEach(file => {
+    namespaceSettings.template.forEach(file => {
+
         let dir = namespaceSettings.distFolder.replace('./src/', './tmp/');
-        let dist = dir + '/' + file;
+        let dist = dir + '/' + file.replace('./gen/templates/', '');
+
         replaceFiles.push(dist);
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir);
         }
         fs.copyFileSync(
-            namespaceSettings.templatesFolder + '/' + file,
+            file,
             dist
         );
         console.log(` - Vytvářím soubor v tmp složce ${dist}`);
     });
 
-    snippetsFiles = fs.readdirSync(namespaceSettings.snippetsFolder);
+    namespaceSettings.applySnippets.forEach(snipetSettings => {
 
-    console.log(` - Začínám nahrazovat snippety: ${snippetsFiles.length}`);
-    snippetsFiles.forEach(file => {
-        const regex = new RegExp('snippet:' + file.replace('.md', ''), 'g');
-        replace.sync({
-            files: replaceFiles,
-            from: regex,
-            to: fs.readFileSync(namespaceSettings.snippetsFolder + '/' + file),
+        let dir = config.snippets[snipetSettings.snippet];
+        const headerprefix = "#".repeat(snipetSettings.headerOffset);
+        snippetsFiles = fs.readdirSync(dir);
+        console.log(` - Začínám nahrazovat snippety ${dir}: ${snippetsFiles.length}`);
+        snippetsFiles.forEach(file => {
+            let snippetToken = 'snippet-'+snipetSettings.snippet+':' + file.replace('.md', '');
+            const regex = new RegExp(snippetToken, 'g');
+            let to = fs.readFileSync(dir + '/' + file, 'utf8');
+            replace.sync({
+                files: replaceFiles,
+                from: regex,
+                to: to.replace('# ',headerprefix +'# '),
+            });
+            console.log(`    - Nahrazuji ${snippetToken}`);
         });
-        console.log(`    - Nahrazuji snippet ${file}`);
+
     });
+
 
     replaceFiles.forEach(file => {
         let to = file.replace('./tmp/', './src/');
@@ -51,8 +60,11 @@ if (namespaceSettings !== undefined) {
         fs.unlinkSync(file);
         console.log(` - Mažu soubor v tmp složce ${file}`);
     });
+
 } else {
     console.log(`Nebyl zadán platný namespace pro generování obsahu`);
+    console.log(`Registrované namespace:`);
+    config.namespaces.forEach(namespace => console.log('   ' + namespace.name))
 }
 
 
