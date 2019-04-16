@@ -1,5 +1,7 @@
 ### BLESKOVÝ ŠÍP
 
+*Lighting arrow*
+
 ***Příručka hráče***
 
 *Transmutace 3. úrovně*

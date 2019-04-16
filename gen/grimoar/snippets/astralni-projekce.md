@@ -1,5 +1,7 @@
 ### ASTRÁLNÍ PROJEKCE
 
+*Astral projection*
+
 ***Příručka hráče***
 
 *Nekromancie 9. úrovně*

@@ -1,5 +1,7 @@
 ### BLESK
 
+*Lighting bolt*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně*

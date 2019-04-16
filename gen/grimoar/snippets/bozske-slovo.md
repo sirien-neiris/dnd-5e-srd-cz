@@ -1,5 +1,7 @@
 ### BOŽSKÉ SLOVO
 
+*Divine word*
+
 ***Příručka hráče***
 
 *Zaklínání 7. úrovně*

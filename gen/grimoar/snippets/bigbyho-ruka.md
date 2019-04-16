@@ -1,5 +1,7 @@
 ### BIGBYHO RUKA
 
+*Bigby's hand*
+
 ***Příručka hráče***
 
 *Zaklínání 5. úrovně*

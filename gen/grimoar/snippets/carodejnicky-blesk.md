@@ -1,5 +1,7 @@
 ### ČARODĚJNICKÝ BLESK
 
+*Witch bolt*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

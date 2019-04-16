@@ -1,5 +1,7 @@
 ### BAREVNÁ SPRŠKA
 
+*Color spray*
+
 ***Příručka hráče***
 
 *Iluze 1. úrovně*

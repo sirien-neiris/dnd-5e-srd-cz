@@ -1,5 +1,7 @@
 ### ANTIPATIE NEBO SYMPATIE
 
+*Antipathy/Sympathy*
+
 ***Příručka hráče***
 
 *Očarování 8. úrovně*

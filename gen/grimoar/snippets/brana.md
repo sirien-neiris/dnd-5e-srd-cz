@@ -1,5 +1,7 @@
 ### BRÁNA
 
+*Gate*
+
 ***Příručka hráče***
 
 *Vyvolávání 9. úrovně*

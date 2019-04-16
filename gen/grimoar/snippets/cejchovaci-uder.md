@@ -1,5 +1,7 @@
 ### CEJCHOVACÍ ÚDER
 
+*Branding smite*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

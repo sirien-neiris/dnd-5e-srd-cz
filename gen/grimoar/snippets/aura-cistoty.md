@@ -1,5 +1,7 @@
 ### AURA ČISTOTY
 
+*Aura of purity*
+
 ***Příručka hráče***
 
 *Vymítání 4. úrovně*

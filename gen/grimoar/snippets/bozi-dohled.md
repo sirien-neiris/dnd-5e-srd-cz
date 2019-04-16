@@ -1,5 +1,7 @@
 ### BOŽÍ DOHLED
 
+*Guidance*
+
 ***Příručka hráče***
 
 *Věštecký trik*

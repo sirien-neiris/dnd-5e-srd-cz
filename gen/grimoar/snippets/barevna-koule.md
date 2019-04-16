@@ -1,5 +1,7 @@
 ### BAREVNÁ KOULE
 
+*Chromatic orb*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

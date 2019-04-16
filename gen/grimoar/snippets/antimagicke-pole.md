@@ -1,5 +1,7 @@
 ### ANTIMAGICKÉ POLE
 
+*Antimagic field*
+
 ***Příručka hráče***
 
 *Vymítání 8. úrovně*

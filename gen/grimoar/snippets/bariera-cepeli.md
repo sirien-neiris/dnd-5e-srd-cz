@@ -1,5 +1,7 @@
 ### BARIÉRA ČEPELÍ
 
+*Blade barrier*
+
 ***Příručka hráče***
 
 *Zaklínání 6. úrovně*

@@ -1,5 +1,7 @@
 ### ČASOVANÁ OHNIVÁ KOULE
 
+*Delayed blast fireball*
+
 ***Příručka hráče***
 
 *Zaklínání 7. úrovně*
