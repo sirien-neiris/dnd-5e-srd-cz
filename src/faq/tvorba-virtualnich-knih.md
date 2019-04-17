@@ -35,8 +35,8 @@ Nová kouzla (ze zatím nezpracovaných příruček) přidávejte jako běžné 
   - malá písmena
   - bez diakritiky
   - s pomlčkou místo mezer
-- První nadpis souboru by měl být název kouzla a má jít o nadpis třetí úrovně (H3, "\#\#\# Nazev kouzla")
-  - Jednotlivé virtuální knihy si úroveň nadpisů přeloží podle své potřeby)
+- První nadpis souboru by měl být název kouzla a má jít o nadpis první úrovně (H1, "\# Název kouzla")
+  - Jednotlivé virtuální knihy si úroveň nadpisů upraví podle své potřeby)
 - Pod název klouzla vložte kurzívou jeho originální název
 - Pod originální název vložte tučnou kurzívou název příručky, z níž kouzlo pochází
 - pod název příručky vložte "hlavičku" kouzla v běžném pořadí
@@ -47,7 +47,7 @@ Nová kouzla (ze zatím nezpracovaných příruček) přidávejte jako běžné 
 <card>
   název souboru: "ohniva-koule.md"
   
-  ### OHNIVÁ KOULE
+  # OHNIVÁ KOULE
   
   *Fireball*
 
@@ -96,13 +96,17 @@ Otevřete si [složku se snippety povolání](https://github.com/d20cz/dnd-5e-sr
 
 - vytvořte soubor se základem povolání, nazvěte ho "pov-zaklad.md" (např. "car-zaklad" pro čaroděje)
   - vkopírujte do něj text povolání z příručky hráče *kromě* oborů
-  - za úvodní nadpis vložte nadpis "Charakteristika povolání" s o 1 nižší úrovní (to je důležité kvůli řazení v levém menu)
-  - na vhodná místa informace z ostatních příruček. 
+  - název povolání dejte jako nadpis první úrovně (H1, "\# Název povolání")
+  - za úvodní nadpis vložte nadpis 2. úrovně (H2) "Charakteristika povolání" (to je důležité kvůli řazení v levém menu)
+  - na vhodná místa doplňte informace z ostatních příruček. 
   - Všechny věci co nejsou z Příručky hráče pod příslušným nadpisem jasně označte názvem příručky psaným tučnou kurzívou
 - vytvořte soubory pro každý jeden obor daného povolání, nazvěte je "pov-obor-nazev" (např. "car-puvod-draci" pro čaroděje s dračím původem)
   - vkopírujte do nich jednotlivé obory
+  - název oboru dejte jako nadpis třetí úrovně (H3, "\#\#\# Název oboru")
   - u oborů co nejsou původem z Příručky hráče vepište pod jejich první nadpis tučnou kurzívou název příručky původu
-  
+
+*V překopírovaných textech lze úroveň nadpisů upravit i hromadně funkcí nahrazení (začínejte od nejnižších, tzn. pokud máte soubor co začíná s H3 a potřebujete aby začínal s H1, tak nejprve nahraďte \#\#\# za \#, následně \#\#\#\# za \#\# atd.)*
+
 Následně jděte do složky [se zdrojovými dokumenty](https://github.com/d20cz/dnd-5e-srd-cz/tree/master/gen/templates) virtuálních knih a založte v ní nový dokument s názvem "povolani.md" (např. "carodej.md"). 
 
 - Stejně jako u grimoárů (viz výše) do tohoto dokumentu vepište jen nutné nadpisy, vše ostatní odkazujte ze snippet
