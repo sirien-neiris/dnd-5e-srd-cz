@@ -1,4 +1,4 @@
-### KRUPOBITÍ TRNŮ
+# KRUPOBITÍ TRNŮ
 
 ***Příručka hráče***
 

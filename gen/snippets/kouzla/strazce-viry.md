@@ -1,4 +1,4 @@
-### STRÁŽCE VÍRY
+# STRÁŽCE VÍRY
 
 ***Příručka hráče***
 

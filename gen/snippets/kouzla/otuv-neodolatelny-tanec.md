@@ -1,4 +1,4 @@
-### OTŮV NEODOLATELNÝ TANEC
+# OTŮV NEODOLATELNÝ TANEC
 
 ***Příručka hráče***
 

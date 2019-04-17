@@ -1,4 +1,4 @@
-### SKOK
+# SKOK
 
 ***Příručka hráče***
 

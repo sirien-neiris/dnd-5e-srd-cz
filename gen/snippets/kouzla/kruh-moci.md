@@ -1,4 +1,4 @@
-### KRUH MOCI
+# KRUH MOCI
 
 ***Příručka hráče***
 

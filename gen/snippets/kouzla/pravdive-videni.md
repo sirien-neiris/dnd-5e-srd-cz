@@ -1,4 +1,4 @@
-### PRAVDIVÉ VIDĚNÍ
+# PRAVDIVÉ VIDĚNÍ
 
 ***Příručka hráče***
 

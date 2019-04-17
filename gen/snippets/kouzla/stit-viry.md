@@ -1,4 +1,4 @@
-### ŠTÍT VÍRY
+# ŠTÍT VÍRY
 
 ***Příručka hráče***
 

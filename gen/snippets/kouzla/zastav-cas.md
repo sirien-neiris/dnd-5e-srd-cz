@@ -1,4 +1,4 @@
-### ZASTAV ČAS
+# ZASTAV ČAS
 
 ***Příručka hráče***
 

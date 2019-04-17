@@ -1,4 +1,4 @@
-### TANČÍCÍ SVĚTLA
+# TANČÍCÍ SVĚTLA
 
 ***Příručka hráče***
 

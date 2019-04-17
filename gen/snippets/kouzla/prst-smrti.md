@@ -1,4 +1,4 @@
-### PRST SMRTI
+# PRST SMRTI
 
 ***Příručka hráče***
 

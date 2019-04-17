@@ -1,4 +1,4 @@
-### VEJDI DO KAMENE
+# VEJDI DO KAMENE
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### Božská duše
+# Božská duše
 
 ***Xanatharův průvodce vším***
 
@@ -18,7 +18,7 @@ V některých kulturách mohou mít náboženskou mocenskou funkci pouze ti, kdo
 | 14. | Nadpozemská křídla |
 | 18. | Nadpřirozené zotavení |
 
-#### Božská magie
+## Božská magie
 
 Tvoje spojení s božstvem ti umožňuje naučit se klerická kouzla. Když ti tvá schopnost Sesílání kouzel umožňuje naučit se nebo si nahradit čarodějský trik či čarodějské kouzlo 1. či vyšší úrovně, můžeš si nové kouzlo vybrat ze seznamu klerických nebo čarodějských kouzel. Jinak se při výběru kouzla musíš řídit všemi omezeními. Vybrané kouzlo se pro tebe stane čarodějským kouzlem. Mimo to si zvol spřízněnost ke zdroji své božské moci: dobro, zlo, zákon, chaos, nebo neutralita. Na základě této spřízněnosti se naučíš dodatečné kouzlo, jak je uvedeno níže. Toto kouzlo je pro tebe čarodějské, ale nepočítá se do tvého počtu známých čarodějských kouzel. Pokud chceš toto kouzlo později nahradit, musíš ho nahradit kouzlem ze seznamu klerických kouzel.
 
@@ -30,21 +30,21 @@ Tvoje spojení s božstvem ti umožňuje naučit se klerická kouzla. Když ti t
 | Chaos | zhouba |
 | Neutralita | ochrana před zlem a dobrem |
 
-#### Oblíbenec bohů
+## Oblíbenec bohů
 
 Počínaje 1. úrovní stráží tvůj osud božská moc. Pokud neuspěješ v záchranném hodu nebo mineš hodem na útok, můžeš si hodit 2k4 a přičíst to k danému hodu, což dost možná změní výsledek. Jakmile použiješ tuto schopnost, nemůžeš ji použít znovu, dokud si krátce či důkladně neodpočineš. 
 
-#### Posílené léčení
+## Posílené léčení
 
 Od 6. úrovně tebou proudí božská energie, kterou můžeš posílit léčivá kouzla. Když si ty nebo tvůj spojenec do 1 sáhu od tebe hází kostkami, aby určil počet životů, které kouzlo obnoví, můžeš utratit 1 čarodějný bod a libovolným počtem těchto kostek jednou hodit znovu. Tuto schopnost můžeš použít jen jednou za tah.
 
-#### Nadpozemská křídla
+## Nadpozemská křídla
 
 Počínaje 14. úrovní můžeš použít bonusovou akci, aby se ti na zádech zjevila přízračná křídla. Zatímco máš křídla, máš rychlost létání 6 sáhů. Křídla vydrží, dokud nejsi neschopný, nezemřeš, nebo je nezrušíš jako bonusovou akci.
 
 Spřízněnost, kterou sis zvolil pro svou schopnost Božská magie, určuje vzhled přízračných křídel: orlí křídla pro dobro či zákon, netopýří křídla pro zlo či chaos a křídla vážky pro neutralitu.
 
-#### Nadpřirozené zotavení
+## Nadpřirozené zotavení
 
 Od 18. úrovně získáš schopnost překonat těžká zranění. Když ti zbývá méně než polovina životů, můžeš si jako bonusovou akci obnovit počet životů rovný polovině tvého maxima životů.
 

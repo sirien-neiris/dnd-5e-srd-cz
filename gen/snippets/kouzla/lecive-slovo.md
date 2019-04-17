@@ -1,4 +1,4 @@
-### LÉČIVÉ SLOVO
+# LÉČIVÉ SLOVO
 
 ***Příručka hráče***
 

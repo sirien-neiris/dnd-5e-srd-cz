@@ -1,4 +1,4 @@
-### PŘÁTELÉ
+# PŘÁTELÉ
 
 ***Příručka hráče***
 

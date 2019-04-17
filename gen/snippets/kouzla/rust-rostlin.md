@@ -1,4 +1,4 @@
-### RŮST ROSTLIN
+# RŮST ROSTLIN
 
 ***Příručka hráče***
 

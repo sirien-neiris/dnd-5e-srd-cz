@@ -1,4 +1,4 @@
-### PODROB OSOBU
+# PODROB OSOBU
 
 ***Příručka hráče***
 

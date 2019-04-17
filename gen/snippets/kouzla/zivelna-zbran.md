@@ -1,4 +1,4 @@
-### ŽIVELNÁ ZBRAŇ
+# ŽIVELNÁ ZBRAŇ
 
 ***Příručka hráče***
 

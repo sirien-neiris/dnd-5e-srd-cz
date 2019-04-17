@@ -1,4 +1,4 @@
-### SFÉRICKÝ SPOJENEC
+# SFÉRICKÝ SPOJENEC
 
 ***Příručka hráče***
 

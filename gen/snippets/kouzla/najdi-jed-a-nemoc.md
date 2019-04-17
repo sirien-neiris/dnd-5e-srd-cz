@@ -1,4 +1,4 @@
-### NAJDI JED A NEMOC
+# NAJDI JED A NEMOC
 
 ***Příručka hráče***
 

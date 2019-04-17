@@ -1,4 +1,4 @@
-### MASO NA KÁMEN
+# MASO NA KÁMEN
 
 ***Příručka hráče***
 

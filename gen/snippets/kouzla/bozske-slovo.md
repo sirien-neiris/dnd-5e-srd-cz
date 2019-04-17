@@ -1,4 +1,4 @@
-### BOŽSKÉ SLOVO
+# BOŽSKÉ SLOVO
 
 *Divine word*
 

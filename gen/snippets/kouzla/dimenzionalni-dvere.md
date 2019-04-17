@@ -1,4 +1,4 @@
-### DIMENZIONÁLNÍ DVEŘE
+# DIMENZIONÁLNÍ DVEŘE
 
 ***Příručka hráče***
 

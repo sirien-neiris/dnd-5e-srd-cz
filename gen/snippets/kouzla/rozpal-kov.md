@@ -1,4 +1,4 @@
-### ROZPAL KOV
+# ROZPAL KOV
 
 ***Příručka hráče***
 

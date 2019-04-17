@@ -1,4 +1,4 @@
-### VYVOLEJ PALBU
+# VYVOLEJ PALBU
 
 ***Příručka hráče***
 

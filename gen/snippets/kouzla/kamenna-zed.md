@@ -1,4 +1,4 @@
-### KAMENNÁ ZEĎ
+# KAMENNÁ ZEĎ
 
 ***Příručka hráče***
 

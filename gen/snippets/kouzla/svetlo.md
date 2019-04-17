@@ -1,4 +1,4 @@
-### SVĚTLO
+# SVĚTLO
 
 ***Příručka hráče***
 

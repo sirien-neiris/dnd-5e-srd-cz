@@ -1,4 +1,4 @@
-### TVARUJ KÁMEN
+# TVARUJ KÁMEN
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### MLUVA SFÉR
+# MLUVA SFÉR
 
 ***Příručka hráče***
 

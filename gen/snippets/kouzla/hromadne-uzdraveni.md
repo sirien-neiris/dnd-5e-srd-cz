@@ -1,4 +1,4 @@
-### HROMADNÉ UZDRAVENÍ
+# HROMADNÉ UZDRAVENÍ
 
 ***Příručka hráče***
 

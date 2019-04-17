@@ -1,4 +1,4 @@
-### BAREVNÁ SPRŠKA
+# BAREVNÁ SPRŠKA
 
 *Color spray*
 

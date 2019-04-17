@@ -1,4 +1,4 @@
-### PLAMENNÝ ÚDER
+# PLAMENNÝ ÚDER
 
 ***Příručka hráče***
 

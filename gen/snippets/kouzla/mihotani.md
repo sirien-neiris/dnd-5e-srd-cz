@@ -1,4 +1,4 @@
-### MIHOTÁNÍ
+# MIHOTÁNÍ
 
 ***Příručka hráče***
 

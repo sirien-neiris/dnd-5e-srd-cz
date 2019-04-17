@@ -1,4 +1,4 @@
-### KORUNA ŠÍLENSTVÍ
+# KORUNA ŠÍLENSTVÍ
 
 ***Příručka hráče***
 

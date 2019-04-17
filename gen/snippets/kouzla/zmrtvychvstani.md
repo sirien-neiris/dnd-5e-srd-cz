@@ -1,4 +1,4 @@
-### ZMRTVÝCHVSTÁNÍ
+# ZMRTVÝCHVSTÁNÍ
 
 ***Příručka hráče***
 

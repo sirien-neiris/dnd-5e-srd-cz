@@ -1,4 +1,4 @@
-### SCHRÁNKA ŽIVOTA
+# SCHRÁNKA ŽIVOTA
 
 ***Příručka hráče***
 

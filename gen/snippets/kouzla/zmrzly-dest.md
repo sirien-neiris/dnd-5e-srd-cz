@@ -1,4 +1,4 @@
-### ZMRZLÝ DÉŠŤ
+# ZMRZLÝ DÉŠŤ
 
 ***Příručka hráče***
 

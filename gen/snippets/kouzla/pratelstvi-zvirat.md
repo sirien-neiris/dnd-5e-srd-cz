@@ -1,4 +1,4 @@
-### PŘÁTELSTVÍ ZVÍŘAT
+# PŘÁTELSTVÍ ZVÍŘAT
 
 ***Příručka hráče***
 

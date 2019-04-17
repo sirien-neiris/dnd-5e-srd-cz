@@ -1,4 +1,4 @@
-### PŘESNÝ ÚDER
+# PŘESNÝ ÚDER
 
 ***Příručka hráče***
 

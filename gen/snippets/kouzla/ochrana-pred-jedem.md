@@ -1,4 +1,4 @@
-### OCHRANA PŘED JEDEM
+# OCHRANA PŘED JEDEM
 
 ***Příručka hráče***
 

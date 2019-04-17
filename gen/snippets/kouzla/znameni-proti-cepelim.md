@@ -1,4 +1,4 @@
-### ZNAMENÍ PROTI ČEPELÍM
+# ZNAMENÍ PROTI ČEPELÍM
 
 ***Příručka hráče***
 

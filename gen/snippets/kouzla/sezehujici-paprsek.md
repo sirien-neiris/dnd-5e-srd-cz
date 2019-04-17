@@ -1,4 +1,4 @@
-### SEŽEHUJÍCÍ PAPRSEK
+# SEŽEHUJÍCÍ PAPRSEK
 
 ***Příručka hráče***
 

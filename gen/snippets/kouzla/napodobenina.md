@@ -1,4 +1,4 @@
-### NAPODOBENINA
+# NAPODOBENINA
 
 ***Příručka hráče***
 

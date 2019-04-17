@@ -1,4 +1,4 @@
-### MAGICKÁ ZBRAŇ
+# MAGICKÁ ZBRAŇ
 
 ***Příručka hráče***
 

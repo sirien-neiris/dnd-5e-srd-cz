@@ -1,4 +1,4 @@
-### HYPNOTICKÝ VZOR
+# HYPNOTICKÝ VZOR
 
 ***Příručka hráče***
 

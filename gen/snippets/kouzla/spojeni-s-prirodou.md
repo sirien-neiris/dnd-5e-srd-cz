@@ -1,4 +1,4 @@
-### SPOJENÍ S PŘÍRODOU
+# SPOJENÍ S PŘÍRODOU
 
 ***Příručka hráče***
 

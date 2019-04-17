@@ -1,4 +1,4 @@
-### TELEPORT
+# TELEPORT
 
 ***Příručka hráče***
 

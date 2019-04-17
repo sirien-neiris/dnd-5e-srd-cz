@@ -1,4 +1,4 @@
-### ŠTÍT PROTI ŽIVÝM
+# ŠTÍT PROTI ŽIVÝM
 
 ***Příručka hráče***
 

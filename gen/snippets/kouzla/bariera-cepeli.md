@@ -1,4 +1,4 @@
-### BARIÉRA ČEPELÍ
+# BARIÉRA ČEPELÍ
 
 *Blade barrier*
 

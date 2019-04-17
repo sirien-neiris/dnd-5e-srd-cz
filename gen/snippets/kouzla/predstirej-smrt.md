@@ -1,4 +1,4 @@
-### PŘEDSTÍREJ SMRT
+# PŘEDSTÍREJ SMRT
 
 ***Příručka hráče***
 

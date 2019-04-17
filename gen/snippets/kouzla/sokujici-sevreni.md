@@ -1,4 +1,4 @@
-### ŠOKUJÍCÍ SEVŘENÍ
+# ŠOKUJÍCÍ SEVŘENÍ
 
 ***Příručka hráče***
 

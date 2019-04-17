@@ -1,4 +1,4 @@
-### OČISTI JÍDLO A PITÍ
+# OČISTI JÍDLO A PITÍ
 
 ***Příručka hráče***
 

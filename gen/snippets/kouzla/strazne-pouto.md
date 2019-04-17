@@ -1,4 +1,4 @@
-### STRÁŽNÉ POUTO
+# STRÁŽNÉ POUTO
 
 ***Příručka hráče***
 

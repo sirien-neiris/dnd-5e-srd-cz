@@ -1,4 +1,4 @@
-### ANTIPATIE NEBO SYMPATIE
+# ANTIPATIE NEBO SYMPATIE
 
 *Antipathy/Sympathy*
 

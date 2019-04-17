@@ -1,4 +1,4 @@
-### OTILUKOVA NEPODDAJNÁ KOULE
+# OTILUKOVA NEPODDAJNÁ KOULE
 
 ***Příručka hráče***
 

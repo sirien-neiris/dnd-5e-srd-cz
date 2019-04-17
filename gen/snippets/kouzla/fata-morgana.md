@@ -1,4 +1,4 @@
-### FATA MORGÁNA
+# FATA MORGÁNA
 
 ***Příručka hráče***
 

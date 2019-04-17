@@ -1,4 +1,4 @@
-### LÉČIVÁ MODLITBA
+# LÉČIVÁ MODLITBA
 
 ***Příručka hráče***
 

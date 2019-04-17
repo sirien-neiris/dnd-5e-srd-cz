@@ -1,4 +1,4 @@
-### VZKŘÍŠENÍ
+# VZKŘÍŠENÍ
 
 ***Příručka hráče***
 

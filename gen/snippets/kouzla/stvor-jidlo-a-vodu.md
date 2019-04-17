@@ -1,4 +1,4 @@
-### STVOŘ JÍDLO A VODU
+# STVOŘ JÍDLO A VODU
 
 ***Příručka hráče***
 

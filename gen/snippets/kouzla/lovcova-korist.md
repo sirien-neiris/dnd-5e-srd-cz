@@ -1,4 +1,4 @@
-### LOVCOVA KOŘIST
+# LOVCOVA KOŘIST
 
 ***Příručka hráče***
 

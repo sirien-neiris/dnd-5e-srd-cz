@@ -1,10 +1,10 @@
-### Divoká magie
+# Divoká magie
 
 ***Příručka hráče***
   
 Tvá vrozená magie pochází z divokých sil chaosu, které tvoří základ řádu stvoření. Můžeš mít trvalé projevy nějaké formy surové magie, možná skrz sférický portál vedoucí do Limba, Sfér živlů nebo záhadné Vzdálené říše. Možná jsi byl požehnán mocnou vílou, nebo poznamenán démonem. Nebo tvá magie může znamenat, že jsi jen dítě štěstěny a nemá žádnou zjevnou příčinu ani důvod. Ať je to, jak chce, tato chaotická magie v tobě pění a čeká na uvolnění.
   
-#### Vlna divoké magie
+## Vlna divoké magie
   
 Počínaje chvílí, kdy sis zvolil tento původ na 1. úrovni, tvé sesílání kouzel může uvolňovat vlny nezkrotné magie. Ihned poté, co sešleš čarodějské kouzlo 1. či vyšší úrovně, tě PJ může nechat hodit k20. Pokud hodíš 1, hoď si dle Tabulky vlny divoké magie a vytvoř náhodný magický účinek. Vlna se může přihodit jednou za tah. Je-li účinkem vlny kouzlo, je příliš divoké, aby se na něj dala uplatnit Metamagie. Pokud normálně vyžaduje soustředění, v tomto případě ho nevyžaduje; kouzlo vydrží po plnou dobu trvání.
 
@@ -63,20 +63,20 @@ Počínaje chvílí, kdy sis zvolil tento původ na 1. úrovni, tvé sesílání
 | 97 – 98 | V následující minutě tě obklopí slabá, éterická hudba. |
 | 99 – 100 | Obnovíš si všechny utracené čarodějné body. |
   
-#### Přílivy chaosu
+## Přílivy chaosu
   
 Od 1. úrovně umíš manipulovat se silami náhody a chaosu a získat výhodu k jednomu hodu na útok, ověření vlastnosti, nebo záchrannému hodu. Jakmile to uděláš, musíš si důkladně odpočinout, než můžeš použít tuto schopnost znovu.
   
 Kdykoliv předtím, než si obnovíš použití této schopnosti, tě PJ může nechat hodit dle Tabulky vlny divoké magie ihned poté, co sešleš čarodějské kouzlo 1. či vyšší úrovně. Načež si obnovíš použití této schopnosti.
   
-#### Smůla
+## Smůla
   
 Počínaje 6. úrovní máš schopnost pokřivit osud použitím své divoké magie. Když tvor, kterého vidíš, si hází hod na útok, ověření vlastnosti nebo záchranný hod, můžeš použít svou reakci a utratit 2 čarodějné body, hodit 1k4 a hozené číslo použít jako bonus či postih (dle tvé volby) k tvorovu hodu. Můžeš to udělat poté, co si tvor hodí, ale před tím, než se projeví účinky hodu.
   
-#### Řízený chaos
+## Řízený chaos
   
 Na 14. úrovni získáš trochu kontroly nad vlnami své divoké magie. Kdykoliv si házíš dle Tabulky vlny divoké magie, můžeš si hodit dvakrát a použít libovolný z těchto hodů.
   
-#### Bombardovací kouzlo
+## Bombardovací kouzlo
   
 Počínaje 18. úrovní se zraňující energie tvých kouzel zintenzivní. Když si hodíš na zranění kouzla a na aspoň jedné kostce padne nejvyšší možné číslo, zvol jednu z nich, hoď jí znovu a hozené číslo přičti ke zranění. Tuto schopnost můžeš použít jen jednou za tah.

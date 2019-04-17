@@ -1,4 +1,4 @@
-### MÁGOVA RUKA
+# MÁGOVA RUKA
 
 ***Příručka hráče***
 

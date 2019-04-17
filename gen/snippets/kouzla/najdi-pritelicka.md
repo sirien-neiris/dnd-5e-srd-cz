@@ -1,4 +1,4 @@
-### NAJDI PŘÍTELÍČKA
+# NAJDI PŘÍTELÍČKA
 
 ***Příručka hráče***
 

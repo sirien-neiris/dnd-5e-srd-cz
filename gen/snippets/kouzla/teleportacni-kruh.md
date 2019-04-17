@@ -1,4 +1,4 @@
-### TELEPORTAČNÍ KRUH
+# TELEPORTAČNÍ KRUH
 
 ***Příručka hráče***
 

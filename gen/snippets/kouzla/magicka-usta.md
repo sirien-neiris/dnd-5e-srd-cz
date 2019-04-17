@@ -1,4 +1,4 @@
-### MAGICKÁ ÚSTA
+# MAGICKÁ ÚSTA
 
 ***Příručka hráče***
 

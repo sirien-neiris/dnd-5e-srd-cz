@@ -1,4 +1,4 @@
-### VOLNOST
+# VOLNOST
 
 ***Příručka hráče***
 

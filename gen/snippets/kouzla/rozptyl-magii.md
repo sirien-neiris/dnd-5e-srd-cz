@@ -1,4 +1,4 @@
-### ROZPTYL MAGII
+# ROZPTYL MAGII
 
 ***Příručka hráče***
 

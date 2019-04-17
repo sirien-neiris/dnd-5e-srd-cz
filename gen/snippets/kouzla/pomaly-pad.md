@@ -1,4 +1,4 @@
-### POMALÝ PÁD
+# POMALÝ PÁD
 
 ***Příručka hráče***
 

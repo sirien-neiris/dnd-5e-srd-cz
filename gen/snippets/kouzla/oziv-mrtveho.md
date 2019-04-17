@@ -1,4 +1,4 @@
-### OŽIV MRTVÉHO
+# OŽIV MRTVÉHO
 
 ***Příručka hráče***
 

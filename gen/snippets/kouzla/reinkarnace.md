@@ -1,4 +1,4 @@
-### REINKARNACE
+# REINKARNACE
 
 ***Příručka hráče***
 

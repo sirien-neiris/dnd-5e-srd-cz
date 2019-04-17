@@ -1,4 +1,4 @@
-### RYCHLÝ TOULEC
+# RYCHLÝ TOULEC
 
 ***Příručka hráče***
 

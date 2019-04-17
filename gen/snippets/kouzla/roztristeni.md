@@ -1,4 +1,4 @@
-### ROZTŘÍŠTĚNÍ
+# ROZTŘÍŠTĚNÍ
 
 ***Příručka hráče***
 

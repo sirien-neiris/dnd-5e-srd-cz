@@ -1,4 +1,4 @@
-### ZVĚTŠENÍ NEBO ZMENŠENÍ
+# ZVĚTŠENÍ NEBO ZMENŠENÍ
 
 ***Příručka hráče***
 

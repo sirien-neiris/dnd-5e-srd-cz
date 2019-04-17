@@ -1,4 +1,4 @@
-### OPRAVA
+# OPRAVA
 
 ***Příručka hráče***
 

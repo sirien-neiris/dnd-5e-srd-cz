@@ -1,4 +1,4 @@
-### ZHOTOV
+# ZHOTOV
 
 ***Příručka hráče***
 

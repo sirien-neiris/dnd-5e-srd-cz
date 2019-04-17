@@ -1,4 +1,4 @@
-### ZMĚNA PODOBY
+# ZMĚNA PODOBY
 
 ***Příručka hráče***
 

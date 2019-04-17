@@ -1,4 +1,4 @@
-### STRACH
+# STRACH
 
 ***Příručka hráče***
 

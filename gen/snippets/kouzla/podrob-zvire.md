@@ -1,4 +1,4 @@
-### PODROB ZVÍŘE
+# PODROB ZVÍŘE
 
 ***Příručka hráče***
 

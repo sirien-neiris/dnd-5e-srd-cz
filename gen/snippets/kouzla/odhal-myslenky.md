@@ -1,4 +1,4 @@
-### ODHAL MYŠLENKY
+# ODHAL MYŠLENKY
 
 ***Příručka hráče***
 

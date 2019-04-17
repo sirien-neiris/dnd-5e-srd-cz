@@ -1,4 +1,4 @@
-### ZMĚŇ SVŮJ TVAR
+# ZMĚŇ SVŮJ TVAR
 
 ***Příručka hráče***
 

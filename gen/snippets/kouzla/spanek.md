@@ -1,4 +1,4 @@
-### SPÁNEK
+# SPÁNEK
 
 ***Příručka hráče***
 

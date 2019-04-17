@@ -1,4 +1,4 @@
-### NAJDI MAGII
+# NAJDI MAGII
 
 ***Příručka hráče***
 

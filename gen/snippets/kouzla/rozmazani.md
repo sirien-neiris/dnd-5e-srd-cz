@@ -1,4 +1,4 @@
-### ROZMAZÁNÍ
+# ROZMAZÁNÍ
 
 ***Příručka hráče***
 

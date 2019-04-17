@@ -1,4 +1,4 @@
-### VYVOLEJ SALVU
+# VYVOLEJ SALVU
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### ZEMĚTŘESENÍ
+# ZEMĚTŘESENÍ
 
 ***Příručka hráče***
 

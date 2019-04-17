@@ -1,4 +1,4 @@
-### MLUV SE ZVÍŘATY
+# MLUV SE ZVÍŘATY
 
 ***Příručka hráče***
 

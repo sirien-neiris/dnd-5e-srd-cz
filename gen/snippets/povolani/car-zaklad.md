@@ -1,6 +1,6 @@
-# Čaroděj
 
-## Charakteristika čaroděje
+
+# Charakteristika čaroděje
 
 ***Příručka hráče***
 
@@ -22,7 +22,7 @@ U mnoha obyvatel nevyvolává nadšení představa, že se mezi nimi pohybuje by
 
 Hraní postavy čaroděje může být stejnou mírou vděčné, jako náročné. Níže uvedené části obsahují návrhy, jak vylepšit a přizpůsobit svou osobnost.
   
-### Surová magie
+## Surová magie
   
 Magie je součástí každého čaroděje. Zaplavuje tělo, mysl a duši skrytou mocí, která čeká na čerpání. Někteří čarodějové ovládají magii, která vychází z prastarého rodokmenu naplněného magií draků. Jiní jsou nositeli surové, nekontrolovatelné magie, chaotické bouře, jež se projevuje nečekanými způsoby.
   
@@ -30,23 +30,23 @@ Výskyt čarodějné moci je divoce nepředvídatelný. Některé dračí rodokm
   
 Čarodějové nepotřebují kouzelné knihy a prastaré rukověti magického vědění, ze kterých čerpají kouzelníci, ani se nespoléhají na patrony, že jim udělí kouzla, tak jako to dělají černokněžníci. Když se naučí využívat a směrovat svou vlastní vrozenou magii, mohou objevovat nové a ohromné způsoby, jak uvolňovat tuto moc.
   
-### Nevysvětlitelné síly
+## Nevysvětlitelné síly
   
 Čarodějové jsou ve světě vzácní a je neobvyklé najít čaroděje, který není nějakým způsobem zapojen do dobrodružného života. Jedinci, jimž v žilách koluje magická moc, brzy zjišťují, že tato moc nerada zůstává v klidu. Magie čaroděje chce být používána, a pokud se nepoužívá, má tendenci se vyvalit nepředvídatelnými způsoby.
   
 Čarodějové mají často nejasné, nebo podivínské motivace, které je ženou do dobrodružného života. Někteří hledají větší porozumění magické moci, jež je naplňuje, nebo hledají odpověď na tajemství jejího původu. Jiní doufají, že najdou způsob, jak se jí zbavit, nebo jak využít její plný potenciál. Bez ohledu na jejich cíle, čarodějové jsou pro družinu dobrodruhů stejně užiteční jako kouzelníci. Co jim oproti nim chybí v magických znalostech, to dohání obrovskou flexibilitou v použití kouzel, která znají.
   
-### Tvorba čaroděje
+## Tvorba čaroděje
   
 Když si vytváříš svého čaroděje, nejdůležitější otázkou k uvážení je původ tvé moci. Jako začínající postava si zvolíš původ, který se váže buď na dračí rodokmen, nebo na vliv divoké magie, ale přesný zdroj tvé moci je na tobě. Je to rodinné prokletí, které na tebe přešlo ze vzdálených předků? Nebo tě požehnala vnitřní magií nějaká nadpřirozená událost, ale nejspíš tě i zjizvila?
   
 Jak pohlížíš na magickou moc, která tebou koluje? Vítáš ji, snažíš se ji ovládnout, nebo si libuješ v její nepředvídatelné povaze? Je to požehnání, nebo prokletí? Vyhledal jsi ji, nebo si tě našla? Měl jsi možnost ji odmítnout, a přál by sis, abys to býval tenkrát udělal? Co s ní zamýšlíš dělat? Možná máš pocit, že ti byla dána tato moc z nějakého ušlechtilého důvodu. Nebo ses možná rozhodl, že tato moc ti dává právo si dělat, co chceš a brát si, co chceš, od těch, co nemají takovou moc. Možná tě tato moc spojuje s mocnou osobou ve světě — s vílou, která ti požehnala při narození, s drakem, který ti dal do žil kapku své krve, s kostějem, který tě stvořil jako experiment, nebo s božstvem, které tě vybralo jako nositele této moci.
   
-#### Rychlá tvorba
+### Rychlá tvorba
   
 Podle následujících doporučení si můžeš udělat čaroděje rychle. Za prvé, Charisma by mělo být tvou nejvyšší hodnotou vlastností, následované Odolností. Za druhé si zvol zázemí poustevníka. Za třetí si zvol triky *kejkle*, *mrazivý paprsek*, *světlo* a *šokující sevření* spolu s kouzly 1. úrovně *magická střela* a *štít*.
 
-### Mystický původ
+## Mystický původ
 
 ***Xanatharův průvodce vším***
 
@@ -65,7 +65,7 @@ Zná tvá postava zdroj své magické moci? Vztahuje se k nějakému vzdáleném
 | 5 | Jsi produktem pečlivého, selektivního výběru po celé generace. |
 | 6 | Vyrobil tě alchymista ve své kádi. |
 
-### Reakce
+## Reakce
 
 ***Xanatharův průvodce vším***
 
@@ -84,7 +84,7 @@ Jaká byla reakce světa kolem tebe, když se projevily tvé čarodějné schopn
 | 5 | Osoby ve tvém okolí věří, že tvé schopnosti jsou prokletím, jež bylo uvaleno na vaši rodinu za její předchozí hříchy. |
 | 6 | Věří se, že tvé schopnosti mají spojitost s dávným rodem šílených králů, kteří údajně skončili v krvavé vzpouře před více než stoletím. |
 
-### Nadpřirozený znak
+## Nadpřirozený znak
 
 ***Xanatharův průvodce vším***
 
@@ -103,7 +103,7 @@ Má-li tvůj čaroděj nadpřirozený znak, může to být takový, který se d�
 | 5 | Během žvýkání opakovaně krčíš nos. |
 | 6 | Jednou za den se ti na krku objevuje červený flíček, který po hodině zmizí. |
 
-### Čarodějná znamení
+## Čarodějná znamení
 
 ***Xanatharův průvodce vším***
 
@@ -122,11 +122,11 @@ Když tvá postava čaroděje sesílá kouzlo, prozrazuje jeho zdroj nějakým �
 | 5 | Pokud při sesílání kouzla stojíš, vzneseš se šest coulů nad zem a zase se zvolna sneseš zpět. |
 | 6 | Když začínáš sesílat kouzlo, tvou hlavu ozdobí iluzorní modré plameny, a pak náhle zmizí. |
   
-## Schopnosti povolání
+# Schopnosti povolání
   
 Jako čaroděj získáš následující schopnosti povolání.
   
-#### Životy
+### Životy
   
 **Kostky životů:** 1k6 za každou úroveň čaroděje
   
@@ -134,7 +134,7 @@ Jako čaroděj získáš následující schopnosti povolání.
   
 **Životy na vyšších úrovních:** 1k6 (nebo 4) + oprava Odolnosti za každou úroveň čaroděje po 1. úrovni
   
-#### Zdatnosti
+### Zdatnosti
   
 **Zbroje:** Žádné
   
@@ -146,7 +146,7 @@ Jako čaroděj získáš následující schopnosti povolání.
   
 **Dovednosti:** Zvol si dvě z těchto: Klamání, Mystika, Náboženství, Přesvědčování, Vhled, Zastrašování
 
-#### Vybavení
+### Vybavení
   
 Kromě vybavení daného tvým zázemím začínáš i s následujícím vybavením:
   
@@ -185,21 +185,21 @@ Kromě vybavení daného tvým zázemím začínáš i s následujícím vyb
 | 20. | +6 | 20 | Čarodějná obnova | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
   
-### Sesílání kouzel
+## Sesílání kouzel
   
 Událost ve tvé minulosti, nebo v životě tvého rodiče či předka, v tobě zanechala nesmazatelnou stopu a naplňuje tě mystickou magií. Tento zdroj magie, ať už je jeho původ jakýkoliv, je zdrojem tvých kouzel. Obecná pravidla pro sesílání kouzel jsou v 10. kapitole a v 11. kapitole najdeš seznam čarodějských kouzel.
   
-#### Triky
+### Triky
   
 Na 1. úrovni znáš čtyři triky dle své volby ze seznamu čarodějských kouzel. Na vyšších úrovních se naučíš další čarodějské triky dle své volby, jak ukazuje sloupec Známé triky v Tabulce čaroděje.
   
-#### Pozice kouzel
+### Pozice kouzel
   
 Tabulka čaroděje uvádí, kolik máš pozic kouzel k seslání svých kouzel na 1. či vyšší úrovni. K seslání jednoho z těchto čarodějských kouzel musíš utratit pozici s úrovní daného kouzla nebo vyšší. Když si důkladně odpočineš, obnovíš si všechny utracené pozice kouzel.
   
 Například, znáš-li kouzlo 1. úrovně *hořící ruce* a máš dostupnou jednu pozici 1. úrovně a jednu pozici 2. úrovně, můžeš seslat *hořící ruce* použitím libovolné z těchto pozic.
   
-#### Známá kouzla 1. a vyšší úrovně
+### Známá kouzla 1. a vyšší úrovně
   
 Znáš dvě kouzla 1. úrovně dle své volby ze seznamu čarodějských kouzel.
   
@@ -207,7 +207,7 @@ Sloupec Známá kouzla v Tabulce čaroděje udává, kdy se naučíš více č
   
 Mimo to, když získáš úroveň v tomto povolání, můžeš si zvolit jedno z čarodějských kouzel, která znáš, a nahradit ho jiným kouzlem ze seznamu čarodějských kouzel, které také musí mít úroveň, pro kterou máš pozici kouzel.
   
-#### Sesílací vlastnost
+### Sesílací vlastnost
   
 Tvoje sesílací vlastnost pro tvá čarodějská kouzla je Charisma, protože tvá magie se opírá o tvou schopnost prosadit svou vůli ve světě. Kdykoliv čarodějské kouzlo odkazuje na tvou sesílací vlastnost, použij své Charisma. Mimo to použiješ svou opravu Charismatu, když stanovuješ SO záchranného hodu čarodějského kouzla, jež jsi seslal, a když si házíš na útok kouzlem.
   
@@ -215,23 +215,23 @@ Tvoje sesílací vlastnost pro tvá čarodějská kouzla je Charisma, protože t
   
 **Útočná oprava kouzla** = tvůj zdatnostní bonus + tvá oprava Charismatu
   
-#### Sesílací ohniskový předmět
+### Sesílací ohniskový předmět
   
 Jako sesílací ohniskový předmět pro svá čarodějská kouzla můžeš použít mystický ohniskový předmět (najdeš ho v 5. kapitole).
   
-### Čarodějný původ
+## Čarodějný původ
   
 Zvol si čarodějný původ, který popisuje zdroj tvé vnitřní magické moci: buď Divokou magii, nebo Dračí rodokmen. Oba jsou podrobně popsány na konci popisu tohoto povolání. Tvá volba ti dává schopnosti, když ji učiníš na 1. úrovni a pak opět na 6. a 14. a 18. úrovni.
   
-### Zřídlo magie
+## Zřídlo magie
   
 Na 2. úrovni začneš čerpat z hlubokého zřídla magie uvnitř sebe. Toto zřídlo představují čarodějné body, které ti umožňují vytvářet různé magické efekty.
   
-### Čarodějné body
+## Čarodějné body
   
 Máš 2 čarodějné body a na vyšších úrovních jich získáš ještě víc, jak ukazuje sloupec Čarodějné body v Tabulce čaroděje. Nikdy nemůžeš mít víc čarodějných bodů, než kolik udává tabulka pro tvou úroveň. Když si důkladně odpočineš, obnovíš si všechny utracené čarodějné body.
   
-### Pružné kouzlení
+## Pružné kouzlení
   
 Své čarodějné body můžeš použít k získání dodatečných pozic kouzel, nebo obětovat pozice kouzel k získání dodatečných čarodějných bodů. Na vyšších úrovních se naučíš další způsoby, jak použít své čarodějné body.
   
@@ -249,56 +249,56 @@ Své čarodějné body můžeš použít k získání dodatečných pozic kouz
   
 ***Převedení pozice kouzel na čarodějné body.*** Jako bonusovou akci ve svém tahu můžeš utratit jednu pozici kouzel a získat počet čarodějných bodů rovných úrovni pozice.
   
-### Metamagie
+## Metamagie
   
 Na 3. úrovni získáš schopnost překrucovat kouzla podle svých potřeb. Získáš dvě z následujících možností Metamagie dle své volby. Na 10. a 17. úrovni získáš další jednu.
   
 Při sesílání kouzla můžeš použít jen jednu možnost Metamagie, pokud není uvedeno jinak.
  
-#### Opatrné kouzlo
+### Opatrné kouzlo
   
 Když sesíláš kouzlo, které nutí jiné tvory hodit si záchranný hod, můžeš některé z nich ochránit před plnou silou kouzla. Když to chceš udělat, utratíš 1 čarodějný bod a zvolíš počet tvorů, který je menší nebo roven tvé opravě Charismatu (minimálně jednoho tvora). Zvolený tvor automaticky uspěje ve svém záchranném hodu proti kouzlu.
   
-#### Posílené kouzlo
+### Posílené kouzlo
   
 Když si hodíš na zranění kouzla, můžeš utratit 1 čarodějný bod a hodit si znovu až takovým počtem kostek zranění, jako je tvá oprava Charismatu (minimálně jednou). Nové hody musíš použít.
   
 Posílené kouzlo můžeš použít i tehdy, když už jsi použil jinou možnost Metamagie během sesílání kouzla.
   
-#### Prodloužené kouzlo
+### Prodloužené kouzlo
   
 Když sesíláš kouzlo, které má trvání 1 minutu či déle, můžeš utratit 1 čarodějný bod a zdvojnásobit jeho trvání, ale maximálně na 24 hodin.
   
-#### Vzdálené kouzlo
+### Vzdálené kouzlo
   
 Když sesíláš kouzlo, které máš dosah 1 sáh či více, můžeš utratit 1 čarodějný bod a zdvojnásobit dosah kouzla.
   
 Když sesíláš kouzlo, které má dosah dotyk, můžeš utratit 1 čarodějný bod a udělat dosah kouzla 6 sáhů.
   
-#### Záludné kouzlo
+### Záludné kouzlo
   
 Když sesíláš kouzlo, můžeš utratit 1 čarodějný bod a seslat ho bez verbálních či pohybových složek.
   
-#### Zdvojené kouzlo
+### Zdvojené kouzlo
   
 Když sesíláš kouzlo, které cílí pouze na jednoho tvora a nemá dosah pouze na tebe, můžeš utratit počet čarodějných bodů rovných úrovni kouzla (1 čarodějný bod, pokud je kouzlo trik) a zacílit druhého tvora v dosahu stejným kouzlem. Aby se pro kouzlo dalo použít Zdvojené kouzlo, nesmí na své aktuální úrovni být schopné cílit víc než na jednoho tvora. 
   
-#### Zostřené kouzlo
+### Zostřené kouzlo
   
 Když sesíláš kouzlo, které nutí tvora hodit si záchranný hod pro odolání jeho účinkům, můžeš utratit 3 čarodějné body a udělit jednomu cíli kouzla nevýhodu k jeho prvnímu záchrannému hodu proti kouzlu.
   
-#### Zrychlené kouzlo
+### Zrychlené kouzlo
   
 Když sesíláš kouzlo, jehož vyvolání je 1 akce, můžeš utratit 2 čarodějné body a změnit vyvolání na 1 bonusovou akci pro toto seslání.
   
-### Zvýšení hodnot vlastností
+## Zvýšení hodnot vlastností
   
 Když dosáhneš 4. úrovně, a pak opět na 8., 12., 16. a 19. úrovni, můžeš si zvýšit jednu hodnotu vlastnosti dle své volby o 2, nebo dvě hodnoty vlastností dle své volby o 1. Jako obvykle, touto schopností si nemůžeš zvýšit hodnotu vlastnosti nad 20.
   
-### Čarodějná obnova
+## Čarodějná obnova
   
 Na 20. úrovni si obnovíš 4 utracené čarodějné body, kdykoliv si krátce odpočineš.
   
-## Čarodějné původy
+# Čarodějné původy
   
 Různí čarodějové uvádí různé původy své vrozené magie. I když existuje mnoho variací, většina původů spadá do dvou kategorií: divoké magie a dračího rodokmenu.

@@ -1,4 +1,4 @@
-### OHNIVÁ STŘELA
+# OHNIVÁ STŘELA
 
 ***Příručka hráče***
 

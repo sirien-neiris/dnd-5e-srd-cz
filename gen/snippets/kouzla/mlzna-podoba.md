@@ -1,4 +1,4 @@
-### MLŽNÁ PODOBA
+# MLŽNÁ PODOBA
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### ZÁKAZ
+# ZÁKAZ
 
 ***Příručka hráče***
 

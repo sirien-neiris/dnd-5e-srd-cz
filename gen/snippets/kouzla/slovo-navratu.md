@@ -1,4 +1,4 @@
-### SLOVO NÁVRATU
+# SLOVO NÁVRATU
 
 ***Příručka hráče***
 

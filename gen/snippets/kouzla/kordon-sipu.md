@@ -1,4 +1,4 @@
-### KORDON ŠÍPŮ
+# KORDON ŠÍPŮ
 
 ***Příručka hráče***
 

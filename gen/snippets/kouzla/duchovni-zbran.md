@@ -1,4 +1,4 @@
-### DUCHOVNÍ ZBRAŇ
+# DUCHOVNÍ ZBRAŇ
 
 ***Příručka hráče***
 

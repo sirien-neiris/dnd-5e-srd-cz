@@ -1,4 +1,4 @@
-### ZAPLETENÍ
+# ZAPLETENÍ
 
 ***Příručka hráče***
 

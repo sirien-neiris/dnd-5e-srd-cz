@@ -1,4 +1,4 @@
-### SUGESCE
+# SUGESCE
 
 ***Příručka hráče***
 

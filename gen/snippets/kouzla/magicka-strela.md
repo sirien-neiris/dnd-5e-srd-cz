@@ -1,4 +1,4 @@
-### MAGICKÁ STŘELA
+# MAGICKÁ STŘELA
 
 ***Příručka hráče***
 

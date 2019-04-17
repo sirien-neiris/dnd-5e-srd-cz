@@ -1,4 +1,4 @@
-### ZHOJ ZRANĚNÍ
+# ZHOJ ZRANĚNÍ
 
 ***Příručka hráče***
 

@@ -3,7 +3,7 @@ let config = {
         {
             name: 'grimoar-jmen',
             applySnippets: [
-                { snippet: 'kouzla', headerOffset: 0 },
+                { snippet: 'kouzla', headerOffset: 2 },
             ],
             template: [
                 './gen/templates/grimoar-jmen.md',
@@ -13,7 +13,7 @@ let config = {
         {
             name: 'grimoar-moci',
             applySnippets: [
-                { snippet: 'kouzla', headerOffset: 1 },
+                { snippet: 'kouzla', headerOffset: 3 },
             ],
             template: [
                 './gen/templates/grimoar-moci.md',
@@ -23,8 +23,8 @@ let config = {
         {
             name: 'soupis-carodej',
             applySnippets: [
-                { snippet: 'povolani', headerOffset: 0 },
-                { snippet: 'kouzla', headerOffset: 0 },
+                { snippet: 'povolani', headerOffset: 1 },
+                { snippet: 'kouzla', headerOffset: 3 },
             ],
             template: [
                 './gen/templates/carodej.md',

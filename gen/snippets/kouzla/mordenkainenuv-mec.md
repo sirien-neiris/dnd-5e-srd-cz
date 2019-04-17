@@ -1,4 +1,4 @@
-### MORDENKAINENŮV MEČ
+# MORDENKAINENŮV MEČ
 
 ***Příručka hráče***
 

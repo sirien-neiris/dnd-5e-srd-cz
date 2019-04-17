@@ -1,4 +1,4 @@
-### HMYZÍ ZHOUBA
+# HMYZÍ ZHOUBA
 
 ***Příručka hráče***
 

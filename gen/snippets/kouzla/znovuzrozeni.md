@@ -1,4 +1,4 @@
-### ZNOVUZROZENÍ
+# ZNOVUZROZENÍ
 
 ***Příručka hráče***
 

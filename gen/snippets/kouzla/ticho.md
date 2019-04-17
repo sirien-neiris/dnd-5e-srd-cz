@@ -1,4 +1,4 @@
-### TICHO
+# TICHO
 
 ***Příručka hráče***
 

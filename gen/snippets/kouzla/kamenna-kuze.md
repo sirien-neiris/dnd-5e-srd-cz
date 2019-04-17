@@ -1,4 +1,4 @@
-### KAMENNÁ KŮŽE
+# KAMENNÁ KŮŽE
 
 ***Příručka hráče***
 

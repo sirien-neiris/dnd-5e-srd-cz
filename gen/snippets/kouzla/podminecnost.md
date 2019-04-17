@@ -1,4 +1,4 @@
-### PODMÍNEČNOST
+# PODMÍNEČNOST
 
 ***Příručka hráče***
 

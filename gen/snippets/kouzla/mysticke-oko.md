@@ -1,4 +1,4 @@
-### MYSTICKÉ OKO
+# MYSTICKÉ OKO
 
 ***Příručka hráče***
 

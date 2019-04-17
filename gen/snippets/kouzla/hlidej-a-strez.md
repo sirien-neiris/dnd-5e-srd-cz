@@ -1,4 +1,4 @@
-### HLÍDEJ A STŘEŽ
+# HLÍDEJ A STŘEŽ
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### SLUNEČNÍ PAPRSEK
+# SLUNEČNÍ PAPRSEK
 
 ***Příručka hráče***
 

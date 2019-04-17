@@ -1,4 +1,4 @@
-### VYPUZUJÍCÍ ÚDER
+# VYPUZUJÍCÍ ÚDER
 
 ***Příručka hráče***
 

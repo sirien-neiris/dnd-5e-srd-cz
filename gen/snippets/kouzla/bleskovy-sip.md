@@ -1,4 +1,4 @@
-### BLESKOVÝ ŠÍP
+# BLESKOVÝ ŠÍP
 
 *Lighting arrow*
 

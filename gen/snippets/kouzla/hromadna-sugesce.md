@@ -1,4 +1,4 @@
-### HROMADNÁ SUGESCE
+# HROMADNÁ SUGESCE
 
 ***Příručka hráče***
 

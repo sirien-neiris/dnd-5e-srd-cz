@@ -1,4 +1,4 @@
-### ZBROJ AGATHYSU
+# ZBROJ AGATHYSU
 
 ***Příručka hráče***
 

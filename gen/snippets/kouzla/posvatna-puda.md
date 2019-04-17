@@ -1,4 +1,4 @@
-### POSVÁTNÁ PŮDA
+# POSVÁTNÁ PŮDA
 
 ***Příručka hráče***
 

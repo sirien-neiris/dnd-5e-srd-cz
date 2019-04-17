@@ -1,4 +1,4 @@
-### LEOMUNIDOVA TAJNÁ TRUHLA
+# LEOMUNIDOVA TAJNÁ TRUHLA
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### MAJÁK NADĚJE
+# MAJÁK NADĚJE
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### SPEKTRÁLNÍ SPRŠKA
+# SPEKTRÁLNÍ SPRŠKA
 
 ***Příručka hráče***
 

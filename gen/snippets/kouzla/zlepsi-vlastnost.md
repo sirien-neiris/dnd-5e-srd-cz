@@ -1,4 +1,4 @@
-### ZLEPŠI VLASTNOST
+# ZLEPŠI VLASTNOST
 
 ***Příručka hráče***
 

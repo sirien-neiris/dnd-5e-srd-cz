@@ -1,4 +1,4 @@
-### LEDOVÁ ZEĎ
+# LEDOVÁ ZEĎ
 
 ***Příručka hráče***
 

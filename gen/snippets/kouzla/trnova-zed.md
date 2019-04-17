@@ -1,4 +1,4 @@
-### TRNOVÁ ZEĎ
+# TRNOVÁ ZEĎ
 
 ***Příručka hráče***
 

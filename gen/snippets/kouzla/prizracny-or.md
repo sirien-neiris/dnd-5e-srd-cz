@@ -1,4 +1,4 @@
-### PŘÍZRAČNÝ OŘ
+# PŘÍZRAČNÝ OŘ
 
 ***Příručka hráče***
 

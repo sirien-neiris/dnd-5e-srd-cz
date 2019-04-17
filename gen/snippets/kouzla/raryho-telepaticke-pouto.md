@@ -1,4 +1,4 @@
-### RARYHO TELEPATICKÉ POUTO
+# RARYHO TELEPATICKÉ POUTO
 
 ***Příručka hráče***
 

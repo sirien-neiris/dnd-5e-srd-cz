@@ -1,4 +1,4 @@
-### TRIK S LANEM
+# TRIK S LANEM
 
 ***Příručka hráče***
 

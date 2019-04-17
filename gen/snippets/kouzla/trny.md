@@ -1,4 +1,4 @@
-### TRNY
+# TRNY
 
 ***Příručka hráče***
 

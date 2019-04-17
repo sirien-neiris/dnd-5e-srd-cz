@@ -1,4 +1,4 @@
-### HROMADNÉ LÉČIVÉ SLOVO
+# HROMADNÉ LÉČIVÉ SLOVO
 
 ***Příručka hráče***
 

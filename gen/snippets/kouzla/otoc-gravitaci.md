@@ -1,4 +1,4 @@
-### OTOČ GRAVITACI
+# OTOČ GRAVITACI
 
 ***Příručka hráče***
 

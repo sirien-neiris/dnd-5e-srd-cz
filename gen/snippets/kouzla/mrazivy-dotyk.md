@@ -1,4 +1,4 @@
-### MRAZIVÝ DOTYK
+# MRAZIVÝ DOTYK
 
 ***Příručka hráče***
 

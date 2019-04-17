@@ -1,4 +1,4 @@
-### ZPRÁVA
+# ZPRÁVA
 
 ***Příručka hráče***
 

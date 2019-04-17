@@ -1,4 +1,4 @@
-### NÁKAZA
+# NÁKAZA
 
 ***Příručka hráče***
 

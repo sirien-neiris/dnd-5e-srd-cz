@@ -1,4 +1,4 @@
-### TELEPATIE
+# TELEPATIE
 
 ***Příručka hráče***
 

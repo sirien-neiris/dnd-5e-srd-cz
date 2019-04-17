@@ -1,4 +1,4 @@
-### AURA ŽIVOTA
+# AURA ŽIVOTA
 
 *Aura of life*
 

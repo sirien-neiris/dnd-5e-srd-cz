@@ -1,4 +1,4 @@
-### ZNAMENÍ PROTI SMRTI
+# ZNAMENÍ PROTI SMRTI
 
 ***Příručka hráče***
 

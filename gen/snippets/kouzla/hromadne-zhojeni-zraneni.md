@@ -1,4 +1,4 @@
-### HROMADNÉ ZHOJENÍ ZRANĚNÍ
+# HROMADNÉ ZHOJENÍ ZRANĚNÍ
 
 ***Příručka hráče***
 

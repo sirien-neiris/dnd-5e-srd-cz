@@ -1,4 +1,4 @@
-### VYNUCENÝ DUEL
+# VYNUCENÝ DUEL
 
 ***Příručka hráče***
 

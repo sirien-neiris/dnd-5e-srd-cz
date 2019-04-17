@@ -1,4 +1,4 @@
-### ZPOMALENÍ
+# ZPOMALENÍ
 
 ***Příručka hráče***
 

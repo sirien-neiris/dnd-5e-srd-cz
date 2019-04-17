@@ -1,4 +1,4 @@
-### SYMBOL
+# SYMBOL
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### PROMĚŇ
+# PROMĚŇ
 
 ***Příručka hráče***
 

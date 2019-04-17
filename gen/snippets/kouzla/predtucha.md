@@ -1,4 +1,4 @@
-### PŘEDTUCHA
+# PŘEDTUCHA
 
 ***Příručka hráče***
 

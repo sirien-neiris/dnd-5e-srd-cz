@@ -1,4 +1,4 @@
-### KOULE NEZRANITELNOSTI
+# KOULE NEZRANITELNOSTI
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### DENNÍ SVĚTLO
+# DENNÍ SVĚTLO
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### AURA VITALITY
+# AURA VITALITY
 
 *Aura of vitality*
 

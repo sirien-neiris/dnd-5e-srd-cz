@@ -1,4 +1,4 @@
-### ČASOVANÁ OHNIVÁ KOULE
+# ČASOVANÁ OHNIVÁ KOULE
 
 *Delayed blast fireball*
 

@@ -1,4 +1,4 @@
-### ROZKAZ
+# ROZKAZ
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### CHŮZE STROMY
+# CHŮZE STROMY
 
 ***Příručka hráče***
 

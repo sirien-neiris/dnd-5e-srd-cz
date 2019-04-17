@@ -1,4 +1,4 @@
-### PŘÍZEŇ BOHŮ
+# PŘÍZEŇ BOHŮ
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

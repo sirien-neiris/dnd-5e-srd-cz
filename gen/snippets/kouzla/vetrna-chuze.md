@@ -1,4 +1,4 @@
-### VĚTRNÁ CHŮZE
+# VĚTRNÁ CHŮZE
 
 ***Příručka hráče***
 

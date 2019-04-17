@@ -1,4 +1,4 @@
-### KLAMNÝ PROSTOR
+# KLAMNÝ PROSTOR
 
 ***Příručka hráče***
 

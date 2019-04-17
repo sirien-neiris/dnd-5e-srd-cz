@@ -1,4 +1,4 @@
-### DŮSTOJNÝ ODPOČINEK
+# DŮSTOJNÝ ODPOČINEK
 
 ***Příručka hráče***
 

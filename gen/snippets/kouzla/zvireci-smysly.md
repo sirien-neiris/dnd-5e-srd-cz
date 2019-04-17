@@ -1,4 +1,4 @@
-### ZVÍŘECÍ SMYSLY
+# ZVÍŘECÍ SMYSLY
 
 ***Příručka hráče***
 

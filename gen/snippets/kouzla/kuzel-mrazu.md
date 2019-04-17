@@ -1,4 +1,4 @@
-### KUŽEL MRAZU
+# KUŽEL MRAZU
 
 ***Příručka hráče***
 

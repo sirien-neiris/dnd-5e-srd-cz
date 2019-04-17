@@ -1,4 +1,4 @@
-### ÉTERIČNOST
+# ÉTERIČNOST
 
 ***Příručka hráče***
 

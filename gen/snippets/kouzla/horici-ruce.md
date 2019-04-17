@@ -1,4 +1,4 @@
-### HOŘÍCÍ RUCE
+# HOŘÍCÍ RUCE
 
 ***Příručka hráče***
 

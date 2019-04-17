@@ -1,4 +1,4 @@
-### SEJMI KLETBU
+# SEJMI KLETBU
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### ZRCADLOVÝ OBRAZ
+# ZRCADLOVÝ OBRAZ
 
 ***Příručka hráče***
 

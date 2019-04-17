@@ -1,4 +1,4 @@
-### DIVOTVORSTVÍ
+# DIVOTVORSTVÍ
 
 ***Příručka hráče***
 

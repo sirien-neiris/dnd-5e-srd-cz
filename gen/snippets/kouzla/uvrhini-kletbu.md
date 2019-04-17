@@ -1,4 +1,4 @@
-### UVRHINI KLETBU
+# UVRHINI KLETBU
 
 ***Příručka hráče***
 

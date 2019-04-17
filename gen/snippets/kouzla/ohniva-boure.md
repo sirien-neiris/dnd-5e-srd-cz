@@ -1,4 +1,4 @@
-### OHNIVÁ BOUŘE
+# OHNIVÁ BOUŘE
 
 ***Příručka hráče***
 

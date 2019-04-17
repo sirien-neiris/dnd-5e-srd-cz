@@ -1,4 +1,4 @@
-### PŘÍZRAČNÍ STRÁŽCI
+# PŘÍZRAČNÍ STRÁŽCI
 
 ***Příručka hráče***
 

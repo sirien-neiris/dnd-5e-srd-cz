@@ -1,4 +1,4 @@
-### ROZPTYL ZLO A DOBRO
+# ROZPTYL ZLO A DOBRO
 
 ***Příručka hráče***
 

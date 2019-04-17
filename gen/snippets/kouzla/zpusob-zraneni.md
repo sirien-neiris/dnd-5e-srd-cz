@@ -1,4 +1,4 @@
-### ZPŮSOB ZRANĚNÍ
+# ZPŮSOB ZRANĚNÍ
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### MOCNÉ NAVRÁCENÍ
+# MOCNÉ NAVRÁCENÍ
 
 ***Příručka hráče***
 

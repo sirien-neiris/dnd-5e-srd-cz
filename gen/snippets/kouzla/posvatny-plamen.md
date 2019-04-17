@@ -1,4 +1,4 @@
-### POSVÁTNÝ PLAMEN
+# POSVÁTNÝ PLAMEN
 
 ***Příručka hráče***
 

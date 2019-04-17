@@ -1,4 +1,4 @@
-### MLŽNÝ KROK
+# MLŽNÝ KROK
 
 ***Příručka hráče***
 

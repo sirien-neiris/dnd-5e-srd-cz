@@ -1,4 +1,4 @@
-### SLEPOTA NEBO HLUCHOTA
+# SLEPOTA NEBO HLUCHOTA
 
 ***Příručka hráče***
 

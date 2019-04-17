@@ -1,4 +1,4 @@
-### NAJDI PASTI
+# NAJDI PASTI
 
 ***Příručka hráče***
 

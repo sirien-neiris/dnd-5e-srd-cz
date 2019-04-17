@@ -1,4 +1,4 @@
-### NAVÁDĚCÍ BLESK
+# NAVÁDĚCÍ BLESK
 
 ***Příručka hráče***
 

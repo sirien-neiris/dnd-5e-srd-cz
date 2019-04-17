@@ -1,4 +1,4 @@
-### OŽIVLÉ PŘEDMĚTY
+# OŽIVLÉ PŘEDMĚTY
 
 ***Příručka hráče***
 

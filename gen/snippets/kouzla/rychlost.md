@@ -1,4 +1,4 @@
-### RYCHLOST
+# RYCHLOST
 
 ***Příručka hráče***
 

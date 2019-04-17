@@ -1,4 +1,4 @@
-### TENSERŮV LEVITUJÍCÍ DISK
+# TENSERŮV LEVITUJÍCÍ DISK
 
 ***Příručka hráče***
 

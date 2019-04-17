@@ -1,4 +1,4 @@
-### ZEĎ SÍLY
+# ZEĎ SÍLY
 
 ***Příručka hráče***
 

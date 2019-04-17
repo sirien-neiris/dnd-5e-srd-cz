@@ -1,4 +1,4 @@
-### PAPRSEK OTRÁVENÍ
+# PAPRSEK OTRÁVENÍ
 
 ***Příručka hráče***
 

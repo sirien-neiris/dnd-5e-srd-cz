@@ -1,4 +1,4 @@
-### MĚSÍČNÍ PAPRSEK
+# MĚSÍČNÍ PAPRSEK
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### NAJDI TVORA
+# NAJDI TVORA
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### PŘESUN SFÉRAMI
+# PŘESUN SFÉRAMI
 
 ***Příručka hráče***
 

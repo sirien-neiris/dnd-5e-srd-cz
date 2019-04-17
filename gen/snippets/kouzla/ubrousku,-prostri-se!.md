@@ -1,4 +1,4 @@
-### UBROUSKU, PROSTŘI SE!
+# UBROUSKU, PROSTŘI SE!
 
 ***Příručka hráče***
 

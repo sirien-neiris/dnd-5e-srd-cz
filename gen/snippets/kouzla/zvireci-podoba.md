@@ -1,4 +1,4 @@
-### ZVÍŘECÍ PODOBA
+# ZVÍŘECÍ PODOBA
 
 ***Příručka hráče***
 

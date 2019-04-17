@@ -1,4 +1,4 @@
-### STRÁŽNÝ ZNAK
+# STRÁŽNÝ ZNAK
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### ZVÍŘECÍ POSEL
+# ZVÍŘECÍ POSEL
 
 ***Příručka hráče***
 

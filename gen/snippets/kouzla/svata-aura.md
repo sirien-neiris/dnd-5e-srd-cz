@@ -1,4 +1,4 @@
-### SVATÁ AURA
+# SVATÁ AURA
 
 ***Příručka hráče***
 

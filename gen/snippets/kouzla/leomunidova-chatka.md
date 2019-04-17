@@ -1,4 +1,4 @@
-### LEOMUNIDOVA CHATKA
+# LEOMUNIDOVA CHATKA
 
 ***Příručka hráče***
 

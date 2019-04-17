@@ -1,4 +1,4 @@
-### ZNEHYBNI NESTVŮRU
+# ZNEHYBNI NESTVŮRU
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### SILOVÁ KLEC
+# SILOVÁ KLEC
 
 ***Příručka hráče***
 

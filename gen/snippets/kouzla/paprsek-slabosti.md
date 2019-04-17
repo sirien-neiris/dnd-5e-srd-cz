@@ -1,4 +1,4 @@
-### PAPRSEK SLABOSTI
+# PAPRSEK SLABOSTI
 
 ***Příručka hráče***
 

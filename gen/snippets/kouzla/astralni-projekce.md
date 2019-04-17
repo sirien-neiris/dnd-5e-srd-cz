@@ -1,4 +1,4 @@
-### ASTRÁLNÍ PROJEKCE
+# ASTRÁLNÍ PROJEKCE
 
 *Astral projection*
 

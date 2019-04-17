@@ -1,4 +1,4 @@
-### MYSTICKÝ ZÁMEK
+# MYSTICKÝ ZÁMEK
 
 ***Příručka hráče***
 

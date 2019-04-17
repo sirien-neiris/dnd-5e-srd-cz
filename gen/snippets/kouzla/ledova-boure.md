@@ -1,4 +1,4 @@
-### LEDOVÁ BOUŘE
+# LEDOVÁ BOUŘE
 
 ***Příručka hráče***
 

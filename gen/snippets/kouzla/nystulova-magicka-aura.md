@@ -1,4 +1,4 @@
-### NYSTULOVA MAGICKÁ AURA
+# NYSTULOVA MAGICKÁ AURA
 
 ***Příručka hráče***
 

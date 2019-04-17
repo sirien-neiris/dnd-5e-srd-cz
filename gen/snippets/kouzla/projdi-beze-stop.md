@@ -1,4 +1,4 @@
-### PROJDI BEZE STOP
+# PROJDI BEZE STOP
 
 ***Příručka hráče***
 

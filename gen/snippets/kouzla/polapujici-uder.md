@@ -1,4 +1,4 @@
-### POLAPUJÍCÍ ÚDER
+# POLAPUJÍCÍ ÚDER
 
 ***Příručka hráče***
 

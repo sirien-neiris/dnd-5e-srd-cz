@@ -1,4 +1,4 @@
-### NAJDI CESTU
+# NAJDI CESTU
 
 ***Příručka hráče***
 

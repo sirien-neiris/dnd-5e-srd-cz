@@ -1,4 +1,4 @@
-### OBLAK SMRTI
+# OBLAK SMRTI
 
 ***Příručka hráče***
 

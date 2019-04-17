@@ -1,4 +1,4 @@
-### KRUH SMRTI
+# KRUH SMRTI
 
 ***Příručka hráče***
 

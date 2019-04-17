@@ -1,4 +1,4 @@
-### HRDINSTVÍ
+# HRDINSTVÍ
 
 ***Příručka hráče***
 

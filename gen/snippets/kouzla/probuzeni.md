@@ -1,4 +1,4 @@
-### PROBUZENÍ
+# PROBUZENÍ
 
 ***Příručka hráče***
 

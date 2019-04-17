@@ -1,4 +1,4 @@
-### SPOJENÍ
+# SPOJENÍ
 
 ***Příručka hráče***
 

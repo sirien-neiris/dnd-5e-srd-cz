@@ -1,4 +1,4 @@
-### PLANOUCÍ KOULE
+# PLANOUCÍ KOULE
 
 ***Příručka hráče***
 

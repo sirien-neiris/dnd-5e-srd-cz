@@ -1,4 +1,4 @@
-### OHNIVÁ ČEPEL
+# OHNIVÁ ČEPEL
 
 ***Příručka hráče***
 

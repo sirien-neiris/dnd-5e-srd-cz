@@ -1,4 +1,4 @@
-### NAJDI ZLO A DOBRO
+# NAJDI ZLO A DOBRO
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### MÁGOVA ZBROJ
+# MÁGOVA ZBROJ
 
 ***Příručka hráče***
 

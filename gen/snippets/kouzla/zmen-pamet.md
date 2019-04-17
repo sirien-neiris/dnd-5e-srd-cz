@@ -1,4 +1,4 @@
-### ZMĚŇ PAMĚŤ
+# ZMĚŇ PAMĚŤ
 
 ***Příručka hráče***
 

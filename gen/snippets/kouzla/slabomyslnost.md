@@ -1,4 +1,4 @@
-### SLABOMYSLNOST
+# SLABOMYSLNOST
 
 ***Příručka hráče***
 

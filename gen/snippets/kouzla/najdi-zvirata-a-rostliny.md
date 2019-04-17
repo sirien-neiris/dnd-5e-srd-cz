@@ -1,4 +1,4 @@
-### NAJDI ZVÍŘATA A ROSTLINY
+# NAJDI ZVÍŘATA A ROSTLINY
 
 ***Příručka hráče***
 

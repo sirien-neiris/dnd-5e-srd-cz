@@ -1,4 +1,4 @@
-### SPEKTRÁLNÍ ZEĎ
+# SPEKTRÁLNÍ ZEĎ
 
 ***Příručka hráče***
 

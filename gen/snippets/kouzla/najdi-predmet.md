@@ -1,4 +1,4 @@
-### NAJDI PŘEDMĚT
+# NAJDI PŘEDMĚT
 
 ***Příručka hráče***
 

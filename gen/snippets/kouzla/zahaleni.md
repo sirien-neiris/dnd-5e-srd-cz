@@ -1,4 +1,4 @@
-### ZAHALENÍ
+# ZAHALENÍ
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### MYSTICKÁ BRÁNA
+# MYSTICKÁ BRÁNA
 
 ***Příručka hráče***
 

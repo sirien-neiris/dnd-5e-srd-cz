@@ -1,4 +1,4 @@
-### OTILUKOVA MRAZIVÁ KOULE
+# OTILUKOVA MRAZIVÁ KOULE
 
 ***Příručka hráče***
 

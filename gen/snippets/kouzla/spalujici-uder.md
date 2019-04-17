@@ -1,4 +1,4 @@
-### SPALUJÍCÍ ÚDER
+# SPALUJÍCÍ ÚDER
 
 ***Příručka hráče***
 

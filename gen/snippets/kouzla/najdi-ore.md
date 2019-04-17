@@ -1,4 +1,4 @@
-### NAJDI OŘE
+# NAJDI OŘE
 
 ***Příručka hráče***
 

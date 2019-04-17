@@ -1,4 +1,4 @@
-### URČENÍ
+# URČENÍ
 
 ***Příručka hráče***
 

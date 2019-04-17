@@ -1,4 +1,4 @@
-### MAGICKÝ KRUH
+# MAGICKÝ KRUH
 
 ***Příručka hráče***
 

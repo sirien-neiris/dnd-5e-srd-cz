@@ -1,4 +1,4 @@
-### ROZKLAD
+# ROZKLAD
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### VLASTNÍ OBRAZ
+# VLASTNÍ OBRAZ
 
 ***Příručka hráče***
 

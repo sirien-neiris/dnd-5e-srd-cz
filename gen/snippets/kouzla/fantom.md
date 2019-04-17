@@ -1,4 +1,4 @@
-### FANTÓM
+# FANTÓM
 
 ***Příručka hráče***
 

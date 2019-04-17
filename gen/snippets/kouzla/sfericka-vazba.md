@@ -1,4 +1,4 @@
-### SFÉRICKÁ VAZBA
+# SFÉRICKÁ VAZBA
 
 ***Příručka hráče***
 

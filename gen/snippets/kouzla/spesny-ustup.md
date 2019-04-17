@@ -1,4 +1,4 @@
-### SPĚŠNÝ ÚSTUP
+# SPĚŠNÝ ÚSTUP
 
 ***Příručka hráče***
 

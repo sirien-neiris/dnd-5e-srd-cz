@@ -1,4 +1,4 @@
-### NEZJISTITELNOST
+# NEZJISTITELNOST
 
 ***Příručka hráče***
 

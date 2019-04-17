@@ -1,4 +1,4 @@
-### UŠETŘI UMÍRAJÍCÍHO
+# UŠETŘI UMÍRAJÍCÍHO
 
 ***Příručka hráče***
 

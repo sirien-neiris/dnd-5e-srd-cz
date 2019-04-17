@@ -1,4 +1,4 @@
-### SLOVO MOCI „UZDRAV "
+# SLOVO MOCI „UZDRAV "
 
 ***Příručka hráče***
 

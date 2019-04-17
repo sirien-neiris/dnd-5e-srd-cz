@@ -1,4 +1,4 @@
-### PODPORA
+# PODPORA
 
 ***Příručka hráče***
 

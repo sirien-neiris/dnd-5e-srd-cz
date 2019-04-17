@@ -1,4 +1,4 @@
-### OHNIVÁ ZEĎ
+# OHNIVÁ ZEĎ
 
 ***Příručka hráče***
 

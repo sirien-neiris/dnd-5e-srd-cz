@@ -1,4 +1,4 @@
-### VYPUZENÍ
+# VYPUZENÍ
 
 ***Příručka hráče***
 

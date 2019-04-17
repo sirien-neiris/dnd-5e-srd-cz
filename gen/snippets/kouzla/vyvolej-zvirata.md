@@ -1,4 +1,4 @@
-### VYVOLEJ ZVÍŘATA
+# VYVOLEJ ZVÍŘATA
 
 ***Příručka hráče***
 

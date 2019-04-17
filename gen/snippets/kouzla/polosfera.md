@@ -1,4 +1,4 @@
-### POLOSFÉRA
+# POLOSFÉRA
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### TAJEMNÝ VÝŠLEH
+# TAJEMNÝ VÝŠLEH
 
 ***Příručka hráče***
 

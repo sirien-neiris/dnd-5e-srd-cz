@@ -1,4 +1,4 @@
-### PÁCHNOUCÍ OBLAK
+# PÁCHNOUCÍ OBLAK
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### PAVOUČÍ ŠPLH
+# PAVOUČÍ ŠPLH
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### OHNIVÁ KOULE
+# OHNIVÁ KOULE
 
 ***Příručka hráče***
 

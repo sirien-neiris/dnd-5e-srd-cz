@@ -1,4 +1,4 @@
-### SLUNEČNÍ ERUPCE
+# SLUNEČNÍ ERUPCE
 
 ***Příručka hráče***
 

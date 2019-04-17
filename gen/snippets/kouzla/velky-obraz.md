@@ -1,4 +1,4 @@
-### VELKÝ OBRAZ
+# VELKÝ OBRAZ
 
 ***Příručka hráče***
 

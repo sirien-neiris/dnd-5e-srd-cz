@@ -1,4 +1,4 @@
-### ZÓNA PRAVDY
+# ZÓNA PRAVDY
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### SLEDOVÁNÍ
+# SLEDOVÁNÍ
 
 ***Příručka hráče***
 

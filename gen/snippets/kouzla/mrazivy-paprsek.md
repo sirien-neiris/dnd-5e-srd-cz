@@ -1,4 +1,4 @@
-### MRAZIVÝ PAPRSEK
+# MRAZIVÝ PAPRSEK
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### STVOŘ PLAMEN
+# STVOŘ PLAMEN
 
 ***Příručka hráče***
 

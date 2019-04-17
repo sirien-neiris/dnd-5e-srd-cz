@@ -1,4 +1,4 @@
-### ZMAM OSOBU
+# ZMAM OSOBU
 
 ***Příručka hráče***
 

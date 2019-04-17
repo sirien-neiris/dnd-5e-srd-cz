@@ -1,4 +1,4 @@
-### TICHÝ OBRAZ
+# TICHÝ OBRAZ
 
 ***Příručka hráče***
 

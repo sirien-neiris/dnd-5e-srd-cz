@@ -1,4 +1,4 @@
-### UCHVACUJÍCÍ RÉVA
+# UCHVACUJÍCÍ RÉVA
 
 ***Příručka hráče***
 

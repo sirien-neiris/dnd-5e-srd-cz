@@ -1,4 +1,4 @@
-### ZNEHYBNI OSOBU
+# ZNEHYBNI OSOBU
 
 ***Příručka hráče***
 

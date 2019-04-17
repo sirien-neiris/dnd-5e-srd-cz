@@ -1,4 +1,4 @@
-### TMA
+# TMA
 
 ***Příručka hráče***
 

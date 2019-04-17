@@ -1,4 +1,4 @@
-### HROMOVÝ ÚDER
+# HROMOVÝ ÚDER
 
 ***Příručka hráče***
 

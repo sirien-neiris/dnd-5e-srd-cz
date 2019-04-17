@@ -1,4 +1,4 @@
-### OSLEPUJÍCÍ ÚDER
+# OSLEPUJÍCÍ ÚDER
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### VĚTRNÁ ZEĎ
+# VĚTRNÁ ZEĎ
 
 ***Příručka hráče***
 

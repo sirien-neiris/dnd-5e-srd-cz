@@ -1,4 +1,4 @@
-### OHNIVÝ ŠTÍT
+# OHNIVÝ ŠTÍT
 
 ***Příručka hráče***
 

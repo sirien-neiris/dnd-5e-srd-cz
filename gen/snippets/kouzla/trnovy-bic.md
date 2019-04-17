@@ -1,4 +1,4 @@
-### TRNOVÝ BIČ
+# TRNOVÝ BIČ
 
 ***Příručka hráče***
 

@@ -1,4 +1,4 @@
-### POSLYŠ MÝTY
+# POSLYŠ MÝTY
 
 ***Příručka hráče***
 

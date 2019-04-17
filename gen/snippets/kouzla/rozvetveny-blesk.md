@@ -1,4 +1,4 @@
-### ROZVĚTVENÝ BLESK
+# ROZVĚTVENÝ BLESK
 
 ***Příručka hráče***
 

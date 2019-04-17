@@ -1,4 +1,4 @@
-### OVLÁDNI POČASÍ
+# OVLÁDNI POČASÍ
 
 ***Příručka hráče***
 

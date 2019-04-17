@@ -1,4 +1,4 @@
-### JEDOVATÁ SPRŠKA
+# JEDOVATÁ SPRŠKA
 
 ***Příručka hráče***
 

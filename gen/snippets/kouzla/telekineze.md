@@ -1,4 +1,4 @@
-### TELEKINEZE
+# TELEKINEZE
 
 ***Příručka hráče***
 

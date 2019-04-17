@@ -1,4 +1,4 @@
-### ILUZORNÍ TEXT
+# ILUZORNÍ TEXT
 
 ***Příručka hráče***
 

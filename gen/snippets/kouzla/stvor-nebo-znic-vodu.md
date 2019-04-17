@@ -1,4 +1,4 @@
-### STVOŘ NEBO ZNIČ VODU
+# STVOŘ NEBO ZNIČ VODU
 
 ***Příručka hráče***
 
