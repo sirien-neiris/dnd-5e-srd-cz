@@ -25,14 +25,15 @@ tak se to přeloží jako stále ta samá řádka
 
 "Znegování" markdownu se provádí pomocí "\\". Tzn pokud nechci **tučně** ale \*\*tučně*\*\* tak to musím psát \\\*\\\*tučně\\\*\\\*. Zpětné lomítko \\ se tudíž píše jako \\\\ .
 
+\# Nadpis 1 - tohle je hlavní nadpis (H1). Tento musí být v dokumentu jen jeden (nejspíš na začátku jako titulka kapitoly)
 
-\# tohle je hlavní nadpis (H1). Tento musí být v dokumentu jen jeden (nejspíš na začátku jako titulka kapitoly)
+\#\# Nadpis 2 - tohle je "velký" nadpis (H2). Těch můžete mít kolik chcete
 
-\#\# tohle je "velký" nadpis (H2). Těch můžete mít kolik chcete
-
-\#\#\# tohle je "menší" nadpis (H3). Víc a víc křížků pak vyrobí menší a menší nadpisy (všechny budou odkazovatelné)
+\#\#\# Nadpis 3 - tohle je "menší" nadpis (H3). Víc a víc křížků pak vyrobí menší a menší nadpisy (všechny budou odkazovatelné)
 
 ...ukázka nebude, protože by to zbořilo levé menu tohodle dokumentu, ale jak nadpisy vypadají vidíte výše i níže. Ale že to jste vy tak takhle vypadá nadpis H4:
+
+\#\#\#\# Fonty (Fate značky) =
 
 #### Fonty (Fate značky)
 
@@ -45,6 +46,7 @@ Fate symboly:
 * ```<span class="fate-font">c</span>``` = <span class="fate-font">c</span>
 * ```<span class="fate-font">a</span>``` = <span class="fate-font">a</span>
 * ```<span class="fate-font">d</span>``` = <span class="fate-font">d</span>
+* ```<span class="fate-font">1</span>``` = <span class="fate-font">1</span>
 
 
 
@@ -52,6 +54,10 @@ Fate symboly:
 
 ### seznamy
 
+***Černé rámečky ukazují "zdrojový" text, tzn. ten který máte napsat. Pod nimi vidíte výsledek, který to vyrobí.***
+
+
+
 ```
 * tohle vyrobí bodový seznam
   * tohle vyrobá bodový seznam 2. úrovně (dvě mezery na začátku)
@@ -69,12 +75,12 @@ Fate symboly:
 ```
 1. pro číslovaný seznam 
 2. platí totéž
-2. platí totéž 
+2. co pro bodový
 ```
 
 1. pro číslovaný seznam 
 2. platí totéž
-2. platí totéž
+2. co pro bodový
 
 
 
@@ -82,12 +88,13 @@ Fate symboly:
 
 ```
 > tohle je funkce "citace" a používáme ji na příklady
+
+> Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná pravidla pro formátování textu.
 ```
 
 > tohle je funkce "citace" a používáme ji na příklady
 
-
-Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná pravidla pro formátování textu.
+> Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná pravidla pro formátování textu.
 
 ```
 > Mezi dvěma odstavci citace musí být opět mezera, ale nemusíte se bát,
@@ -122,18 +129,14 @@ Symbol ">" je potřeba dát na začátek každého odstavce. Platí obecná prav
 ```
 <Card>
 
-Tohle bude základní rámeček. 
-
-MUSÍTE tam napsat ono "card" a MUSÍTE to i zakončit třemi trojtečkami.
+Tohle je základní rámeček. 
 
 </Card>
 ```
 
 <Card>
 
-Tohle bude základní rámeček. 
-
-MUSÍTE tam napsat ono "card" a MUSÍTE to i zakončit třemi trojtečkami.
+Tohle je základní rámeček. 
 
 </Card>
 
