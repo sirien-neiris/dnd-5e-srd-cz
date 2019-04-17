@@ -23,299 +23,296 @@ snippet-povolani:car-puvod-stinova
 ### Triky
 
 
-snippet-kouzla:Drobná-iluze
+snippet-kouzla:drobna-iluze
 
-snippet-kouzla:Jedovatá-sprška
+snippet-kouzla:jedovata-sprska
 
-snippet-kouzla:Kejkle
+snippet-kouzla:kejkle
 
-snippet-kouzla:Kyselinová-koule
+snippet-kouzla:kyselinova-koule
 
-snippet-kouzla:Mágova-ruka
+snippet-kouzla:magova-ruka
 
-snippet-kouzla:Mrazivý-dotyk
+snippet-kouzla:mrazivy-dotyk
 
-snippet-kouzla:Mrazivý-paprsek
+snippet-kouzla:mrazivy-paprsek
 
-snippet-kouzla:Ohnivá-střela
+snippet-kouzla:ohniva-strela
 
-snippet-kouzla:Oprava
+snippet-kouzla:oprava
 
-snippet-kouzla:Přátelé
+snippet-kouzla:pratele
 
-snippet-kouzla:Přesný-úder
+snippet-kouzla:presny-uder
 
-snippet-kouzla:Světlo
+snippet-kouzla:svetlo
 
-snippet-kouzla:Šokující-sevření
+snippet-kouzla:sokujici-sevreni
 
-snippet-kouzla:Tančící-světla
+snippet-kouzla:tancici-svetla
 
-snippet-kouzla:Znamení-proti-čepelím
+snippet-kouzla:znameni-proti-cepelim
 
-snippet-kouzla:Zpráva
+snippet-kouzla:zprava
 
 
 ### 1. úroveň
 
 
-snippet-kouzla:Barevná-koule
+snippet-kouzla:barevna-koule
 
-snippet-kouzla:Barevná-sprška
+snippet-kouzla:barevna-sprska
 
-snippet-kouzla:Čarodějnický-blesk
+snippet-kouzla:carodejnicky-blesk
 
-snippet-kouzla:Falešný-život
+snippet-kouzla:falesny-zivot
 
-snippet-kouzla:Hořící-ruce
+snippet-kouzla:horici-ruce
 
-snippet-kouzla:Hromová-vlna
+snippet-kouzla:hromova-vlna
 
-snippet-kouzla:Magická-střela
+snippet-kouzla:magicka-strela
 
-snippet-kouzla:Mágova-zbroj
+snippet-kouzla:magova-zbroj
 
-snippet-kouzla:Najdi-magii
+snippet-kouzla:najdi-magii
 
-snippet-kouzla:Oblak-mlhy
+snippet-kouzla:oblak-mlhy
 
-snippet-kouzla:Paprsek-otrávení
+snippet-kouzla:paprsek-otraveni
 
-snippet-kouzla:Pomalý-pád
+snippet-kouzla:pomaly-pad
 
-snippet-kouzla:Porozumění-jazykům
+snippet-kouzla:porozumeni-jazykum
 
-snippet-kouzla:Přestrojení
+snippet-kouzla:prestrojeni
 
-snippet-kouzla:Skok
+snippet-kouzla:skok
 
-snippet-kouzla:Spánek
+snippet-kouzla:spanek
 
-snippet-kouzla:Spěšný-ústup
+snippet-kouzla:spesny-ustup
 
-snippet-kouzla:Štít
+snippet-kouzla:stit
 
-snippet-kouzla:Tichý-obraz
+snippet-kouzla:tichy-obraz
 
-snippet-kouzla:Zmam-osobu
+snippet-kouzla:zmam-osobu
 
 
 ### 2. úroveň
 
 
-snippet-kouzla:Koruna-šílenství
+snippet-kouzla:koruna-silenstvi
 
-snippet-kouzla:Levitace
+snippet-kouzla:levitace
 
-snippet-kouzla:Mlžný-krok
+snippet-kouzla:mlzny-krok
 
-snippet-kouzla:Neviditelnost
+snippet-kouzla:neviditelnost
 
-snippet-kouzla:Oblak-dýk
+snippet-kouzla:oblak-dyk
 
-snippet-kouzla:Odhal-myšlenky
+snippet-kouzla:odhal-myslenky
 
-snippet-kouzla:Pavoučí-šplh
+snippet-kouzla:pavouci-splh
 
-snippet-kouzla:Pavučina
+snippet-kouzla:pavucina
 
-snippet-kouzla:Poryv-větru
+snippet-kouzla:poryv-vetru
 
-snippet-kouzla:Přelud
+snippet-kouzla:prelud
 
-snippet-kouzla:Rozmazání
+snippet-kouzla:rozmazani
 
-snippet-kouzla:Roztříštění
+snippet-kouzla:roztristeni
 
-snippet-kouzla:Sežehující-paprsek
+snippet-kouzla:sezehujici-paprsek
 
-snippet-kouzla:Slepota-nebo-hluchota
+snippet-kouzla:slepota-nebo-hluchota
 
-snippet-kouzla:Spatři-neviditelné
+snippet-kouzla:spatri-neviditelne
 
-snippet-kouzla:Sugesce
+snippet-kouzla:sugesce
 
-snippet-kouzla:Tma
+snippet-kouzla:tma
 
-snippet-kouzla:Vidění-ve-tmě
+snippet-kouzla:videni-ve-tme
 
-snippet-kouzla:Zaklep
+snippet-kouzla:zaklep
 
-snippet-kouzla:Zlepši-vlastnost
+snippet-kouzla:zlepsi-vlastnost
 
-snippet-kouzla:Změň-svůj-tvar
+snippet-kouzla:zmen-svuj-tvar
 
-snippet-kouzla:Znehybni-osobu
+snippet-kouzla:znehybni-osobu
 
-snippet-kouzla:Zrcadlový-obraz
+snippet-kouzla:zrcadlovy-obraz
 
-snippet-kouzla:Zvětšení-nebo-zmenšení
+snippet-kouzla:zvetseni-nebo-zmenseni
 
 
 ### 3. úroveň
 
 
-snippet-kouzla:Blesk
+snippet-kouzla:blesk
 
-snippet-kouzla:Denní-světlo
+snippet-kouzla:denni-svetlo
 
-snippet-kouzla:Hypnotický-vzor
+snippet-kouzla:hypnoticky-vzor
 
-snippet-kouzla:Chůze-po-vodě
+snippet-kouzla:chuze-po-vode
 
-snippet-kouzla:Jasnozřivost
+snippet-kouzla:jasnozrivost
 
-snippet-kouzla:Jazyky
+snippet-kouzla:jazyky
 
-snippet-kouzla:Leť
+snippet-kouzla:let
 
-snippet-kouzla:Mihotání
+snippet-kouzla:mihotani
 
-snippet-kouzla:Mlžná-podoba
+snippet-kouzla:mlzna-podoba
 
-snippet-kouzla:Ohnivá-koule
+snippet-kouzla:ohniva-koule
 
-snippet-kouzla:Ochrana-před-energií
+snippet-kouzla:ochrana-pred-energii
 
-snippet-kouzla:Páchnoucí-oblak
+snippet-kouzla:pachnouci-oblak
 
-snippet-kouzla:Protikouzlo
+snippet-kouzla:protikouzlo
 
-snippet-kouzla:Rozptyl-magii
+snippet-kouzla:rozptyl-magii
 
-snippet-kouzla:Rychlost
+snippet-kouzla:rychlost
 
-snippet-kouzla:Strach
+snippet-kouzla:strach
 
-snippet-kouzla:Velký-obraz
+snippet-kouzla:velky-obraz
 
-snippet-kouzla:Vodní-dech
+snippet-kouzla:vodni-dech
 
-snippet-kouzla:Zmrzlý-déšť
+snippet-kouzla:zmrzly-dest
 
-snippet-kouzla:Zpomalení
+snippet-kouzla:zpomaleni
 
 
 ### 4. úroveň
 
 
-snippet-kouzla:Dimenzionální-dveře
+snippet-kouzla:dimenzionalni-dvere
 
-snippet-kouzla:Hniloba
+snippet-kouzla:hniloba
 
-snippet-kouzla:Kamenná-kůže
+snippet-kouzla:kamenna-kuze
 
-snippet-kouzla:Ledová-bouře
+snippet-kouzla:ledova-boure
 
-snippet-kouzla:Mocná-neviditelnost
+snippet-kouzla:mocna-neviditelnost
 
-snippet-kouzla:Ohnivá-zeď
+snippet-kouzla:ohniva-zed
 
-snippet-kouzla:Podrob-zvíře
+snippet-kouzla:podrob-zvire
 
-snippet-kouzla:Proměň
+snippet-kouzla:promen
 
-snippet-kouzla:Vypuzení
+snippet-kouzla:vypuzeni
 
-snippet-kouzla:Zmatek
+snippet-kouzla:zmatek
 
 
 ### 5. úroveň
 
 
-snippet-kouzla:Hmyzí-zhouba
+snippet-kouzla:hmyzi-zhouba
 
-snippet-kouzla:Hromadné-přestrojení
+snippet-kouzla:hromadne-prestrojeni
 
-snippet-kouzla:Kamenná-zeď
+snippet-kouzla:kamenna-zed
 
-snippet-kouzla:Kužel-mrazu
+snippet-kouzla:kuzel-mrazu
 
-snippet-kouzla:Oblak-smrti
+snippet-kouzla:oblak-smrti
 
-snippet-kouzla:Oživlé-předměty
+snippet-kouzla:ozivle-predmety
 
-snippet-kouzla:Podrob-osobu
+snippet-kouzla:podrob-osobu
 
-snippet-kouzla:Telekineze
+snippet-kouzla:telekineze
 
-snippet-kouzla:Teleportační-kruh
+snippet-kouzla:teleportacni-kruh
 
-snippet-kouzla:Tvorba
+snippet-kouzla:tvorba
 
-snippet-kouzla:Znehybni-nestvůru
+snippet-kouzla:znehybni-nestvuru
 
 
 ### 6. úroveň
 
 
-snippet-kouzla:Hromadná-sugesce
+snippet-kouzla:hromadna-sugesce
 
-snippet-kouzla:Koule-nezranitelnosti
+snippet-kouzla:koule-nezranitelnosti
 
-snippet-kouzla:Kruh-smrti
+snippet-kouzla:kruh-smrti
 
-snippet-kouzla:Mystická-brána
+snippet-kouzla:mysticka-brana
 
-snippet-kouzla:Pohni-zemí
+snippet-kouzla:pohni-zemi
 
-snippet-kouzla:Pravdivé-vidění
+snippet-kouzla:pravdive-videni
 
-snippet-kouzla:Rozklad
+snippet-kouzla:rozklad
 
-snippet-kouzla:Rozvětvený-blesk
+snippet-kouzla:rozvetveny-blesk
 
-snippet-kouzla:Sluneční-paprsek
+snippet-kouzla:slunecni-paprsek
 
-snippet-kouzla:Zlé-oko
+snippet-kouzla:zle-oko
 
 
 ### 7. úroveň
 
 
-snippet-kouzla:Časovaná-ohnivá-koule
+snippet-kouzla:casovana-ohniva-koule
 
-snippet-kouzla:Éteričnost
+snippet-kouzla:etericnost
 
-snippet-kouzla:Ohnivá-bouře
+snippet-kouzla:ohniva-boure
 
-snippet-kouzla:Otoč-gravitaci
+snippet-kouzla:otoc-gravitaci
 
-snippet-kouzla:Prst-smrti
+snippet-kouzla:prst-smrti
 
-snippet-kouzla:Přesun-sférami
+snippet-kouzla:presun-sferami
 
-snippet-kouzla:Spektrální-sprška
+snippet-kouzla:spektralni-sprska
 
-snippet-kouzla:Teleport
+snippet-kouzla:teleport
 
 
 ### 8. úroveň
 
-snippet-kouzla:Hořící-oblak
+snippet-kouzla:Horici-oblak
 
-snippet-kouzla:Podrob-nestvůru
+snippet-kouzla:Podrob-nestvuru
 
-snippet-kouzla:Slovo-moci-„ochrom“
+snippet-kouzla:Slovo-moci-ochrom
 
-snippet-kouzla:Sluneční-erupce
+snippet-kouzla:Slunecni-erupce
 
-snippet-kouzla:Zemětřesení
+snippet-kouzla:Zemetreseni
 
 
 
 ### 9. úroveň
 
 
-snippet-kouzla:Brána
+snippet-kouzla:brana
 
-snippet-kouzla:Přání
+snippet-kouzla:prani
 
-snippet-kouzla:Roj-meteoritů
+snippet-kouzla:roj-meteoritu
 
-snippet-kouzla:Slovo-moci-„zabij“
+snippet-kouzla:slovo-moci-zabij
 
-snippet-kouzla:Zastav-čas
-
-
-
+snippet-kouzla:zastav-cas

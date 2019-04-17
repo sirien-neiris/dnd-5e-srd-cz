@@ -1,7 +1,9 @@
 # Čaroděj
 
+## Charakteristika čaroděje
+
 ***Příručka hráče***
-  
+
 Žena se zlatýma jiskřivýma očima natáhla ruku a vypustila dračí oheň, který hořel v jejích žilách. Když kolem jejích nepřátel zuřilo peklo, roztáhla svá kožovitá křídla na zádech a vznesla se do vzduchu.
   
 Půlelf s dlouhými, ošlehanými vlasy od přivolaného větru roztáhl paže a zaklonil hlavu. Na okamžik ho nadzvedlo ze země tkanivo magie, projelo jím a vyšlo z něho jako mocný výšleh blesku.
