@@ -3,19 +3,23 @@ editLink: false
 ---
 # Čaroděj
 
-snippet-povolani:car-zaklad
+snippet-povolani:car-zaklad-charakteristika
+
+snippet-povolani:car-zaklad-schopnosti
+
+snippet-povolani:car-zaklad-puvody
 
 
 
-snippet-povolani:car-puvod-divoka
+snippet-obory:car-puvod-divoka
 
-snippet-povolani:car-puvod-draci
+snippet-obory:car-puvod-draci
 
-snippet-povolani:car-puvod-bourne
+snippet-obory:car-puvod-bourne
 
-snippet-povolani:car-puvod-bozska
+snippet-obory:car-puvod-bozska
 
-snippet-povolani:car-puvod-stinova
+snippet-obory:car-puvod-stinova
 
 
 
@@ -40,7 +44,11 @@ snippet-kouzla:mrazivy-paprsek
 
 snippet-kouzla:ohniva-strela
 
+snippet-kouzla:omrzliny
+
 snippet-kouzla:oprava
+
+snippet-kouzla:ovladni-plameny
 
 snippet-kouzla:pratele
 
@@ -50,7 +58,17 @@ snippet-kouzla:svetlo
 
 snippet-kouzla:sokujici-sevreni
 
+snippet-kouzla:stvor-taborak
+
 snippet-kouzla:tancici-svetla
+
+snippet-kouzla:tvaruj-vodu
+
+snippet-kouzla:tvaruj-zemi
+
+snippet-kouzla:zamoreni
+
+snippet-kouzla:zavan
 
 snippet-kouzla:znameni-proti-cepelim
 
@@ -72,6 +90,12 @@ snippet-kouzla:horici-ruce
 
 snippet-kouzla:hromova-vlna
 
+snippet-kouzla:chaoticky-blesk
+
+snippet-kouzla:katapult
+
+snippet-kouzla:ledovy-nuz
+
 snippet-kouzla:magicka-strela
 
 snippet-kouzla:magova-zbroj
@@ -79,6 +103,8 @@ snippet-kouzla:magova-zbroj
 snippet-kouzla:najdi-magii
 
 snippet-kouzla:oblak-mlhy
+
+snippet-kouzla:odolej-zivlum
 
 snippet-kouzla:paprsek-otraveni
 
@@ -98,15 +124,25 @@ snippet-kouzla:stit
 
 snippet-kouzla:tichy-obraz
 
+snippet-kouzla:zatres-zemi
+
 snippet-kouzla:zmam-osobu
 
 
 ### 2. úroveň
 
 
+snippet-kouzla:aganazzaruv-zar
+
+snippet-kouzla:draci-dech
+
 snippet-kouzla:koruna-silenstvi
 
 snippet-kouzla:levitace
+
+snippet-kouzla:maxmilianova-hlinena-ruka
+
+snippet-kouzla:mentalni-bodec
 
 snippet-kouzla:mlzny-krok
 
@@ -122,7 +158,13 @@ snippet-kouzla:pavucina
 
 snippet-kouzla:poryv-vetru
 
+snippet-kouzla:prasny-vir
+
 snippet-kouzla:prelud
+
+snippet-kouzla:pyrotechnika
+
+snippet-kouzla:roj-snehovych-kouli
 
 snippet-kouzla:rozmazani
 
@@ -134,9 +176,15 @@ snippet-kouzla:slepota-nebo-hluchota
 
 snippet-kouzla:spatri-neviditelne
 
+snippet-kouzla:stinocepel
+
+snippet-kouzla:strazny-vichr
+
 snippet-kouzla:sugesce
 
 snippet-kouzla:tma
+
+snippet-kouzla:uzemneni
 
 snippet-kouzla:videni-ve-tme
 
@@ -160,6 +208,8 @@ snippet-kouzla:blesk
 
 snippet-kouzla:denni-svetlo
 
+snippet-kouzla:hromokrok
+
 snippet-kouzla:hypnoticky-vzor
 
 snippet-kouzla:chuze-po-vode
@@ -170,9 +220,13 @@ snippet-kouzla:jazyky
 
 snippet-kouzla:let
 
+snippet-kouzla:melfovy-meteorky
+
 snippet-kouzla:mihotani
 
 snippet-kouzla:mlzna-podoba
+
+snippet-kouzla:obkliceni
 
 snippet-kouzla:ohniva-koule
 
@@ -180,17 +234,27 @@ snippet-kouzla:ochrana-pred-energii
 
 snippet-kouzla:pachnouci-oblak
 
+snippet-kouzla:plamenne-sipy
+
+snippet-kouzla:prilivova-vlna
+
 snippet-kouzla:protikouzlo
 
 snippet-kouzla:rozptyl-magii
 
 snippet-kouzla:rychlost
 
+snippet-kouzla:slofik
+
 snippet-kouzla:strach
 
 snippet-kouzla:velky-obraz
 
 snippet-kouzla:vodni-dech
+
+snippet-kouzla:vodni-zed
+
+snippet-kouzla:vybuchujici-zeme
 
 snippet-kouzla:zmrzly-dest
 
@@ -200,9 +264,13 @@ snippet-kouzla:zpomaleni
 ### 4. úroveň
 
 
+snippet-kouzla:bourna-koule
+
 snippet-kouzla:dimenzionalni-dvere
 
 snippet-kouzla:hniloba
+
+snippet-kouzla:jedovata-koule
 
 snippet-kouzla:kamenna-kuze
 
@@ -210,19 +278,27 @@ snippet-kouzla:ledova-boure
 
 snippet-kouzla:mocna-neviditelnost
 
+snippet-kouzla:odporne-zareni
+
 snippet-kouzla:ohniva-zed
 
 snippet-kouzla:podrob-zvire
 
 snippet-kouzla:promen
 
+snippet-kouzla:vodnata-koule
+
 snippet-kouzla:vypuzeni
+
+snippet-kouzla:zmam-obludu
 
 snippet-kouzla:zmatek
 
 
 ### 5. úroveň
 
+
+snippet-kouzla:dalekokrok
 
 snippet-kouzla:hmyzi-zhouba
 
@@ -234,15 +310,27 @@ snippet-kouzla:kuzel-mrazu
 
 snippet-kouzla:oblak-smrti
 
+snippet-kouzla:ovladni-vitr
+
 snippet-kouzla:ozivle-predmety
 
 snippet-kouzla:podrob-osobu
+
+snippet-kouzla:posileni-dovednosti
+
+snippet-kouzla:svetelna-zed
+
+snippet-kouzla:synapticky-sum
 
 snippet-kouzla:telekineze
 
 snippet-kouzla:teleportacni-kruh
 
 snippet-kouzla:tvorba
+
+snippet-kouzla:upaleni
+
+snippet-kouzla:vycerpani
 
 snippet-kouzla:znehybni-nestvuru
 
@@ -252,11 +340,19 @@ snippet-kouzla:znehybni-nestvuru
 
 snippet-kouzla:hromadna-sugesce
 
+snippet-kouzla:kamenny-plast
+
 snippet-kouzla:koule-nezranitelnosti
 
 snippet-kouzla:kruh-smrti
 
+snippet-kouzla:iluzorni-vezeni
+
+snippet-kouzla:ledovy-plast
+
 snippet-kouzla:mysticka-brana
+
+snippet-kouzla:plamenny-plast
 
 snippet-kouzla:pohni-zemi
 
@@ -264,9 +360,13 @@ snippet-kouzla:pravdive-videni
 
 snippet-kouzla:rozklad
 
+snippet-kouzla:rozpras
+
 snippet-kouzla:rozvetveny-blesk
 
 snippet-kouzla:slunecni-paprsek
+
+snippet-kouzla:vetrny-plast
 
 snippet-kouzla:zle-oko
 
@@ -278,6 +378,8 @@ snippet-kouzla:casovana-ohniva-koule
 
 snippet-kouzla:etericnost
 
+snippet-kouzla:hvezdna-koruna
+
 snippet-kouzla:ohniva-boure
 
 snippet-kouzla:otoc-gravitaci
@@ -286,12 +388,18 @@ snippet-kouzla:prst-smrti
 
 snippet-kouzla:presun-sferami
 
+snippet-kouzla:slovo-moci-bolest
+
+snippet-kouzla:smrst
+
 snippet-kouzla:spektralni-sprska
 
 snippet-kouzla:teleport
 
 
 ### 8. úroveň
+
+snippet-kouzla:abi-dalzimovo-straslive-sucho
 
 snippet-kouzla:Horici-oblak
 
@@ -310,10 +418,14 @@ snippet-kouzla:Zemetreseni
 
 snippet-kouzla:brana
 
+snippet-kouzla:hromadna-promena
+
 snippet-kouzla:prani
 
 snippet-kouzla:roj-meteoritu
 
 snippet-kouzla:slovo-moci-zabij
+
+snippet-kouzla:telepaticky-vykrik
 
 snippet-kouzla:zastav-cas

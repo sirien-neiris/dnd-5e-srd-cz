@@ -14,6 +14,8 @@ snippet-kouzla:bozi-dohled
 
 ### D
 
+snippet-kouzla:divoke-roztrhani
+
 snippet-kouzla:divotvorstvi
 
 snippet-kouzla:drobna-iluze
@@ -21,11 +23,21 @@ snippet-kouzla:drobna-iluze
 snippet-kouzla:druidovstvi
 
 
+### H
+
+snippet-kouzla:hlas-umiracku
+
+
 ### J
 
 snippet-kouzla:jedovata-sprska
 
 snippet-kouzla:kyselinova-koule
+
+
+### K
+
+snippet-kouzla:kouzelny-oblazek
 
 
 ### M
@@ -45,6 +57,10 @@ snippet-kouzla:ohniva-strela
 
 snippet-kouzla:oprava
 
+snippet-kouzla:omrzliny
+
+snippet-kouzla:ovladni-plameny
+
 
 ### P
 
@@ -57,9 +73,13 @@ snippet-kouzla:presny-uder
 
 ### S
 
+snippet-kouzla:slovo-svetla
+
 snippet-kouzla:stvor-plamen
 
 snippet-kouzla:sukovice
+
+snippet-kouzla:stvor-taborak
 
 snippet-kouzla:svetlo
 
@@ -74,6 +94,10 @@ snippet-kouzla:tancici-svetla
 
 snippet-kouzla:trnovy-bic
 
+snippet-kouzla:tvaruj-vodu
+
+snippet-kouzla:tvaruj-zemi
+
 
 ### U
 
@@ -81,6 +105,12 @@ snippet-kouzla:usetri-umirajiciho
 
 
 ### Z
+
+snippet-kouzla:zavan
+
+snippet-kouzla:zamoreni
+
+snippet-kouzla:zahrmeni
 
 snippet-kouzla:zlomyslny-vysmech
 
@@ -134,12 +164,19 @@ snippet-kouzla:hromova-vlna
 snippet-kouzla:hromovy-uder
 
 
+### Ch
+
+snippet-kouzla:chaoticky-blesk
+
+
 ### I
 
 snippet-kouzla:iluzorni-text
 
 
 ### K
+
+snippet-kouzla:katapult
 
 snippet-kouzla:kletba
 
@@ -149,6 +186,8 @@ snippet-kouzla:krupobiti-trnu
 ### L
 
 snippet-kouzla:lecive-slovo
+
+snippet-kouzla:ledovy-nuz
 
 snippet-kouzla:lovcova-korist
 
@@ -181,9 +220,13 @@ snippet-kouzla:neviditelny-sluzebnik
 
 ### O
 
+snippet-kouzla:obrad
+
 snippet-kouzla:oblak-mlhy
 
 snippet-kouzla:ocisti-jidlo-a-piti
+
+snippet-kouzla:odolej-zivlum
 
 snippet-kouzla:ochrana-pred-zlem-a-dobrem
 
@@ -222,6 +265,8 @@ snippet-kouzla:sadlo
 
 snippet-kouzla:skok
 
+snippet-kouzla:smycka
+
 snippet-kouzla:spalujici-uder
 
 snippet-kouzla:spanek
@@ -257,12 +302,18 @@ snippet-kouzla:vili-ohen
 
 snippet-kouzla:vynuceny-duel
 
+snippet-kouzla:vystras
+
 
 ### Z
 
 snippet-kouzla:zapleteni
 
+snippet-kouzla:zatres-zemi
+
 snippet-kouzla:zbroj-agathysu
+
+snippet-kouzla:zefyruv-uder
 
 snippet-kouzla:zhoj-zraneni
 
@@ -272,8 +323,15 @@ snippet-kouzla:zmam-osobu
 
 snippet-kouzla:zpusob-zraneni
 
+snippet-kouzla:zvireci-pouto
+
 
 ## 2. úroveň
+
+### A
+
+snippet-kouzla:aganazzaruv-zar
+
 
 ### C
 
@@ -281,6 +339,8 @@ snippet-kouzla:cejchovaci-uder
 
 
 ### D
+
+snippet-kouzla:draci-dech
 
 snippet-kouzla:duchovni-zbran
 
@@ -305,6 +365,8 @@ snippet-kouzla:kurokuze
 
 snippet-kouzla:leciva-modlitba
 
+snippet-kouzla:lecivy-duch
+
 snippet-kouzla:levitace
 
 
@@ -314,7 +376,11 @@ snippet-kouzla:magicka-usta
 
 snippet-kouzla:magicka-zbran
 
+snippet-kouzla:maxmilianova-hlinena-ruka
+
 snippet-kouzla:melfuv-kyselinovy-sip
+
+snippet-kouzla:mentalni-bodec
 
 snippet-kouzla:mesicni-paprsek
 
@@ -332,6 +398,8 @@ snippet-kouzla:najdi-pasti
 snippet-kouzla:najdi-predmet
 
 snippet-kouzla:najdi-zvirata-a-rostliny
+
+snippet-kouzla:nebepis
 
 snippet-kouzla:neviditelnost
 
@@ -365,14 +433,20 @@ snippet-kouzla:podpora
 
 snippet-kouzla:poryv-vetru
 
+snippet-kouzla:prasny-vir
+
 snippet-kouzla:projdi-beze-stop
 
 snippet-kouzla:predvidani
 
 snippet-kouzla:prelud
 
+snippet-kouzla:pyrotechnika
+
 
 ### R
+
+snippet-kouzla:roj-snehovych-kouli
 
 snippet-kouzla:rozmazani
 
@@ -389,7 +463,11 @@ snippet-kouzla:sezehujici-paprsek
 
 snippet-kouzla:spatri-neviditelne
 
+snippet-kouzla:stinocepel
+
 snippet-kouzla:strazne-pouto
+
+snippet-kouzla:strazny-vichr
 
 snippet-kouzla:sugesce
 
@@ -408,6 +486,8 @@ snippet-kouzla:trny
 ### U
 
 snippet-kouzla:uklidni-emoce
+
+snippet-kouzla:uzemneni
 
 
 ### V
@@ -457,12 +537,16 @@ snippet-kouzla:bleskovy-sip
 
 snippet-kouzla:denni-svetlo
 
+snippet-kouzla:drobny-sluzebnik
+
 
 ### H
 
 snippet-kouzla:hadarova-touha
 
 snippet-kouzla:hromadne-lecive-slovo
+
+snippet-kouzla:hromokrok
 
 snippet-kouzla:hypnoticky-vzor
 
@@ -499,6 +583,8 @@ snippet-kouzla:magicky-kruh
 
 snippet-kouzla:majak-nadeje
 
+snippet-kouzla:melfovy-meteorky
+
 snippet-kouzla:mihotani
 
 snippet-kouzla:mluv-s-mrtvymi
@@ -515,6 +601,8 @@ snippet-kouzla:nezjistitelnost
 
 ### O
 
+snippet-kouzla:obkliceni
+
 snippet-kouzla:obrozeni
 
 snippet-kouzla:ohniva-koule
@@ -530,11 +618,19 @@ snippet-kouzla:oziv-mrtveho
 
 snippet-kouzla:pachnouci-oblak
 
+snippet-kouzla:pisecna-zed
+
+snippet-kouzla:plamenne-sipy
+
 snippet-kouzla:poselstvi
 
-snippet-kouzla:protikouzlo
-
 snippet-kouzla:predstirej-smrt
+
+snippet-kouzla:presun-zivota
+
+snippet-kouzla:prilivova-vlna
+
+snippet-kouzla:protikouzlo
 
 snippet-kouzla:prizracni-strazci
 
@@ -551,6 +647,8 @@ snippet-kouzla:rychlost
 
 
 ### S
+
+snippet-kouzla:slofik
 
 snippet-kouzla:strach
 
@@ -578,6 +676,12 @@ snippet-kouzla:vetrna-zed
 
 snippet-kouzla:vodni-dech
 
+snippet-kouzla:vodni-zed
+
+snippet-kouzla:vybuchujici-zeme
+
+snippet-kouzla:vyvolej-mensi-demony
+
 snippet-kouzla:vyvolej-palbu
 
 snippet-kouzla:vyvolej-zvirata
@@ -601,6 +705,11 @@ snippet-kouzla:aura-cistoty
 snippet-kouzla:aura-zivota
 
 
+### B
+
+snippet-kouzla:bourna-koule
+
+
 ### D
 
 snippet-kouzla:dimenzionalni-dvere
@@ -621,6 +730,11 @@ snippet-kouzla:fantom
 ### H
 
 snippet-kouzla:hniloba
+
+
+### J
+
+snippet-kouzla:jedovata-koule
 
 
 ### K
@@ -650,6 +764,8 @@ snippet-kouzla:mysticke-oko
 
 ### N
 
+snippet-kouzla:najdi-honosnejsiho-ore
+
 snippet-kouzla:najdi-tvora
 
 snippet-kouzla:nutkani
@@ -659,9 +775,13 @@ snippet-kouzla:nutkani
 
 snippet-kouzla:obri-hmyz
 
+snippet-kouzla:odporne-zareni
+
 snippet-kouzla:ohniva-zed
 
 snippet-kouzla:ohnivy-stit
+
+snippet-kouzla:ochrance-prirody
 
 snippet-kouzla:otilukova-nepoddajna-koule
 
@@ -676,6 +796,8 @@ snippet-kouzla:promen
 
 
 ### S
+
+snippet-kouzla:stin-moilu
 
 snippet-kouzla:strazce-viry
 
@@ -694,6 +816,8 @@ snippet-kouzla:uchvacujici-reva
 
 snippet-kouzla:vesteni
 
+snippet-kouzla:vodnata-koule
+
 snippet-kouzla:volnost
 
 snippet-kouzla:vypuzeni
@@ -702,11 +826,20 @@ snippet-kouzla:vyvolej-lesni-bytosti
 
 snippet-kouzla:vyvolej-nizsi-elementaly
 
+snippet-kouzla:vyvolej-mocneho-demona
+
 snippet-kouzla:zhotov
 
 snippet-kouzla:zmatek
 
 snippet-kouzla:znameni-proti-smrti
+
+
+### Z
+
+snippet-kouzla:zivelna-zkaza
+
+snippet-kouzla:zmam-obludu
 
 
 ## 5. úroveň
@@ -718,6 +851,8 @@ snippet-kouzla:bigbyho-ruka
 
 ### D
 
+snippet-kouzla:dalekokrok
+
 snippet-kouzla:dvojnik
 
 
@@ -726,6 +861,8 @@ snippet-kouzla:dvojnik
 snippet-kouzla:hlidej-a-strez
 
 snippet-kouzla:hmyzi-zhouba
+
+snippet-kouzla:hnev-prirody
 
 snippet-kouzla:hromadne-prestrojeni
 
@@ -747,6 +884,8 @@ snippet-kouzla:kuzel-mrazu
 
 ### M
 
+snippet-kouzla:maelstrom
+
 snippet-kouzla:mluva-sfer
 
 snippet-kouzla:mocne-navraceni
@@ -763,18 +902,26 @@ snippet-kouzla:niciva-vlna
 
 snippet-kouzla:oblak-smrti
 
+snippet-kouzla:ovladni-vitr
+
 snippet-kouzla:ozivle-predmety
 
 
 ### P
 
+snippet-kouzla:pekelne-volani
+
 snippet-kouzla:plamenny-uder
 
 snippet-kouzla:podrob-osobu
 
+snippet-kouzla:posileni-dovednosti
+
 snippet-kouzla:poslys-myty
 
 snippet-kouzla:posvatna-puda
+
+snippet-kouzla:premen-kamen
 
 snippet-kouzla:probuzeni
 
@@ -808,8 +955,16 @@ snippet-kouzla:spojeni-s-prirodou
 
 snippet-kouzla:stit-proti-zivym
 
+snippet-kouzla:svecena-zbran
+
+snippet-kouzla:svetelna-zed
+
+snippet-kouzla:synapticky-sum
+
 
 ### T
+
+snippet-kouzla:tanec-mrtvych
 
 snippet-kouzla:telekineze
 
@@ -820,10 +975,18 @@ snippet-kouzla:tvorba
 
 ### U
 
+snippet-kouzla:uder-oceloveho-vichru
+
 snippet-kouzla:ukol
+
+snippet-kouzla:upaleni
+
+snippet-kouzla:usvit
 
 
 ### V
+
+snippet-kouzla:vycerpani
 
 snippet-kouzla:vypuzujici-uder
 
@@ -837,6 +1000,8 @@ snippet-kouzla:vzkriseni
 ### Z
 
 snippet-kouzla:zakaz
+
+snippet-kouzla:zaplava-negativni-energie
 
 snippet-kouzla:zed-sily
 
@@ -862,9 +1027,18 @@ snippet-kouzla:drawmijovo-okamzite-privolani
 snippet-kouzla:hromadna-sugesce
 
 
+### I
+
+snippet-kouzla:iluzorni-vezeni
+
+
 ### K
 
+snippet-kouzla:kamenny-plast
+
 snippet-kouzla:klon
+
+snippet-kouzla:kosti-zeme
 
 snippet-kouzla:kruh-smrti
 
@@ -872,6 +1046,8 @@ snippet-kouzla:kruh-smrti
 ### L
 
 snippet-kouzla:ledova-zed
+
+snippet-kouzla:ledovy-plast
 
 
 ### M
@@ -905,9 +1081,20 @@ snippet-kouzla:pravdive-videni
 snippet-kouzla:presun-rostlinami
 
 
+### P
+
+snippet-kouzla:plamenny-plast
+
+snippet-kouzla:posvatny-haj
+
+snippet-kouzla:prvotni-bariera
+
+
 ### R
 
 snippet-kouzla:rozklad
+
+snippet-kouzla:rozpras
 
 snippet-kouzla:rozvetveny-blesk
 
@@ -924,10 +1111,14 @@ snippet-kouzla:slovo-navratu
 
 snippet-kouzla:slunecni-paprsek
 
+snippet-kouzla:stvor-homunkula
+
 snippet-kouzla:stvor-nemrtve
 
 
 ### T
+
+snippet-kouzla:tenserova-promena
 
 snippet-kouzla:trnova-zed
 
@@ -943,6 +1134,10 @@ snippet-kouzla:uzdrav
 
 snippet-kouzla:vetrna-chuze
 
+snippet-kouzla:vetrny-plast
+
+snippet-kouzla:vezeni-duse
+
 snippet-kouzla:vyvolej-vilu
 
 
@@ -956,6 +1151,8 @@ snippet-kouzla:zran
 ## 7. úroveň
 
 ### B
+
+snippet-kouzla:bozi-chram
 
 snippet-kouzla:bozske-slovo
 
@@ -973,6 +1170,11 @@ snippet-kouzla:etericnost
 ### F
 
 snippet-kouzla:fata-morgana
+
+
+### H
+
+snippet-kouzla:hvezdna-koruna
 
 
 ### M
@@ -1010,6 +1212,10 @@ snippet-kouzla:regenerace
 
 snippet-kouzla:silova-klec
 
+snippet-kouzla:slovo-moci-bolest
+
+snippet-kouzla:smrst
+
 snippet-kouzla:spektralni-sprska
 
 snippet-kouzla:symbol
@@ -1035,6 +1241,8 @@ snippet-kouzla:zmrtvychvstani
 
 ### A
 
+snippet-kouzla:abi-dalzimovo-straslive-sucho
+
 snippet-kouzla:antimagicke-pole
 
 snippet-kouzla:antipatie-nebo-sympatie
@@ -1048,6 +1256,21 @@ snippet-kouzla:bludiste
 ### H
 
 snippet-kouzla:horici-oblak
+
+
+### I
+
+snippet-kouzla:iluzorni-drak
+
+
+### M
+
+snippet-kouzla:mocny-hrad
+
+
+### N
+
+snippet-kouzla:nesnesitelna-temnota
 
 
 ### P
@@ -1106,12 +1329,16 @@ snippet-kouzla:brana
 
 ### H
 
+snippet-kouzla:hromadna-promena
+
 snippet-kouzla:hromadne-uzdraveni
 
 
 ### N
 
 snippet-kouzla:nemesis
+
+snippet-kouzla:nezranitelnost
 
 
 ### P
@@ -1135,6 +1362,11 @@ snippet-kouzla:slovo-moci-uzrav
 snippet-kouzla:slovo-moci-zabij
 
 snippet-kouzla:spektralni-zed
+
+
+### T
+
+snippet-kouzla:telepaticky-vykrik
 
 
 ### U
