@@ -1,5 +1,7 @@
 # KLETBA
 
+*Hex*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

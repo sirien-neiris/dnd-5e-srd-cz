@@ -1,5 +1,7 @@
 # KORUNA ŠÍLENSTVÍ
 
+*Crown of madness*
+
 ***Příručka hráče***
 
 *Očarování 2. úrovně*

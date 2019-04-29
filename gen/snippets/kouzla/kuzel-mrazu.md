@@ -1,5 +1,7 @@
 # KUŽEL MRAZU
 
+*Cone of cold*
+
 ***Příručka hráče***
 
 *Zaklínání 5. úrovně*

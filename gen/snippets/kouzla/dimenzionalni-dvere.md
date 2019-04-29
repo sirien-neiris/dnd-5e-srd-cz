@@ -1,5 +1,7 @@
 # DIMENZIONÁLNÍ DVEŘE
 
+*Dimension door*
+
 ***Příručka hráče***
 
 *Vyvolávání 4. úrovně*

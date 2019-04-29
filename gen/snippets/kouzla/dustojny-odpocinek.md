@@ -1,5 +1,7 @@
 # DŮSTOJNÝ ODPOČINEK
 
+*Gentle repose*
+
 ***Příručka hráče***
 
 *Nekromancie 2. úrovně (rituál)*

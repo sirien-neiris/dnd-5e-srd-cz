@@ -1,5 +1,7 @@
 # HYPNOTICKÝ VZOR
 
+*Hypnotic pattern*
+
 ***Příručka hráče***
 
 *Iluze 3. úrovně*

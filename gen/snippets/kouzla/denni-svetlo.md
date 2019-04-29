@@ -1,5 +1,7 @@
 # DENNÍ SVĚTLO
 
+*Daylight*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně*

@@ -1,5 +1,7 @@
 # KŘIŽÁKOVA PELERÍNA
 
+*Crusader's mentle*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně*

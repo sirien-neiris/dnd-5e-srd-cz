@@ -1,5 +1,7 @@
 # HLÍDEJ A STŘEŽ
 
+*Guards and wards*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně*

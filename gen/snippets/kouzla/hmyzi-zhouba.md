@@ -1,5 +1,7 @@
 # HMYZÍ ZHOUBA
 
+*Insect plague*
+
 ***Příručka hráče***
 
 *Vyvolávání 5. úrovně*

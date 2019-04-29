@@ -1,5 +1,7 @@
 # DOBRŮVKA
 
+*Goodberry*
+
 ***Příručka hráče***
 
 *Transmutace 1. úrovně*

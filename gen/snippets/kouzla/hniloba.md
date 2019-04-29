@@ -1,5 +1,7 @@
 # HNILOBA
 
+*Blight*
+
 ***Příručka hráče***
 
 *Nekromancie 4. úrovně*

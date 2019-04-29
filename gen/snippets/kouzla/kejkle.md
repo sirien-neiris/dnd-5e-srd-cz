@@ -1,5 +1,7 @@
 # KEJKLE
 
+*Prestidigitation*
+
 ***Příručka hráče***
 
 *Transmutační trik*

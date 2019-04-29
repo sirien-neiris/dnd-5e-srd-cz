@@ -1,5 +1,7 @@
 # JASNOZŘIVOST
 
+*Clairvoyance*
+
 ***Příručka hráče***
 
 *Věštění 3. úrovně*

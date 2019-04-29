@@ -1,5 +1,7 @@
 # KOULE NEZRANITELNOSTI
 
+*Globe of invulnerability*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně*

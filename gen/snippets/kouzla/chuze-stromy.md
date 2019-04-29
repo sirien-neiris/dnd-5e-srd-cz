@@ -1,5 +1,7 @@
 # CHŮZE STROMY
 
+*Tree stride*
+
 ***Příručka hráče***
 
 *Vyvolávání 5. úrovně*

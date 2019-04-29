@@ -1,5 +1,7 @@
 # KRUH SMRTI
 
+*Circle of death*
+
 ***Příručka hráče***
 
 *Nekromancie 6. úrovně*

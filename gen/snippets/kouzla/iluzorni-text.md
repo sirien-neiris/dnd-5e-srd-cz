@@ -1,5 +1,7 @@
 # ILUZORNÍ TEXT
 
+*Illusory script*
+
 ***Příručka hráče***
 
 *Iluze 1. úrovně (rituál)*

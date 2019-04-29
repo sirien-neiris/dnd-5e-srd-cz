@@ -1,5 +1,7 @@
 # HOŘÍCÍ RUCE
 
+*Burning hands*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

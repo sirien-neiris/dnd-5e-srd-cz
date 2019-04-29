@@ -1,5 +1,7 @@
 # HROMOVÁ VLNA
 
+*Thunderwave*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

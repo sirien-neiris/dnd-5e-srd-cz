@@ -1,5 +1,7 @@
 # KORDON ŠÍPŮ
 
+*Cordon of arrows*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

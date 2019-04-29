@@ -1,5 +1,9 @@
 # HADAROVA TOUHA
 
+*Hunger of Hadar*
+
+***Příručka hráče***
+
 *Vyvolávání 3. úrovně*
 
 **Vyvolání:** 1 akce

@@ -1,5 +1,7 @@
 # DUCHOVNÍ ZBRAŇ
 
+*Spiritual weapon*
+
 ***Příručka hráče***
 
 *Zaklínání 2. úrovně*

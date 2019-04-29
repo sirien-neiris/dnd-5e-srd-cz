@@ -1,5 +1,7 @@
 # KLON
 
+*Clone*
+
 ***Příručka hráče***
 
 *Nekromancie 6. úrovně*

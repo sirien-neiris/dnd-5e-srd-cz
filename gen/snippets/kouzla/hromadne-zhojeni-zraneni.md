@@ -1,5 +1,7 @@
 # HROMADNÉ ZHOJENÍ ZRANĚNÍ
 
+*Mass cure wounds*
+
 ***Příručka hráče***
 
 *Zaklínání 5. úrovně*

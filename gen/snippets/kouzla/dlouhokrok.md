@@ -1,5 +1,7 @@
 # DLOUHOKROK
 
+*Longstrider*
+
 ***Příručka hráče***
 
 *Transmutace 1. úrovně*

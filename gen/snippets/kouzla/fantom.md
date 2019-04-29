@@ -1,5 +1,7 @@
 # FANTÓM
 
+*Phantasmal killer*
+
 ***Příručka hráče***
 
 *Iluze 4. úrovně*

@@ -1,5 +1,7 @@
 # DRAWMIJOVO OKAMŽITÉ PŘIVOLANÍ
 
+*Drawmij's instant summons*
+
 ***Příručka hráče***
 
 *Vyvolávání 6. úrovně* (rituál)

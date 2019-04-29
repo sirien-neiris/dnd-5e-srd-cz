@@ -1,5 +1,7 @@
 # HOŘÍCÍ OBLAK
 
+*Incendiary cloud*
+
 ***Příručka hráče***
 
 *Vyvolávání 8. úrovně*

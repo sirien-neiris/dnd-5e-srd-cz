@@ -1,5 +1,7 @@
 # HROMADNÉ LÉČIVÉ SLOVO
 
+*Mass healing word*
+
 ***Příručka hráče***
 
 *Zaklínání 3. úrovně*

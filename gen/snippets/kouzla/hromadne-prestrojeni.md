@@ -1,5 +1,7 @@
 # HROMADNÉ PŘESTROJENÍ
 
+*Seeming*
+
 ***Příručka hráče***
 
 *Iluze 5. úrovně*

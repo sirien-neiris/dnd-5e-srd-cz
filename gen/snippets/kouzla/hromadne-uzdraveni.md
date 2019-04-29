@@ -1,5 +1,7 @@
 # HROMADNÉ UZDRAVENÍ
 
+*Mass heal*
+
 ***Příručka hráče***
 
 *Zaklínání 9. úrovně*

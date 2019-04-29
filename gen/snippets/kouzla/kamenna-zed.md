@@ -1,5 +1,7 @@
 # KAMENNÁ ZEĎ
 
+*Wall of stone*
+
 ***Příručka hráče***
 
 *Zaklínání 5. úrovně*

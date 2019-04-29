@@ -1,5 +1,7 @@
 # FASCINUJ
 
+*Enthrall*
+
 ***Příručka hráče***
 
 *Očarování 2. úrovně*

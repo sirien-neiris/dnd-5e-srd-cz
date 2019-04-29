@@ -1,5 +1,7 @@
 # FATA MORGÁNA
 
+*Mirage arcane*
+
 ***Příručka hráče***
 
 *Iluze 7. úrovně*

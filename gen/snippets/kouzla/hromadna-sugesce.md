@@ -1,5 +1,7 @@
 # HROMADNÁ SUGESCE
 
+*Mass suggestion*
+
 ***Příručka hráče***
 
 *Očarování 6. úrovně*

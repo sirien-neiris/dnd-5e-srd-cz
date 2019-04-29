@@ -1,5 +1,7 @@
 # KYSELINOVÁ KOULE
 
+*Acid splash*
+
 ***Příručka hráče***
 
 *Vyvolávací trik*

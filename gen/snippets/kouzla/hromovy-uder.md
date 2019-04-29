@@ -1,5 +1,7 @@
 # HROMOVÝ ÚDER
 
+*Thunderous smite*
+
 ***Příručka hráče***
 
 *Zaklínání 1. úrovně*

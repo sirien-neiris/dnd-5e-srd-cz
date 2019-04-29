@@ -1,5 +1,9 @@
 # HADAROVY PAŽE
 
+*Arms of Hadar*
+
+***Příručka hráče***
+
 *Vyvolávání 1. úrovně*
 
 **Vyvolání:** 1 akce

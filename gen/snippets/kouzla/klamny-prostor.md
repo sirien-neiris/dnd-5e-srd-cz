@@ -1,5 +1,7 @@
 # KLAMNÝ PROSTOR
 
+*Hallucinatory terrain*
+
 ***Příručka hráče***
 
 *Iluze 4. úrovně*

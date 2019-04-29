@@ -1,5 +1,7 @@
 # DVOJNÍK
 
+*Mislead*
+
 ***Příručka hráče***
 
 *Iluze 5. úrovně*

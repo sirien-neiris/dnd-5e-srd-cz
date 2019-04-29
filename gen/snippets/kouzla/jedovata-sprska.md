@@ -1,5 +1,7 @@
 # JEDOVATÁ SPRŠKA
 
+*Poison spray*
+
 ***Příručka hráče***
 
 *Vyvolávací trik*

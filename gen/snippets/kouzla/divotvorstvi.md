@@ -1,5 +1,7 @@
 # DIVOTVORSTVÍ
 
+*Thaumaturgy*
+
 ***Příručka hráče***
 
 *Transmutační trik*

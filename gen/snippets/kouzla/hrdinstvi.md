@@ -1,5 +1,7 @@
 # HRDINSTVÍ
 
+*Heroism*
+
 ***Příručka hráče***
 
 *Očarování 1. úrovně*

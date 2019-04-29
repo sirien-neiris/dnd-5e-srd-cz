@@ -1,5 +1,7 @@
 # KŮROKŮŽE
 
+*Barkskin*
+
 ***Příručka hráče***
 
 *Transmutace 2. úrovně*

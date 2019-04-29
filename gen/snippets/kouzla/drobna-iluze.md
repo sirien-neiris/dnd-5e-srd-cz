@@ -1,5 +1,7 @@
 # DROBNÁ ILUZE
 
+*Minor illusion*
+
 ***Příručka hráče***
 
 *Iluzorní trik*

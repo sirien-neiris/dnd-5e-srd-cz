@@ -1,5 +1,7 @@
 # ÉTERIČNOST
 
+*Etherealness*
+
 ***Příručka hráče***
 
 *Transmutace 7. úrovně*

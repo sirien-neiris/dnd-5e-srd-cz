@@ -1,5 +1,7 @@
 # KAMENNÁ KŮŽE
 
+*Stoneskin*
+
 ***Příručka hráče***
 
 *Vymítání 4. úrovně*

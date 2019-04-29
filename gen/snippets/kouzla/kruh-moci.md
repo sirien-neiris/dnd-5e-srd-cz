@@ -1,5 +1,7 @@
 # KRUH MOCI
 
+*Cirle of power*
+
 ***Příručka hráče***
 
 *Vymítání 5. úrovně*

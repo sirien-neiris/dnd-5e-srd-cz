@@ -1,5 +1,7 @@
 # KRUPOBITÍ TRNŮ
 
+*Hail of thorns*
+
 ***Příručka hráče***
 
 *Vyvolávání 1. úrovně*
