@@ -24,7 +24,8 @@ let config = {
             name: 'soupis-carodej',
             applySnippets: [
                 { snippet: 'povolani', headerOffset: 1 },
-                { snippet: 'kouzla', headerOffset: 3 },
+                { snippet: 'obory',    headerOffset: 2 },
+                { snippet: 'kouzla',   headerOffset: 3 },
             ],
             template: [
                 './gen/templates/carodej.md',
@@ -35,6 +36,7 @@ let config = {
     snippets: {
         kouzla: './gen/snippets/kouzla',
         povolani: './gen/snippets/povolani',
+        obory: './gen/snippets/obory',
     }
 };
 

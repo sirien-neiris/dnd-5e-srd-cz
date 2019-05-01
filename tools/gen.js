@@ -39,10 +39,11 @@ if (namespaceSettings !== undefined) {
             let snippetToken = 'snippet-'+snipetSettings.snippet+':' + file.replace('.md', '');
             const regex = new RegExp(snippetToken, 'g');
             let to = fs.readFileSync(dir + '/' + file, 'utf8');
+            const regexHeader = new RegExp('# ', 'g');
             replace.sync({
                 files: replaceFiles,
                 from: regex,
-                to: to.replace('# ',headerprefix +'# '),
+                to: to.replace(regexHeader,headerprefix +'# '),
             });
             console.log(`    - Nahrazuji ${snippetToken}`);
         });
