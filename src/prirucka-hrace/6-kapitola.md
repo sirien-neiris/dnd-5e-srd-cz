@@ -352,9 +352,9 @@ Osvojil sis zbraně na dálku tak dobře, že umíš střílet tak, jak se o t
   
 * Útočení v rámci dlouhého dostřelu nezpůsobuje nevýhodu k tvým hodům na útok na dálku zbraní.
 
-* Máš výhodu k záchranným hodům na Odolnost, které si házíš pro udržení svého soustředění na kouzlo, když utrpíš zranění.
+* Tvé útoky na dálku zbraní ignorují poloviční a tříčtvrteční kryt.
   
-* Můžeš provádět pohybové složky kouzel, i když máš v jedné nebo obou rukách zbraně či štít.
+* Než zaútočíš zbraní na dálku, se kterou jsi zdatný, můžeš si zvolit, že utrpíš postih –5 k hodu na útok. Pokud útok zasáhne přičteš si +10 ke zranění útoku.
   
 ### Otužilec
   
@@ -475,10 +475,10 @@ V sedle jsi nebezpečný protivník. Když jsi na jezdeckém zvířeti a nej
 *Předpoklad: Schopnost seslat aspoň jedno kouzlo*
   
 Trénoval jsi sesílání kouzel uprostřed boje a naučil ses techniky, které ti dávají následující prospěchy:
+
+* Máš výhodu k záchranným hodům na Odolnost, které si házíš pro udržení svého soustředění na kouzlo, když utrpíš zranění.
   
-* Tvé útoky na dálku zbraní ignorují poloviční a tříčtvrteční kryt.
-  
-* Než zaútočíš zbraní na dálku, se kterou jsi zdatný, můžeš si zvolit, že utrpíš postih –5 k hodu na útok. Pokud útok zasáhne přičteš si +10 ke zranění útoku.
+* Můžeš provádět pohybové složky kouzel, i když máš v jedné nebo obou rukách zbraně či štít.
   
 * Když pohyb nepřátelského tvora vyvolá tvůj příležitostný útok, můžeš pomocí své reakce seslat na tvora kouzlo, místo abys na něj zaútočil příležitostným úrokem. Kouzlo musí mít vyvolání 1 akce a musí cílit pouze na tohoto tvora.
   
