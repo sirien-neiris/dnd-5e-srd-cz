@@ -414,9 +414,7 @@ Každý tvor může být tímto bleskem zasažen jen jednou v rámci jednoho ses
 ***Na vyšších úrovních.*** Sešleš-li toto kouzlo použitím pozice kouzla 2. či vyšší úrovně, za každou další úroveň pozice nad 1. blesk způsobí o 1k6 zranění více.
 
 | k8 | Typ zranění |
-| --
-| --
-|
+| --- | --- |
 | 1 | Bleskové |
 | 2 | Hromové |
 | 3 | Chladné |
@@ -1219,9 +1217,7 @@ Zvol si bod na zemi, který vidíš v dosahu. Zvolený bod je středem krychle o
 Vyřkneš odporná slova a vyvoláš tak démony z hlubin Propasti. Hoď si k6 abys určil, co se ti povedlo přivolat:
 
 | k6  | Přivolaní démoni |
-| --
-| ---------------
-|
+| --- | --------------- |
 | 1–2 | Dva démoni s nebezpečností 1 nebo nižší |
 | 3–4 | Čtyři démoni s nebezpečností 1/2 nebo nižší |
 | 5–6 | Osm démonů s nebezpečností 1/4 nebo nižší |
@@ -1969,10 +1965,10 @@ Pokud sloup nemůže vyrůst do své plné výše, například kvůli stropu neb
 **Povolání:** Čaroděj, černokněžník, druid, kouzelník
  
 Tvé tělo obklopí krusta ledu a až do konce trvání kouzla máš následující prospěchy:
-* Jsi imunní vůči chladnému zranění a jsi odolný vůči ohnivému zranění.
-* Můžeš se pohybovat přes obtížný terén, tvořený ledem nebo sněhem, bez utracení pohybu navíc.
-* Povrch v okruhu 2 sáhů od tebe je pokryt vrstvou ledu, která se s tebou pohybuje a která je obtížným terénem pro všechny kromě tebe.
-* Můžeš použít svou akci k tomu, abys vytvořil kužel mrazivého vzduchu o délce tří sáhů, který proudí z tvé natažené ruky. Každý tvor v zasažené oblasti si musí hodit záchranný hod na Odolnost. Neuspěje-li, utrpí 4k6 chladného zranění a jeho rychlost je snížena na polovinu až do začátku tvého dalšího tahu, při úspěchu utrpí jen poloviční zranění a zpomalen není.
+ * Jsi imunní vůči chladnému zranění a jsi odolný vůči ohnivému zranění.
+ * Můžeš se pohybovat přes obtížný terén, tvořený ledem nebo sněhem, bez utracení pohybu navíc.
+ * Povrch v okruhu 2 sáhů od tebe je pokryt vrstvou ledu, která se s tebou pohybuje a která je obtížným terénem pro všechny kromě tebe.
+ * Můžeš použít svou akci k tomu, abys vytvořil kužel mrazivého vzduchu o délce tří sáhů, který proudí z tvé natažené ruky. Každý tvor v zasažené oblasti si musí hodit záchranný hod na Odolnost. Neuspěje-li, utrpí 4k6 chladného zranění a jeho rychlost je snížena na polovinu až do začátku tvého dalšího tahu, při úspěchu utrpí jen poloviční zranění a zpomalen není.
 
 
 ### Plamenný plášť
@@ -1993,9 +1989,9 @@ Tvé tělo obklopí krusta ledu a až do konce trvání kouzla máš následují
 **Povolání:** Čaroděj, černokněžník, druid, kouzelník
  
 Po těle ti začnou pobíhat plamínky, osvětlující jasným světlem 6 sáhů od tebe a dalších 6 sáhů tlumeným světlem. Plameny tě nijak nezraňují. Až do konce trvání kouzla máš následující prospěchy:
-* Jsi imunní vůči ohnivému zranění a máš odolnost vůči chladnému zranění.
-* Každý tvor, který poprvé během svého tahu vstoupí do prostoru do jednoho sáhu od tebe nebo v tomto prostoru ukončí svůj tah, utrpí 1k10 ohnivého zranění.
-* Můžeš svou akci využít k vytvoření výšlehu ohně tři sáhy dlouhého a jeden sáh širokého, ve směru podle tvého výběru. Každý tvor v zasažené oblasti si musí hodit záchranný hod na Obratnost. Neuspěje-li, utrpí 4k8 ohnivého zranění, při úspěchu polovinu.
+ * Jsi imunní vůči ohnivému zranění a máš odolnost vůči chladnému zranění.
+ * Každý tvor, který poprvé během svého tahu vstoupí do prostoru do jednoho sáhu od tebe nebo v tomto prostoru ukončí svůj tah, utrpí 1k10 ohnivého zranění.
+ * Můžeš svou akci využít k vytvoření výšlehu ohně tři sáhy dlouhého a jeden sáh širokého, ve směru podle tvého výběru. Každý tvor v zasažené oblasti si musí hodit záchranný hod na Obratnost. Neuspěje-li, utrpí 4k8 ohnivého zranění, při úspěchu polovinu.
 
 
 ### Posvátný háj
@@ -2028,9 +2024,9 @@ Celá oblast, chráněná tímto kouzlem, vyzařuje magii. Kouzlo *rozptyl magii
 ***Strážci háje.*** Oživíš až čtyři stromy v oblasti a způsobíš tak, že vytrhnou své kořeny ze země. Tyto stromy mají stejné statistiky jako probuzený strom, který najdeš v *Bestiáři*, s tím rozdílem, že nedokáží mluvit a jejich kůra je pokrytá druidskými symboly. Pokud jakýkoliv tvor, jenž není vůči tomuto účinku imunní, vstoupí do chráněné oblasti, strážci bojují, dokud vetřelce nezastraší nebo neskolí. Strážci háje jsou schopni vykonávat rozkazy, které v chráněné oblasti vyslovíš (nevyžaduje tvou akci). Pokud jim nezadáš žádný příkaz a do háje se nesnaží proniknout žádní vetřelci, strážci nečinně stojí. Strážci nemohou opustit oblast zabezpečenou tímto kouzlem. Když kouzlo skončí, magie, která je oživila, vyprchá a stromy, pokud je to jen trochu možné, opět zakoření.
 
 ***Další účinky kouzla.*** Do chráněné oblasti můžeš umístit jeden z následujících účinků:
-* Permanentní *poryv větru* na dvě místa podle tvé volby.
-* *Trny* na jedno místo podle tvé volby.
-* *Větrnou zeď* na jedno místo podle tvé volby.
+ * Permanentní *poryv větru* na dvě místa podle tvé volby.
+ * *Trny* na jedno místo podle tvé volby.
+ * *Větrnou zeď* na jedno místo podle tvé volby.
 
 Pro tvory imunní vůči tomuto účinku jsou větry jen příjemným vánkem a *trny* na ně nemají žádný účinek.
 
@@ -2145,9 +2141,9 @@ Ihned poté, co kouzlo skončí, musíš uspět v záchranném hodu na Odolnost,
 **Povolání:** Čaroděj, černokněžník, druid, kouzelník
  
 Tvé tělo obklopí vzdušný vír a až do konce kouzla máš následující prospěchy:
-* Útoky zbraní na dálku, namířené proti tobě, jsou činěny s nevýhodou.
-* Získáváš rychlost letu 12 sáhů. Pokud kouzlo skončí a ty stále létaš, spadneš na zem, pokud tomu nějak nezabráníš.
-* Můžeš svou akci použít k vytvoření krychle o straně 3 sáhů, naplněné vířícím vzduchem, se středem v místě, které vidíš a které je do 12 sáhů od tebe. Každý tvor v oblasti si musí hodit záchranný hod na Odolnost. Neuspěje-li, utrpí 2k10 drtivého zranění, při úspěchu polovinu. Velký nebo menší tvor je navíc odstrčen až o 2 sáhy od středu krychle.
+ * Útoky zbraní na dálku, namířené proti tobě, jsou činěny s nevýhodou.
+ * Získáváš rychlost letu 12 sáhů. Pokud kouzlo skončí a ty stále létaš, spadneš na zem, pokud tomu nějak nezabráníš.
+ * Můžeš svou akci použít k vytvoření krychle o straně 3 sáhů, naplněné vířícím vzduchem, se středem v místě, které vidíš a které je do 12 sáhů od tebe. Každý tvor v oblasti si musí hodit záchranný hod na Odolnost. Neuspěje-li, utrpí 2k10 drtivého zranění, při úspěchu polovinu. Velký nebo menší tvor je navíc odstrčen až o 2 sáhy od středu krychle.
 
 
 ### Vězení duše
