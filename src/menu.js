@@ -205,6 +205,9 @@ const menu = {
                 'bestiar/zlobri',
                 'bestiar/zombie',
                 'bestiar/zrici',
+                'bestiar/dodate-a',
+                'bestiar/dodatek-b',
+                'bestiar/dodatek-c',
             ]
         },{
             title: 'Grimoar',
