@@ -226,7 +226,7 @@ Podobně jako každý zřící se dohlížeč pokládá za ztělesnění svého 
     speed="0 sáhů, létání 6 sáhů (vznášení se)"
     str="8 (-1)"
     dex="14 (+2)"
-    con="10 (+2)"
+    con="14 (+2)"
     int="13 (+1)"
     wis="14 (+2)"
     cha="11 (+0)"
