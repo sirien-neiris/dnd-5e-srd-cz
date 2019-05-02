@@ -26,15 +26,9 @@ Triky (libovolně): *divotvorství*, *jedovatá sprška*
 
 </Card>
 
-<Card header="">
-
- 
-„Jednou jsem zklamal Pavoučí královnu. Už nikdy více.“
-  
-— Dravouk Pellanistra
-  
-
-</Card>
+> „Jednou jsem zklamal Pavoučí královnu. Už nikdy více.“
+>  
+> — Dravouk Pellanistra
 
 <Monster 
     title="Dravouk"
