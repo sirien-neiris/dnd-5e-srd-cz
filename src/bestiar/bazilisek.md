@@ -1,15 +1,9 @@
 # Bazilišek
 
-<Card header="">
+> „Nikdo netesá sochy vyděšených válečníků. Pokud nějakou uvidíš, drž své oči zavřené a uši otevřené.“
+>  
+> — 4. pravidlo přežití v jeskyni Mystika X
 
-
-„Nikdo netesá sochy vyděšených válečníků. Pokud nějakou uvidíš, drž své oči zavřené a uši otevřené.“
-  
-— 4. pravidlo přežití v jeskyni Mystika X
-
-
-</Card>
-  
 Cestovatelé někdy nachází předměty, které vypadají jako kusy kamenných soch divokých zvířat a pozoruhodně jako živé. Chybějící části jako by byly ukousnuty. Ostřílení průzkumníci považují takové relikvie za varování. Vědí, že bazilišek, který je vytvořil, je nejspíš někde poblíž.
   
 ***Přizpůsobiví predátoři.*** Bazilišci mají rádi vyprahlé, mírné nebo tropické klima. Mají doupě v jeskyni či jiném chráněném místě. Nejčastěji lze na bazilišky narazit v podzemí.
