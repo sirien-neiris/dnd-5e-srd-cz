@@ -32,7 +32,7 @@ Přízraky někdy velí legiím mrtvých a plánují zkázu živých tvorů. K
     damage-resistances="blesková, hromová, chladná, kyselinová, ohnivá; bodná, drtivá a sečná z nemagických útoků, kromě stříbrných zbraní"
     damage-immunities="jedová, nekrotická"
     condition-immunities="ležící, otrávený, paralyzovaný, uchvácený, únava, zadržený, zkamenělý, zmámený"
-    senses=vidění ve mě 12 sáhů, pasivní Vnímání 12""
+    senses="vidění ve mě 12 sáhů, pasivní Vnímání 12"
     languages="jazyky, které znal za života"
     challenge="5 (1 800 ZK)"
     >
