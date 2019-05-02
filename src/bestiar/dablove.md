@@ -64,7 +64,7 @@ Degradování je mezi ďábly obvyklý trest za selhání nebo neposlušnost. Ar
   
 10. ledový ďábel
   
-11 šejtán
+11. šejtán
   
 **Arciďáblové**
   
@@ -237,15 +237,10 @@ Vousatý ďábel má humanoidní podobu, se špičatýma ušima, šupinatou poko
   
 </Monster>   
   
-<Card header="">
 
-  
-„Žijí mečem a umírají mečem. Jejich krása je ničím v porovnání s jejich hněvem.“
-  
-— Z *Knihy odporné temnoty*
-
-
-</Card>
+> „Žijí mečem a umírají mečem. Jejich krása je ničím v porovnání s jejich hněvem.“
+>  
+> — Z *Knihy odporné temnoty*
 
 <Monster 
     title="Erinyje"
@@ -546,16 +541,10 @@ Každý oživlý řetěz je předmět s OČ 20, 20 životy, odoláním vůči 
 
 </Monster>  
 
-<Card header="">
-
-
-„Vaše válkou zničené království je v naprostém rozkladu, jeho obyvatelé umírají hladem a sváry. Volají po novém vedení – někom s charismatem a odvahou skoncovat s nepokojem a strádáním. Vy byste mohli být tím někým.“
+> „Vaše válkou zničené království je v naprostém rozkladu, jeho obyvatelé umírají hladem a sváry. Volají po novém vedení – někom s charismatem a odvahou skoncovat s nepokojem a strádáním. Vy byste mohli být tím někým.“
+>  
+> — šejtán Hrdinobal
   
-— šejtán Hrdinobal
-  
-
-</Card>
-
 <Monster 
     title="Šejtán"
     subtitle="Velký běs (ďábel), zákonné zlo"
@@ -644,17 +633,10 @@ Libovolně: *najdi magii*, *ohnivá koule*
 
 </Monster>  
 
-<Card header="">
-
-
-„Leťte, mí krasavci, leťte! Leťte!“
+> „Leťte, mí krasavci, leťte! Leťte!“
+>  
+> — Firna, arcivévodkyně Flegetosu, přikazující svým legiím trnitých ďáblů
   
-— Firna, arcivévodkyně Flegetosu, 
-přikazující svým legiím trnitých ďáblů
-  
-
-</Card>
-
 <Monster 
     title="Vousatý ďábel"
     subtitle="Střední běs (ďábel), zákonné zlo"
