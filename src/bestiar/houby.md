@@ -56,9 +56,9 @@ Vřesk je houba lidské velikosti, která pronikavě piští, aby zahnala tvory,
     title="Vřesk"
     subtitle="Střední rostlina, bez přesvědčení"
     armor-class="5"
-    hit-points="18 (4k8)"
-    speed="1 sáh"
-    str="3 (-4)"
+    hit-points="13 (3k8)"
+    speed="0 sáh"
+    str="1 (-5)"
     dex="1 (-5)"
     con="10 (+0)"
     int="1 (-5)"
@@ -67,7 +67,7 @@ Vřesk je houba lidské velikosti, která pronikavě piští, aby zahnala tvory,
     condition-immunities="hluchá, slepá, vystrašená"
     senses="mimozrakové vnímání 6 sáhů (mimo tento okruh je slepá), pasivní Vnímání 6"
     languages="—"
-    challenge="1/4 (50 ZK)"
+    challenge="0 (10 ZK)"
     >
 
 ***Falešný vzhled.*** Dokud vřesk zůstává nehybný, je k nerozeznání od normální houby.
