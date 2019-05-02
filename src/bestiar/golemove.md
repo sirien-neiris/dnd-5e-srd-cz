@@ -42,15 +42,9 @@ Kamenní golemové jsou, podobě jako ostatní golemové, téměř neprostupní 
   
 Tělo železného golema se taví se vzácnými výražky a příměsi. I když ostatní golemové mají slabiny dané jejich materiály či silou živelné duše v nich svázané, železní golemové jsou navrženi tak, aby byli téměř nepoškoditelní. Jejich železná těla vězní duše, které je pohání, a jsou citliví pouze na zbraně napuštěné magií nebo silou adamantinu.
 
-<Card header="">
-
-  
-„Čím je jeho fyzická podoba tužší, tím je méně pravděpodobné, že golem ztratí svou cílevědomost. Ti hlinění mohou být trochu začarovaní.“
-  
-— varovná slova z Manuálu hliněných golemů
-
-
-</Card>
+> „Čím je jeho fyzická podoba tužší, tím je méně pravděpodobné, že golem ztratí svou cílevědomost. Ti hlinění mohou být trochu začarovaní.“
+>  
+> — varovná slova z Manuálu hliněných golemů
 
 <Monster 
     title="Hliněný golem"
@@ -91,15 +85,9 @@ Tělo železného golema se taví se vzácnými výražky a příměsi. I kd
 
 </Monster>
 
-<Card header="">
-
-  
-„Dva z mých hrobařů byli včera chyceni a pověšeni. Ti další mají pochopitelně strach, aby je nepotkal podobný osud, ale nepřipustím, aby jejich obavy zastavily můj postup. Potřebuji čerstvá těla a pokud je ta trdla neumí pro mě obstarat, použiji místo toho ta jejich.“
-  
-— z deníku nekromanta Evangeliza Lavaina
-
-
-</Card>
+> „Dva z mých hrobařů byli včera chyceni a pověšeni. Ti další mají pochopitelně strach, aby je nepotkal podobný osud, ale nepřipustím, aby jejich obavy zastavily můj postup. Potřebuji čerstvá těla a pokud je ta trdla neumí pro mě obstarat, použiji místo toho ta jejich.“
+>  
+> — z deníku nekromanta Evangeliza Lavaina
 
 <Monster 
     title="Masný golem"
@@ -177,15 +165,9 @@ Je-li do 12 sáhů od golema-berserkra jeho tvůrce, může se ho pokusit zklidn
 
 </Monster>
 
-<Card header="">
-
-
-„Za neotevřitelnými dveřmi ležel sál, jenž končil vysokým kamenným trůnem, na němž seděla železná socha, která byla vyšší a širší než dva muži. V jedné ruce svírala železný meč, v druhé péřový bič. Pak jsme se měli otočit.“
-  
-— arcimág Mordenkainen, zaznamenávající činy jejich družiny v jeskyních pod Maurovým hradem
-
-
-</Card>
+> „Za neotevřitelnými dveřmi ležel sál, jenž končil vysokým kamenným trůnem, na němž seděla železná socha, která byla vyšší a širší než dva muži. V jedné ruce svírala železný meč, v druhé péřový bič. Pak jsme se měli otočit.“
+>  
+> — arcimág Mordenkainen, zaznamenávající činy jejich družiny v jeskyních pod Maurovým hradem
 
 <Monster 
     title="Železný golem"
