@@ -14,15 +14,9 @@ Goblini jsou malí, nenávistní, sobečtí humanoidi, kteří sídlí v jesky
   
 ***Uctívači Maglubiyeta.*** Maglubiyet, Mocný, Pán hlubin a temnoty, je vyšší bůh skřetů. Většina goblinů si ho představuje jako elfí stopu vysokého, bitvami zjizveného goblina s černou kůží a ohnivýma očima. Neuctívají ho z lásky, ale ze strachu. Goblini věří, že když umřou v bitvě, jejich duše se spojí s šiky Maglubiyetova vojska ve sféře Acheron. To je „privilegium“, ze kterého má hrůzu většina goblinů. Bojí se věčné tyranie Mocného ještě i po smrti.
 
-<Card header="">
-
-
-„Pokud chceš vojáky nebo hrdlořezy, najmi si skuruty. Pokud chceš někoho utlouct ve spánku, najmi si gobry. Pokud chceš protivné malé hlupáky, najmi si gobliny.“
-  
-— Stalman Klim, pán otroků
-
-
-</Card>
+> „Pokud chceš vojáky nebo hrdlořezy, najmi si skuruty. Pokud chceš někoho utlouct ve spánku, najmi si gobry. Pokud chceš protivné malé hlupáky, najmi si gobliny.“
+>  
+> — Stalman Klim, pán otroků
 
 <Monster 
     title="Goblin"
