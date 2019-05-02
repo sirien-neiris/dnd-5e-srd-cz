@@ -877,7 +877,7 @@ Zde uvedená hejna (a roje) nejsou obyčejné vlídné shluky tvorů. Utvořil
 
 <Monster 
     title=""
-    subtitle=""Drobné zvíře, bez přesvědčení￼
+    subtitle="Drobné zvíře, bez přesvědčení￼"
     armor-class="10"
     hit-points="1 (1k4 – 1)"
     speed="4 sáhy"
@@ -1405,6 +1405,8 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 ###### Akce
   
 ***Kousnutí.*** *Útok na blízko zbraní:* +0 k zásahu, dosah 1 sáh, jeden tvor. *Zásah:* Bodné zranění 1.
+
+</Monster>
   
 ## Nosorožec
 
@@ -1471,6 +1473,8 @@ Někteří medvědi se přizpůsobili životu pod zemí. Živí se podzemními l
 ***Kousnutí.*** *Útok na blízko zbraní:* +1 k zásahu, dosah 1 sáh, jeden cíl. *Zásah:* Sečné zranění 2 (1k6 − 1).
   
 **Obří brouk ohnivec** je noční tvor, jehož název je odvozen od dvojice zářících žláz, které vydávají světlo. Těchto tvorů si cení horníci a dobrodruzi, neboť žlázy obřích brouků ohnivců vydávají světlo ještě 1k6 dnů po ohnivcově smrti. Obří brouci ohnivci se nejčastěji nachází v podzemí a temných hvozdech.
+
+</Monster>
 
 ## Obří had škrtič
 
