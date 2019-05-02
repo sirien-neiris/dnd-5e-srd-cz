@@ -243,39 +243,6 @@ Libovolně: *levitace*, *najdi magii*, *pomalý pád*, *světlo*
 ***Chytání balvanů.*** Letí-li na obra balvan či podobný předmět a obr uspěje v záchranném hodu na Obratnost se SO 10, může ho chytit a neutrpí z něj žádné drtivé zranění.
 
 </Monster>  
-  
-<Monster 
-    title="Mrazivý obr"
-    subtitle="Obrovský obr, neutrální zlo￼"
-    armor-class="15 (slátaná zbroj)"
-    hit-points="138 (12k12 + 60)"
-    speed="8 sáhů"
-    str="23 (+6)"
-    dex="9 (-1)"
-    con="21 (+5)"
-    int="9 (-1)"
-    wis="10 (+0)"
-    cha="12 (+1)"
-    saving-throws="Odl +8, Mdr +3, Cha +4"
-    skills="Atletika +9, Vnímání +3"
-    damage-vulnerabilities=""
-    damage-resistances=""
-    damage-immunities="chladná"
-    condition-immunities=""
-    senses="pasivní Vnímání 12"
-    languages="gigantština"
-    challenge="8 (3 900 ZK)"
-    >
-  
-###### Akce
-  
-***Vícenásobný útok.*** Obr zaútočí dvakrát obouruční sekerou.
-  
-***Obouruční sekera.*** *Útok na blízko zbraní:* +9 k zásahu, dosah 2 sáhy, jeden cíl. *Zásah:* Sečné zranění 25 (3k12 + 6).
-  
-***Balvan.*** *Útok na dálku zbraní:* +9 k zásahu, dostřel 12/48 sáhů, jeden cíl. *Zásah:* Drtivé zranění 28 (4k10 + 6).
-
-</Monster>
 
 <Monster 
     title="Kopcový obr"
@@ -307,6 +274,39 @@ Libovolně: *levitace*, *najdi magii*, *pomalý pád*, *světlo*
 ***Těžký kyj.*** *Útok na blízko zbraní:* +8 k zásahu, dosah 2 sáhy, jeden cíl. *Zásah:* Drtivé zranění 18 (3k8 + 5).
   
 ***Balvan.*** *Útok na dálku zbraní:* +8 k zásahu, dostřel 12/48 sáhů, jeden cíl. *Zásah:* Drtivé zranění 21 (3k10 + 5).  
+
+</Monster>
+
+<Monster 
+    title="Mrazivý obr"
+    subtitle="Obrovský obr, neutrální zlo￼"
+    armor-class="15 (slátaná zbroj)"
+    hit-points="138 (12k12 + 60)"
+    speed="8 sáhů"
+    str="23 (+6)"
+    dex="9 (-1)"
+    con="21 (+5)"
+    int="9 (-1)"
+    wis="10 (+0)"
+    cha="12 (+1)"
+    saving-throws="Odl +8, Mdr +3, Cha +4"
+    skills="Atletika +9, Vnímání +3"
+    damage-vulnerabilities=""
+    damage-resistances=""
+    damage-immunities="chladná"
+    condition-immunities=""
+    senses="pasivní Vnímání 12"
+    languages="gigantština"
+    challenge="8 (3 900 ZK)"
+    >
+  
+###### Akce
+  
+***Vícenásobný útok.*** Obr zaútočí dvakrát obouruční sekerou.
+  
+***Obouruční sekera.*** *Útok na blízko zbraní:* +9 k zásahu, dosah 2 sáhy, jeden cíl. *Zásah:* Sečné zranění 25 (3k12 + 6).
+  
+***Balvan.*** *Útok na dálku zbraní:* +9 k zásahu, dostřel 12/48 sáhů, jeden cíl. *Zásah:* Drtivé zranění 28 (4k10 + 6).
 
 </Monster>
 
