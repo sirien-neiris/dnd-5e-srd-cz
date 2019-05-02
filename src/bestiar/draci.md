@@ -930,15 +930,9 @@ Každý dvousáhový panel zdi má OČ 5, 30 životů, zranitelnost vůči ohniv
   
 Pokud drak umře, hlodavci a ptáci s ním ztratí své nadpřirozené spojení. Houštiny zůstanou, ale během 1k10 dní se stanou obyčejnými rostlinami a normálním obtížným terénem a ztratí své trny.
 
-<Card header="">
-
-
-„Vidím prastarého elfího krále, jehož majestátnost již dávno pohasla, klesla a napolo usnula v jeho trůnu. Zelený drak našeptává do králova ucha, kazí a překrucuje jeho sny. Jméno tohoto draka je Azurová Krvavá Zhouba a znamená zkázu pro nás všechny.“
-  
-— Pelios z Ergotu, Sylvánský věštec
-  
-
-</Card>
+> „Vidím prastarého elfího krále, jehož majestátnost již dávno pohasla, klesla a napolo usnula v jeho trůnu. Zelený drak našeptává do králova ucha, kazí a překrucuje jeho sny. Jméno tohoto draka je Azurová Krvavá Zhouba a znamená zkázu pro nás všechny.“
+>  
+> — Pelios z Ergotu, Sylvánský věštec
 
 <Monster 
     title="Zelené dráče"
