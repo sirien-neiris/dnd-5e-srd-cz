@@ -226,16 +226,10 @@ Přivolaný démon se objeví na volném místě do 12 sáhů od přivolávače,
 
 
 </Card>
- 
-<Card header="">
 
-
-„Démony je bolestně obtížné přivolat a ovládat. Není to nic pro ty, co mají slabé srdce nebo slabého ducha.“
-  
-— Z Iggwilvina lexikonu démonů
-
-
-</Card>
+> „Démony je bolestně obtížné přivolat a ovládat. Není to nic pro ty, co mají slabé srdce nebo slabého ducha.“
+>  
+> — Z Iggwilvina lexikonu démonů
 
 <Monster 
     title="Balor"
@@ -551,16 +545,10 @@ V mlžné podobě je jochlola neschopná a nemůže mluvit. Má rychlost lé
 Zatímco je jochlola v mlžné podobě, může vstoupit na tvorovo místo a zastavit tam. Pokaždé, když tvor začne svůj tah s jochlolou na svém místě, musí uspět v záchranném hodu na Odolnost se SO 14, jinak se otráví do začátku svého příštího tahu. Když je cíl otrávený tímto způsobem, je neschopný.
 
 </Monster>
-  
-<Card header="">
 
-
-„V chrámu se válely části těl. Došli jsme k závěru, že kultisté přivolali mocného démona a nežili tak dlouho, aby toho litovali. Nechtěli jsme, aby nás taky rozsekal na části, tak jsme zkrátili naši expedici a vrátili se do vesnice Hommlet se staženými půlky. Rufus a Burn byli vysmátí z naší slavné výpravy, to ti povím.“
-  
-— Neluma, mladá půlelfí kouzelnice, zaznamenávající její jedinou návštěvu Chrámu Živelného zla.
-  
-
-</Card>
+> „V chrámu se válely části těl. Došli jsme k závěru, že kultisté přivolali mocného démona a nežili tak dlouho, aby toho litovali. Nechtěli jsme, aby nás taky rozsekal na části, tak jsme zkrátili naši expedici a vrátili se do vesnice Hommlet se staženými půlky. Rufus a Burn byli vysmátí z naší slavné výpravy, to ti povím.“
+>  
+> — Neluma, mladá půlelfí kouzelnice, zaznamenávající její jedinou návštěvu Chrámu Živelného zla.
 
 <Monster 
     title="Marilita"
@@ -687,15 +675,9 @@ Smrtelní sesilatelé kouzel mající zájem o mimosférické přítelíčky s
 
 </Card>
 
-<Card header="">
-
-  
-„Neměj slitování s tímto zavrženíhodným ubožákem. Ten proklatec by mohl jednoho dne vyrůst v Démonického pána.“
-  
-— Chaotický emirikol
-  
-
-</Card>
+> „Neměj slitování s tímto zavrženíhodným ubožákem. Ten proklatec by mohl jednoho dne vyrůst v Démonického pána.“
+>  
+> — Chaotický emirikol
 
 <Monster 
     title="Stal"
