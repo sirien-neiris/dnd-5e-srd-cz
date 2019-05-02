@@ -1,14 +1,8 @@
 # Azer
 
-<Card header="">
-
-
-„Dejte mi sto azerských otroků a vybuduji říši, před kterou se budou třást i bohové.“
-  
-— Arakses al-Saqar, ifrítí paša
-
-
-</Card>
+> „Dejte mi sto azerských otroků a vybuduji říši, před kterou se budou třást i bohové.“
+>  
+> — Arakses al-Saqar, ifrítí paša
   
 Azeři jsou doma ve Sféře ohnivého živlu. Jsou mistrní řemeslníci a horníci a zapřísáhlí nepřátelé ifrítů. Azer svým vzhledem a způsoby připomíná trpaslíka, ale to je jen zdání. Pod jeho kovově vypadající kůží jde o bytost ohně, která se navenek projevuje svými ohnivými vlasy a vousy.
   
