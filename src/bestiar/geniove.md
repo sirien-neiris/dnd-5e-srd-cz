@@ -80,15 +80,9 @@ Humanoidi jsou mezi nejnižšími z tvorů, jež maridé musí tolerovat, i 
   
 ***Rozmarní vypravěči.*** Maridi jsou prvotřídní vypravěči, jejichž oblíbené legendy zdůrazňují dovednost maridů obecně a zejména řečníka. Tito géniové jsou nadaní představivostí a lžou často a nápaditě. Nejde jim vždy o to záludně klamat, ale přikrášlují svou fantazii. Maridi považují za zločin přerušení jejich vyprávění příběhu nižší bytostí. A urazit marida je jistý způsob, jak vyvolat jeho hněv.
 
-<Card header="">
-
-
-„Vítejte ve Velkém chmurném závrtu, drahokamu Vnitřních sfér. Nyní jste otroky mocné a milosrdné Khatuny Zafary al‘Yily jin Zarainy, Královny Zastřených hlubin, biskupky Diamantové katedrály, Ochránkyně Malachitového žezla a tak dále a tak dále.“
-  
-— Standardní uvítání chrliče-majordoma
-
-
-</Card>
+> „Vítejte ve Velkém chmurném závrtu, drahokamu Vnitřních sfér. Nyní jste otroky mocné a milosrdné Khatuny Zafary al‘Yily jin Zarainy, Královny Zastřených hlubin, biskupky Diamantové katedrály, Ochránkyně Malachitového žezla a tak dále a tak dále.“
+>   
+> — Standardní uvítání chrliče-majordoma
 
 <Monster 
     title="Dao"
@@ -188,15 +182,9 @@ Tvor může použít svou akci k osvobození tvora zadrženého vzdušným ví
 
 </Monster>
  
-<Card header="">
-
-
-„Vojska Velkého sultána jsou zesílena legiemi ďáblů, jeho palác je střežen kouzly tisíců arcimágů, jeho poklady hlídají rudí draci a ohniví elementálové. Nikdo nevyloupil ifrítovy pokladnice a žil přitom dost dlouho, aby o tom vyprávěl. Milostí tisíce větrů, vy byste mohli být první.“
-  
-— Džin vábící dobrodruhy, aby osvobodili jeho kalifa z magické lampy v Uhelném paláci Mosazného města
-
-
-</Card>
+> „Vojska Velkého sultána jsou zesílena legiemi ďáblů, jeho palác je střežen kouzly tisíců arcimágů, jeho poklady hlídají rudí draci a ohniví elementálové. Nikdo nevyloupil ifrítovy pokladnice a žil přitom dost dlouho, aby o tom vyprávěl. Milostí tisíce větrů, vy byste mohli být první.“
+>   
+> — Džin vábící dobrodruhy, aby osvobodili jeho kalifa z magické lampy v Uhelném paláci Mosazného města
 
 <Monster 
     title="Ifrít"
@@ -237,17 +225,9 @@ Libovolně: *najdi magii*
  
 </Monster>
  
-<Card header="">
-
-
-„Marid vytekl z lahvice jako voda a pravil: ‚Tvé přání je mi rozkazem.‘ Přešťastný hobit si přál nesmrtelnost, tak ho marid přeměnil v rybu, která sebou legračně mrskala, až nakonec lekla. Je to varovný příběh, který přetrval věky, takže se domnívám, že se tomu hobitovi jeho přání splnilo.“
-  
-— Kesto Jasnoočko, gnómský majitel 
-Roztrženého závoje, 
-knihkupectví v Sigilu
-
-
-</Card>
+> „Marid vytekl z lahvice jako voda a pravil: ‚Tvé přání je mi rozkazem.‘ Přešťastný hobit si přál nesmrtelnost, tak ho marid přeměnil v rybu, která sebou legračně mrskala, až nakonec lekla. Je to varovný příběh, který přetrval věky, takže se domnívám, že se tomu hobitovi jeho přání splnilo.“
+>  
+> — Kesto Jasnoočko, gnómský majitel Roztrženého závoje, knihkupectví v Sigilu
 
 <Monster 
     title="Marid"
