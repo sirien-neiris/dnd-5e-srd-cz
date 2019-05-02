@@ -56,16 +56,9 @@ Drowové často nosí magické zbroje a magické zbraně, které trvale ztrác
 
 </Card>
 
-<Card header="">
-
-  
-„Taková zvrhlost. Tak děsivá krutost. Jsou odporným jedem, který zamořuje celé elfí plemeno.“
-  
-— Nelar Dobrojeseň, 
-elfí klerik Corellona Laretina
-
-
-</Card>
+> „Taková zvrhlost. Tak děsivá krutost. Jsou odporným jedem, který zamořuje celé elfí plemeno.“
+>  
+> — Nelar Dobrojeseň, elfí klerik Corellona Laretina
 
 <Monster 
     title="Drow"
@@ -211,7 +204,7 @@ Triky (libovolně): *boží dohled*, *divotvorství*, *jedovatá sprška*, *odol
     int="17 (+3)"
     wis="13 (+1)"
     cha="12 (+1)"
-    skills="Klamání +5, Mystika +6, Nenápadnost +5, Vnímání +4
+    skills="Klamání +5, Mystika +6, Nenápadnost +5, Vnímání +4"
     senses="vidění ve tmě 24 sáhů, pasivní Vnímání 14"
     languages="elfština, temnobecná řeč"
     challenge="7 (2 900 ZK)"
