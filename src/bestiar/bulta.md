@@ -21,7 +21,7 @@ Všichni tvorové se vyhýbají bultům, kteří všechno, co se hýbe, považuj
     str="19 (+4)"
     dex="11 (+0)"
     con="21 (+5)"
-    int="2 (-2)"
+    int="2 (-4)"
     wis="10 (+0)"
     cha="5 (-3)"
     skills="Vnímání +6"
