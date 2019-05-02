@@ -40,7 +40,7 @@ Rosolová krychle je téměř průhledná, takže je těžké si jí všimnout, 
   
 Šedý sliz, který žije dlouho, se může vyvinout v inteligentnějšího a rozvinout u sebe omezenou psychickou schopnost. Takové výskyty jsou častější u šedých slizů, kteří žijí poblíž psionických tvorů, například mozkožroutů, což značí, že sliz může vnímat a napodobovat psionickou schopnost.
   
-***Psychické drcení*** ***(obnovení 5 – 6)***. Sliz zacílí jednoho tvora, kterého vnímá do 12 sáhů od sebe. Cíl si musí hodit záchranný hod na Inteligenci se SO 10. Když neuspěje, utrpí psychické zranění 10 (3k6), nebo poloviční zranění při úspěšném záchranném hodu.
+***Psychické drcení (obnovení 5 – 6)***. Sliz zacílí jednoho tvora, kterého vnímá do 12 sáhů od sebe. Cíl si musí hodit záchranný hod na Inteligenci se SO 10. Když neuspěje, utrpí psychické zranění 10 (3k6), nebo poloviční zranění při úspěšném záchranném hodu.
   
 </Card>  
 
