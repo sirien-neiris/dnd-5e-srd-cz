@@ -12,16 +12,10 @@ Požírání psionické energie odhaluje myšlenky a emoce tvorů, ze kterých
   
 ***Flampská společnost.*** Flampové žijí v komplexních a organizovaných skupinách zvaných abity, v nichž každý flamp má své místo a účel. Tato harmonická uskupení nepotřebují vůdce, protože všichni flampové přispívají svým vlastním způsobem.
 
-<Card header="">
-
-
-„Věř flampovi.“
+> „Věř flampovi.“
+>  
+> — 1. pravidlo přežití v jeskyni Mystika X
   
-— 1. pravidlo přežití v jeskyni Mystika X
-  
-
-</Card>
-
 <Monster 
     title="Flamp"
     subtitle="Malá zrůda, zákonné dobro"
