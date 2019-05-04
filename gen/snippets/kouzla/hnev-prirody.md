@@ -1,4 +1,4 @@
-### Hněv přírody
+# Hněv přírody
 
 *Wrath of nature*
 

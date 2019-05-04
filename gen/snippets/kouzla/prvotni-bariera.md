@@ -1,4 +1,4 @@
-### Prvotní bariéra
+# Prvotní bariéra
 
 *Primordial ward*
 

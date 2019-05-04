@@ -1,4 +1,4 @@
-### Mocný hrad
+# Mocný hrad
 
 *Mighty fortress*
 

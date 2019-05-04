@@ -1,4 +1,4 @@
-### Úder ocelového vichru
+# Úder ocelového vichru
 
 *Steel wind strike*
 

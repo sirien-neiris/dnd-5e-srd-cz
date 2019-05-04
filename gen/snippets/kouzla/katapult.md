@@ -1,4 +1,4 @@
-### Katapult
+# Katapult
 
 *Catapult*
 

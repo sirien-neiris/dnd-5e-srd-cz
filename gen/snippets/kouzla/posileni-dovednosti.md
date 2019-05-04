@@ -1,4 +1,4 @@
-### Posílení dovednosti
+# Posílení dovednosti
 
 *Skill empowerment*
 

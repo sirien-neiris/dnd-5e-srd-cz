@@ -1,4 +1,4 @@
-### Telepatický výkřik
+# Telepatický výkřik
 
 *Psycic scream*
 

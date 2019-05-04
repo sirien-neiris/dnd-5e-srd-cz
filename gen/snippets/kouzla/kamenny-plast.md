@@ -1,4 +1,4 @@
-### Kamenný plášť
+# Kamenný plášť
 
 *Investiture of stone*
 

@@ -1,4 +1,4 @@
-### Chaotický blesk
+# Chaotický blesk
 
 *Chaos bolt*
 

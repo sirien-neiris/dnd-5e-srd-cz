@@ -1,4 +1,4 @@
-### Jedovatá koule
+# Jedovatá koule
 
 *Vitriolic sphere*
 

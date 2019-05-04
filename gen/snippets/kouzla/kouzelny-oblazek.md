@@ -1,4 +1,4 @@
-### Kouzelný oblázek
+# Kouzelný oblázek
 
 *Magic stone*
 

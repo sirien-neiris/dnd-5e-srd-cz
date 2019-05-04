@@ -1,4 +1,4 @@
-### Synaptický šum
+# Synaptický šum
 
 *Synaptic static*
 

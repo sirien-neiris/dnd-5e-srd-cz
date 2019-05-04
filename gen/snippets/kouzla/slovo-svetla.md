@@ -1,4 +1,4 @@
-### Slovo světla
+# Slovo světla
 
 *Word of radiance*
 

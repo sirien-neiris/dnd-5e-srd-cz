@@ -1,4 +1,4 @@
-### Slovo moci „bolest"
+# Slovo moci „bolest"
 
 *Powe word pain*
 

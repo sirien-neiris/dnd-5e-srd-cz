@@ -1,4 +1,4 @@
-### Smyčka
+# Smyčka
 
 *Snare*
 

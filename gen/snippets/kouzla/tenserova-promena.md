@@ -1,4 +1,4 @@
-### Tenserova proměna
+# Tenserova proměna
 
 *Tenser's transformation*
 

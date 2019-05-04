@@ -1,4 +1,4 @@
-### Hromadná proměna
+# Hromadná proměna
 
 *Mass polymorph*
 

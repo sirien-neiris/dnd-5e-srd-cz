@@ -1,4 +1,4 @@
-### Svěcená zbraň
+# Svěcená zbraň
 
 *Holy weapon*
 

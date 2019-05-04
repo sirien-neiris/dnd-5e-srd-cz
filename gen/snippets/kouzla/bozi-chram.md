@@ -1,4 +1,4 @@
-### Boží chrám
+# Boží chrám
 
 *Temple of the gods*
 

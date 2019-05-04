@@ -1,4 +1,4 @@
-### Tanec mrtvých
+# Tanec mrtvých
 
 *Dance macabre*
 

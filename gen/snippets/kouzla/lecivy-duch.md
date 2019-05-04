@@ -1,4 +1,4 @@
-### Léčivý duch
+# Léčivý duch
 
 *Healing spirit*
 

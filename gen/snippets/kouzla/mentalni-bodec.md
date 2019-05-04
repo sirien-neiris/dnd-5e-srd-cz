@@ -1,4 +1,4 @@
-### Mentální bodec
+# Mentální bodec
 
 *Mind spike*
 

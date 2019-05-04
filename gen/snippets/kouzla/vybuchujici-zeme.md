@@ -1,4 +1,4 @@
-### Vybuchující země
+# Vybuchující země
 
 *Erupting earth*
 
