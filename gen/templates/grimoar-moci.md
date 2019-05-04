@@ -145,9 +145,6 @@ snippet-kouzla:dobruvka
 
 ### F
 
-
-### F
-
 snippet-kouzla:falesny-zivot
 
 
