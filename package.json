@@ -12,7 +12,7 @@
   },
   "scripts": {
     "srd:dev": "vuepress dev src --host 0.0.0.0",
-    "srd:build": "vuepress build src",
+    "srd:build": "yarn srd:gen grimoar-jmen; yarn srd:gen grimoar-moci;yarn srd:gen soupis-carodej; vuepress build src",
     "srd:gen": "node tools/gen.js",
     "srd:card": "node tools/oldCardRemover.js",
     "srd:menu": "node tools/menu.js"
