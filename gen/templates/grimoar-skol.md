@@ -9,6 +9,14 @@ snippet-kouzla:drobna-iluze
 
 ### 1. úroveň
 
+snippet-kouzla:barevna-sprska
+
+snippet-kouzla:iluzorni-text
+
+snippet-kouzla:prestrojeni
+
+snippet-kouzla:tichy-obraz
+
 ### 2. úroveň
 
 ### 3. úroveň
@@ -39,6 +47,14 @@ snippet-kouzla:usetri-umirajiciho
 
 ### 1. úroveň
 
+snippet-kouzla:falesny-zivot
+
+snippet-kouzla:paprsek-otraveni
+
+snippet-kouzla:vystras
+
+snippet-kouzla:zpusob-zraneni
+
 ### 2. úroveň
 
 ### 3. úroveň
@@ -66,6 +82,26 @@ snippet-kouzla:pratele
 snippet-kouzla:zlomyslny-vysmech
 
 ### 1. úroveň
+
+snippet-kouzla:hrdinstvi
+
+snippet-kouzla:kletba
+
+snippet-kouzla:nelibozvucny-sepot
+
+snippet-kouzla:pozehnani
+
+snippet-kouzla:pratelstvi-zvirat
+
+snippet-kouzla:rozkaz
+
+snippet-kouzla:spanek
+
+snippet-kouzla:tasin-desivy-smich
+
+snippet-kouzla:zhouba
+
+snippet-kouzla:zmam-osobu
 
 ### 2. úroveň
 
@@ -115,6 +151,22 @@ snippet-kouzla:zprava
 
 ### 1. úroveň
 
+snippet-kouzla:dobruvka
+
+snippet-kouzla:katapult
+
+snippet-kouzla:ocisti-jidlo-a-piti
+
+snippet-kouzla:pomaly-pad
+
+snippet-kouzla:skok
+
+snippet-kouzla:spesny-ustup
+
+snippet-kouzla:stvor-nebo-znic-vodu
+
+snippet-kouzla:zefyruv-uder
+
 ### 2. úroveň
 
 ### 3. úroveň
@@ -143,6 +195,22 @@ snippet-kouzla:presny-uder
 
 ### 1. úroveň
 
+snippet-kouzla:lovcova-korist
+
+snippet-kouzla:mluv-se-zviraty
+
+snippet-kouzla:najdi-jed-a-nemoc
+
+snippet-kouzla:najdi-magii
+
+snippet-kouzla:najdi-zlo-a-dobro
+
+snippet-kouzla:porozumeni-jazykum
+
+snippet-kouzla:urceni
+
+snippet-kouzla:zvireci-pouto
+
 ### 2. úroveň
 
 ### 3. úroveň
@@ -170,6 +238,26 @@ snippet-kouzla:odolani
 snippet-kouzla:znameni-proti-cepelim
 
 ### 1. úroveň
+
+snippet-kouzla:azyl
+
+snippet-kouzla:magova-zbroj
+
+snippet-kouzla:obrad
+
+snippet-kouzla:odolej-zivlum
+
+snippet-kouzla:ochrana-pred-zlem-a-dobrem
+
+snippet-kouzla:poplach
+
+snippet-kouzla:smycka
+
+snippet-kouzla:stit
+
+snippet-kouzla:stit-viry
+
+snippet-kouzla:zbroj-agathysu
 
 ### 2. úroveň
 
@@ -206,6 +294,26 @@ snippet-kouzla:stvor-taborak
 snippet-kouzla:zamoreni
 
 ### 1. úroveň
+
+snippet-kouzla:hadarovy-paze
+
+snippet-kouzla:krupobiti-trnu
+
+snippet-kouzla:ledovy-nuz
+
+snippet-kouzla:najdi-pritelicka
+
+snippet-kouzla:neviditelny-sluzebnik
+
+snippet-kouzla:odolej-zivlum
+
+snippet-kouzla:polapujici-uder
+
+snippet-kouzla:sadlo
+
+snippet-kouzla:tenseruv-levitujici-disk
+
+snippet-kouzla:zapleteni
 
 ### 2. úroveň
 
@@ -250,6 +358,40 @@ snippet-kouzla:tancici-svetla
 snippet-kouzla:zahrmeni
 
 ### 1. úroveň
+
+snippet-kouzla:barevna-koule
+
+snippet-kouzla:carodejnicky-blesk
+
+snippet-kouzla:horici-ruce
+
+snippet-kouzla:hromova-vlna
+
+snippet-kouzla:hromovy-uder
+
+snippet-kouzla:chaoticky-blesk
+
+snippet-kouzla:lecive-slovo
+
+snippet-kouzla:magicka-strela
+
+snippet-kouzla:navadeci-blesk
+
+snippet-kouzla:pekelne-pokarani
+
+snippet-kouzla:prizen-bohu
+
+snippet-kouzla:spalujici-uder
+
+snippet-kouzla:uder-zloby
+
+snippet-kouzla:vili-ohen
+
+snippet-kouzla:vynuceny-duel
+
+snippet-kouzla:zatres-zemi
+
+snippet-kouzla:zhoj-zraneni
 
 ### 2. úroveň
 
